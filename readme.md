@@ -1,6 +1,6 @@
-# TechiDaily
+# Screen Activity Recording Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://screen-activity-recording.techidaily.com](https://screen-activity-recording.techidaily.com)
 
 ## Publish
 
