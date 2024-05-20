@@ -548,3 +548,4 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xr-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XR Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
 
+

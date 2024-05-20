@@ -1,7 +1,7 @@
 ---
 title: "Optimizing OBS Video Compression for 2024"
-date: 2024-05-18T11:19:33.135Z
-updated: 2024-05-19T11:19:33.135Z
+date: 2024-05-19T23:01:17.357Z
+updated: 2024-05-20T23:01:17.357Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-the-art-of-timbre-control-lowering-song-intensity-preserving-pitch-integrity/"><u>2024 Approved The Art of Timbre Control Lowering Song Intensity Preserving Pitch Integrity</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-google-pixel-7a-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Google Pixel 7a? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -265,3 +265,4 @@ There is no doubt that taking a timelapse video with iPhone is a cakewalk Howeve
 <li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Xiaomi Redmi K70 Pro</u></a></li>
 </ul></div>
 
+

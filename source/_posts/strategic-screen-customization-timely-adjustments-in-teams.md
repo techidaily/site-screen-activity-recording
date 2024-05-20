@@ -750,3 +750,4 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/a-guide-itel-p40plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel P40+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

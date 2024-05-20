@@ -521,3 +521,4 @@ Regardless of your platform, you might still want to utilize an audio editing ap
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
 </ul></div>
 
+

@@ -640,3 +640,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-hd-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 HD to Another | Dr.fone</u></a></li>
 </ul></div>
 
+

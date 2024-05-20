@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to Understanding OBS Screen Capture"
-date: 2024-05-18T11:28:15.284Z
-updated: 2024-05-19T11:28:15.284Z
+date: 2024-05-19T23:01:39.868Z
+updated: 2024-05-20T23:01:39.868Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Play 7T? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-gt-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 90 GT Photos  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 

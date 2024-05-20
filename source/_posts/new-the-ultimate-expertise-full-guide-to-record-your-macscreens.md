@@ -1148,3 +1148,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-a-text-effect-video-with-filmora/"><u>Updated 2024 Approved How to Create a Text Effect Video with Filmora</u></a></li>
 </ul></div>
 
+

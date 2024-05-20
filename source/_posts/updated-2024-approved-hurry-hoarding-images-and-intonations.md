@@ -469,3 +469,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-shoot-cinematic-footage-from-a-smartphone/"><u>2024 Approved How to Shoot Cinematic Footage From a Smartphone</u></a></li>
 </ul></div>
 
+

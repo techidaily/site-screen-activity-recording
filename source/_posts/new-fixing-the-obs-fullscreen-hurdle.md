@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing the OBS Fullscreen Hurdle"
-date: 2024-05-18T11:29:04.561Z
-updated: 2024-05-19T11:29:04.561Z
+date: 2024-05-19T23:01:41.776Z
+updated: 2024-05-20T23:01:41.776Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s17e-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S17e Phones with/without a PC</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Reducing Excessive Encoding (OBS Broadcast)"
-date: 2024-05-18T11:36:04.955Z
-updated: 2024-05-19T11:36:04.955Z
+date: 2024-05-19T23:02:00.440Z
+updated: 2024-05-20T23:02:00.440Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-8-invaluable-sound-effects-from-the-gaming-realm/"><u>New The Ultimate Guide to 8 Invaluable Sound Effects From the Gaming Realm</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-lossless-conversion-expert-advice-for-video-to-mp3-transcoding/"><u>Updated In 2024, Lossless Conversion Expert Advice for Video to MP3 Transcoding</u></a></li>
 </ul></div>
+
 

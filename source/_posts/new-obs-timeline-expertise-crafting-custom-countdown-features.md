@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Obs Timeline Expertise  Crafting Custom Countdown Features\""
-date: 2024-05-18T11:20:04.029Z
-updated: 2024-05-19T11:20:04.029Z
+date: 2024-05-19T23:01:18.802Z
+updated: 2024-05-20T23:01:18.802Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-f25-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo F25 Pro 5G Phones? | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content-for-2024/"><u>New Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content for 2024</u></a></li>
 </ul></div>
+
 

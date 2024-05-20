@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickCapture Lite  Basic Chromecasting Tool for 2024\""
-date: 2024-05-18T11:37:29.669Z
-updated: 2024-05-19T11:37:29.669Z
+date: 2024-05-19T23:02:03.465Z
+updated: 2024-05-20T23:02:03.465Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 <li><a href="https://fix-guide.techidaily.com/oneplus-11-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-avoid-conversion-headaches-5-tips-for-choosing-the-right-video-to-audio-converter-for-2024/"><u>New Avoid Conversion Headaches 5 Tips for Choosing the Right Video to Audio Converter for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Avoiding Obscured Games  Fixes for OBS Black Screen Issues\""
-date: 2024-05-18T11:23:52.982Z
-updated: 2024-05-19T11:23:52.982Z
+date: 2024-05-19T23:01:29.191Z
+updated: 2024-05-20T23:01:29.191Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-red-magic-8s-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Red Magic 8S Pro on Mac</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-windows-enthusiasts-guide-to-premium-free-audio-editing-applications/"><u>2024 Approved Windows Enthusiasts Guide to Premium Free Audio Editing Applications</u></a></li>
 </ul></div>
+
 

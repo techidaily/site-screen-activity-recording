@@ -432,3 +432,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-make-a-gif-in-photoshop/"><u>2024 Approved How to Make a GIF in Photoshop</u></a></li>
 </ul></div>
 
+

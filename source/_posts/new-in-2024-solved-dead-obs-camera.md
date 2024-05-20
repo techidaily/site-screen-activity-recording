@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Solved  Dead OBS Camera\""
-date: 2024-05-18T11:12:16.159Z
-updated: 2024-05-19T11:12:16.159Z
+date: 2024-05-19T23:00:59.460Z
+updated: 2024-05-20T23:00:59.460Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-a18-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo A18? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

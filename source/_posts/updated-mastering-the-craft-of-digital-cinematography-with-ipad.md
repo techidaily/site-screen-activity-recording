@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Craft of Digital Cinematography with iPad"
-date: 2024-05-18T11:34:27.096Z
-updated: 2024-05-19T11:34:27.096Z
+date: 2024-05-19T23:01:56.457Z
+updated: 2024-05-20T23:01:56.457Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ There is no doubt that taking a timelapse video with iPhone is a cakewalk Howeve
 <li><a href="https://video-creation-software.techidaily.com/new-top-6-free-online-video-mergers/"><u>New Top 6 Free Online Video Mergers</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100 phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

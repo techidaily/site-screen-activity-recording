@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unveiling the Secrets of OBS Game Capture"
-date: 2024-05-18T11:24:38.262Z
-updated: 2024-05-19T11:24:38.262Z
+date: 2024-05-19T23:01:30.974Z
+updated: 2024-05-20T23:01:30.974Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-a2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi A2 Phone? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-gaming-intro-creators-for-windows-and-mac-free-and-premium-options/"><u>Updated 2024 Approved Best Gaming Intro Creators for Windows and Mac Free and Premium Options</u></a></li>
 </ul></div>
+
 

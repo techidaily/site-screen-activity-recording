@@ -432,3 +432,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-13c-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi 13C to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

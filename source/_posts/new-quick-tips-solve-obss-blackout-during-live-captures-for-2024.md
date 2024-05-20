@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Tips  Solve OBS's Blackout During Live Captures for 2024\""
-date: 2024-05-18T11:12:15.886Z
-updated: 2024-05-19T11:12:15.886Z
+date: 2024-05-19T23:00:59.452Z
+updated: 2024-05-20T23:00:59.452Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-achieve-professional-voice-recordings-with-your-mac-an-intuitive-step-by-step-guide/"><u>New In 2024, Achieve Professional Voice Recordings with Your Mac – An Intuitive, Step-by-Step Guide</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 Pro in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

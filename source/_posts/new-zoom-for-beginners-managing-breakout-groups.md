@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Zoom for Beginners  Managing Breakout Groups\""
-date: 2024-05-18T11:16:39.747Z
-updated: 2024-05-19T11:16:39.747Z
+date: 2024-05-19T23:01:10.358Z
+updated: 2024-05-20T23:01:10.358Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Screen Record Wizard for Win11 Enthusiasts"
-date: 2024-05-18T11:28:19.626Z
-updated: 2024-05-19T11:28:19.626Z
+date: 2024-05-19T23:01:40.053Z
+updated: 2024-05-20T23:01:40.053Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://ai-editing-video.techidaily.com/updated-step-by-step-to-rotate-videos-using-obs/"><u>Updated Step by Step to Rotate Videos Using OBS</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo S18 Pro FRP Bypass</u></a></li>
 </ul></div>
+
 

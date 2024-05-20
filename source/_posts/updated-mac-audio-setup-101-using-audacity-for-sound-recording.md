@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mac Audio Setup 101 - Using Audacity for Sound Recording\""
-date: 2024-05-18T11:12:22.912Z
-updated: 2024-05-19T11:12:22.912Z
+date: 2024-05-19T23:00:59.698Z
+updated: 2024-05-20T23:00:59.698Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 

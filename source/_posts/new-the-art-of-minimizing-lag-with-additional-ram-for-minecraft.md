@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Minimizing Lag with Additional RAM for Minecraft"
-date: 2024-05-18T11:37:54.284Z
-updated: 2024-05-19T11:37:54.284Z
+date: 2024-05-19T23:02:04.720Z
+updated: 2024-05-20T23:02:04.720Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X9a? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/avi-video-editing-made-easy-top-tools-for-trimming-and-cutting-for-2024/"><u>AVI Video Editing Made Easy Top Tools for Trimming and Cutting for 2024</u></a></li>
 </ul></div>
+
 

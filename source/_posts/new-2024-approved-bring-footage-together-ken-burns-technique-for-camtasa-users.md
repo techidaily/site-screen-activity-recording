@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-05-18T11:27:50.650Z
-updated: 2024-05-19T11:27:50.650Z
+date: 2024-05-19T23:01:39.045Z
+updated: 2024-05-20T23:01:39.045Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Poco M6 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-future-of-soundscape-engineering-navigating-through-film-and-video-to-uncover-audio/"><u>Updated In 2024, The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio</u></a></li>
 </ul></div>
+
 

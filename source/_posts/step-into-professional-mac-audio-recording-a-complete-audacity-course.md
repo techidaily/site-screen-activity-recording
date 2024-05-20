@@ -1,7 +1,7 @@
 ---
 title: "\"Step Into Professional Mac Audio Recording  A Complete Audacity Course\""
-date: 2024-05-18T11:18:47.349Z
-updated: 2024-05-19T11:18:47.349Z
+date: 2024-05-19T23:01:15.614Z
+updated: 2024-05-20T23:01:15.614Z
 tags: 
   - screen-recording
   - ai video
@@ -304,4 +304,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-widescreen-to-square-the-effect-of-aspect-ratio-on-youtube-viewership/"><u>Updated In 2024, From Widescreen to Square The Effect of Aspect Ratio on YouTube Viewership</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Correcting Excessive Encoding in OBS"
-date: 2024-05-18T11:18:46.528Z
-updated: 2024-05-19T11:18:46.528Z
+date: 2024-05-19T23:01:15.586Z
+updated: 2024-05-20T23:01:15.586Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-discover-the-best-online-video-rotators-for-your-brand/"><u>Updated In 2024, Discover the Best Online Video Rotators for Your Brand</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-use-frame-blending-in-premiere-pro/"><u>2024 Approved How to Use Frame Blending in Premiere Pro</u></a></li>
 </ul></div>
+
 

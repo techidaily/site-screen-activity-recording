@@ -1,7 +1,7 @@
 ---
 title: "[New] FireCapture Plugins for Firefox for 2024"
-date: 2024-05-18T11:14:44.611Z
-updated: 2024-05-19T11:14:44.611Z
+date: 2024-05-19T23:01:05.617Z
+updated: 2024-05-20T23:01:05.617Z
 tags: 
   - screen-recording
   - ai video
@@ -689,4 +689,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://smart-video-creator.techidaily.com/new-unlock-fcpx-potential-10-must-have-plugins-for-2024/"><u>New Unlock FCPX Potential 10 Must-Have Plugins for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>Updated Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
 </ul></div>
+
 

@@ -343,3 +343,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-video-apps.techidaily.com/new-switching-between-aspect-ratios-in-final-cut-pro-made-easy/"><u>New Switching Between Aspect Ratios in Final Cut Pro Made Easy</u></a></li>
 </ul></div>
 
+

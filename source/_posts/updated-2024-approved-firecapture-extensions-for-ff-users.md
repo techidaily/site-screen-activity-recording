@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  FireCapture Extensions for FF Users\""
-date: 2024-05-18T11:28:08.238Z
-updated: 2024-05-19T11:28:08.238Z
+date: 2024-05-19T23:01:39.618Z
+updated: 2024-05-20T23:01:39.618Z
 tags: 
   - screen-recording
   - ai video
@@ -660,4 +660,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nubia-red-magic-9-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nubia Red Magic 9 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 15 without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

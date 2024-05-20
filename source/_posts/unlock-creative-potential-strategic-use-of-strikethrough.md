@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Creative Potential  Strategic Use of Strikethrough\""
-date: 2024-05-18T11:12:38.113Z
-updated: 2024-05-19T11:12:38.113Z
+date: 2024-05-19T23:01:00.257Z
+updated: 2024-05-20T23:01:00.257Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-4k-video-collection-must-watch-clips/"><u>Updated The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
 </ul></div>
+
 

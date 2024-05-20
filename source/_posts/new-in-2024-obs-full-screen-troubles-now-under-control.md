@@ -297,3 +297,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-visual-storytelling-using-freeze-frames-and-slow-motion-for-impact/"><u>Updated 2024 Approved FCPX Visual Storytelling Using Freeze Frames and Slow Motion for Impact</u></a></li>
 </ul></div>
 
+

@@ -747,3 +747,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://audio-shaping.techidaily.com/updated-a-guide-to-the-10-leading-pc-applications-for-effortless-voice-recording/"><u>Updated A Guide to the 10 Leading PC Applications for Effortless Voice Recording</u></a></li>
 </ul></div>
 
+

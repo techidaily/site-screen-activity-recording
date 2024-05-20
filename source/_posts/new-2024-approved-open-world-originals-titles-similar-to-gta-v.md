@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Open World Originals  Titles Similar To GTA V\""
-date: 2024-05-18T11:25:04.967Z
-updated: 2024-05-19T11:25:04.967Z
+date: 2024-05-19T23:01:31.891Z
+updated: 2024-05-20T23:01:31.891Z
 tags: 
   - screen-recording
   - ai video
@@ -888,4 +888,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-video-editors-handbook-download-and-learn/"><u>In 2024, The Ultimate Video Editors Handbook Download and Learn</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-game-top-windows-11-video-editing-software/"><u>Updated In 2024, Elevate Your Video Game Top Windows 11 Video Editing Software</u></a></li>
 </ul></div>
+
 

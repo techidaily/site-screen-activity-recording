@@ -559,3 +559,4 @@ If you are thinking about uploading your gameplay on online platforms, you have 
 <li><a href="https://ai-editing-video.techidaily.com/learn-how-to-blur-the-background-in-adobe-premiere-pro-with-our-quick-and-simple-step-by-step-instructions-to-make-your-subject-more-attention-grabbing/"><u>Learn How to Blur the Background in Adobe Premiere Pro with Our Quick and Simple Step-by-Step Instructions to Make Your Subject More Attention-Grabbing</u></a></li>
 </ul></div>
 
+

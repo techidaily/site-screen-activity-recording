@@ -1,7 +1,7 @@
 ---
 title: "\"Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide\""
-date: 2024-05-18T11:14:35.885Z
-updated: 2024-05-19T11:14:35.885Z
+date: 2024-05-19T23:01:05.249Z
+updated: 2024-05-20T23:01:05.249Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-break-free-from-q-for-2024/"><u>New Break Free From Q for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-10-essential-tools-for-resizing-videos/"><u>New 2024 Approved 10 Essential Tools for Resizing Videos</u></a></li>
 </ul></div>
+
 

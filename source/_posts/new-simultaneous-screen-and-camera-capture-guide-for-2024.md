@@ -1,7 +1,7 @@
 ---
 title: "[New] Simultaneous Screen & Camera Capture Guide for 2024"
-date: 2024-05-18T11:24:49.681Z
-updated: 2024-05-19T11:24:49.681Z
+date: 2024-05-19T23:01:31.371Z
+updated: 2024-05-20T23:01:31.371Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y100a-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y100A Phone</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

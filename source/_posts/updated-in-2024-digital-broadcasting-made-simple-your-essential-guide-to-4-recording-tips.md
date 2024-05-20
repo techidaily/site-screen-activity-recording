@@ -479,3 +479,4 @@ You may record anything using the same method. As a result, we've also addressed
 <li><a href="https://audio-shaping.techidaily.com/the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
 </ul></div>
 
+

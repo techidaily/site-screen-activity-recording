@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring 8 Premium Open-Source Videoconferencing Platforms\""
-date: 2024-05-18T11:31:40.073Z
-updated: 2024-05-19T11:31:40.073Z
+date: 2024-05-19T23:01:48.381Z
+updated: 2024-05-20T23:01:48.381Z
 tags: 
   - screen-recording
   - ai video
@@ -718,4 +718,5 @@ Follow @Richard Bennett
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

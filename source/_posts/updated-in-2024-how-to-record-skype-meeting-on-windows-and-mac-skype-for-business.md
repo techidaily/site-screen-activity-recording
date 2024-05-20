@@ -612,3 +612,4 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-a2plus-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi A2+ has native MOV support?</u></a></li>
 </ul></div>
 
+

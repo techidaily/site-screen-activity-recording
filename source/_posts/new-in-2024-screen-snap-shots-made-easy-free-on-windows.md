@@ -535,3 +535,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-google-pixel-8-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Google Pixel 8 Pro without backup.</u></a></li>
 </ul></div>
 
+

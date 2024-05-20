@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio Explained  Capturing PS4 Playthroughs\""
-date: 2024-05-18T11:22:55.686Z
-updated: 2024-05-19T11:22:55.686Z
+date: 2024-05-19T23:01:26.401Z
+updated: 2024-05-20T23:01:26.401Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://video-content-creator.techidaily.com/say-goodbye-to-watermarks-best-online-tiktok-video-editors-for-2024/"><u>Say Goodbye to Watermarks Best Online TikTok Video Editors for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-can-you-import-and-adjust-the-video-clips-on-wondershare-filmora/"><u>New 2024 Approved How Can You Import and Adjust the Video Clips on Wondershare Filmora?</u></a></li>
 </ul></div>
+
 

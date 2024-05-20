@@ -867,3 +867,4 @@ While choosing the screen recorder, try to pick the one that can turn out best f
 <li><a href="https://techidaily.com/how-to-soft-reset-itel-a05s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A05s phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

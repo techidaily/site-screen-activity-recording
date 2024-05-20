@@ -595,3 +595,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-z-fold-5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy Z Fold 5 for Streaming | Dr.fone</u></a></li>
 </ul></div>
 
+

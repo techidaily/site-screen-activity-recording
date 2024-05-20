@@ -1997,3 +1997,4 @@ This is definitely easy. Almost all the screen recorders on the market are able 
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
 
+

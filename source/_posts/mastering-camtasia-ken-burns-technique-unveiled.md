@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T11:23:39.200Z
-updated: 2024-05-19T11:23:39.200Z
+date: 2024-05-19T23:01:28.331Z
+updated: 2024-05-20T23:01:28.331Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ Follow @Max Wales
 <li><a href="https://ai-video.techidaily.com/new-in-2024-top-9-choices-for-video-auto-translate/"><u>new In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-list-top-10-free-video-editing-software-for-linux-ubuntu/"><u>Updated 2024 Approved The Ultimate List Top 10 Free Video Editing Software for Linux Ubuntu</u></a></li>
 </ul></div>
+
 

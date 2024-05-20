@@ -512,3 +512,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-visual-storytelling-ken-burns-effect-in-final-cut-pro-explained/"><u>Updated The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained</u></a></li>
 </ul></div>
 
+

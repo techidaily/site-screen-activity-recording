@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Capture Directly on Instagram"
-date: 2024-05-18T11:28:03.910Z
-updated: 2024-05-19T11:28:03.910Z
+date: 2024-05-19T23:01:39.455Z
+updated: 2024-05-20T23:01:39.455Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-civi-3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Civi 3?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

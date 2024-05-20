@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Allocate More Ram to Minecraft"
-date: 2024-05-18T11:17:57.595Z
-updated: 2024-05-19T11:17:57.595Z
+date: 2024-05-19T23:01:13.393Z
+updated: 2024-05-20T23:01:13.393Z
 tags: 
   - screen-recording
   - ai video
@@ -587,4 +587,5 @@ Follow @Ollie Mattison
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-capturing-spoken-content-with-powerpoint-step-by-step-instructions-for-audio-integration-on-windows-and-mac-os-users/"><u>In 2024, Capturing Spoken Content with PowerPoint Step-by-Step Instructions for Audio Integration on Windows and Mac OS Users</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-your-videos-pop-with-music-top-mobile-editing-apps/"><u>Updated In 2024, Make Your Videos Pop with Music Top Mobile Editing Apps</u></a></li>
 </ul></div>
+
 

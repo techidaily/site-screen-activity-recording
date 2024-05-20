@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Selection of Ubuntu Screen Recording Apps for 2024"
-date: 2024-05-18T11:35:31.240Z
-updated: 2024-05-19T11:35:31.240Z
+date: 2024-05-19T23:01:59.211Z
+updated: 2024-05-20T23:01:59.211Z
 tags: 
   - screen-recording
   - ai video
@@ -688,4 +688,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

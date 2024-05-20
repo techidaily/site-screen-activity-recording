@@ -1279,3 +1279,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-reset-oppo-a56s-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A56s 5G Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

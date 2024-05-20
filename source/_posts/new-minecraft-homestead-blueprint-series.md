@@ -1,7 +1,7 @@
 ---
 title: "[New] Minecraft Homestead Blueprint Series"
-date: 2024-05-18T11:22:55.412Z
-updated: 2024-05-19T11:22:55.412Z
+date: 2024-05-19T23:01:26.387Z
+updated: 2024-05-20T23:01:26.387Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-create-chroma-key-written-text-effects-in-filmora/"><u>New 2024 Approved How to Create Chroma Key Written Text Effects in Filmora</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-fcpx-subtitle-tutorial-how-to-create-and-edit-captions/"><u>Updated In 2024, FCPX Subtitle Tutorial How to Create and Edit Captions</u></a></li>
 </ul></div>
+
 

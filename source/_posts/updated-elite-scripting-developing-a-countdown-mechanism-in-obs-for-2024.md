@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elite Scripting  Developing a Countdown Mechanism in OBS for 2024\""
-date: 2024-05-18T11:29:45.032Z
-updated: 2024-05-19T11:29:45.032Z
+date: 2024-05-19T23:01:43.415Z
+updated: 2024-05-20T23:01:43.415Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://audio-editing.techidaily.com/new-charting-out-the-leading-audio-reverse-programs-a-targeted-review-for-computers-and-phones/"><u>New Charting Out the Leading Audio Reverse Programs A Targeted Review for Computers & Phones</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-strategies-for-slowing-music-beats-while-preserving-harmonic-quality/"><u>Updated In 2024, Strategies for Slowing Music Beats While Preserving Harmonic Quality</u></a></li>
 </ul></div>
+
 

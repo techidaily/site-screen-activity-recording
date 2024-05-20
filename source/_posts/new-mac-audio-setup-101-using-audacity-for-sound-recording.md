@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mac Audio Setup 101 - Using Audacity for Sound Recording\""
-date: 2024-05-18T11:19:49.196Z
-updated: 2024-05-19T11:19:49.196Z
+date: 2024-05-19T23:01:17.900Z
+updated: 2024-05-20T23:01:17.900Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://sound-optimizing.techidaily.com/in-2024-pexelscom-uncovered-an-exploration-of-high-quality-copyright-friendly-images/"><u>In 2024, Pexels.com Uncovered An Exploration of High-Quality, Copyright-Friendly Images</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Live OBS Video on Instagram"
-date: 2024-05-18T11:37:43.215Z
-updated: 2024-05-19T11:37:43.215Z
+date: 2024-05-19T23:02:04.301Z
+updated: 2024-05-20T23:02:04.301Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-capturing-sounds-on-the-go-a-guide-to-free-audio-recording-with-audacity/"><u>Updated In 2024, Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/scaling-and-setting-videos-in-filmora-tutorial-for-2024/"><u>Scaling and Setting Videos in Filmora | Tutorial for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capture Gaming Sessions in HD - Using OBS\""
-date: 2024-05-18T11:33:19.731Z
-updated: 2024-05-19T11:33:19.731Z
+date: 2024-05-19T23:01:52.664Z
+updated: 2024-05-20T23:01:52.664Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix Phone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-11-pro-max-5-ways-to-get-into-a-locked-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

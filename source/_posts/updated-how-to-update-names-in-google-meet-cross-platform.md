@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Update Names in Google Meet - Cross Platform\""
-date: 2024-05-18T11:30:23.146Z
-updated: 2024-05-19T11:30:23.146Z
+date: 2024-05-19T23:01:45.240Z
+updated: 2024-05-20T23:01:45.240Z
 tags: 
   - screen-recording
   - ai video
@@ -549,4 +549,5 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-6s-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 6s to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/become-an-mp3-aficionado-expert-techniques-for-audio-editing-perfection-for-2024/"><u>Become an MP3 Aficionado Expert Techniques for Audio Editing Perfection for 2024</u></a></li>
 </ul></div>
+
 

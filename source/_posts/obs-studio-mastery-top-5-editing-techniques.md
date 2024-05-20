@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Studio Mastery  Top 5 Editing Techniques\""
-date: 2024-05-18T11:15:30.879Z
-updated: 2024-05-19T11:15:30.879Z
+date: 2024-05-19T23:01:07.365Z
+updated: 2024-05-20T23:01:07.365Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 Location Settings | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-revolutionize-your-editing-10-free-fcpx-plugin-must-haves/"><u>2024 Approved Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves</u></a></li>
 </ul></div>
+
 

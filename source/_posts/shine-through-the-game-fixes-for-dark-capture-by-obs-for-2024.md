@@ -1,7 +1,7 @@
 ---
 title: "\"Shine Through the Game  Fixes for Dark Capture by OBS for 2024\""
-date: 2024-05-18T11:12:11.057Z
-updated: 2024-05-19T11:12:11.057Z
+date: 2024-05-19T23:00:59.278Z
+updated: 2024-05-20T23:00:59.278Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-determine-and-optimize-image-proportions/"><u>Updated 2024 Approved Determine and Optimize Image Proportions</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-razr-40-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Razr 40 Ultra without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

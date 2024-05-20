@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Complete Guide for Setting Up and Managing Regular Meetings on Google for 2024"
-date: 2024-05-18T11:28:11.758Z
-updated: 2024-05-19T11:28:11.758Z
+date: 2024-05-19T23:01:39.767Z
+updated: 2024-05-20T23:01:39.767Z
 tags: 
   - screen-recording
   - ai video
@@ -682,4 +682,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-top-gaming-intro-makers-for-windows-mac-and-online-platforms/"><u>Updated Unleash Your Creativity Top Gaming Intro Makers for Windows, Mac, and Online Platforms</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-unleash-creativity-10-top-notch-video-editing-apps-for-kids-for-2024/"><u>New Unleash Creativity 10 Top-Notch Video Editing Apps for Kids for 2024</u></a></li>
 </ul></div>
+
 

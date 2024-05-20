@@ -1,7 +1,7 @@
 ---
 title: "How to Record Audio with Audacity on Mac?"
-date: 2024-05-18T11:25:40.835Z
-updated: 2024-05-19T11:25:40.835Z
+date: 2024-05-19T23:01:33.279Z
+updated: 2024-05-20T23:01:33.279Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://howto.techidaily.com/calls-on-google-pixel-8-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Google Pixel 8 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-15-pro-max-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone 15 Pro Max?</u></a></li>
 </ul></div>
+
 

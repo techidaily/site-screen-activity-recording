@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Beginners Guide to Zoom Breakout Rooms\""
-date: 2024-05-18T11:15:28.186Z
-updated: 2024-05-19T11:15:28.186Z
+date: 2024-05-19T23:01:07.275Z
+updated: 2024-05-20T23:01:07.275Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/updated-sony-vegas-not-cutting-it-find-the-perfect-windows-alternative-here-for-2024/"><u>Updated Sony Vegas Not Cutting It? Find the Perfect Windows Alternative Here for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-gt-10-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix GT 10 Pro Bootloader Easily</u></a></li>
 </ul></div>
+
 

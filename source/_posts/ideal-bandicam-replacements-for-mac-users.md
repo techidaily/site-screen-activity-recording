@@ -592,3 +592,4 @@ Since Bandicam doesn't have a Mac adaptation, you need to find a Bandicam for Ma
 <li><a href="https://review-topics.techidaily.com/recover-your-photos-after-lava-yuva-2-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Lava Yuva 2 has been deleted.</u></a></li>
 </ul></div>
 
+

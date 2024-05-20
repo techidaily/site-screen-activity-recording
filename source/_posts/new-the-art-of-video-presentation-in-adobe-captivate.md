@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Video Presentation in Adobe Captivate"
-date: 2024-05-18T11:24:15.255Z
-updated: 2024-05-19T11:24:15.255Z
+date: 2024-05-19T23:01:30.121Z
+updated: 2024-05-20T23:01:30.121Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-6-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 6 in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques/"><u>Updated In 2024, The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques</u></a></li>
 </ul></div>
+
 

@@ -492,3 +492,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

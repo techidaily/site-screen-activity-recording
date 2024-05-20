@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio Vs Fraps  Top Screen Capture Software Showdown\""
-date: 2024-05-18T11:25:26.525Z
-updated: 2024-05-19T11:25:26.525Z
+date: 2024-05-19T23:01:32.700Z
+updated: 2024-05-20T23:01:32.700Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-considerations-for-incorporating-sound-in-photography-compositions/"><u>New In 2024, Essential Considerations for Incorporating Sound in Photography Compositions</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

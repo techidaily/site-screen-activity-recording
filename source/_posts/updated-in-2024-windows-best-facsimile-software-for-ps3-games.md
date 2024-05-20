@@ -544,3 +544,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-social-media-designers-handbook-aspect-ratios-and-beyond/"><u>Updated The Social Media Designers Handbook Aspect Ratios and Beyond</u></a></li>
 </ul></div>
 
+

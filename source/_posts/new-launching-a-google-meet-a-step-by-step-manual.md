@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Launching a Google Meet  A Step-by-Step Manual\""
-date: 2024-05-18T11:17:28.782Z
-updated: 2024-05-19T11:17:28.782Z
+date: 2024-05-19T23:01:12.322Z
+updated: 2024-05-20T23:01:12.323Z
 tags: 
   - screen-recording
   - ai video
@@ -663,4 +663,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://smart-video-editing.techidaily.com/new-s-best-android-video-editors-free-paid-and-everything-in-between/"><u>New S Best Android Video Editors Free, Paid, and Everything in Between</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-from-sideways-to-straight-quick-video-flipping-solutions/"><u>2024 Approved From Sideways to Straight Quick Video Flipping Solutions</u></a></li>
 </ul></div>
+
 

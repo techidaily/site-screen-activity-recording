@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Extensions to Capture Firefox"
-date: 2024-05-18T11:27:27.672Z
-updated: 2024-05-19T11:27:27.672Z
+date: 2024-05-19T23:01:37.837Z
+updated: 2024-05-20T23:01:37.837Z
 tags: 
   - screen-recording
   - ai video
@@ -657,4 +657,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://ai-video-tools.techidaily.com/updated-online-video-editing-platforms-with-free-and-paid-music-options-for-2024/"><u>Updated Online Video Editing Platforms with Free and Paid Music Options for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cutting-edge-video-editing-on-a-budget-free-open-source-options/"><u>2024 Approved Cutting-Edge Video Editing on a Budget Free Open-Source Options</u></a></li>
 </ul></div>
+
 

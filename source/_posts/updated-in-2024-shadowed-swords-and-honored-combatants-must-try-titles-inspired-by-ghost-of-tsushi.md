@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Shadowed Swords & Honored Combatants  Must-Try Titles Inspired by Ghost of Tsushi\""
-date: 2024-05-18T11:19:26.896Z
-updated: 2024-05-19T11:19:26.896Z
+date: 2024-05-19T23:01:17.130Z
+updated: 2024-05-20T23:01:17.130Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-transition-like-a-pro-10-best-premiere-pro-plugins-for-smooth-edits/"><u>New 2024 Approved Transition Like a Pro 10 Best Premiere Pro Plugins for Smooth Edits</u></a></li>
 </ul></div>
+
 

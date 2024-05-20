@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zoom Basics for Non-Experts  Setting Up Your First Meeting for 2024\""
-date: 2024-05-18T11:36:17.400Z
-updated: 2024-05-19T11:36:17.400Z
+date: 2024-05-19T23:02:00.879Z
+updated: 2024-05-20T23:02:00.879Z
 tags: 
   - screen-recording
   - ai video
@@ -601,4 +601,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-smooth-operator-top-free-video-stabilization-software-for-windows-and-macos/"><u>New In 2024, Smooth Operator Top Free Video Stabilization Software for Windows and macOS</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 30 5G Users</u></a></li>
 </ul></div>
+
 

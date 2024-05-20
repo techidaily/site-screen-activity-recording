@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Essence of OBS's Screen Capture Features"
-date: 2024-05-18T11:11:50.824Z
-updated: 2024-05-19T11:11:50.824Z
+date: 2024-05-19T23:00:58.242Z
+updated: 2024-05-20T23:00:58.242Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y200-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y200 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

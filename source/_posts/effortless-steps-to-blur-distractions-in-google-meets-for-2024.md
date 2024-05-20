@@ -1,7 +1,7 @@
 ---
 title: "Effortless Steps to Blur Distractions in Google Meets for 2024"
-date: 2024-05-18T11:35:46.318Z
-updated: 2024-05-19T11:35:46.318Z
+date: 2024-05-19T23:01:59.785Z
+updated: 2024-05-20T23:01:59.785Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ Follow @Richard Bennett
 <li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-11r-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 11R Unlock Without Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-13c-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi 13C 5G? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Lightweight OBS Adjustments for Thriftier Systems"
-date: 2024-05-18T11:31:55.331Z
-updated: 2024-05-19T11:31:55.331Z
+date: 2024-05-19T23:01:49.198Z
+updated: 2024-05-20T23:01:49.199Z
 tags: 
   - screen-recording
   - ai video
@@ -239,4 +239,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-nokia-c110-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Nokia C110</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

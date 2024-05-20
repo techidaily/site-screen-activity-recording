@@ -1,7 +1,7 @@
 ---
 title: "Your First Sound Recording Guide in Audacity on a Mac for 2024"
-date: 2024-05-18T11:30:12.328Z
-updated: 2024-05-19T11:30:12.328Z
+date: 2024-05-19T23:01:44.826Z
+updated: 2024-05-20T23:01:44.826Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-c65-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

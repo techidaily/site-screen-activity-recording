@@ -1,7 +1,7 @@
 ---
 title: "Live Transmission Directly to Instagram via OBS"
-date: 2024-05-18T11:37:33.727Z
-updated: 2024-05-19T11:37:33.727Z
+date: 2024-05-19T23:02:03.896Z
+updated: 2024-05-20T23:02:03.896Z
 tags: 
   - screen-recording
   - ai video
@@ -412,4 +412,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://techidaily.com/how-to-erase-apple-iphone-xs-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone XS Max Data Permanently | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-poco-m6-pro-4g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Poco M6 Pro 4G</u></a></li>
 </ul></div>
+
 

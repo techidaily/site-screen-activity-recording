@@ -436,3 +436,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-xs-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
 
+

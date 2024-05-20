@@ -301,3 +301,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://smart-video-creator.techidaily.com/updated-the-aspect-ratio-handbook-a-step-by-step-guide-to-social-media-visuals/"><u>Updated The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals</u></a></li>
 </ul></div>
 
+

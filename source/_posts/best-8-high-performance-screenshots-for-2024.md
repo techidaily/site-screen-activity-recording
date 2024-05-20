@@ -667,3 +667,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-razr-40-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Razr 40 to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

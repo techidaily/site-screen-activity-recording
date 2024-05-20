@@ -598,3 +598,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://voice-adjusting.techidaily.com/new-sync-it-up-expert-tips-for-aligning-video-with-a-soundtrack-in-fcpx/"><u>New Sync It Up! Expert Tips for Aligning Video with a Soundtrack in FCPX</u></a></li>
 </ul></div>
 
+

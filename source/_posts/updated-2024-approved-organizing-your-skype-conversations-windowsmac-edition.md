@@ -691,3 +691,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-brighten-video-in-premiere-pro-step-by-step-guide/"><u>Updated How To Brighten Video In Premiere Pro | Step By Step Guide</u></a></li>
 </ul></div>
 
+

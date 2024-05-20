@@ -892,3 +892,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-use-face-tracking-in-after-effects-to-quickly-mask-out-faces-animate-objects-on-faces-and-more/"><u>New Learn How to Use Face Tracking in After Effects to Quickly Mask Out Faces, Animate Objects on Faces, and More</u></a></li>
 </ul></div>
 
+

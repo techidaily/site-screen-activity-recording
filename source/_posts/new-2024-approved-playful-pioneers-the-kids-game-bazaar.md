@@ -571,3 +571,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-a-cinematic-slideshow-with-final-cut-pro/"><u>New Transform Your Photos Into a Cinematic Slideshow with Final Cut Pro</u></a></li>
 </ul></div>
 
+

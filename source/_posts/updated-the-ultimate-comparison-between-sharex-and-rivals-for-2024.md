@@ -315,3 +315,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
 </ul></div>
 
+

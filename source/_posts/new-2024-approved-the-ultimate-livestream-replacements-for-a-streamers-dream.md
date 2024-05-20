@@ -1011,3 +1011,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://ai-vdieo-software.techidaily.com/optimize-your-facebook-video-cover-a-guide-to-the-right-size/"><u>Optimize Your Facebook Video Cover A Guide to the Right Size</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Live to Recorded  Using OBS for Games for 2024\""
-date: 2024-05-18T11:22:16.635Z
-updated: 2024-05-19T11:22:16.635Z
+date: 2024-05-19T23:01:24.750Z
+updated: 2024-05-20T23:01:24.750Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

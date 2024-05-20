@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Full Screen in Obs Journey for 2024"
-date: 2024-05-18T11:34:16.814Z
-updated: 2024-05-19T11:34:16.814Z
+date: 2024-05-19T23:01:55.988Z
+updated: 2024-05-20T23:01:55.988Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-master-effortless-audio-enhancement-with-these-7-online-audio-processors/"><u>Updated In 2024, Master Effortless Audio Enhancement with These 7 Online Audio Processors</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

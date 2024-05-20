@@ -428,3 +428,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://video-creation-software.techidaily.com/updated-trimming-videos-online-heres-how-to-do-it-with-kapwing/"><u>Updated Trimming Videos Online? Heres How to Do It with Kapwing</u></a></li>
 </ul></div>
 
+

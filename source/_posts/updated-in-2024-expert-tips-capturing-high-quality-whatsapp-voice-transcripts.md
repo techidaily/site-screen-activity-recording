@@ -504,3 +504,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-blaze-2-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Blaze 2 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

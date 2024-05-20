@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Fix Full Screen Error in OBS\""
-date: 2024-05-18T11:21:50.602Z
-updated: 2024-05-19T11:21:50.602Z
+date: 2024-05-19T23:01:22.857Z
+updated: 2024-05-20T23:01:22.857Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y100i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y100i Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-x-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone X</u></a></li>
 </ul></div>
+
 

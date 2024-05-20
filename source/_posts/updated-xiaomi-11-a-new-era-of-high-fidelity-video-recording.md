@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Xiaomi 11  A New Era of High Fidelity Video Recording\""
-date: 2024-05-18T11:36:58.261Z
-updated: 2024-05-19T11:36:58.261Z
+date: 2024-05-19T23:02:02.351Z
+updated: 2024-05-20T23:02:02.351Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-free-iphone-video-rotation-tools/"><u>New In 2024, The Ultimate Guide to Free iPhone Video Rotation Tools</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-get-talking-the-best-free-speech-to-text-apps-for-mac-that-dont-require-a-download-for-2024/"><u>Updated Get Talking The Best Free Speech-to-Text Apps for Mac That Dont Require a Download for 2024</u></a></li>
 </ul></div>
+
 

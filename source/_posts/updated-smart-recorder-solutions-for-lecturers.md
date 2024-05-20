@@ -921,3 +921,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze 2 Pro Devices</u></a></li>
 </ul></div>
 
+

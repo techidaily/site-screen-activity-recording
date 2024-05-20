@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unveiling SplitCam's Camera Capabilities"
-date: 2024-05-18T11:36:52.078Z
-updated: 2024-05-19T11:36:52.078Z
+date: 2024-05-19T23:02:02.145Z
+updated: 2024-05-20T23:02:02.145Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-tools.techidaily.com/updated-make-your-videos-pop-best-dimensions-for-instagram/"><u>Updated Make Your Videos Pop Best Dimensions for Instagram</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-discover-the-best-mp3-converter-for-your-mac/"><u>2024 Approved Discover the Best MP3 Converter for Your Mac</u></a></li>
 </ul></div>
+
 

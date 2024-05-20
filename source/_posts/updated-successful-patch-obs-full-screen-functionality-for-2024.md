@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Successful Patch  OBS Full Screen Functionality for 2024\""
-date: 2024-05-18T11:22:49.384Z
-updated: 2024-05-19T11:22:49.384Z
+date: 2024-05-19T23:01:26.160Z
+updated: 2024-05-20T23:01:26.160Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-know-how-you-can-get-some-cool-discord-animated-icons-through-some-simple-steps-presenting-the-latest-tool-to-get-animated-pfp-and-logos-instantly-f/"><u>In 2024, Know How You Can Get some Cool Discord Animated Icons Through some Simple Steps. Presenting the Latest Tool to Get Animated PFP and Logos Instantly for Discord</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

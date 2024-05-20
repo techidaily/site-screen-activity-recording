@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capturing Sound on Mac  An Audacity Tutorial\""
-date: 2024-05-18T11:26:17.425Z
-updated: 2024-05-19T11:26:17.425Z
+date: 2024-05-19T23:01:35.076Z
+updated: 2024-05-20T23:01:35.076Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-detailed-tutorial-to-merge-videos-in-vlc-media-player/"><u>New 2024 Approved Detailed Tutorial to Merge Videos in VLC Media Player</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-unlocking-audio-content-effective-strategies-for-transferring-podcast-episodes-onto-computers-for-2024/"><u>New Unlocking Audio Content Effective Strategies for Transferring Podcast Episodes Onto Computers for 2024</u></a></li>
 </ul></div>
+
 

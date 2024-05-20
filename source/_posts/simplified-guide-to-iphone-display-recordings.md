@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to IPhone Display Recordings"
-date: 2024-05-18T11:36:01.472Z
-updated: 2024-05-19T11:36:01.472Z
+date: 2024-05-19T23:02:00.317Z
+updated: 2024-05-20T23:02:00.317Z
 tags: 
   - screen-recording
   - ai video
@@ -577,4 +577,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/from-beginner-to-pro-the-definitive-wav-converter-tutorial/"><u>From Beginner to Pro The Definitive Wav Converter Tutorial</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-clear-the-clutter-a-comprehensive-guide-to-freeing-up-space-on-your-fcpx-mac/"><u>Updated In 2024, Clear the Clutter A Comprehensive Guide to Freeing Up Space on Your FCPX Mac</u></a></li>
 </ul></div>
+
 

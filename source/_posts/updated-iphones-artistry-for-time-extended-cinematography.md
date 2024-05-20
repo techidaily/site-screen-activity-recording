@@ -520,3 +520,4 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 
+

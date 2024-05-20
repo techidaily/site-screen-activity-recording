@@ -259,3 +259,4 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-driven-video-production.techidaily.com/fcp-audio-editing-tutorial-from-basics-to-advanced-techniques/"><u>FCP Audio Editing Tutorial From Basics to Advanced Techniques</u></a></li>
 </ul></div>
 
+

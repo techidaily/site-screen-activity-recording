@@ -490,3 +490,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
 
+

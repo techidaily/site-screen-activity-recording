@@ -224,3 +224,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://ai-editing-video.techidaily.com/cropping-a-video-in-final-cut-pro-step-by-step/"><u>Cropping a Video in Final Cut Pro Step by Step</u></a></li>
 </ul></div>
 
+

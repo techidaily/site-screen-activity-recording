@@ -244,3 +244,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-videos-a-beginners-guide-to-using-ken-burns-effect-in-final-cut-pro/"><u>New 2024 Approved Elevate Your Videos A Beginners Guide to Using Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

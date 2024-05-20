@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Essential Guide to Compositing Using Blending Modes\""
-date: 2024-05-18T11:35:39.730Z
-updated: 2024-05-19T11:35:39.730Z
+date: 2024-05-19T23:01:59.584Z
+updated: 2024-05-20T23:01:59.584Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
 <li><a href="https://meme-emoji.techidaily.com/how-to-add-bitmoji-to-keyboard-for-2024/"><u>How to Add Bitmoji to Keyboard for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-pro-level-video-best-stabilizer-apps-for-your-phone/"><u>2024 Approved Pro-Level Video Best Stabilizer Apps for Your Phone</u></a></li>
 </ul></div>
+
 

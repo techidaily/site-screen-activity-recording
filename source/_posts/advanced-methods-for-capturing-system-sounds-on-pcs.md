@@ -1,7 +1,7 @@
 ---
 title: "Advanced Methods for Capturing System Sounds on PCs"
-date: 2024-05-18T11:35:12.480Z
-updated: 2024-05-19T11:35:12.480Z
+date: 2024-05-19T23:01:58.269Z
+updated: 2024-05-20T23:01:58.269Z
 tags: 
   - screen-recording
   - ai video
@@ -814,4 +814,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-12-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus 12</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-slow-down-time-lapse-videos-on-iphone/"><u>Updated In 2024, How to Slow Down Time-Lapse Videos on iPhone</u></a></li>
 </ul></div>
+
 

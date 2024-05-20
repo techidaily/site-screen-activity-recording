@@ -402,3 +402,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor X9a | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)"
-date: 2024-05-18T11:29:04.020Z
-updated: 2024-05-19T11:29:04.020Z
+date: 2024-05-19T23:01:41.757Z
+updated: 2024-05-20T23:01:41.757Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>Updated 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-agni-2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Agni 2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

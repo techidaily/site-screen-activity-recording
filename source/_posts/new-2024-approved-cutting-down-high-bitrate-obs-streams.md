@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Cutting Down High-Bitrate OBS Streams\""
-date: 2024-05-18T11:19:23.901Z
-updated: 2024-05-19T11:19:23.901Z
+date: 2024-05-19T23:01:16.930Z
+updated: 2024-05-20T23:01:16.930Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 20?</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nubia Z50S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

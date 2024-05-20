@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Demystifying Mac Audio Capture via Audacity"
-date: 2024-05-18T11:14:04.037Z
-updated: 2024-05-19T11:14:04.037Z
+date: 2024-05-19T23:01:03.918Z
+updated: 2024-05-20T23:01:03.918Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-shaping.techidaily.com/10-secure-online-forums-dedicated-to-meeting-fellow-netizens/"><u>10 Secure Online Forums Dedicated to Meeting Fellow Netizens</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-c32-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from C32?</u></a></li>
 </ul></div>
+
 

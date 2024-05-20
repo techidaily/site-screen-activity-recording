@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Gaming Potential - Using OBS Recording Features for 2024\""
-date: 2024-05-18T11:16:55.302Z
-updated: 2024-05-19T11:16:55.302Z
+date: 2024-05-19T23:01:10.998Z
+updated: 2024-05-20T23:01:10.998Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Updated In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

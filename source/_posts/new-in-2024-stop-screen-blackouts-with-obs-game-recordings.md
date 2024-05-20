@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Stop Screen Blackouts with OBS Game Recordings"
-date: 2024-05-18T11:21:48.947Z
-updated: 2024-05-19T11:21:48.947Z
+date: 2024-05-19T23:01:22.763Z
+updated: 2024-05-20T23:01:22.763Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Art of Google Meet Modifications  Using Masks & Effects\""
-date: 2024-05-18T11:24:36.910Z
-updated: 2024-05-19T11:24:36.910Z
+date: 2024-05-19T23:01:30.927Z
+updated: 2024-05-20T23:01:30.927Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-simple-video-editing-for-windows-get-started-with-microsoft-video-editor-for-2024/"><u>New Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024</u></a></li>
 </ul></div>
+
 

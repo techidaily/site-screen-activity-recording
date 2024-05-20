@@ -197,3 +197,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-this-article-shows-the-detail-steps-to-crop-an-image-in-final-cut-pro-with-screenshots/"><u>2024 Approved This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots</u></a></li>
 </ul></div>
 
+

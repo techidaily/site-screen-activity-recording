@@ -478,3 +478,4 @@ Nowadays, movies are packed along with essential information. This particular in
 <li><a href="https://ai-video-editing.techidaily.com/discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects-for-2024/"><u>Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024</u></a></li>
 </ul></div>
 
+

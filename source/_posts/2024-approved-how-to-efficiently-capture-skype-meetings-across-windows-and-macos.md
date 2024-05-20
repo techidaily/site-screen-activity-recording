@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Efficiently Capture Skype Meetings Across Windows and MacOS\""
-date: 2024-05-18T11:13:34.141Z
-updated: 2024-05-19T11:13:34.141Z
+date: 2024-05-19T23:01:02.412Z
+updated: 2024-05-20T23:01:02.412Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-stabilizer-tools-online-a-2024-roundup/"><u>Updated The Best Free Video Stabilizer Tools Online A 2024 Roundup</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/seeking-out-dynamic-percussive-audio-layers/"><u>Seeking Out Dynamic Percussive Audio Layers</u></a></li>
 </ul></div>
+
 

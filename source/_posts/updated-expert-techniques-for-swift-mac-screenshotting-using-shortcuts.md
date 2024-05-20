@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Techniques for Swift Mac Screenshotting Using Shortcuts"
-date: 2024-05-18T11:24:52.684Z
-updated: 2024-05-19T11:24:52.684Z
+date: 2024-05-19T23:01:31.452Z
+updated: 2024-05-20T23:01:31.452Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

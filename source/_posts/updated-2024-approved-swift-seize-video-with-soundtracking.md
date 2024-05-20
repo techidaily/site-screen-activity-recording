@@ -471,3 +471,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://smart-video-creator.techidaily.com/gopro-quik-for-pc-and-alternatives/"><u>GoPro Quik for PC and Alternatives</u></a></li>
 </ul></div>
 
+

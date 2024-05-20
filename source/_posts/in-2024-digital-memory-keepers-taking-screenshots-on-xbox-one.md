@@ -443,3 +443,4 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

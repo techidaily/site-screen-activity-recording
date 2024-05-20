@@ -1,7 +1,7 @@
 ---
 title: "VLC User's Guide to Screen Capturing"
-date: 2024-05-18T11:13:06.102Z
-updated: 2024-05-19T11:13:06.102Z
+date: 2024-05-19T23:01:01.382Z
+updated: 2024-05-20T23:01:01.382Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Getting a screen recorder for PC is not terribly difficult, but finding great fr
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-hear-it-here-first-effective-techniques-for-capturing-and-storing-computer-based-audio-files-in-episodic-format/"><u>2024 Approved Hear It Here First Effective Techniques for Capturing and Storing Computer-Based Audio Files in Episodic Format</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-effective-10-ways-to-convert-youtube-to-mov-at-ease-pc-and-online/"><u>Updated 2024 Approved Effective 10 Ways to Convert YouTube to MOV at Ease PC & Online</u></a></li>
 </ul></div>
+
 

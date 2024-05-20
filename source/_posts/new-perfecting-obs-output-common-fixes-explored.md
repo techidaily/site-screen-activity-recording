@@ -299,3 +299,4 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sound-tweaking.techidaily.com/updated-capturing-sound-in-presentations-a-step-by-step-windows-and-mac-tutorial/"><u>Updated Capturing Sound in Presentations A Step-by-Step Windows & Mac Tutorial</u></a></li>
 </ul></div>
 
+

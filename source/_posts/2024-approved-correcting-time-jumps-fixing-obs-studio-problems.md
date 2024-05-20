@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Correcting Time Jumps  Fixing OBS Studio Problems\""
-date: 2024-05-18T11:12:07.794Z
-updated: 2024-05-19T11:12:07.794Z
+date: 2024-05-19T23:00:59.143Z
+updated: 2024-05-20T23:00:59.143Z
 tags: 
   - screen-recording
   - ai video
@@ -591,4 +591,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-cropping-a-video-in-final-cut-pro-step-by-step/"><u>Updated In 2024, Cropping a Video in Final Cut Pro Step by Step</u></a></li>
 </ul></div>
+
 

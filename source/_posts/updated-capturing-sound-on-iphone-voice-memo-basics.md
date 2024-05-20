@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Sound on iPhone  Voice Memo Basics\""
-date: 2024-05-18T11:36:22.334Z
-updated: 2024-05-19T11:36:22.334Z
+date: 2024-05-19T23:02:01.083Z
+updated: 2024-05-20T23:02:01.083Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://audio-shaping.techidaily.com/new-orchestrating-artificial-intelligence-spotlight-on-future-musical-innovators/"><u>New Orchestrating Artificial Intelligence Spotlight on Future Musical Innovators</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>Updated In 2024, Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
 </ul></div>
+
 

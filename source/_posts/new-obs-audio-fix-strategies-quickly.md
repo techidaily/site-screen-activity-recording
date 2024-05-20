@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Audio Fix Strategies Quickly"
-date: 2024-05-18T11:26:28.830Z
-updated: 2024-05-19T11:26:28.830Z
+date: 2024-05-19T23:01:35.446Z
+updated: 2024-05-20T23:01:35.446Z
 tags: 
   - screen-recording
   - ai video
@@ -556,4 +556,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-list-of-3d-video-makers-free-paid-and-in-between/"><u>2024 Approved The Ultimate List of 3D Video Makers Free, Paid, and In-Between</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-editing-top-tools-with-auto-reframing-for-2024/"><u>Effortless Video Editing Top Tools with Auto-Reframing for 2024</u></a></li>
 </ul></div>
+
 

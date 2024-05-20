@@ -1014,3 +1014,4 @@ By reading this passage, you must know how easy could be to capture and record y
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
 
+

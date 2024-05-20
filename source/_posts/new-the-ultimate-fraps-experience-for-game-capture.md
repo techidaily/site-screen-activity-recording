@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Fraps Experience for Game Capture"
-date: 2024-05-18T11:29:25.166Z
-updated: 2024-05-19T11:29:25.166Z
+date: 2024-05-19T23:01:42.640Z
+updated: 2024-05-20T23:01:42.640Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-c51-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme C51 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Phone without PIN</u></a></li>
 </ul></div>
+
 

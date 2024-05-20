@@ -204,3 +204,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-frame-blending-in-premiere-pro/"><u>Updated How to Use Frame Blending in Premiere Pro</u></a></li>
 </ul></div>
 
+

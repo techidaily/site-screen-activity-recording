@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Modify Mac Screen Shot Storage Path"
-date: 2024-05-18T11:24:56.517Z
-updated: 2024-05-19T11:24:56.517Z
+date: 2024-05-19T23:01:31.578Z
+updated: 2024-05-20T23:01:31.578Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Play 8T? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-xs-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone XS</u></a></li>
 </ul></div>
+
 

@@ -565,3 +565,4 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
 <li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .rtf file</u></a></li>
 </ul></div>
 
+

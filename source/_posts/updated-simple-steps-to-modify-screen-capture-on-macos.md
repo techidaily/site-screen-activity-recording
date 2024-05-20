@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simple Steps to Modify Screen Capture on macOS"
-date: 2024-05-18T11:27:30.664Z
-updated: 2024-05-19T11:27:30.664Z
+date: 2024-05-19T23:01:37.960Z
+updated: 2024-05-20T23:01:37.960Z
 tags: 
   - screen-recording
   - ai video
@@ -421,4 +421,5 @@ Follow @Max Wales
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 15 Pro Max?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

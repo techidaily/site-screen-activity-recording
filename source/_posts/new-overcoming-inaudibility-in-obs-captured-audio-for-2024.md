@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Inaudibility in OBS Captured Audio for 2024"
-date: 2024-05-18T11:33:29.715Z
-updated: 2024-05-19T11:33:29.715Z
+date: 2024-05-19T23:01:53.047Z
+updated: 2024-05-20T23:01:53.047Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v27e-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V27e Devices</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-x90s-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X90S Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

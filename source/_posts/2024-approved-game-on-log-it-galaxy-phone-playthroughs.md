@@ -539,3 +539,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 
+

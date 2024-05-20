@@ -281,3 +281,4 @@ There is no doubt that taking a timelapse video with iPhone is a cakewalk Howeve
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-20-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 20 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
+

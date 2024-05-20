@@ -563,3 +563,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-editing.techidaily.com/new-streamline-your-editing-40-final-cut-pro-x-keyboard-shortcuts-for-2024/"><u>New Streamline Your Editing 40 Final Cut Pro X Keyboard Shortcuts for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fix for Sudden Audio Gaps in OBS Captures"
-date: 2024-05-18T11:28:08.510Z
-updated: 2024-05-19T11:28:08.511Z
+date: 2024-05-19T23:01:39.624Z
+updated: 2024-05-20T23:01:39.624Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-tweaking.techidaily.com/exploring-alternatives-to-vocaroo-a-roadmap-for-audio-documentation/"><u>Exploring Alternatives to Vocaroo A Roadmap for Audio Documentation</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

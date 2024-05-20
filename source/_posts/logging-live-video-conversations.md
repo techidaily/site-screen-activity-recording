@@ -1,7 +1,7 @@
 ---
 title: "Logging Live Video Conversations"
-date: 2024-05-18T11:11:06.629Z
-updated: 2024-05-19T11:11:06.629Z
+date: 2024-05-19T23:00:56.541Z
+updated: 2024-05-20T23:00:56.541Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro i Do? Get Answers here</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
+
 

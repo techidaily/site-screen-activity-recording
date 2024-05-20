@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tackling Live Broadcasts  The Intersection of OBS and Zoom\""
-date: 2024-05-18T11:36:40.671Z
-updated: 2024-05-19T11:36:40.671Z
+date: 2024-05-19T23:02:01.756Z
+updated: 2024-05-20T23:02:01.756Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-red-magic-9-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Red Magic 9 Pro Phone When You Forget the Password</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-12-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 12 Pro to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

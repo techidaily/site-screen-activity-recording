@@ -494,3 +494,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-12r-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus 12R Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

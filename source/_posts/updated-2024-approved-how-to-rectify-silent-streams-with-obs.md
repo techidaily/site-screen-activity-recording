@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Rectify Silent Streams with OBS\""
-date: 2024-05-18T11:24:45.575Z
-updated: 2024-05-19T11:24:45.575Z
+date: 2024-05-19T23:01:31.221Z
+updated: 2024-05-20T23:01:31.221Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a05s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A05s to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

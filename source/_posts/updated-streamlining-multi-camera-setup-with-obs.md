@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Multi-Camera Setup with OBS\""
-date: 2024-05-18T11:16:05.744Z
-updated: 2024-05-19T11:16:05.744Z
+date: 2024-05-19T23:01:09.078Z
+updated: 2024-05-20T23:01:09.078Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v27e-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V27e Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-taming-the-audible-ambiance-step-by-step-techniques-for-eradicating-hidden-harmonies/"><u>2024 Approved Taming the Audible Ambiance Step-by-Step Techniques for Eradicating Hidden Harmonies</u></a></li>
 </ul></div>
+
 

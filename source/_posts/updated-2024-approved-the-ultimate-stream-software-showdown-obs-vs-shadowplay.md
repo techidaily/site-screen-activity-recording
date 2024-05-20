@@ -278,3 +278,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://video-ai-editor.techidaily.com/elevate-your-videos-how-to-apply-ken-burns-effect-in-final-cut-pro/"><u>Elevate Your Videos How to Apply Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

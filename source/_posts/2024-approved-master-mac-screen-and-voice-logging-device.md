@@ -485,3 +485,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 
+

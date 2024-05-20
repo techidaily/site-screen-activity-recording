@@ -486,3 +486,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y78+ Phone</u></a></li>
 </ul></div>
 
+

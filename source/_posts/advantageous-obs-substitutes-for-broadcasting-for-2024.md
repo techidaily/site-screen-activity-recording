@@ -1035,3 +1035,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-spark-20c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Spark 20C Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

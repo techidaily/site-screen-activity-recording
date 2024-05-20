@@ -401,3 +401,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-hot-30i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Hot 30i Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Fixes for Missing Sound in OBS"
-date: 2024-05-18T11:31:11.909Z
-updated: 2024-05-19T11:31:11.909Z
+date: 2024-05-19T23:01:47.131Z
+updated: 2024-05-20T23:01:47.131Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>Updated In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi Note 13 Pro 5G Phone Without Password?</u></a></li>
 </ul></div>
+
 

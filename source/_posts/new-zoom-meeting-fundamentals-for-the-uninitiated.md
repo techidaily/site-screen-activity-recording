@@ -1,7 +1,7 @@
 ---
 title: "[New] Zoom Meeting Fundamentals for the Uninitiated"
-date: 2024-05-18T11:36:27.196Z
-updated: 2024-05-19T11:36:27.196Z
+date: 2024-05-19T23:02:01.255Z
+updated: 2024-05-20T23:02:01.255Z
 tags: 
   - screen-recording
   - ai video
@@ -536,4 +536,5 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-7-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

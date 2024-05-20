@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fade In Fade Out Videos in 4 Easy Ways"
-date: 2024-05-18T11:34:38.765Z
-updated: 2024-05-19T11:34:38.765Z
+date: 2024-05-19T23:01:56.881Z
+updated: 2024-05-20T23:01:56.881Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-is-virtualdub-still-the-best-exploring-modern-video-editing-alternatives/"><u>Updated In 2024, Is Virtualdub Still the Best? Exploring Modern Video Editing Alternatives</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max SIM Lock?</u></a></li>
 </ul></div>
+
 

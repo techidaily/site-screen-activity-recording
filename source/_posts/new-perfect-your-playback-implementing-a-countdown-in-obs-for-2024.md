@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Playback  Implementing a Countdown in OBS for 2024\""
-date: 2024-05-18T11:22:17.992Z
-updated: 2024-05-19T11:22:17.992Z
+date: 2024-05-19T23:01:24.804Z
+updated: 2024-05-20T23:01:24.804Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://audio-shaping.techidaily.com/updated-precision-in-production-leveraging-audio-ducking-in-powerdirector-for-tactful-music-volume-reduction/"><u>Updated Precision in Production Leveraging Audio Ducking in PowerDirector for Tactful Music Volume Reduction</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

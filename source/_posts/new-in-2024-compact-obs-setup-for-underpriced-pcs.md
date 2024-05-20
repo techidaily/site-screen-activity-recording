@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Compact OBS Setup for Underpriced PCs"
-date: 2024-05-18T11:30:29.383Z
-updated: 2024-05-19T11:30:29.383Z
+date: 2024-05-19T23:01:45.440Z
+updated: 2024-05-20T23:01:45.440Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://audio-editing.techidaily.com/updated-skype-voice-changer-5-useful-tools-to-change-voice-for-skype-for-2024/"><u>Updated Skype Voice Changer 5 Useful Tools to Change Voice for Skype for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Gionee F3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

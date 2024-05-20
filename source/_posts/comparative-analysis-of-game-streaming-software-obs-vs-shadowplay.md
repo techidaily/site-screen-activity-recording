@@ -274,3 +274,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-x6-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco X6 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

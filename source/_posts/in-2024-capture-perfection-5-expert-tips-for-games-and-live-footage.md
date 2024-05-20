@@ -572,3 +572,4 @@ If you are thinking about uploading your gameplay on online platforms, you have 
 <li><a href="https://sound-optimizing.techidaily.com/new-mastering-pc-speaker-capture-with-audacity-a-step-by-step-guide/"><u>New Mastering PC Speaker Capture with Audacity A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

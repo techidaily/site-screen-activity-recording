@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Absence of Color on Game Feedback"
-date: 2024-05-18T11:15:45.458Z
-updated: 2024-05-19T11:15:45.458Z
+date: 2024-05-19T23:01:07.978Z
+updated: 2024-05-20T23:01:07.978Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/best-methods-for-vivo-v29-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V29 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y100-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y100 to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

@@ -733,3 +733,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-reset-itel-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A05s without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key Approaches to Microphone & Computer Speaker Documentation"
-date: 2024-05-18T11:33:22.155Z
-updated: 2024-05-19T11:33:22.155Z
+date: 2024-05-19T23:01:52.766Z
+updated: 2024-05-20T23:01:52.766Z
 tags: 
   - screen-recording
   - ai video
@@ -801,4 +801,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-itel-p40-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-10-best-sony-lut-for-different-purposes/"><u>In 2024, 10 Best Sony LUT for Different Purposes</u></a></li>
 </ul></div>
+
 

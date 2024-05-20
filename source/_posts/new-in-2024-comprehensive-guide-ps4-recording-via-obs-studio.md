@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Comprehensive Guide  PS4 Recording via OBS Studio\""
-date: 2024-05-18T11:13:12.019Z
-updated: 2024-05-19T11:13:12.019Z
+date: 2024-05-19T23:01:01.574Z
+updated: 2024-05-20T23:01:01.574Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-bringing-your-nikon-videos-to-life-editing-software-and-techniques/"><u>New In 2024, Bringing Your Nikon Videos to Life Editing Software and Techniques</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

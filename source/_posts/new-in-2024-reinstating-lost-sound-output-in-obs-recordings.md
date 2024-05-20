@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Reinstating Lost Sound Output in OBS Recordings"
-date: 2024-05-18T11:20:29.447Z
-updated: 2024-05-19T11:20:29.447Z
+date: 2024-05-19T23:01:19.705Z
+updated: 2024-05-20T23:01:19.705Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C110 | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-reimagining-soundscapes-a-detailed-guide-to-audio-track-replacement-in-video-production/"><u>New Reimagining Soundscapes A Detailed Guide to Audio Track Replacement in Video Production</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Avoiding Lost Frames During Video Capture in OBS for 2024"
-date: 2024-05-18T11:31:01.091Z
-updated: 2024-05-19T11:31:01.091Z
+date: 2024-05-19T23:01:46.672Z
+updated: 2024-05-20T23:01:46.672Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-contemporary-voiceover-practices-for-dynamic-video-creation-an-updated-guide/"><u>2024 Approved Contemporary Voiceover Practices for Dynamic Video Creation - An Updated Guide</u></a></li>
 </ul></div>
+
 

@@ -308,3 +308,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-instagram-video-formatting-101-a-beginners-guide-to-aspect-ratios-and-dimensions-for-2024/"><u>New Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions for 2024</u></a></li>
 </ul></div>
 
+

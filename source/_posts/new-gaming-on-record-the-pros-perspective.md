@@ -312,3 +312,4 @@ With a responsive, excellent screen catching innovation. Cyberlink screen record
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-a60-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel A60 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
 
+

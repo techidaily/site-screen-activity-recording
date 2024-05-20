@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Tips for OBS on Android Platforms"
-date: 2024-05-18T11:14:09.464Z
-updated: 2024-05-19T11:14:09.464Z
+date: 2024-05-19T23:01:04.164Z
+updated: 2024-05-20T23:01:04.164Z
 tags: 
   - screen-recording
   - ai video
@@ -504,4 +504,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://bypass-frp.techidaily.com/tecno-spark-10-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Spark 10 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-mobile-video-editing-showdown-powerdirector-alternatives/"><u>Updated Mobile Video Editing Showdown PowerDirector Alternatives</u></a></li>
 </ul></div>
+
 

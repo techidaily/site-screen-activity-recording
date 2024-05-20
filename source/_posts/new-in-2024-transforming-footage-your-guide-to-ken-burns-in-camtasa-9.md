@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Transforming Footage  Your Guide to Ken Burns in Camtasa 9\""
-date: 2024-05-18T11:26:40.157Z
-updated: 2024-05-19T11:26:40.157Z
+date: 2024-05-19T23:01:35.929Z
+updated: 2024-05-20T23:01:35.929Z
 tags: 
   - screen-recording
   - ai video
@@ -343,4 +343,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/new-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms-for-2024/"><u>TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms for 2024</u></a></li>
 </ul></div>
+
 

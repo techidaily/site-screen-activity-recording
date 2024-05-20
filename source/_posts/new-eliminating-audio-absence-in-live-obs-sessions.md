@@ -1,7 +1,7 @@
 ---
 title: "[New] Eliminating Audio Absence in Live OBS Sessions"
-date: 2024-05-18T11:37:32.371Z
-updated: 2024-05-19T11:37:32.371Z
+date: 2024-05-19T23:02:03.563Z
+updated: 2024-05-20T23:02:03.563Z
 tags: 
   - screen-recording
   - ai video
@@ -587,4 +587,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-acquiring-lifelike-vampire-sonic-traces/"><u>New In 2024, Acquiring Lifelike Vampire Sonic Traces</u></a></li>
 </ul></div>
+
 

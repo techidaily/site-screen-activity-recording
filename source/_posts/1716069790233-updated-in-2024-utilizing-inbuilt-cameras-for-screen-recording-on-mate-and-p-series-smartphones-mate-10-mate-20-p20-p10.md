@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)."
-date: 2024-05-18T11:25:55.185Z
-updated: 2024-05-19T11:25:55.185Z
+date: 2024-05-19T23:01:34.240Z
+updated: 2024-05-20T23:01:34.240Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-yuva-3-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Yuva 3 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

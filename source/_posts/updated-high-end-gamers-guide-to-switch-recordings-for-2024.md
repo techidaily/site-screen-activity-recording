@@ -549,3 +549,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-tools.techidaily.com/new-unlock-seamless-audio-a-step-by-step-guide-to-l-cuts-and-j-cuts-in-fcpx/"><u>New Unlock Seamless Audio A Step-by-Step Guide to L-Cuts and J-Cuts in FCPX</u></a></li>
 </ul></div>
 
+

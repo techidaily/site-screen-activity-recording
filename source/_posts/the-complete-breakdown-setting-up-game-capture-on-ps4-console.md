@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete Breakdown  Setting Up Game Capture on PS4 Console\""
-date: 2024-05-18T11:34:40.403Z
-updated: 2024-05-19T11:34:40.403Z
+date: 2024-05-19T23:01:56.936Z
+updated: 2024-05-20T23:01:56.936Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-11x-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme 11X 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

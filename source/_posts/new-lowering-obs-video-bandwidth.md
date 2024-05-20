@@ -1,7 +1,7 @@
 ---
 title: "[New] Lowering OBS Video Bandwidth"
-date: 2024-05-18T11:36:23.684Z
-updated: 2024-05-19T11:36:23.684Z
+date: 2024-05-19T23:02:01.134Z
+updated: 2024-05-20T23:02:01.134Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29 Pro Location Settings | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

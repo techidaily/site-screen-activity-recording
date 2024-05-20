@@ -509,3 +509,4 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-the-power-of-the-ken-burns-effect-a-beginners-guide/"><u>New Unlock the Power of the Ken Burns Effect A Beginners Guide</u></a></li>
 </ul></div>
 
+

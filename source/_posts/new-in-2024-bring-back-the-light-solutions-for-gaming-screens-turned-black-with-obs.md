@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bring Back the Light  Solutions for Gaming Screens Turned Black with OBS\""
-date: 2024-05-18T11:18:22.916Z
-updated: 2024-05-19T11:18:22.916Z
+date: 2024-05-19T23:01:14.783Z
+updated: 2024-05-20T23:01:14.783Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://techidaily.com/how-to-reset-a-honor-play-7t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Play 7T Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-htc-u23-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone HTC U23 Pro Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

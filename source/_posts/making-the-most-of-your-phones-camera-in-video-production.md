@@ -1,7 +1,7 @@
 ---
 title: "Making the Most of Your Phone's Camera in Video Production"
-date: 2024-05-18T11:28:15.554Z
-updated: 2024-05-19T11:28:15.554Z
+date: 2024-05-19T23:01:39.877Z
+updated: 2024-05-20T23:01:39.877Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a58-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A58 4GMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-remove-audio-from-mp4/"><u>Updated In 2024, How to Remove Audio From MP4</u></a></li>
 </ul></div>
+
 

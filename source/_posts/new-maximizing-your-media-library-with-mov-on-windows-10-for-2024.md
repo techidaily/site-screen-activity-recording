@@ -665,3 +665,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-find-x7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Find X7</u></a></li>
 </ul></div>
 
+

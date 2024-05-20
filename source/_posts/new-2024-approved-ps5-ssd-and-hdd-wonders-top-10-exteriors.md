@@ -563,3 +563,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratio-adjustment-in-final-cut-pro/"><u>In 2024, The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Using OBS for Gamers"
-date: 2024-05-18T11:26:11.731Z
-updated: 2024-05-19T11:26:11.731Z
+date: 2024-05-19T23:01:34.840Z
+updated: 2024-05-20T23:01:34.840Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-content-creator.techidaily.com/updated-what-to-use-instead-of-virtualdub-top-recommendations/"><u>Updated What to Use Instead of VirtualDub Top Recommendations</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-13c-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi 13C PC | Dr.fone</u></a></li>
 </ul></div>
+
 

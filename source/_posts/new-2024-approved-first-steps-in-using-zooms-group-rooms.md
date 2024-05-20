@@ -519,3 +519,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/updated-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro/"><u>Updated Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro</u></a></li>
 </ul></div>
 
+

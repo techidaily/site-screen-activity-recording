@@ -1,7 +1,7 @@
 ---
 title: "\"One Step at a Time  How to Create a Skype Group on Both Platforms\""
-date: 2024-05-18T11:25:24.094Z
-updated: 2024-05-19T11:25:24.094Z
+date: 2024-05-19T23:01:32.588Z
+updated: 2024-05-20T23:01:32.588Z
 tags: 
   - screen-recording
   - ai video
@@ -680,4 +680,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/new-turn-your-text-into-a-podcast-made-possible-plus-easy-editing-tips-for-2024/"><u>New Turn Your Text Into a Podcast Made Possible (+ EASY Editing Tips) for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-solutions-top-picks-for-individuals-and-businesses-for-2024/"><u>Free Video Hosting Solutions Top Picks for Individuals and Businesses for 2024</u></a></li>
 </ul></div>
+
 

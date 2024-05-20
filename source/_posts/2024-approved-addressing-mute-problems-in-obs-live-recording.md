@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Addressing Mute Problems in OBS Live Recording\""
-date: 2024-05-18T11:32:18.027Z
-updated: 2024-05-19T11:32:18.027Z
+date: 2024-05-19T23:01:50.041Z
+updated: 2024-05-20T23:01:50.041Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2-ways-to-fade-in-text-in-premiere-pro-for-2024/"><u>Updated 2 Ways to Fade in Text in Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

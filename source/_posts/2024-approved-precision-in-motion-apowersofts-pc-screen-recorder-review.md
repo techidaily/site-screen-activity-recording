@@ -579,3 +579,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 mini Lock Screen with Notifications?</u></a></li>
 </ul></div>
 
+

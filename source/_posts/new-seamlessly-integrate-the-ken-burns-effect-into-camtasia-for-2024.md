@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamlessly Integrate the Ken Burns Effect Into Camtasia for 2024"
-date: 2024-05-18T11:37:44.298Z
-updated: 2024-05-19T11:37:44.298Z
+date: 2024-05-19T23:02:04.340Z
+updated: 2024-05-20T23:02:04.340Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ Follow @Max Wales
 <li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-your-own-emoji-in-2-ways-step-by-step-guide/"><u>New 2024 Approved How to Make Your Own Emoji in 2 Ways Step-By Step Guide</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-trim-cut-and-split-avi-files-like-a-pro-updated/"><u>Updated 2024 Approved Trim, Cut, and Split AVI Files Like a Pro Updated</u></a></li>
 </ul></div>
+
 

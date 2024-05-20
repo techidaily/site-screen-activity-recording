@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Ken Burns Effect in Camtasia 9 for 2024"
-date: 2024-05-18T11:29:30.325Z
-updated: 2024-05-19T11:29:30.325Z
+date: 2024-05-19T23:01:42.827Z
+updated: 2024-05-20T23:01:42.827Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-crop-and-resize-images-online-8-handy-ratio-changers/"><u>New 2024 Approved Crop and Resize Images Online 8 Handy Ratio Changers</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s17t-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S17t</u></a></li>
 </ul></div>
+
 

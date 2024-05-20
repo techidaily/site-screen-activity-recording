@@ -360,3 +360,4 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-hot-30i-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Hot 30i Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

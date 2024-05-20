@@ -265,3 +265,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Note 50? | Dr.fone</u></a></li>
 </ul></div>
 
+

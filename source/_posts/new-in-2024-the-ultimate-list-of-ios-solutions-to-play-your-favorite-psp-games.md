@@ -429,3 +429,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-filmma/"><u>In 2024, Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
 </ul></div>
 
+

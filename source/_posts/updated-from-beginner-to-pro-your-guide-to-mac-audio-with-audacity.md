@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Beginner to Pro  Your Guide to Mac Audio with Audacity\""
-date: 2024-05-18T11:13:19.647Z
-updated: 2024-05-19T11:13:19.647Z
+date: 2024-05-19T23:01:01.827Z
+updated: 2024-05-20T23:01:01.827Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-8-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 8 Plus</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scaling Back OBS Video Bandwidth\""
-date: 2024-05-18T11:20:35.949Z
-updated: 2024-05-19T11:20:35.949Z
+date: 2024-05-19T23:01:19.990Z
+updated: 2024-05-20T23:01:19.990Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-x100mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo X100Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-x-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone X For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 5 Secrets to Preventing Blank Scenes with OBS Recording"
-date: 2024-05-18T11:31:30.579Z
-updated: 2024-05-19T11:31:30.579Z
+date: 2024-05-19T23:01:47.938Z
+updated: 2024-05-20T23:01:47.938Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-content-creator.techidaily.com/new-text-to-voice-made-easy-top-conversion-hacks-and-tricks/"><u>New Text to Voice Made Easy Top Conversion Hacks and Tricks</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/tips-that-show-anybody-how-to-make-youtube-slideshow-guaranteed-for-2024/"><u>Tips That Show Anybody How To Make Youtube Slideshow – Guaranteed for 2024</u></a></li>
 </ul></div>
+
 

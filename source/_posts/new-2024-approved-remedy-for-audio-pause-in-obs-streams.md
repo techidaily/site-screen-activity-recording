@@ -563,3 +563,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/updated-applying-the-effect-of-camera-shake-in-video-creation-for-2024/"><u>Updated Applying the Effect of Camera Shake in Video Creation for 2024</u></a></li>
 </ul></div>
 
+

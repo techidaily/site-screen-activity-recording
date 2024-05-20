@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, 10 Basic Blocks House Concepts for MC Players"
-date: 2024-05-18T11:28:55.898Z
-updated: 2024-05-19T11:28:55.898Z
+date: 2024-05-19T23:01:41.459Z
+updated: 2024-05-20T23:01:41.459Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/does-huawei-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Huawei  has native MKV support?</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/what-is-an-ai-voice-generator/"><u>What Is an AI Voice Generator?</u></a></li>
 </ul></div>
+
 

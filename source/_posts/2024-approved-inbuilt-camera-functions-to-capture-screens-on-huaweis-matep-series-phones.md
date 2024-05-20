@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones\""
-date: 2024-05-18T11:34:25.476Z
-updated: 2024-05-19T11:34:25.476Z
+date: 2024-05-19T23:01:56.396Z
+updated: 2024-05-20T23:01:56.396Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-video-background-blur-apps-for-mobile-devices/"><u>New In 2024, Top Video Background Blur Apps for Mobile Devices</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-poco-c50-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Poco C50 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

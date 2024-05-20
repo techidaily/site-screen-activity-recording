@@ -356,3 +356,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-20c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 20C Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
 
+

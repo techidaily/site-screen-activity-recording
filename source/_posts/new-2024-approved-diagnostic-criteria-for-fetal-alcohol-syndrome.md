@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Diagnostic Criteria for Fetal Alcohol Syndrome\""
-date: 2024-05-18T11:30:13.950Z
-updated: 2024-05-19T11:30:13.950Z
+date: 2024-05-19T23:01:44.885Z
+updated: 2024-05-20T23:01:44.885Z
 tags: 
   - screen-recording
   - ai video
@@ -925,4 +925,5 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s23plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S23+ with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-blaze-2-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Blaze 2 Pro Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Recording Your Games in HD  PS4 & OBS Studio Guide\""
-date: 2024-05-18T11:19:33.408Z
-updated: 2024-05-19T11:19:33.408Z
+date: 2024-05-19T23:01:17.368Z
+updated: 2024-05-20T23:01:17.368Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-smooth-4k-editing-the-top-video-editing-apps-for-proxy-videos/"><u>In 2024, Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-open-source-video-editing-software/"><u>New In 2024, Top Open-Source Video Editing Software</u></a></li>
 </ul></div>
+
 

@@ -164,3 +164,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-go-to-video-editor-for-mac-professionals-adobe-premiere-pro/"><u>New In 2024, The Go-To Video Editor for Mac Professionals Adobe Premiere Pro</u></a></li>
 </ul></div>
 
+

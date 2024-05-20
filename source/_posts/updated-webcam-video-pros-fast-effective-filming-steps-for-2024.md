@@ -483,3 +483,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-add-depth-to-your-footage-a-tutorial-on-3d-video-effects-for-windows-users/"><u>Updated Add Depth to Your Footage A Tutorial on 3D Video Effects for Windows Users</u></a></li>
 </ul></div>
 
+

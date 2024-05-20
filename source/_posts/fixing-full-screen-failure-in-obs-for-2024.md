@@ -1,7 +1,7 @@
 ---
 title: "Fixing Full Screen Failure in Obs for 2024"
-date: 2024-05-18T11:11:05.007Z
-updated: 2024-05-19T11:11:05.007Z
+date: 2024-05-19T23:00:56.482Z
+updated: 2024-05-20T23:00:56.482Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://audio-editing.techidaily.com/leading-voice-modification-tools-at-zero-cost-an-in-depth-filmora-video-voice-editing-handbook-for-2024/"><u>Leading Voice Modification Tools at Zero Cost An In-Depth Filmora Video Voice Editing Handbook for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-p55plus-frp-by-drfone-android/"><u>How Can We Bypass Itel P55+ FRP?</u></a></li>
 </ul></div>
+
 

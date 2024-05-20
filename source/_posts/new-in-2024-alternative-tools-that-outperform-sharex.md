@@ -276,3 +276,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://smart-video-creator.techidaily.com/updated-shoot-to-thrill-the-ultimate-guide-to-vertical-smartphone-video-for-2024/"><u>Updated Shoot to Thrill The Ultimate Guide to Vertical Smartphone Video for 2024</u></a></li>
 </ul></div>
 
+

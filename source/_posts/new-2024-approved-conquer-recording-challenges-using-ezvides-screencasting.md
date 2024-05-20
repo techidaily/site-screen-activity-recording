@@ -512,3 +512,4 @@ You can go for Ezvid download as well as Wondershare Filmora download to see for
 <li><a href="https://techidaily.com/is-your-motorola-razr-40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Razr 40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

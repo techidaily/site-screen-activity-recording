@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones"
-date: 2024-05-18T11:31:10.556Z
-updated: 2024-05-19T11:31:10.556Z
+date: 2024-05-19T23:01:47.086Z
+updated: 2024-05-20T23:01:47.086Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ Follow @Max Wales
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c12-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C12 FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 6 without Password?</u></a></li>
 </ul></div>
+
 

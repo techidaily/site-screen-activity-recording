@@ -1,7 +1,7 @@
 ---
 title: "Transmit Live Camera Feed Using VLC Media Player"
-date: 2024-05-18T11:25:57.357Z
-updated: 2024-05-19T11:25:57.357Z
+date: 2024-05-19T23:01:34.331Z
+updated: 2024-05-20T23:01:34.331Z
 tags: 
   - screen-recording
   - ai video
@@ -501,4 +501,5 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-master-vertical-video-top-secret-to-resize-for-social-media/"><u>New Master Vertical Video Top Secret to Resize for Social Media</u></a></li>
 </ul></div>
+
 

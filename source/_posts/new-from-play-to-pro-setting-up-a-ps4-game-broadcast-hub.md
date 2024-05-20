@@ -378,3 +378,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-step-by-step-training-from-novice-to-expert-in-wave-editing-basics/"><u>2024 Approved Step-by-Step Training From Novice to Expert in Wave Editing Basics</u></a></li>
 </ul></div>
 
+

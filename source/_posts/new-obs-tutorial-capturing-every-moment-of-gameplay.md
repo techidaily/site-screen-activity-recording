@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Tutorial  Capturing Every Moment of Gameplay\""
-date: 2024-05-18T11:18:34.308Z
-updated: 2024-05-19T11:18:34.308Z
+date: 2024-05-19T23:01:15.185Z
+updated: 2024-05-20T23:01:15.185Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-100plus-best-tiktok-captions-enhance-your-content/"><u>In 2024, 100+ Best TikTok Captions Enhance Your Content</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/vn-video-editor-app-analysis-features-pricing-and-more-for-2024/"><u>VN Video Editor App Analysis Features, Pricing, and More for 2024</u></a></li>
 </ul></div>
+
 

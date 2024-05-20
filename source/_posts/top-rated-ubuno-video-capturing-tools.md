@@ -1,7 +1,7 @@
 ---
 title: "\"Top-Rated UbuNo Video Capturing Tools\""
-date: 2024-05-18T11:31:42.783Z
-updated: 2024-05-19T11:31:42.783Z
+date: 2024-05-19T23:01:48.491Z
+updated: 2024-05-20T23:01:48.491Z
 tags: 
   - screen-recording
   - ai video
@@ -699,4 +699,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S23 | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-time-manipulation-speeding-updown-videos-in-camtasia/"><u>Updated In 2024, The Art of Time Manipulation Speeding Up/Down Videos in Camtasia</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Tips on Troubleshooting Frozen OBS Fullscreen Problem"
-date: 2024-05-18T11:18:28.344Z
-updated: 2024-05-19T11:18:28.344Z
+date: 2024-05-19T23:01:14.957Z
+updated: 2024-05-20T23:01:14.957Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y78 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-g24-power-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola G24 Power? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

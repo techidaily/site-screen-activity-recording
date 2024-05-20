@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Microphone Feedback  Audio Recorder\""
-date: 2024-05-18T11:29:38.185Z
-updated: 2024-05-19T11:29:38.185Z
+date: 2024-05-19T23:01:43.131Z
+updated: 2024-05-20T23:01:43.131Z
 tags: 
   - screen-recording
   - ai video
@@ -785,4 +785,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-tutorial-how-to-change-video-frame-rate/"><u>New In 2024, Premiere Pro Tutorial How To Change Video Frame Rate</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-top-10-free-online-subtitle-software-options/"><u>Updated 2024 Approved The Top 10 Free Online Subtitle Software Options</u></a></li>
 </ul></div>
+
 

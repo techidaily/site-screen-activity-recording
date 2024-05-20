@@ -276,3 +276,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-video-editing.techidaily.com/1713942913593-how-to-make-split-screen-videos-in-filmora-for-2024/"><u>How To Make Split Screen Videos in Filmora for 2024</u></a></li>
 </ul></div>
 
+

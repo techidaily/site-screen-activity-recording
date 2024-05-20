@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Setup Guide for macOS  Downloading & Setting Up\""
-date: 2024-05-18T11:37:29.131Z
-updated: 2024-05-19T11:37:29.131Z
+date: 2024-05-19T23:02:03.451Z
+updated: 2024-05-20T23:02:03.451Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://smart-video-creator.techidaily.com/top-mobile-video-editors-for-portrait-mode-videos/"><u>Top Mobile Video Editors for Portrait Mode Videos</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

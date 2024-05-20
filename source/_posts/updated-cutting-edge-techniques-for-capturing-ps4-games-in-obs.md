@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cutting-Edge Techniques for Capturing PS4 Games in OBS\""
-date: 2024-05-18T11:29:21.103Z
-updated: 2024-05-19T11:29:21.103Z
+date: 2024-05-19T23:01:42.466Z
+updated: 2024-05-20T23:01:42.466Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
 </ul></div>
+
 

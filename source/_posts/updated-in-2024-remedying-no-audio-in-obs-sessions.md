@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Remedying No Audio in OBS Sessions"
-date: 2024-05-18T11:31:21.364Z
-updated: 2024-05-19T11:31:21.364Z
+date: 2024-05-19T23:01:47.477Z
+updated: 2024-05-20T23:01:47.477Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Itel A05s | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/the-art-of-celebrity-sound-transformation-an-insiders-guide-to-state-of-the-art-techniques-and-tools/"><u>The Art of Celebrity Sound Transformation An Insiders Guide to State-of-the-Art Techniques & Tools</u></a></li>
 </ul></div>
+
 

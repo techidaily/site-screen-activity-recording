@@ -1,7 +1,7 @@
 ---
 title: "Proficient Use of OBS Studio on Your Android Phone"
-date: 2024-05-18T11:12:37.567Z
-updated: 2024-05-19T11:12:37.567Z
+date: 2024-05-19T23:01:00.242Z
+updated: 2024-05-20T23:01:00.242Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-art-of-stop-motion-on-instagram-a-comprehensive-guide-for-creators/"><u>New In 2024, The Art of Stop Motion on Instagram A Comprehensive Guide for Creators</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-reframe-your-videos-in-seconds-top-editor-choices/"><u>2024 Approved Reframe Your Videos in Seconds Top Editor Choices</u></a></li>
 </ul></div>
+
 

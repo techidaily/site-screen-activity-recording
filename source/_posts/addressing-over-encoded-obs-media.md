@@ -1,7 +1,7 @@
 ---
 title: "\"Addressing Over-Encoded OBS Media\""
-date: 2024-05-18T11:28:13.936Z
-updated: 2024-05-19T11:28:13.936Z
+date: 2024-05-19T23:01:39.829Z
+updated: 2024-05-20T23:01:39.829Z
 tags: 
   - screen-recording
   - ai video
@@ -307,4 +307,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Max Without Passcode Easily</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-10-best-aspect-ratio-adjustment-software-options/"><u>New The 10 Best Aspect Ratio Adjustment Software Options</u></a></li>
 </ul></div>
+
 

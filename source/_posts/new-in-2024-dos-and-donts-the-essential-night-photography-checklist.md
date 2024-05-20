@@ -202,3 +202,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-ratio-calculator-can-help-you-perform-many-computations-of-images-more-conveniently-this-article-teaches-you-everything-about-aspect-ratios-for-/"><u>Updated The Ratio Calculator Can Help You Perform Many Computations of Images More Conveniently. This Article Teaches You Everything About Aspect Ratios for Images and Videos. Read on to Learn More</u></a></li>
 </ul></div>
 
+

@@ -423,3 +423,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-steps-to-add-subtitles-in-canva/"><u>New 2024 Approved Steps to Add Subtitles in Canva</u></a></li>
 </ul></div>
 
+

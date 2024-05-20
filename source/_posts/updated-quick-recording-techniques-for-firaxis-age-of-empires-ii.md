@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Recording Techniques for Firaxis' Age of Empires II"
-date: 2024-05-18T11:11:23.798Z
-updated: 2024-05-19T11:11:23.798Z
+date: 2024-05-19T23:00:57.205Z
+updated: 2024-05-20T23:00:57.205Z
 tags: 
   - screen-recording
   - ai video
@@ -468,4 +468,5 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-top-tier-gratis-mp3-integration-suites-for-the-modern-ear/"><u>Updated 2024 Approved Top-Tier, Gratis MP3 Integration Suites for the Modern Ear</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On OnePlus 12R? | Dr.fone</u></a></li>
 </ul></div>
+
 

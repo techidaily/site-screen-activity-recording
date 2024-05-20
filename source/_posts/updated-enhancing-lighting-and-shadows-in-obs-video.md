@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enhancing Lighting and Shadows in OBS Video"
-date: 2024-05-18T11:36:00.406Z
-updated: 2024-05-19T11:36:00.406Z
+date: 2024-05-19T23:02:00.289Z
+updated: 2024-05-20T23:02:00.289Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo T2 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

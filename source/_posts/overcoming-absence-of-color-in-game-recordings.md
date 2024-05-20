@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Absence of Color in Game Recordings"
-date: 2024-05-18T11:34:39.308Z
-updated: 2024-05-19T11:34:39.308Z
+date: 2024-05-19T23:01:56.899Z
+updated: 2024-05-20T23:01:56.899Z
 tags: 
   - screen-recording
   - ai video
@@ -246,4 +246,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic5-ultimate-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic5 Ultimate Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-premier-voice-modification-software-reviews-latest-edition-2024/"><u>New Premier Voice Modification Software Reviews - Latest Edition 2024</u></a></li>
 </ul></div>
+
 

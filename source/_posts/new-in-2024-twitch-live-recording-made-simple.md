@@ -553,3 +553,4 @@ Both Twitch streamer and viewer need to record Twitch stream. A Twitch streamer 
 <li><a href="https://fix-guide.techidaily.com/infinix-smart-7-hd-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 7 HD Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

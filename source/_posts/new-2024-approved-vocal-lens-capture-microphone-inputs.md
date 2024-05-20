@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Vocal Lens Capture  Microphone Inputs\""
-date: 2024-05-18T11:19:28.248Z
-updated: 2024-05-19T11:19:28.248Z
+date: 2024-05-19T23:01:17.206Z
+updated: 2024-05-20T23:01:17.206Z
 tags: 
   - screen-recording
   - ai video
@@ -771,4 +771,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Gionee F3 Pro FRP</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-free-top-10-green-screen-apps-for-androidios-for-2024/"><u>Updated FREE Top 10 Green Screen APPs for Android/iOS for 2024</u></a></li>
 </ul></div>
+
 

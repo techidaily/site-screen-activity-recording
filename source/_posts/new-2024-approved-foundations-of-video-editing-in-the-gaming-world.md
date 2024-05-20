@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Foundations of Video Editing in the Gaming World\""
-date: 2024-05-18T11:24:04.091Z
-updated: 2024-05-19T11:24:04.091Z
+date: 2024-05-19T23:01:29.618Z
+updated: 2024-05-20T23:01:29.618Z
 tags: 
   - screen-recording
   - ai video
@@ -863,4 +863,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-10-android-video-editing-apps-that-rival-imovie-for-2024/"><u>Updated 10 Android Video Editing Apps That Rival iMovie for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Advanced Features of OBS Studio on Android Platforms"
-date: 2024-05-18T11:37:34.828Z
-updated: 2024-05-19T11:37:34.828Z
+date: 2024-05-19T23:02:03.919Z
+updated: 2024-05-20T23:02:03.919Z
 tags: 
   - screen-recording
   - ai video
@@ -548,4 +548,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-oppo-find-x7-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Oppo Find X7</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-a18-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A18 Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

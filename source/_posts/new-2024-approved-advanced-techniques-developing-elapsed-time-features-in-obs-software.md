@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced Techniques  Developing Elapsed Time Features in OBS Software\""
-date: 2024-05-18T11:33:27.552Z
-updated: 2024-05-19T11:33:27.552Z
+date: 2024-05-19T23:01:52.968Z
+updated: 2024-05-20T23:01:52.968Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-free/"><u>2024 Approved Free</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Complete Guide to Downloading, Setting up and Using OBS on macOS"
-date: 2024-05-18T11:28:44.850Z
-updated: 2024-05-19T11:28:44.850Z
+date: 2024-05-19T23:01:40.993Z
+updated: 2024-05-20T23:01:40.993Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-vivo-x-fold-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X Fold 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

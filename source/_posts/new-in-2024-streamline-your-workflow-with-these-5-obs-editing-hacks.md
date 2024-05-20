@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Streamline Your Workflow with These 5 OBS Editing Hacks"
-date: 2024-05-18T11:36:15.242Z
-updated: 2024-05-19T11:36:15.242Z
+date: 2024-05-19T23:02:00.783Z
+updated: 2024-05-20T23:02:00.783Z
 tags: 
   - screen-recording
   - ai video
@@ -516,4 +516,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia G22 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-top-5-free-mpeg-video-editing-tools-with-joining-feature/"><u>In 2024, Top 5 Free MPEG Video Editing Tools with Joining Feature</u></a></li>
 </ul></div>
+
 

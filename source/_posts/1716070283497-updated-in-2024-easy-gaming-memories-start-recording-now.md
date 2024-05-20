@@ -485,3 +485,4 @@ NIVIDA game recorder is available for free and there are good enough features to
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p55t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P55T Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
 
+

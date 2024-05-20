@@ -452,3 +452,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-canva-collages/"><u>New In 2024, How to Make Canva Collages</u></a></li>
 </ul></div>
 
+

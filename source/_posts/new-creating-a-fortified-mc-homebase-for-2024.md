@@ -361,3 +361,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect-for-2024/"><u>New The Art of Pan and Zoom How to Achieve the Ken Burns Effect for 2024</u></a></li>
 </ul></div>
 
+

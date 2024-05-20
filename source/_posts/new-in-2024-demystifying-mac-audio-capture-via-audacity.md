@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Demystifying Mac Audio Capture via Audacity"
-date: 2024-05-18T11:33:28.906Z
-updated: 2024-05-19T11:33:28.906Z
+date: 2024-05-19T23:01:53.025Z
+updated: 2024-05-20T23:01:53.025Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://audio-shaping.techidaily.com/updated-10-essential-zoom-vocal-effects-elevate-your-speaking-style-with-warmth-and-wit-for-2024/"><u>Updated 10 Essential Zoom Vocal Effects Elevate Your Speaking Style with Warmth & Wit for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

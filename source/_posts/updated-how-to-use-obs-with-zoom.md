@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use OBS with Zoom"
-date: 2024-05-18T11:27:43.897Z
-updated: 2024-05-19T11:27:43.897Z
+date: 2024-05-19T23:01:38.522Z
+updated: 2024-05-20T23:01:38.522Z
 tags: 
   - screen-recording
   - ai video
@@ -412,4 +412,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://animation-videos.techidaily.com/in-depth-study-of-cartoon-painting-starts-from-learning-to-draw-it/"><u>In-Depth Study of Cartoon Painting Starts From Learning to Draw It</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-auditory-excellence-pinpointing-the-best-songs-to-accompany-your-montage-narrative-for-2024/"><u>Updated Auditory Excellence Pinpointing the Best Songs to Accompany Your Montage Narrative for 2024</u></a></li>
 </ul></div>
+
 

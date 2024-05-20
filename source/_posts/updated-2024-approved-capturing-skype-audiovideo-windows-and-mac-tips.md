@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Skype Audio/Video  Windows & Mac Tips\""
-date: 2024-05-18T11:18:23.464Z
-updated: 2024-05-19T11:18:23.464Z
+date: 2024-05-19T23:01:14.792Z
+updated: 2024-05-20T23:01:14.792Z
 tags: 
   - screen-recording
   - ai video
@@ -629,4 +629,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/new-steady-shots-best-free-android-video-stabilizers/"><u>New Steady Shots Best Free Android Video Stabilizers</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
+
 

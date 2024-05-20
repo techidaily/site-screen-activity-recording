@@ -404,3 +404,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/ways-to-make-canva-collages-for-2024/"><u>Ways to Make Canva Collages for 2024</u></a></li>
 </ul></div>
 
+

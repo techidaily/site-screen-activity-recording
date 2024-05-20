@@ -409,3 +409,4 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/new-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-professional-results/"><u>New Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results</u></a></li>
 </ul></div>
 
+

@@ -485,3 +485,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-time-lapse-a-video-on-imovie/"><u>New How to Time-Lapse a Video on iMovie</u></a></li>
 </ul></div>
 
+

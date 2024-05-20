@@ -473,3 +473,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Motorola Edge 40?</u></a></li>
 </ul></div>
 
+

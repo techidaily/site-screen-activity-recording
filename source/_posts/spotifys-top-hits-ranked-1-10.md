@@ -1,7 +1,7 @@
 ---
 title: "\"Spotify's Top Hits  Ranked 1-10\""
-date: 2024-05-18T11:34:22.767Z
-updated: 2024-05-19T11:34:22.767Z
+date: 2024-05-19T23:01:56.211Z
+updated: 2024-05-20T23:01:56.211Z
 tags: 
   - screen-recording
   - ai video
@@ -1059,4 +1059,5 @@ There is no option available to record a stream on Spotify. If you are a premium
 <li><a href="https://ai-editing-video.techidaily.com/best-online-mpeg-to-gif-converters/"><u>Best Online MPEG to GIF Converters</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-unlock-perfect-videos-the-essential-facebook-aspect-ratio-handbook-for-2024/"><u>Updated Unlock Perfect Videos The Essential Facebook Aspect Ratio Handbook for 2024</u></a></li>
 </ul></div>
+
 

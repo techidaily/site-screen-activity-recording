@@ -1,7 +1,7 @@
 ---
 title: "\"Uncover the Best 8 Open-Source Video Conferencing Tools of Now\""
-date: 2024-05-18T11:12:37.840Z
-updated: 2024-05-19T11:12:37.840Z
+date: 2024-05-19T23:01:00.251Z
+updated: 2024-05-20T23:01:00.251Z
 tags: 
   - screen-recording
   - ai video
@@ -701,4 +701,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-the-best-peter-mckinnon-luts-recommendation/"><u>In 2024, The Best Peter McKinnon LUTs Recommendation</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-free-and-open-source-audio-conversion-software-top-picks-for-2024/"><u>Updated Free and Open Source Audio Conversion Software Top Picks for 2024</u></a></li>
 </ul></div>
+
 

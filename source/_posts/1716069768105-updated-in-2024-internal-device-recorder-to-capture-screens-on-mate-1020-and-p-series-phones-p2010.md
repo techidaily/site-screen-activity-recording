@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)."
-date: 2024-05-18T11:36:52.351Z
-updated: 2024-05-19T11:36:52.351Z
+date: 2024-05-19T23:02:02.154Z
+updated: 2024-05-20T23:02:02.154Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-create-a-stunning-video-resume-top-4-makers-with-free-resources/"><u>2024 Approved Create a Stunning Video Resume Top 4 Makers with Free Resources</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-pinpoint-synthetic-soundscapes-mimicking-brushwork-for-2024/"><u>New Pinpoint Synthetic Soundscapes Mimicking Brushwork for 2024</u></a></li>
 </ul></div>
+
 

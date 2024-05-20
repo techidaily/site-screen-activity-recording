@@ -1,7 +1,7 @@
 ---
 title: "\"Go Pro  Capturing PS4 Games in HD via OBS Studio Tutorial\""
-date: 2024-05-18T11:12:37.020Z
-updated: 2024-05-19T11:12:37.020Z
+date: 2024-05-19T23:01:00.234Z
+updated: 2024-05-20T23:01:00.234Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-12-pro-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme 12 Pro 5G Unlock Without Password</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 10 4G</u></a></li>
 </ul></div>
+
 

@@ -603,3 +603,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

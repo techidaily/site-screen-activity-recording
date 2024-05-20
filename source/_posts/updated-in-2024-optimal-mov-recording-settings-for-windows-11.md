@@ -663,3 +663,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://techidaily.com/hard-resetting-an-honor-magic-v2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic V2 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

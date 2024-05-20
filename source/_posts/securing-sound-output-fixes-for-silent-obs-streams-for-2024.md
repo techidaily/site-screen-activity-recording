@@ -1,7 +1,7 @@
 ---
 title: "\"Securing Sound Output  Fixes for Silent OBS Streams for 2024\""
-date: 2024-05-18T11:28:19.897Z
-updated: 2024-05-19T11:28:19.897Z
+date: 2024-05-19T23:01:40.065Z
+updated: 2024-05-20T23:01:40.065Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 10 & 7</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-innovative-online-solutions-for-acoustic-purification-for-2024/"><u>Updated Innovative Online Solutions for Acoustic Purification for 2024</u></a></li>
 </ul></div>
+
 

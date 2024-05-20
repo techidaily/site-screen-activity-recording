@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adjusting Settings for Audible OBS Broadcasts for 2024"
-date: 2024-05-18T11:31:00.821Z
-updated: 2024-05-19T11:31:00.821Z
+date: 2024-05-19T23:01:46.663Z
+updated: 2024-05-20T23:01:46.663Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-cutting-edge-6-internet-audio-divide-and-conquer-software/"><u>New 2024 Approved Cutting Edge 6 Internet Audio Divide and Conquer Software</u></a></li>
 </ul></div>
+
 

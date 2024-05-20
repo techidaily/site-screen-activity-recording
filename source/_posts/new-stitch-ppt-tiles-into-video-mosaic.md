@@ -1,7 +1,7 @@
 ---
 title: "[New] Stitch PPT Tiles Into Video Mosaic"
-date: 2024-05-18T11:24:28.776Z
-updated: 2024-05-19T11:24:28.776Z
+date: 2024-05-19T23:01:30.653Z
+updated: 2024-05-20T23:01:30.653Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies-for-2024/"><u>Learn to Use Montage with These Movies for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-vivo-v27-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Vivo V27 has been deleted.</u></a></li>
 </ul></div>
+
 

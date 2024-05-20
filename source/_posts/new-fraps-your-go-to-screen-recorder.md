@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fraps  Your Go-To Screen Recorder?\""
-date: 2024-05-18T11:19:29.607Z
-updated: 2024-05-19T11:19:29.607Z
+date: 2024-05-19T23:01:17.248Z
+updated: 2024-05-20T23:01:17.248Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-i-got-free-after-effects-templates-slideshow-with-simple-trick/"><u>New In 2024, How I Got Free After Effects Templates Slideshow with Simple Trick</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-c51-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme C51?</u></a></li>
 </ul></div>
+
 

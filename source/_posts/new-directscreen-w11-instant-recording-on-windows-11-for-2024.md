@@ -1,7 +1,7 @@
 ---
 title: "\"[New] DirectScreen W11  Instant Recording on Windows 11 for 2024\""
-date: 2024-05-18T11:14:03.494Z
-updated: 2024-05-19T11:14:03.494Z
+date: 2024-05-19T23:01:03.906Z
+updated: 2024-05-20T23:01:03.906Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-5-amazing-voice-changer-for-google-meet/"><u>Updated In 2024, 5 Amazing Voice Changer for Google Meet</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-google-pixel-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Google Pixel Fold Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

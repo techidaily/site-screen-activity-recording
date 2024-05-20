@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Video Capture  A Comprehensive Fraps Test\""
-date: 2024-05-18T11:21:10.362Z
-updated: 2024-05-19T11:21:10.362Z
+date: 2024-05-19T23:01:21.333Z
+updated: 2024-05-20T23:01:21.333Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

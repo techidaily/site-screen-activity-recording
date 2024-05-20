@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Obs Full Screen Glitch  Resolution Dropped\""
-date: 2024-05-18T11:18:11.681Z
-updated: 2024-05-19T11:18:11.681Z
+date: 2024-05-19T23:01:14.334Z
+updated: 2024-05-20T23:01:14.334Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 7 Ultimate</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-find-the-finest-tools-to-remove-background-noise-online/"><u>Updated Find The Finest Tools To Remove Background Noise Online</u></a></li>
 </ul></div>
+
 

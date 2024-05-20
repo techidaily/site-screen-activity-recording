@@ -195,3 +195,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-content-creator.techidaily.com/new-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp/"><u>New Smooth Audio Transitions 2 Methods to Fade In and Out in FCP</u></a></li>
 </ul></div>
 
+

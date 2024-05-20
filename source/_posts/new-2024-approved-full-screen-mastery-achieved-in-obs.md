@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Full Screen Mastery Achieved in Obs\""
-date: 2024-05-18T11:32:42.368Z
-updated: 2024-05-19T11:32:42.368Z
+date: 2024-05-19T23:01:51.044Z
+updated: 2024-05-20T23:01:51.044Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-14-pro-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 14 Pro Screen with PC | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 14 Pro Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

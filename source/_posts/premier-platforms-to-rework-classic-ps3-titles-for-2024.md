@@ -526,3 +526,4 @@ For macOS 10.12 or later
 <li><a href="https://audio-shaping.techidaily.com/new-leading-speech-transcription-tools-for-smartphones-android-and-iphone-edition/"><u>New Leading Speech Transcription Tools for Smartphones - Android and iPhone Edition</u></a></li>
 </ul></div>
 
+

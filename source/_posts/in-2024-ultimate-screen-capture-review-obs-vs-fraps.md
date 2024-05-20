@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Screen Capture Review  OBS vs Fraps\""
-date: 2024-05-18T11:17:14.496Z
-updated: 2024-05-19T11:17:14.496Z
+date: 2024-05-19T23:01:11.761Z
+updated: 2024-05-20T23:01:11.761Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://smart-video-editing.techidaily.com/updated-create-cartoon-avatars-from-your-photos-for-2024/"><u>Updated Create Cartoon Avatars From Your Photos for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/pro-level-video-editing-on-mac-adobe-premiere-pro/"><u>Pro-Level Video Editing on Mac Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

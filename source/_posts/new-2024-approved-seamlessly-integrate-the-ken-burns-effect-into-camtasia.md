@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Seamlessly Integrate the Ken Burns Effect Into Camtasia\""
-date: 2024-05-18T11:24:35.824Z
-updated: 2024-05-19T11:24:35.824Z
+date: 2024-05-19T23:01:30.898Z
+updated: 2024-05-20T23:01:30.898Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/selecting-the-perfect-android-video-editor-for-your-needs-for-2024/"><u>Selecting the Perfect Android Video Editor for Your Needs for 2024</u></a></li>
 </ul></div>
+
 

@@ -999,3 +999,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia C12 Pro without backup.</u></a></li>
 </ul></div>
 
+

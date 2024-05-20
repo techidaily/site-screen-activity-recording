@@ -186,3 +186,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-creation-software.techidaily.com/blur-faces-with-ease-10-best-free-photo-and-video-editing-apps-for-2024/"><u>Blur Faces with Ease 10 Best Free Photo and Video Editing Apps for 2024</u></a></li>
 </ul></div>
 
+

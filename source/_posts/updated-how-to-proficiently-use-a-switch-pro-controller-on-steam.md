@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Proficiently Use a Switch Pro Controller on Steam"
-date: 2024-05-18T11:30:06.651Z
-updated: 2024-05-19T11:30:06.651Z
+date: 2024-05-19T23:01:44.560Z
+updated: 2024-05-20T23:01:44.560Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-free-video-smoothers-for-professional-looking-footage/"><u>Updated In 2024, Top Free Video Smoothers for Professional-Looking Footage</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/how-to-create-ai-powered-videos-using-synthesia-avatar-and-voices/"><u>How To Create AI-Powered Videos Using Synthesia Avatar and Voices</u></a></li>
 </ul></div>
+
 

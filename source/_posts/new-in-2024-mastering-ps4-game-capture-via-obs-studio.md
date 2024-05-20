@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering PS4 Game Capture via OBS Studio"
-date: 2024-05-18T11:31:55.601Z
-updated: 2024-05-19T11:31:55.601Z
+date: 2024-05-19T23:01:49.206Z
+updated: 2024-05-20T23:01:49.206Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A34 5G?</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-magic-6-lite-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Magic 6 Lite System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

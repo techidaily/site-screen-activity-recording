@@ -1,7 +1,7 @@
 ---
 title: "[New] Discovering the Power of Fraps in Video Capture"
-date: 2024-05-18T11:30:25.052Z
-updated: 2024-05-19T11:30:25.052Z
+date: 2024-05-19T23:01:45.306Z
+updated: 2024-05-20T23:01:45.306Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcp-voice-over-guide-quick-start-tips/"><u>The Ultimate FCP Voice Over Guide Quick Start Tips</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nubia-red-magic-9-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nubia Red Magic 9 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

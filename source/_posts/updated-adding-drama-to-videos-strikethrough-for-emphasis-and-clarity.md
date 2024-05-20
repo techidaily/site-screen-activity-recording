@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Adding Drama to Videos  Strikethrough for Emphasis and Clarity\""
-date: 2024-05-18T11:36:20.663Z
-updated: 2024-05-19T11:36:20.663Z
+date: 2024-05-19T23:02:01.016Z
+updated: 2024-05-20T23:02:01.016Z
 tags: 
   - screen-recording
   - ai video
@@ -505,4 +505,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/from-bland-to-grand-transform-your-thumbnails-with-these-proven-tactics-for-2024/"><u>From Bland to Grand Transform Your Thumbnails with These Proven Tactics for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-hyperlapse-vs-timelapse-videos/"><u>New Hyperlapse VS Timelapse Videos</u></a></li>
 </ul></div>
+
 

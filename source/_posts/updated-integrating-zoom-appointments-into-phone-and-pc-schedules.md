@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating Zoom Appointments Into Phone & PC Schedules"
-date: 2024-05-18T11:23:11.959Z
-updated: 2024-05-19T11:23:11.960Z
+date: 2024-05-19T23:01:27.186Z
+updated: 2024-05-20T23:01:27.186Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ Follow @Richard Bennett
 <li><a href="https://video-content-creator.techidaily.com/new-edit-flv-videos-like-a-pro-top-5-free-tools-for-2024/"><u>New Edit FLV Videos Like a Pro Top 5 Free Tools for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching/"><u>Updated In 2024, 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Recording Fun  6 Techniques to Document Minecraft\""
-date: 2024-05-18T11:17:47.314Z
-updated: 2024-05-19T11:17:47.314Z
+date: 2024-05-19T23:01:12.993Z
+updated: 2024-05-20T23:01:12.993Z
 tags: 
   - screen-recording
   - ai video
@@ -703,4 +703,5 @@ Gameplay recording, for instance, Minecraft should be possible effectively utili
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 Pro and iPad Securely | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12t-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12T Pro Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

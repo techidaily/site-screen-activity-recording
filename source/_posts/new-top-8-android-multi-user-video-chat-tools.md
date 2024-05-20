@@ -711,3 +711,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-aspect-ratio-settings-in-fcp-what-you-need-to-know-2023-update/"><u>New Aspect Ratio Settings in FCP What You Need to Know (2023 Update)</u></a></li>
 </ul></div>
 
+

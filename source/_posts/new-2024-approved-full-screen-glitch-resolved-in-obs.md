@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Full-Screen Glitch Resolved in Obs\""
-date: 2024-05-18T11:37:14.764Z
-updated: 2024-05-19T11:37:14.764Z
+date: 2024-05-19T23:02:02.955Z
+updated: 2024-05-20T23:02:02.955Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-camon-20-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Camon 20 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

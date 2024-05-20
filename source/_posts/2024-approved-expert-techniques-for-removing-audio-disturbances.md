@@ -300,3 +300,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/new-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp-for-2024/"><u>New Smooth Audio Transitions 2 Methods to Fade In and Out in FCP for 2024</u></a></li>
 </ul></div>
 
+

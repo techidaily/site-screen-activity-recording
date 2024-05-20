@@ -589,3 +589,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/repeated-text-animation-tutorial/"><u>Repeated Text Animation Tutorial</u></a></li>
 </ul></div>
 
+

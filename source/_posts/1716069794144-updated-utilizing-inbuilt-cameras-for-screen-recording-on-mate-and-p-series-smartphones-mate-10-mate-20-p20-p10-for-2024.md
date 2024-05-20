@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10). For 2024"
-date: 2024-05-18T11:30:05.841Z
-updated: 2024-05-19T11:30:05.841Z
+date: 2024-05-19T23:01:44.542Z
+updated: 2024-05-20T23:01:44.542Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-unveiling-top-5-priceless-open-source-windows-software-for-high-quality-sound-editing/"><u>2024 Approved Unveiling Top 5 Priceless Open-Source Windows Software for High-Quality Sound Editing</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-10-free-online-video-trimmers-2023-edition-for-2024/"><u>Updated The Ultimate List of 10 Free Online Video Trimmers 2023 Edition for 2024</u></a></li>
 </ul></div>
+
 

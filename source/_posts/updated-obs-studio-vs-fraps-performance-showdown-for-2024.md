@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio vs Fraps  Performance Showdown for 2024\""
-date: 2024-05-18T11:21:33.964Z
-updated: 2024-05-19T11:21:33.964Z
+date: 2024-05-19T23:01:22.231Z
+updated: 2024-05-20T23:01:22.231Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-mute-tiktok-audio-easy-ways-to-follow/"><u>Updated In 2024, How to Mute TikTok Audio Easy Ways to Follow</u></a></li>
 </ul></div>
+
 

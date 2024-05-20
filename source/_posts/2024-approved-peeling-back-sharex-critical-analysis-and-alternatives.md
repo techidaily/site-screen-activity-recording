@@ -277,3 +277,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
 
+

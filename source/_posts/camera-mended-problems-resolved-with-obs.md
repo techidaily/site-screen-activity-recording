@@ -1,7 +1,7 @@
 ---
 title: "Camera Mended, Problems Resolved with OBS"
-date: 2024-05-18T11:19:02.378Z
-updated: 2024-05-19T11:19:02.378Z
+date: 2024-05-19T23:01:16.223Z
+updated: 2024-05-20T23:01:16.223Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor X7b | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-nova-y71-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Nova Y71</u></a></li>
 </ul></div>
+
 

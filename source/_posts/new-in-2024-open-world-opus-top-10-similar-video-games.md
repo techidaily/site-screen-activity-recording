@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Open World Opus  Top 10 Similar Video Games\""
-date: 2024-05-18T11:26:19.864Z
-updated: 2024-05-19T11:26:19.865Z
+date: 2024-05-19T23:01:35.148Z
+updated: 2024-05-20T23:01:35.148Z
 tags: 
   - screen-recording
   - ai video
@@ -850,4 +850,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://video-creation-software.techidaily.com/new-imovie-alternatives-top-free-options-for-video-editing-for-2024/"><u>New IMovie Alternatives Top Free Options for Video Editing for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s18e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S18e Phones with/without a PC</u></a></li>
 </ul></div>
+
 

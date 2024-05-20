@@ -1023,3 +1023,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-tools.techidaily.com/new-the-secret-to-perfect-proportions-resizing-vertical-videos-for-social/"><u>New The Secret to Perfect Proportions Resizing Vertical Videos for Social</u></a></li>
 </ul></div>
 
+

@@ -344,3 +344,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/new-pro-tips-for-creating-convincing-motion-blur-in-final-cut-pro/"><u>New Pro Tips for Creating Convincing Motion Blur in Final Cut Pro</u></a></li>
 </ul></div>
 
+

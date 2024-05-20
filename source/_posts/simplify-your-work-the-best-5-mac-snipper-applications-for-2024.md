@@ -291,3 +291,4 @@ For macOS 10.12 or later
 <li><a href="https://voice-adjusting.techidaily.com/harnessing-audacity-for-zero-cost-audio-capture-from-pc-speakers-for-2024/"><u>Harnessing Audacity for Zero-Cost Audio Capture From PC Speakers for 2024</u></a></li>
 </ul></div>
 
+

@@ -381,3 +381,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v27e-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V27e</u></a></li>
 </ul></div>
 
+

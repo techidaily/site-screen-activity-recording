@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mac  Audacity's Audio Recording Guide\""
-date: 2024-05-18T11:31:27.597Z
-updated: 2024-05-19T11:31:27.597Z
+date: 2024-05-19T23:01:47.783Z
+updated: 2024-05-20T23:01:47.783Z
 tags: 
   - screen-recording
   - ai video
@@ -313,4 +313,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-hd-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 HD Pattern Lock Screen</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

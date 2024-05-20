@@ -226,3 +226,4 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy XCover 7 ?</u></a></li>
 </ul></div>
 
+

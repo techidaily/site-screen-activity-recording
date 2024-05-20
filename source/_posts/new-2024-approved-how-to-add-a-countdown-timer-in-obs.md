@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How To Add a Countdown Timer in OBS\""
-date: 2024-05-18T11:33:13.243Z
-updated: 2024-05-19T11:33:13.243Z
+date: 2024-05-19T23:01:52.423Z
+updated: 2024-05-20T23:01:52.423Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

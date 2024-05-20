@@ -243,3 +243,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-translation.techidaily.com/top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 </ul></div>
 
+

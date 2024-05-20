@@ -447,3 +447,4 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/advanced-audio-manipulation-in-adobe-premiere-pro-windows-platform/"><u>Advanced Audio Manipulation in Adobe Premiere Pro (Windows Platform)</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Bur Background in Google Meet"
-date: 2024-05-18T11:25:02.231Z
-updated: 2024-05-19T11:25:02.231Z
+date: 2024-05-19T23:01:31.818Z
+updated: 2024-05-20T23:01:31.818Z
 tags: 
   - screen-recording
   - ai video
@@ -528,4 +528,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-transparent-background-on-picsart/"><u>Updated In 2024, How To Make Transparent Background On Picsart</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

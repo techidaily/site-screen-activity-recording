@@ -1,7 +1,7 @@
 ---
 title: "[New] Correcting Excessive Encoding in OBS"
-date: 2024-05-18T11:16:50.431Z
-updated: 2024-05-19T11:16:50.431Z
+date: 2024-05-19T23:01:10.788Z
+updated: 2024-05-20T23:01:10.788Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://audio-editing.techidaily.com/updated-the-vimeo-video-spectrum-examining-the-role-of-aspect-ratio-in-content-quality-for-2024/"><u>Updated The Vimeo Video Spectrum Examining the Role of Aspect Ratio in Content Quality for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-change-video-aspect-ratio-in-final-cut-pro-easy-instructions-for-beginners/"><u>New Change Video Aspect Ratio in Final Cut Pro Easy Instructions for Beginners</u></a></li>
 </ul></div>
+
 

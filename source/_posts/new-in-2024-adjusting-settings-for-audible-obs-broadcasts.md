@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-18T11:22:13.126Z
-updated: 2024-05-19T11:22:13.126Z
+date: 2024-05-19T23:01:24.595Z
+updated: 2024-05-20T23:01:24.595Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-13-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 13 Pro 5G Lock Screen Password?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco C65 Phone Without Password?</u></a></li>
 </ul></div>
+
 

@@ -534,3 +534,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/samsung-galaxy-a05s-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A05s won’t play AVCHD .mts files</u></a></li>
 </ul></div>
 
+

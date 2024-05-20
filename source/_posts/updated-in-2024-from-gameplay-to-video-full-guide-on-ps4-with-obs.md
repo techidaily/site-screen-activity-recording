@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-18T11:34:34.137Z
-updated: 2024-05-19T11:34:34.137Z
+date: 2024-05-19T23:01:56.706Z
+updated: 2024-05-20T23:01:56.706Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-tools.techidaily.com/new-cut-trim-and-edit-top-10-free-video-software-for-windows-10-for-2024/"><u>New Cut, Trim, and Edit Top 10 Free Video Software for Windows 10 for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

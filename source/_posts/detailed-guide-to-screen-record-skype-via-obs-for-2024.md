@@ -1,7 +1,7 @@
 ---
 title: "Detailed Guide to Screen Record Skype via OBS for 2024"
-date: 2024-05-18T11:18:33.225Z
-updated: 2024-05-19T11:18:33.225Z
+date: 2024-05-19T23:01:15.140Z
+updated: 2024-05-20T23:01:15.140Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s17t-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S17t PC | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/essential-websites-and-applications-for-supercharging-your-videography-with-captivating-audio-tracks-pros-cons-and-more/"><u>Essential Websites & Applications for Supercharging Your Videography with Captivating Audio Tracks Pros, Cons, and More</u></a></li>
 </ul></div>
+
 

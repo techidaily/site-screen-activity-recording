@@ -656,3 +656,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-z50s-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Z50S Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

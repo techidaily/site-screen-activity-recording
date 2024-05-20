@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Transformative Camera Movements  Your Guide to Ken Burns in Camtasa\""
-date: 2024-05-18T11:27:25.217Z
-updated: 2024-05-19T11:27:25.217Z
+date: 2024-05-19T23:01:37.733Z
+updated: 2024-05-20T23:01:37.733Z
 tags: 
   - screen-recording
   - ai video
@@ -343,4 +343,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-x50iplus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor X50i+</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-10-best-audio-editor-windows-mac/"><u>Updated 10 Best Audio Editor Windows, Mac</u></a></li>
 </ul></div>
+
 

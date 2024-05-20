@@ -409,3 +409,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Huawei Nova Y71 ?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Games Like Ghost of Tsushima You Must Try"
-date: 2024-05-18T11:18:53.084Z
-updated: 2024-05-19T11:18:53.084Z
+date: 2024-05-19T23:01:15.835Z
+updated: 2024-05-20T23:01:15.835Z
 tags: 
   - screen-recording
   - ai video
@@ -623,4 +623,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-font-effects-to-videos/"><u>New In 2024, How to Add Font Effects to Videos</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia C12? | Dr.fone</u></a></li>
 </ul></div>
+
 

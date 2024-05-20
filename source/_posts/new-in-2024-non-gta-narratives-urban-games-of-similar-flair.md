@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Non-GTA Narratives  Urban Games of Similar Flair\""
-date: 2024-05-18T11:13:13.998Z
-updated: 2024-05-19T11:13:13.998Z
+date: 2024-05-19T23:01:01.656Z
+updated: 2024-05-20T23:01:01.656Z
 tags: 
   - screen-recording
   - ai video
@@ -833,4 +833,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-12-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

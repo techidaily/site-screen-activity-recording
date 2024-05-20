@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Enhancing Smooth Playback  Stop Frame Gaps in OBS\""
-date: 2024-05-18T11:37:32.099Z
-updated: 2024-05-19T11:37:32.099Z
+date: 2024-05-19T23:02:03.551Z
+updated: 2024-05-20T23:02:03.551Z
 tags: 
   - screen-recording
   - ai video
@@ -612,4 +612,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y27s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y27s to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-screen-size-savvy-5-important-things-to-know-about-16x9-ratio-calculators/"><u>New Screen Size Savvy 5 Important Things to Know About 16X9 Ratio Calculators</u></a></li>
 </ul></div>
+
 

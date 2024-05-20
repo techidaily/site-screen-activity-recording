@@ -759,3 +759,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-easy-cartoon-characters-drawing-tutorials-for-you-who-are-learning-to-draw-for-2024/"><u>New Easy Cartoon Characters Drawing Tutorials for You Who Are Learning to Draw for 2024</u></a></li>
 </ul></div>
 
+

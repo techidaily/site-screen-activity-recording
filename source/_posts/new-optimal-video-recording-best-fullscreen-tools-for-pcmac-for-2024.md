@@ -415,3 +415,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://techidaily.com/how-to-reset-honor-80-pro-straight-screen-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 80 Pro Straight Screen Edition without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

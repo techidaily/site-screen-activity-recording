@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Video Production in Captivate Software"
-date: 2024-05-18T11:30:26.945Z
-updated: 2024-05-19T11:30:26.945Z
+date: 2024-05-19T23:01:45.357Z
+updated: 2024-05-20T23:01:45.357Z
 tags: 
   - screen-recording
   - ai video
@@ -417,4 +417,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-hot-30-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Hot 30 5G Phone Now with These Tips</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713939563024-how-to-share-youtube-video-on-zoom/"><u>How to Share YouTube Video on Zoom?</u></a></li>
 </ul></div>
+
 

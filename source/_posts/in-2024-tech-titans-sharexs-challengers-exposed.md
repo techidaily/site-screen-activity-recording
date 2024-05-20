@@ -282,3 +282,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

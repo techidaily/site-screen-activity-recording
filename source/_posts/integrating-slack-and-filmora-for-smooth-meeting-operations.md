@@ -1,7 +1,7 @@
 ---
 title: "Integrating Slack & Filmora for Smooth Meeting Operations"
-date: 2024-05-18T11:24:39.071Z
-updated: 2024-05-19T11:24:39.071Z
+date: 2024-05-19T23:01:31.001Z
+updated: 2024-05-20T23:01:31.001Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Shanoon Cox
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-best-websites-to-download-animated-gifs-for-free/"><u>Updated 2024 Approved Best Websites to Download Animated GIFs for Free</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

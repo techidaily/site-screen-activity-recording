@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Videography Secrets  Leveraging Strikethrough for Impactful Edits for 2024\""
-date: 2024-05-18T11:37:06.624Z
-updated: 2024-05-19T11:37:06.624Z
+date: 2024-05-19T23:02:02.596Z
+updated: 2024-05-20T23:02:02.596Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-censor-effects-with-filmora/"><u>2024 Approved How to Make Censor Effects with Filmora</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/1714216191752-new-2024-approved-best-video-editing-apps-for-windows-11-free-paid-and-everything-in-between/"><u>New 2024 Approved Best Video Editing Apps for Windows 11 Free, Paid, and Everything in Between</u></a></li>
 </ul></div>
+
 

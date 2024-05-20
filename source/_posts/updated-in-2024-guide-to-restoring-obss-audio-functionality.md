@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Guide to Restoring OBS's Audio Functionality"
-date: 2024-05-18T11:17:38.605Z
-updated: 2024-05-19T11:17:38.605Z
+date: 2024-05-19T23:01:12.653Z
+updated: 2024-05-20T23:01:12.653Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-15-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 15 Pro Max Activation Lock</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 
