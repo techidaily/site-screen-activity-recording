@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, A Deep Dive Into DuRecorder's Full Range"
-date: 2024-05-19T23:02:00.560Z
-updated: 2024-05-20T23:02:00.560Z
+date: 2024-06-09T12:57:00.770Z
+updated: 2024-06-10T12:57:00.770Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, A Deep Dive Into DuRecorder's Full Range"
 excerpt: "This Article Describes [Updated] In 2024, A Deep Dive Into DuRecorder's Full Range"
 keywords: "DuRecorder Range Insight,Full Spectrum Recording,DuRecorder Audio Expansion,Comprehensive DuSound Coverage,Complete DuRecorder Sound Map,Deep DuRecorder Frequencies,Full DuRange Exploration"
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## A Deep Dive Into DuRecorder's Full Range

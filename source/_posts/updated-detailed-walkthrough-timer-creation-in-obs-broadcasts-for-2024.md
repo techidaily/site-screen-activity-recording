@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Detailed Walkthrough  Timer Creation in OBS Broadcasts for 2024\""
-date: 2024-05-19T23:01:04.997Z
-updated: 2024-05-20T23:01:04.997Z
+date: 2024-06-09T12:57:04.220Z
+updated: 2024-06-10T12:57:04.220Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Detailed Walkthrough: Timer Creation in OBS Broadcasts for 2024\""
 excerpt: "\"This Article Describes [Updated] Detailed Walkthrough: Timer Creation in OBS Broadcasts for 2024\""
 keywords: "StreamScreenRecorderReview,BestBroadcastRecorders,LiveStreamScreenOptim,BroadcastScreenTech,ProRecordersLiveShow,OptimalScreenCapture,TopScreenRecordersTV"
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Detailed Walkthrough: Timer Creation in OBS Broadcasts

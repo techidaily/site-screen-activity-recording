@@ -1,7 +1,7 @@
 ---
 title: "\"Seamless OBS-Zoom Connection  Step-by-Step\""
-date: 2024-05-18T11:41:17.885Z
-updated: 2024-05-19T11:41:17.885Z
+date: 2024-06-09T12:57:12.264Z
+updated: 2024-06-10T12:57:12.264Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Seamless OBS-Zoom Connection: Step-by-Step\""
 excerpt: "\"This Article Describes Seamless OBS-Zoom Connection: Step-by-Step\""
 keywords: "\"Seamless Zoom Streaming,OBS-Zoom Linkup,Live OBS Zoom Integration,Easy OBS Zoom Connect,Direct OBS to Zoom,Zero Hack OBS Zoom,Smooth OBS Zoom Sync\""
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Seamless OBS-Zoom Connection: Step-by-Step

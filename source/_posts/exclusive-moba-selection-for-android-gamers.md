@@ -1,7 +1,7 @@
 ---
 title: "Exclusive MOBA Selection for Android Gamers"
-date: 2024-05-18T11:41:32.085Z
-updated: 2024-05-19T11:41:32.085Z
+date: 2024-06-09T12:57:11.570Z
+updated: 2024-06-10T12:57:11.570Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Exclusive MOBA Selection for Android Gamers"
 excerpt: "This Article Describes Exclusive MOBA Selection for Android Gamers"
 keywords: "Mobile MOBAs,Exclusive MOBAs,Android MOBAS,Top MOBAs,Elite MOBA Games,Android MOBA Selection,Premium MOBA Gaming"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Exclusive MOBA Selection for Android Gamers

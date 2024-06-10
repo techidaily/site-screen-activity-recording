@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Coolest Minecraft Mansion Projects Revealed"
-date: 2024-05-18T12:14:14.542Z
-updated: 2024-05-19T12:14:14.542Z
+date: 2024-06-09T12:57:11.926Z
+updated: 2024-06-10T12:57:11.926Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Coolest Minecraft Mansion Projects Revealed"
 excerpt: "This Article Describes [Updated] In 2024, Coolest Minecraft Mansion Projects Revealed"
 keywords: "Cool Minecraft Mansions,Minecraft Houses Designed,Top Minecraft Homes Ideas,Innovative Minecraft Dwellings,Amazing Mansion Projects,Famous Minecraft Abodes,Exciting Minecraft Residences"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Coolest Minecraft Mansion Projects Revealed

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, PauseCapture  Stop & Save Live Image\""
-date: 2024-05-19T23:02:03.008Z
-updated: 2024-05-20T23:02:03.008Z
+date: 2024-06-09T12:57:09.262Z
+updated: 2024-06-10T12:57:09.262Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, PauseCapture: Stop & Save Live Image\""
 excerpt: "\"This Article Describes [New] In 2024, PauseCapture: Stop & Save Live Image\""
 keywords: "PauseLiveImageSave,StopCaptureLiveSaved,LivePauseCaptureStop,CaptureStoppableSave,SaveLivePauseCapture,StoppingLiveImaging,ImageSaveOnHold"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## PauseCapture: Stop & Save Live Image

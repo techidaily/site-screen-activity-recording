@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ideal Indoor Delights  Mastering Mobile Lassitude\""
-date: 2024-05-18T12:12:49.239Z
-updated: 2024-05-19T12:12:49.239Z
+date: 2024-06-09T12:57:00.886Z
+updated: 2024-06-10T12:57:00.886Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Ideal Indoor Delights: Mastering Mobile Lassitude\""
 excerpt: "\"This Article Describes [Updated] Ideal Indoor Delights: Mastering Mobile Lassitude\""
 keywords: "Indoor Comfort Tips,Lounge Wellness Secrets,Beat Boredom at Home,Mobile Laziness Hacks,Productive Indoors Life,Relaxation Techniques,Stay Engaged Inside"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Ideal Indoor Delights: Mastering Mobile Lassitude

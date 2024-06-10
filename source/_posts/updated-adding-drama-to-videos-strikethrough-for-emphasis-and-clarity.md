@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Adding Drama to Videos  Strikethrough for Emphasis and Clarity\""
-date: 2024-05-19T23:02:01.016Z
-updated: 2024-05-20T23:02:01.016Z
+date: 2024-06-09T12:57:04.902Z
+updated: 2024-06-10T12:57:04.902Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Adding Drama to Videos: Strikethrough for Emphasis and Clarity\""
 excerpt: "\"This Article Describes [Updated] Adding Drama to Videos: Strikethrough for Emphasis and Clarity\""
 keywords: "Video Drama Techniques,Visual Emphasis Strategies,Clarity in Video Edits,Strikethrough Effects,VFX for Impact Videos,Focus on Key Moments,Dynamic Video Editing"
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Adding Drama to Videos: Strikethrough for Emphasis and Clarity

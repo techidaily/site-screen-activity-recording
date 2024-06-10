@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Recordings to Live  An OBS Guide to YouTube and Twitch Streaming\""
-date: 2024-05-18T12:09:22.104Z
-updated: 2024-05-19T12:09:22.104Z
+date: 2024-06-09T12:57:05.608Z
+updated: 2024-06-10T12:57:05.608Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Recordings to Live: An OBS Guide to YouTube and Twitch Streaming\""
 excerpt: "\"This Article Describes 2024 Approved: From Recordings to Live: An OBS Guide to YouTube and Twitch Streaming\""
 keywords: "\"OBS for Streaming,Twitch Live Broadcast,YouTube Stream Guide,OBS YouTube Tips,Twitch Hosting Basics,Live-Stream OBS Use,Streaming with OBS\""
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## From Recordings to Live: An OBS Guide to YouTube and Twitch Streaming

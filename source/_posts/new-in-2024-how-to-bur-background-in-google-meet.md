@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Bur Background in Google Meet"
-date: 2024-05-19T23:01:31.818Z
-updated: 2024-05-20T23:01:31.818Z
+date: 2024-06-09T12:57:00.369Z
+updated: 2024-06-10T12:57:00.369Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, How to Bur Background in Google Meet"
 excerpt: "This Article Describes [New] In 2024, How to Bur Background in Google Meet"
 keywords: "Google Meet Screencast,BGM on Zoom,Meeting Mute Effect,Screenshare Google Meet,Webcam GIFs Google Meet,Virtual Background Setup,Meetroom Echo Removal"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## The Pro's Playbook: Blurring the Boundary Between Work and Home Spaces

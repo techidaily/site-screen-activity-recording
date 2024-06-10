@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Split Screen Audio Logging for 2024"
-date: 2024-05-19T23:01:26.151Z
-updated: 2024-05-20T23:01:26.151Z
+date: 2024-06-09T12:57:11.803Z
+updated: 2024-06-10T12:57:11.803Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Split Screen Audio Logging for 2024"
 excerpt: "This Article Describes [Updated] Split Screen Audio Logging for 2024"
 keywords: "\"Split Screens Audio,Audio Logging Tech,Multi-Track Recording,Audio Separation,Dual Screen Audio,Sound Capture Systems,Crossfeed Audio Tools\""
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Split Screen Audio Logging

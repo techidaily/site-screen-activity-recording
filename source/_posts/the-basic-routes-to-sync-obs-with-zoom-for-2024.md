@@ -1,7 +1,7 @@
 ---
 title: "The Basic Routes to Sync OBS with Zoom for 2024"
-date: 2024-05-18T11:51:25.932Z
-updated: 2024-05-19T11:51:25.932Z
+date: 2024-06-09T12:57:07.403Z
+updated: 2024-06-10T12:57:07.403Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Basic Routes to Sync OBS with Zoom for 2024"
 excerpt: "This Article Describes The Basic Routes to Sync OBS with Zoom for 2024"
 keywords: "\"OBS & Zoom Integration,Sync OBS & Zoom,Zoom Meeting Plugin for OBS,OBS Zoom Synchronization,Zoom Video Streaming in OBS,Unite OBS with Zoom,Direct Link: OBS to Zoom\""
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## The Basic Routes to Sync OBS with Zoom

@@ -1,7 +1,7 @@
 ---
 title: "A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024"
-date: 2024-05-18T12:12:32.068Z
-updated: 2024-05-19T12:12:32.068Z
+date: 2024-06-09T12:57:12.500Z
+updated: 2024-06-10T12:57:12.500Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024"
 excerpt: "This Article Describes A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024"
 keywords: "PS4 Gaming Tips,StreamPS4 Easy,OBS for Gamers,LiveStream PS4,NoLag Recording PS4,Optimize PS4 Streaming,PS4 Broadcast Setup"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS

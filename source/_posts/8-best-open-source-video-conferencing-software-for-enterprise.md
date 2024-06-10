@@ -1,7 +1,7 @@
 ---
 title: "8 Best Open Source Video Conferencing Software for Enterprise"
-date: 2024-05-19T23:01:29.917Z
-updated: 2024-05-20T23:01:29.917Z
+date: 2024-06-09T12:57:06.457Z
+updated: 2024-06-10T12:57:06.457Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes 8 Best Open Source Video Conferencing Software for Enterprise"
 excerpt: "This Article Describes 8 Best Open Source Video Conferencing Software for Enterprise"
 keywords: "Open Source VC,Free Video Tools,Enterprise Meetings,Video Tech Solutions,Open Collaboration,Business Conferencing,Software for Teams"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## The Ultimate List of Cost-Free, Industry-Approved Video Callers

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Compact OBS Setup for Underpriced PCs"
-date: 2024-05-19T23:01:45.440Z
-updated: 2024-05-20T23:01:45.440Z
+date: 2024-06-09T12:57:12.556Z
+updated: 2024-06-10T12:57:12.556Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Compact OBS Setup for Underpriced PCs"
 excerpt: "This Article Describes [New] In 2024, Compact OBS Setup for Underpriced PCs"
 keywords: "\"Compact OBS Gear,Cheap PC OBS,OBS Portable Devices,Affordable OBS Equipment,Low-Cost OBS Setup,Budget-Friendly OBS Accessories,Small-Scale OBS Systems\""
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Compact OBS Setup for Underpriced PCs

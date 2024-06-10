@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)"
-date: 2024-05-18T11:47:37.837Z
-updated: 2024-05-19T11:47:37.837Z
+date: 2024-06-09T12:57:01.239Z
+updated: 2024-06-10T12:57:01.239Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)"
 excerpt: "This Article Describes [Updated] Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)"
 keywords: "Calm Video Chats,Soften Discussions,Gentle Debate Tips,Peaceful Meetings,Quiet Conversations,Silent Dialogue Strategies,Harmonious Talks"
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)

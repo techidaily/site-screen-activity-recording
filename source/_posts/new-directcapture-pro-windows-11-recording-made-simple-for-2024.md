@@ -1,7 +1,7 @@
 ---
 title: "\"[New] DirectCapture Pro - Windows 11 Recording Made Simple for 2024\""
-date: 2024-05-19T23:01:50.990Z
-updated: 2024-05-20T23:01:50.990Z
+date: 2024-06-09T12:57:09.311Z
+updated: 2024-06-10T12:57:09.311Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] DirectCapture Pro - Windows 11 Recording Made Simple for 2024\""
 excerpt: "\"This Article Describes [New] DirectCapture Pro - Windows 11 Recording Made Simple for 2024\""
 keywords: "DirectRec+Pro Win11,Simplified Win11 Capture,ProDirect Capture Win,EasyWin11 Record Screen,Win11 ScreenCapture Pro,DirectScreenWin11 Rec,SimpleWin11 Recording"
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## DirectCapture Pro - Windows 11 Recording Made Simple

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Accessible OBS Presets for Affordable Computers\""
-date: 2024-05-19T23:01:22.526Z
-updated: 2024-05-20T23:01:22.526Z
+date: 2024-06-09T12:57:00.287Z
+updated: 2024-06-10T12:57:00.287Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Accessible OBS Presets for Affordable Computers\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Accessible OBS Presets for Affordable Computers\""
 keywords: "\"Accessible OBS,Easy OBS Plugins,Budget-Friendly OBS,Simplified OBS Presets,Low-Cost OBS Enhancements,Affordable OBS Tools,Economical OBS Settings\""
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Accessible OBS Presets for Affordable Computers

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Origami & Samurai Inspirations for Minecraft Homes\""
-date: 2024-05-19T23:01:49.217Z
-updated: 2024-05-20T23:01:49.217Z
+date: 2024-06-09T12:56:59.400Z
+updated: 2024-06-10T12:56:59.400Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Origami & Samurai Inspirations for Minecraft Homes\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Origami & Samurai Inspirations for Minecraft Homes\""
 keywords: "\"Origami Minecraft Homes,Samurai Designs In-Game,Crafting Samurai Huts,Minifigure Samurai Rooms,Origami Patterns for Builds,Samurai Inspired Blocks,Folded Shield Decorations\""
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Origami & Samurai Inspirations for Minecraft Homes

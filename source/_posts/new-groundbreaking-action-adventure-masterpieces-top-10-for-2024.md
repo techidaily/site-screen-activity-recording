@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024\""
-date: 2024-05-18T11:54:25.197Z
-updated: 2024-05-19T11:54:25.197Z
+date: 2024-06-09T12:57:09.040Z
+updated: 2024-06-10T12:57:09.040Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024\""
 excerpt: "\"This Article Describes [New] Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024\""
 keywords: "Top Action Adventures,Groundbreaking Films,Classic Adventure Games,Epic Action Titles,Ultimate Adventure Hits,Masterpiece Quest Selections,Best Adventure Works"
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Groundbreaking Action-Adventure Masterpieces (Top 10)

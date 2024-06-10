@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Discontinuing Instant Recording on QuickTime\""
-date: 2024-05-19T23:01:47.045Z
-updated: 2024-05-20T23:01:47.045Z
+date: 2024-06-09T12:57:04.563Z
+updated: 2024-06-10T12:57:04.563Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Discontinuing Instant Recording on QuickTime\""
 excerpt: "\"This Article Describes 2024 Approved: Discontinuing Instant Recording on QuickTime\""
 keywords: "\"Quit QuickTime Recording,End Instant QuickTime,Stop QuickTime Live Record,Discontinue QuickTime Capture,Halt QuickTime Real-Time,Pause QuickTime Recording,Ending Quick Recording Mode\""
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Discontinuing Instant Recording on QuickTime

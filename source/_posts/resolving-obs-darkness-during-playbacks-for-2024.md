@@ -1,7 +1,7 @@
 ---
 title: "Resolving OBS Darkness During Playbacks for 2024"
-date: 2024-05-18T11:50:53.552Z
-updated: 2024-05-19T11:50:53.552Z
+date: 2024-06-09T12:56:57.070Z
+updated: 2024-06-10T12:56:57.070Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Resolving OBS Darkness During Playbacks for 2024"
 excerpt: "This Article Describes Resolving OBS Darkness During Playbacks for 2024"
 keywords: "\"Fixing OBS Blackout Issues,Overcoming OBS Playback Darkness,Troubleshoot OBS Playback Dimming,Solve OBS Screen Blackout,Remedy OBS Video Fade-Out,Preventing OBS Dark Playback,Stop OBS Blank Display\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Resolving OBS Darkness During Playbacks

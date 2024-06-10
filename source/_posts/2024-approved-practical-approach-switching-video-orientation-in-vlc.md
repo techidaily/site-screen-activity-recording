@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Practical Approach  Switching Video Orientation in VLC\""
-date: 2024-05-18T11:51:38.616Z
-updated: 2024-05-19T11:51:38.616Z
+date: 2024-06-09T12:57:11.745Z
+updated: 2024-06-10T12:57:11.745Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Practical Approach: Switching Video Orientation in VLC\""
 excerpt: "\"This Article Describes 2024 Approved: Practical Approach: Switching Video Orientation in VLC\""
 keywords: "Video Orientation Change,VLC Video Rotate,VLC Video Switch,Simple Video Rotation,Practical Video Flip,Easy VLC Orientation,VLC Video Reverse"
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Practical Approach: Switching Video Orientation in VLC

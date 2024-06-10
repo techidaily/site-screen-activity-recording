@@ -1,7 +1,7 @@
 ---
 title: "Set New Save Directory for Mac Snapshots for 2024"
-date: 2024-05-18T11:52:28.331Z
-updated: 2024-05-19T11:52:28.331Z
+date: 2024-06-09T12:56:58.843Z
+updated: 2024-06-10T12:56:58.843Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Set New Save Directory for Mac Snapshots for 2024"
 excerpt: "This Article Describes Set New Save Directory for Mac Snapshots for 2024"
 keywords: "Mac Snapshot Save Directory,Change Mac Snapshots Path,Set Mac Photo Backup Folder,Update Mac Screenshot Storage,Mac Image Save Location,Modify Mac Photo Directory,Adjust Mac Snapshot Settings"
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Set New Save Directory for Mac Snapshots

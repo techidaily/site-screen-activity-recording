@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Detailed List of Top Free, Cross-Platform Mobile Video Chats\""
-date: 2024-05-18T11:59:42.353Z
-updated: 2024-05-19T11:59:42.353Z
+date: 2024-06-09T12:57:01.486Z
+updated: 2024-06-10T12:57:01.486Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] A Detailed List of Top Free, Cross-Platform Mobile Video Chats\""
 excerpt: "\"This Article Describes [New] A Detailed List of Top Free, Cross-Platform Mobile Video Chats\""
 keywords: "\"Free Video Chat Apps,Multiplatform Chatting,No-Cost Mobile Chat,Free Cross-Platform Messaging,Top Budget Video Calls,Cross-Platform Video Communication,Affordable Mobile Chatting\""
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## A Detailed List of Top Free, Cross-Platform Mobile Video Chats

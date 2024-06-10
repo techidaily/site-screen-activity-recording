@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Strategies  Logging Lectures in PPT\""
-date: 2024-05-19T23:02:02.322Z
-updated: 2024-05-20T23:02:02.322Z
+date: 2024-06-09T12:57:00.707Z
+updated: 2024-06-10T12:57:00.707Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Quick Strategies: Logging Lectures in PPT\""
 excerpt: "\"This Article Describes [New] Quick Strategies: Logging Lectures in PPT\""
 keywords: "\"PPT Logging Tips,Quick Lecture Capture,Efficient PPT Recording,Fast PPT Lecture Prep,Streamlined Slide-Casting,Rapid Teaching Notes,Speedy Presentation Logging\""
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Quick Strategies: Logging Lectures in PPT

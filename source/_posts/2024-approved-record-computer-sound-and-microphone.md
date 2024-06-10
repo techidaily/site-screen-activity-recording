@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Record Computer Sound and Microphone\""
-date: 2024-05-19T23:01:35.488Z
-updated: 2024-05-20T23:01:35.488Z
+date: 2024-06-09T12:57:06.176Z
+updated: 2024-06-10T12:57:06.176Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Record Computer Sound and Microphone\""
 excerpt: "\"This Article Describes 2024 Approved: Record Computer Sound and Microphone\""
 keywords: "\"Sound Recording Secrets,Audio Preservation Tips,Streaming Music Techniques,High-Quality Sound Capture,Digital Sound Archive,Audio Editing Mastery,Optimal Sound Formats\""
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## 8 Tools to Record Computer Sound and Microphone

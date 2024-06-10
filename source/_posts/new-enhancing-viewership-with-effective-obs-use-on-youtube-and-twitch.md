@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing Viewership with Effective OBS Use on YouTube & Twitch"
-date: 2024-05-18T12:13:32.294Z
-updated: 2024-05-19T12:13:32.294Z
+date: 2024-06-09T12:57:05.757Z
+updated: 2024-06-10T12:57:05.757Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Enhancing Viewership with Effective OBS Use on YouTube & Twitch"
 excerpt: "This Article Describes [New] Enhancing Viewership with Effective OBS Use on YouTube & Twitch"
 keywords: "OBS Streaming,OBS Engagement,OBS Optimization,YouTube Broadcast,Twitch Streaming,Effective OBS,Viewership Boost"
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## Enhancing Viewership with Effective OBS Use on YouTube & Twitch

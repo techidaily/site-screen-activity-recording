@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Superior Top Ten Nintendo Switch Combat Games (Max 156)"
-date: 2024-05-19T23:01:20.014Z
-updated: 2024-05-20T23:01:20.014Z
+date: 2024-06-09T12:57:06.277Z
+updated: 2024-06-10T12:57:06.277Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Superior Top Ten Nintendo Switch Combat Games (Max 156)"
 excerpt: "This Article Describes In 2024, Superior Top Ten Nintendo Switch Combat Games (Max 156)"
 keywords: "\"Nintendo Switch Fighters,Switch Combat Classics,NDS Games Battle Reel,Top Switch Fighting Titles,Elite Nintendo Battlers,High-End Switch Skirmishes,Superior Switch Combat Games\""
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Superior Top Ten Nintendo Switch Combat Games (Max 156)

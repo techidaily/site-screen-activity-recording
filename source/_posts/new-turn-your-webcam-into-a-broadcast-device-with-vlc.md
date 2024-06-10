@@ -1,7 +1,7 @@
 ---
 title: "[New] Turn Your Webcam Into a Broadcast Device with VLC"
-date: 2024-05-19T23:01:28.867Z
-updated: 2024-05-20T23:01:28.867Z
+date: 2024-06-09T12:57:10.288Z
+updated: 2024-06-10T12:57:10.288Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Turn Your Webcam Into a Broadcast Device with VLC"
 excerpt: "This Article Describes [New] Turn Your Webcam Into a Broadcast Device with VLC"
 keywords: "VLC Broadcast Webcam,VLC LiveStreaming Cam,WebCam VLC Broadcast,Turn WebCam VLC TV,VLC Cam to Broadcast,VLC WebCam Transmitter,VLC Webcam Streaming"
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Turn Your Webcam Into a Broadcast Device with VLC

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, QuickCapture  Chrome's Screen Recording Feature\""
-date: 2024-05-18T11:53:42.321Z
-updated: 2024-05-19T11:53:42.321Z
+date: 2024-06-09T12:57:11.482Z
+updated: 2024-06-10T12:57:11.482Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, QuickCapture: Chrome's Screen Recording Feature\""
 excerpt: "\"This Article Describes [Updated] In 2024, QuickCapture: Chrome's Screen Recording Feature\""
 keywords: "QuickChromeRec,ChromeScreenCapt,CaptureChromeRec,FastScreenRecord,ChromeCaptureFeat,RapidChromeScreen,ChromeScreenCapture"
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## QuickCapture: Chrome's Screen Recording Feature

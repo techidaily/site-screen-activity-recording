@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Easy Methods  Flipping Film Frames Using VLC\""
-date: 2024-05-19T23:00:59.367Z
-updated: 2024-05-20T23:00:59.367Z
+date: 2024-06-09T12:57:00.514Z
+updated: 2024-06-10T12:57:00.515Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Easy Methods: Flipping Film Frames Using VLC\""
 excerpt: "\"This Article Describes [Updated] In 2024, Easy Methods: Flipping Film Frames Using VLC\""
 keywords: "Easy Film Frame Flip,Quick VLC Reverse,Simple Frame Swap VLC,VLC Film Flips Methods,Swift Filmframe Inversion,Basic VLC Image Turnaround,VLC Film Flipping Techniques"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Easy Methods: Flipping Film Frames Using VLC

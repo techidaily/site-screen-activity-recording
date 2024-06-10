@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Walk of Shadows  The Ultimate List of Greatest Zombie Games\""
-date: 2024-05-18T11:59:54.923Z
-updated: 2024-05-19T11:59:54.923Z
+date: 2024-06-09T12:57:04.160Z
+updated: 2024-06-10T12:57:04.160Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Walk of Shadows: The Ultimate List of Greatest Zombie Games\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Walk of Shadows: The Ultimate List of Greatest Zombie Games\""
 keywords: "Zombie Game List,Best Zombie Games,Top Zombie Titles,Famous Zombie Games,Classic Zombie Gaming,Zombie Game Ultimate Guide,Greatest Zombie Video Games"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Walk of Shadows: The Ultimate List of Greatest Zombie Games

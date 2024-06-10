@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Setup Guide for macOS  Downloading & Setting Up\""
-date: 2024-05-19T23:02:03.451Z
-updated: 2024-05-20T23:02:03.451Z
+date: 2024-06-09T12:57:07.309Z
+updated: 2024-06-10T12:57:07.309Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, OBS Setup Guide for macOS: Downloading & Setting Up\""
 excerpt: "\"This Article Describes [Updated] In 2024, OBS Setup Guide for macOS: Downloading & Setting Up\""
 keywords: "MacOS OBS Guide,OBS macSetup,ObsDownloadMac,OSX OBS Instructions,OBS Setup for Mac,MacOBS Configuring,Download OBS macOS"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## OBS Setup Guide for macOS: Downloading & Setting Up

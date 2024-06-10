@@ -1,7 +1,7 @@
 ---
 title: "[New] SmartCapture HD V2"
-date: 2024-05-18T12:13:37.939Z
-updated: 2024-05-19T12:13:37.939Z
+date: 2024-06-09T12:56:57.524Z
+updated: 2024-06-10T12:56:57.524Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] SmartCapture HD V2"
 excerpt: "This Article Describes [New] SmartCapture HD V2"
 keywords: "\"SmartCapture HD,HD Video Capturing,High-Definition Photography,Advanced Camera Tech,Next-Gen HD Gadgets,V2 Ultimate Camera,Enhanced Image Quality\""
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## SmartCapture HD V2

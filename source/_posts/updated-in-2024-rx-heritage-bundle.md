@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, RX Heritage Bundle"
-date: 2024-05-19T23:01:18.181Z
-updated: 2024-05-20T23:01:18.181Z
+date: 2024-06-09T12:57:00.124Z
+updated: 2024-06-10T12:57:00.124Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, RX Heritage Bundle"
 excerpt: "This Article Describes [Updated] In 2024, RX Heritage Bundle"
 keywords: "\"Rx Heritage Buy,Heritage Pharmacy Deal,Prescription History Pack,Medication History Bundle,Rx Old-Time Collection,Historical Medicine Assortment,Vintage Pharma Bundle\""
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## RX Heritage Bundle
