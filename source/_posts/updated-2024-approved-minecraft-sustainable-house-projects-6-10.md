@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Minecraft Sustainable House Projects #6-10\""
-date: 2024-05-18T12:08:31.988Z
-updated: 2024-05-19T12:08:31.988Z
+date: 2024-06-18T13:22:40.214Z
+updated: 2024-06-19T13:22:40.214Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Minecraft Sustainable House Projects #6-10\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Minecraft Sustainable House Projects #6-10\""
 keywords: "Minecraft EcoBuilding,MCSSustainableDesign,MCSGreenHouses,MineCraftSustainable,SustainableMinecraft,GreenMinecraftHousing,EcoMinecraftProjects"
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Minecraft Sustainable House Projects #6-10

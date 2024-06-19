@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Airwaves to Files  Online Audio Capture Basics\""
-date: 2024-05-18T11:41:59.084Z
-updated: 2024-05-19T11:41:59.084Z
+date: 2024-06-18T13:22:41.767Z
+updated: 2024-06-19T13:22:41.767Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Airwaves to Files: Online Audio Capture Basics\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Airwaves to Files: Online Audio Capture Basics\""
 keywords: "Audio File Fundamentals,Capturing Audio Online,Sound Recording Basics,Online Audio Techniques,Digital Audio Storage,Airwave to Digital Conversion,Basic Audio Transfer Methods"
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## From Airwaves to Files: Online Audio Capture Basics

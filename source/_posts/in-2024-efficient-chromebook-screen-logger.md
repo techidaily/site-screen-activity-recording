@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Efficient Chromebook Screen Logger"
-date: 2024-05-19T23:01:37.415Z
-updated: 2024-05-20T23:01:37.415Z
+date: 2024-06-18T13:22:47.079Z
+updated: 2024-06-19T13:22:47.079Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Efficient Chromebook Screen Logger"
 excerpt: "This Article Describes In 2024, Efficient Chromebook Screen Logger"
 keywords: "Chromebook Logging Tool,Efficient Screen Recorder,Chrome Dev Console Capture,Lightweight Screen Logger,Quick Chromebook Video Record,Optimal Laptop Screenshot,Fast Chromebook Screen Save"
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Efficient Chromebook Screen Logger
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

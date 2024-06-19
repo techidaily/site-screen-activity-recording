@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision & Power Players  Top 5 Martial Arts RPGs\""
-date: 2024-05-19T23:01:08.155Z
-updated: 2024-05-20T23:01:08.155Z
+date: 2024-06-18T13:22:32.279Z
+updated: 2024-06-19T13:22:32.279Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Precision & Power Players: Top 5 Martial Arts RPGs\""
 excerpt: "\"This Article Describes [Updated] Precision & Power Players: Top 5 Martial Arts RPGs\""
 keywords: "Power RPG Martial Arts,Precision Fighting Games,Top Martial RPGs,RPG Martial Arts Top 5,Martial Arts Strategic RPG,Fighter RPG Mastery,Strategic Martial Battles"
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Precision & Power Players: Top 5 Martial Arts RPGs

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Coolest Mini-Houses in MC World\""
-date: 2024-05-18T12:08:23.661Z
-updated: 2024-05-19T12:08:23.661Z
+date: 2024-06-18T13:22:36.630Z
+updated: 2024-06-19T13:22:36.630Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Coolest Mini-Houses in MC World\""
 excerpt: "\"This Article Describes [Updated] Crafting Coolest Mini-Houses in MC World\""
 keywords: "Mini Houses MC,Coolest House Crafts,MC Minimalist Designs,Small Homes in MC,Creative MC Villains,Urban MC Dwellings,MC Nanohouses Art"
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Crafting Coolest Mini-Houses in MC World

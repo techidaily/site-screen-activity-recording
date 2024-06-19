@@ -1,7 +1,7 @@
 ---
 title: "Crimson Classic Codec"
-date: 2024-05-19T23:01:37.286Z
-updated: 2024-05-20T23:01:37.286Z
+date: 2024-06-18T13:22:32.914Z
+updated: 2024-06-19T13:22:32.914Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Crimson Classic Codec"
 excerpt: "This Article Describes Crimson Classic Codec"
 keywords: "\"Red Classic Codec,Crimson Codec Classics,Vintage Crimson Decoder,Old-Timey Crimson HQ,Historic Crimson Encoding,Timeless Crimson Filter,Iconic Crimson Compression\""
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Crimson Classic Codec

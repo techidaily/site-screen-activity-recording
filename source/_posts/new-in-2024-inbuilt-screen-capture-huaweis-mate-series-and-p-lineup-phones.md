@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Inbuilt Screen Capture  Huawei's Mate Series & P Lineup Phones\""
-date: 2024-05-18T12:12:58.034Z
-updated: 2024-05-19T12:12:58.034Z
+date: 2024-06-18T13:22:43.683Z
+updated: 2024-06-19T13:22:43.683Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Inbuilt Screen Capture: Huawei's Mate Series & P Lineup Phones\""
 excerpt: "\"This Article Describes [New] In 2024, Inbuilt Screen Capture: Huawei's Mate Series & P Lineup Phones\""
 keywords: "Mate Series Screenshot,P Lineup ScreenCapture,MatePhonesScreenRecording,HuaweiPLineSnapTech,MateSeriesScreenShare,HuaweiMateScreenCapture,PPhoneCaptureFunction"
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Inbuilt Screen Capture: Huawei's Mate Series & P Lineup Phones

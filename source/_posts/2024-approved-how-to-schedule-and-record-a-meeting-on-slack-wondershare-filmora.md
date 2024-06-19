@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Schedule and Record a Meeting on Slack-Wondershare Filmora\""
-date: 2024-05-19T23:01:27.076Z
-updated: 2024-05-20T23:01:27.077Z
+date: 2024-06-18T13:22:37.359Z
+updated: 2024-06-19T13:22:37.359Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Schedule and Record a Meeting on Slack-Wondershare Filmora\""
 excerpt: "\"This Article Describes 2024 Approved: How to Schedule and Record a Meeting on Slack-Wondershare Filmora\""
 keywords: "\"Slack Meetings Planner,Filmora Meeting Recorder,Virtual Conference Setup,Online Scheduling Software,Slack Webinar Creation,Filmora Video Collaboration,Cloud-Based Team Meets Tool,Slack Video Recording,Schedule Slack Meetings,Filmora Meeting Planning,Slack Collaboration Tools,Online Meeting Preparation,Record Slack Gathering,Slack-Filmo Meeting Guide\""
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## Achieve Peak Collaboration: A Complete Guide to Slack & Filmora Integration

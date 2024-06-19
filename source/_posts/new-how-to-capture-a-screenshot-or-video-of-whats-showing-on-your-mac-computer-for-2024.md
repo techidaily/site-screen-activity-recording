@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer for 2024"
-date: 2024-05-18T12:07:57.438Z
-updated: 2024-05-19T12:07:57.438Z
+date: 2024-06-18T13:22:44.954Z
+updated: 2024-06-19T13:22:44.954Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer for 2024"
 excerpt: "This Article Describes [New] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer for 2024"
 keywords: "Mac Screen Capture Guide,Taking Screenshots on Mac,Mac Screenshot Video Recording,Screencast on macOS,Capture Mac Display Content,Macs Video Capturing Software,Display Recording MacOS App"
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Learn to Record MAC Display Like a Pro

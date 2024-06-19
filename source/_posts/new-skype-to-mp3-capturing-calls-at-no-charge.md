@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skype to MP3  Capturing Calls at No Charge\""
-date: 2024-05-18T11:45:00.407Z
-updated: 2024-05-19T11:45:00.407Z
+date: 2024-06-18T13:22:38.474Z
+updated: 2024-06-19T13:22:38.474Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Skype to MP3: Capturing Calls at No Charge\""
 excerpt: "\"This Article Describes [New] Skype to MP3: Capturing Calls at No Charge\""
 keywords: "\"Skype Call Conversion,Free Skype Audio,MP3 From Skype,Skype-MP3 Repository,Skype to MP3 Transfer,Charge-Free Call Recording,Capture Skype Calls\""
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Skype to MP3: Capturing Calls at No Charge

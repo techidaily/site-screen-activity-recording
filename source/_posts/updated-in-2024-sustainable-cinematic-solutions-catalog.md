@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Sustainable Cinematic Solutions Catalog"
-date: 2024-05-19T23:01:49.918Z
-updated: 2024-05-20T23:01:49.918Z
+date: 2024-06-18T13:22:34.766Z
+updated: 2024-06-19T13:22:34.766Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Sustainable Cinematic Solutions Catalog"
 excerpt: "This Article Describes [Updated] In 2024, Sustainable Cinematic Solutions Catalog"
 keywords: "\"Green Film Tech Catalog,Eco-Cinema Innovations List,Sustainable Movie Gear Guide,Earth-Friendly Cinema Tools,Eco-Cinema Solutions Selection,Sustainable Filmmaking Resources,Green Cinematic Equipment Catalog\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Sustainable Cinematic Solutions Catalog

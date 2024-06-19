@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Prime Mac GIF Cutter\""
-date: 2024-05-18T11:44:00.912Z
-updated: 2024-05-19T11:44:00.912Z
+date: 2024-06-18T13:22:31.894Z
+updated: 2024-06-19T13:22:31.894Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Prime Mac GIF Cutter\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Prime Mac GIF Cutter\""
 keywords: "\"Mac GIF Editor,Prime Image Cutter,Pristine Mac GIFs,Mac GIF Trimming,Prime Mac Editing,High-Quality Mac GIFs,Prime Tool for Mac GIFs\""
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Prime Mac GIF Cutter

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 5 Kung Fu Games Just Like Sifu"
-date: 2024-05-18T11:38:46.200Z
-updated: 2024-05-19T11:38:46.200Z
+date: 2024-06-18T13:22:32.174Z
+updated: 2024-06-19T13:22:32.174Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 5 Kung Fu Games Just Like Sifu"
 excerpt: "This Article Describes [New] Top 5 Kung Fu Games Just Like Sifu"
 keywords: "\"Kung Fu Gaming,Fitness Martial Arts Games,Mastery Fighting Games,Authentic Kung-Fu Titles,Sifu Inspired Gameplay,Traditional Martial Arts Videogames,Realistic Kung Fu Arcade,Kung Fu Videogames,Martial Arts Gaming,Fighting Game Mastery,Authentic Martial Arcade,Sifu-Inspired Titles,Fitness Fighter Games,Traditional Martial Games\""
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Fist of Legends: Highest-Rated Kung Fu Virtual Battles

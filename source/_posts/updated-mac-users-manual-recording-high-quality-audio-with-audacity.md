@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mac Users' Manual  Recording High-Quality Audio with Audacity\""
-date: 2024-05-18T11:47:09.899Z
-updated: 2024-05-19T11:47:09.899Z
+date: 2024-06-18T13:22:32.249Z
+updated: 2024-06-19T13:22:32.249Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Mac Users' Manual: Recording High-Quality Audio with Audacity\""
 excerpt: "\"This Article Describes [Updated] Mac Users' Manual: Recording High-Quality Audio with Audacity\""
 keywords: "\"Mac Audio Recording Guide,Audacity High Quality,Audacity User Tips,Audacity for Mac,High-Quality Mac Audio,Mac Sound Editing,Mastering Audio with Audacity\""
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Mac Users' Manual: Recording High-Quality Audio with Audacity

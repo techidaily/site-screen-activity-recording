@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Direct Streams From OBS to Insta Profile for 2024"
-date: 2024-05-18T11:43:58.234Z
-updated: 2024-05-19T11:43:58.234Z
+date: 2024-06-18T13:22:33.089Z
+updated: 2024-06-19T13:22:33.089Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Direct Streams From OBS to Insta Profile for 2024"
 excerpt: "This Article Describes [Updated] Direct Streams From OBS to Insta Profile for 2024"
 keywords: "\"OBS to IG Live Streaming,Direct OBS Feed Instagram,OBS Link Direct Upload,Instagram From OBS Direct,OBS Integration with Insta,One-Click OBS to Instagram,Real-Time OBS Content on IG\""
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Direct Streams From OBS to Insta Profile

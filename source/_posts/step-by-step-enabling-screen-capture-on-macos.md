@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Enabling Screen Capture on MacOS\""
-date: 2024-05-18T11:38:40.790Z
-updated: 2024-05-19T11:38:40.790Z
+date: 2024-06-18T13:22:32.460Z
+updated: 2024-06-19T13:22:32.460Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Step-by-Step: Enabling Screen Capture on MacOS\""
 excerpt: "\"This Article Describes Step-by-Step: Enabling Screen Capture on MacOS\""
 keywords: "Apple Screen Capture Guide,Screen Record Apple Devices,IOS Screen Recording Tutorial,Quick Apple Screenshot Steps,Screen Capture on MacOS,IOS Device Image Capture,How to Capture Screen on iPad"
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Step-by-Step: Enabling Screen Capture on MacOS

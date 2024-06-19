@@ -1,7 +1,7 @@
 ---
 title: "IPhone Slow Motion Shooting Essentials"
-date: 2024-05-19T23:01:08.000Z
-updated: 2024-05-20T23:01:08.000Z
+date: 2024-06-18T13:22:41.552Z
+updated: 2024-06-19T13:22:41.552Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes IPhone Slow Motion Shooting Essentials"
 excerpt: "This Article Describes IPhone Slow Motion Shooting Essentials"
 keywords: "IOS Screenshot Guide,IPhone Image Capture,Snap iPhone Pics,Photo iPad Touchscreen,Mobile Screen Grab,Phone Shot Tips,IOS Snapping Steps"
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## IPhone Slow Motion Shooting Essentials

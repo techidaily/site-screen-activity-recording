@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024\""
-date: 2024-05-19T23:01:23.233Z
-updated: 2024-05-20T23:01:23.233Z
+date: 2024-06-18T13:22:40.023Z
+updated: 2024-06-19T13:22:40.023Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024\""
 excerpt: "\"This Article Describes [New] Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024\""
 keywords: "Streamlabs OBS Setup,Simple OBS Configuration,Learn OBS Installation,Basic OBS Guide,OBS Settings Tutorial,Easy OBS Configurations,Quick OBS Guide Steps"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Easy-to-Follow Guide for Configuring Streamlabs OBS
