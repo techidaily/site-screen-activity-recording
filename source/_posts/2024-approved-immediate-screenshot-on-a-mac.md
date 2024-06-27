@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Immediate Screenshot on a MAC\""
-date: 2024-05-18T11:48:09.236Z
-updated: 2024-05-19T11:48:09.236Z
+date: 2024-06-26T03:02:09.878Z
+updated: 2024-06-27T03:02:09.878Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes 2024 Approved: Immediate Screenshot on a MAC\""
 excerpt: "\"This Article Describes 2024 Approved: Immediate Screenshot on a MAC\""
 keywords: "\"Mac ScreenShot Quickly,On-the-Spot MAC Screenshot,MAC Immediate Capture,MAC Take Snapshot Instantly,Rapid Screenshot MAC,Real-Time MAC Image,MAC Snapshot Instantly\""
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Immediate Screenshot on a MAC
 
-# How to Capture a Screenshot or Video of What's Showing On Your Mac Computer
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+# How to Capture a Screenshot or Video of What's Showing On Your Mac Computer ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
 
@@ -44,9 +42,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
@@ -130,9 +126,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
@@ -216,9 +210,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
@@ -302,9 +294,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
@@ -393,7 +383,7 @@ Follow @Liza Brown
 <li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-tips-for-capturing-movies-on-everyday-tech/"><u>"\"[Updated] In 2024, Cutting-Edge Tips for Capturing Movies on Everyday Tech\""</u></a></li>
 <li><a href="https://screen-activity-recording.techidaily.com/in-2024-gamers-choice-top-software-for-live-scenes/"><u>"\"In 2024, Gamers' Choice  Top Software for Live Scenes\""</u></a></li>
 <li><a href="https://screen-activity-recording.techidaily.com/nailing-the-art-of-ppt-video-reproduction-for-2024/"><u>"Nailing the Art of PPT Video Reproduction for 2024"</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>"\"How to Record, Edit and Export High-Quality Webcam Videos[Easy Steps]\""</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>"\"How to Record, Edit and Export High-Quality Webcam Videos [Easy Steps]\""</u></a></li>
 <li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-for-lenovo-screen-recording-enthusiasts-for-2024/"><u>"The Ultimate Guide for Lenovo Screen Recording Enthusiasts for 2024"</u></a></li>
 <li><a href="https://screen-activity-recording.techidaily.com/new-web-conferences-archival/"><u>"[New] Web Conferences Archival"</u></a></li>
 <li><a href="https://screen-activity-recording.techidaily.com/2024-approved-proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand/"><u>"\"2024 Approved  Proper Mastery of Quick Mac Recording  Shortcut Strategies at Hand\""</u></a></li>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Solutions for an Unresponsive OBS Video Source\""
-date: 2024-05-18T12:18:02.075Z
-updated: 2024-05-19T12:18:02.075Z
+date: 2024-06-26T03:01:58.071Z
+updated: 2024-06-27T03:01:58.071Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Solutions for an Unresponsive OBS Video Source\""
 excerpt: "\"This Article Describes 2024 Approved: Solutions for an Unresponsive OBS Video Source\""
 keywords: "Responsive OBS Sources,Fixing Unresponsive OBS,OBS Troubleshooting Guide,Improve OBS Performance,Enhance Video Source Response,Quick OBS Solution Tips,Optimize OBS Broadcast Quality"
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## Solutions for an Unresponsive OBS Video Source

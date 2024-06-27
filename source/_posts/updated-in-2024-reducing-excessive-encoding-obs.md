@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Reducing Excessive Encoding (OBS)"
-date: 2024-05-18T12:16:19.875Z
-updated: 2024-05-19T12:16:19.875Z
+date: 2024-06-26T03:01:59.458Z
+updated: 2024-06-27T03:01:59.458Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Reducing Excessive Encoding (OBS)"
 excerpt: "This Article Describes [Updated] In 2024, Reducing Excessive Encoding (OBS)"
 keywords: "OBS Reduction Tips,Minimizing Code Overuse,Efficient Encoding Practices,Cutting Extra Encoding,Optimal Data Handling,Encode Smartly,Streamline OBS Usage"
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Reducing Excessive Encoding (OBS)

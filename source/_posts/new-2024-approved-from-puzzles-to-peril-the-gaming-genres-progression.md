@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Puzzles to Peril  The Gaming Genre's Progression\""
-date: 2024-05-19T23:01:08.384Z
-updated: 2024-05-20T23:01:08.384Z
+date: 2024-06-26T03:02:05.554Z
+updated: 2024-06-27T03:02:05.554Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Puzzles to Peril: The Gaming Genre's Progression\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Puzzles to Peril: The Gaming Genre's Progression\""
 keywords: "Puzzle Games Evolution,Gaming Peril Development,Game Progression Trends,Genre Gaming Milestones,Evolving Video Games,Gaming Thrills & Risks,Industry Gaming Progress"
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## From Puzzles to Peril: The Gaming Genre's Progression
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

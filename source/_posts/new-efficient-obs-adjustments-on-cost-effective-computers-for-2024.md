@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Efficient OBS Adjustments on Cost-Effective Computers for 2024\""
-date: 2024-05-19T23:01:46.101Z
-updated: 2024-05-20T23:01:46.101Z
+date: 2024-06-26T03:02:07.989Z
+updated: 2024-06-27T03:02:07.989Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Efficient OBS Adjustments on Cost-Effective Computers for 2024\""
 excerpt: "\"This Article Describes [New] Efficient OBS Adjustments on Cost-Effective Computers for 2024\""
 keywords: "\"Optimal OBS Use,Cost-Saving Tech,Efficient OBS Guide,Budget-Friendly PCs,Economical OBS Settings,Low-Cost Computing,Affordable Video Adjustments\""
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## Efficient OBS Adjustments on Cost-Effective Computers
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

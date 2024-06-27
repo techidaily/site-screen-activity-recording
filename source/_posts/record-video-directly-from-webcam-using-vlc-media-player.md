@@ -1,7 +1,7 @@
 ---
 title: "Record Video Directly From Webcam Using VLC Media Player"
-date: 2024-05-18T12:00:59.165Z
-updated: 2024-05-19T12:00:59.165Z
+date: 2024-06-26T03:02:07.491Z
+updated: 2024-06-27T03:02:07.491Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Record Video Directly From Webcam Using VLC Media Player"
 excerpt: "This Article Describes Record Video Directly From Webcam Using VLC Media Player"
 keywords: "\"Webcam Videocapture,VLC Webcam Recorder,Direct Webcam Video,VLC Cam Streaming,Live Webcam VLC,Real-Time Webcam Capture,VLC Webcam Broadcast\""
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Record Video Directly From Webcam Using VLC Media Player

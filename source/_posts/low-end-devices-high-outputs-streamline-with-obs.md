@@ -1,7 +1,7 @@
 ---
 title: "\"Low-End Devices, High Outputs  Streamline with OBS\""
-date: 2024-05-18T11:59:57.329Z
-updated: 2024-05-19T11:59:57.329Z
+date: 2024-06-26T03:01:55.708Z
+updated: 2024-06-27T03:01:55.708Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Low-End Devices, High Outputs: Streamline with OBS\""
 excerpt: "\"This Article Describes Low-End Devices, High Outputs: Streamline with OBS\""
 keywords: "\"Low-Devices Efficiency,High-Output Tech,Simple OBS Setup,Budget-Friendly Broadcasting,Optimized Device Outputs,Cost-Effective Streaming,Basic OBS Tips\""
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Low-End Devices, High Outputs: Streamline with OBS
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

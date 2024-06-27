@@ -1,7 +1,7 @@
 ---
 title: "Logging Live Video Conversations"
-date: 2024-05-19T23:00:56.541Z
-updated: 2024-05-20T23:00:56.541Z
+date: 2024-06-26T03:01:48.605Z
+updated: 2024-06-27T03:01:48.605Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Logging Live Video Conversations"
 excerpt: "This Article Describes Logging Live Video Conversations"
 keywords: "\"Live Logging Streams,Real-Time Video Transcripts,In-House Broadcast Monitoring,Immediate Video Convocation Analysis,Direct Video Session Recordings,Continuous Video Discussion Notes,Instant Video Chat Summaries\""
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Logging Live Video Conversations

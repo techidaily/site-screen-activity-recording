@@ -1,7 +1,7 @@
 ---
 title: "How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps for 2024"
-date: 2024-05-18T11:41:02.360Z
-updated: 2024-05-19T11:41:02.360Z
+date: 2024-06-26T03:01:48.775Z
+updated: 2024-06-27T03:01:48.775Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps for 2024"
 excerpt: "This Article Describes How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps for 2024"
 keywords: "Netflix MAC Capture,Screen Record Netflix,Mac Screen Capture Steps,Stream Clips with Mac,Capture Movies on MacOS,Easy Mac Video Capture,Save Netflix Playback to File"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps

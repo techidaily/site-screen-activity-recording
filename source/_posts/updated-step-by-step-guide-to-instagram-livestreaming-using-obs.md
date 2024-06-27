@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Instagram Livestreaming Using OBS\""
-date: 2024-05-18T12:03:48.827Z
-updated: 2024-05-19T12:03:48.827Z
+date: 2024-06-26T03:02:04.187Z
+updated: 2024-06-27T03:02:04.187Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Step-by-Step Guide to Instagram Livestreaming Using OBS\""
 excerpt: "\"This Article Describes [Updated] Step-by-Step Guide to Instagram Livestreaming Using OBS\""
 keywords: "Instagram Streaming Basics,OBS Live Broadcast Tutorial,Stream Instagram with OBS,Instagram OBS Stream Guide,How to Livestream on InstaOBS,Master Instagram Livestreams,Setup Instagram OBS Streaming"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Step-by-Step Guide to Instagram Livestreaming Using OBS

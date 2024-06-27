@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques to Recover From OBS Fullscreen Lockout"
-date: 2024-05-18T12:04:37.860Z
-updated: 2024-05-19T12:04:37.860Z
+date: 2024-06-26T03:02:01.151Z
+updated: 2024-06-27T03:02:01.151Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Techniques to Recover From OBS Fullscreen Lockout"
 excerpt: "This Article Describes In 2024, Techniques to Recover From OBS Fullscreen Lockout"
 keywords: "Fullscreen Fix Tech,Locked Screen Recovery,OBS Freeze Resolve,Clear Obs Screen Block,Reset FullScreen Glitch,Unlock OBS Display,Overcoming OBS Lockout"
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## Techniques to Recover From OBS Fullscreen Lockout

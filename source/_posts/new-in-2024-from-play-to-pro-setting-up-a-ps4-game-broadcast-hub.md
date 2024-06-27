@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Play to Pro  Setting up a PS4 Game Broadcast Hub\""
-date: 2024-05-18T11:45:04.427Z
-updated: 2024-05-19T11:45:04.427Z
+date: 2024-06-26T03:02:00.600Z
+updated: 2024-06-27T03:02:00.600Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, From Play to Pro: Setting up a PS4 Game Broadcast Hub\""
 excerpt: "\"This Article Describes [New] In 2024, From Play to Pro: Setting up a PS4 Game Broadcast Hub\""
 keywords: "\"Game Broadcasting Guide,PS4 Stream Setup,Live Gaming Hub,Pro Gamers Broadcast,Play-to-Pro Broadcasts,Setting Up Gaming Streams,Professional Gaming Hub\""
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## From Play to Pro: Setting up a PS4 Game Broadcast Hub

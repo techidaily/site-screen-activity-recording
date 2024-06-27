@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Action  Fraps Recorder Insights\""
-date: 2024-05-19T23:02:39.551Z
-updated: 2024-05-20T23:02:39.551Z
+date: 2024-06-26T03:01:53.759Z
+updated: 2024-06-27T03:01:53.759Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Capturing Action: Fraps Recorder Insights\""
 excerpt: "\"This Article Describes Capturing Action: Fraps Recorder Insights\""
 keywords: "Fraps Action Recorder,Capture Action with Fraps,Recording Actions Fraps,Fraps Actions Insight,Fraps Record Action,Insights in Fraps Recorder,Action Capturing Fraps"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Capturing Action: Fraps Recorder Insights

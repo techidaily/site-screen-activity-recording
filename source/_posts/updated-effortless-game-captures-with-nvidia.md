@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Effortless Game Captures with NVIDIA"
-date: 2024-05-18T11:51:21.105Z
-updated: 2024-05-19T11:51:21.105Z
+date: 2024-06-26T03:02:09.613Z
+updated: 2024-06-27T03:02:09.613Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Effortless Game Captures with NVIDIA"
 excerpt: "This Article Describes [Updated] Effortless Game Captures with NVIDIA"
 keywords: "\"Easy Gaming Snapshots,Nvidia Screen Recording,Seamless Play Recordings,High-Quality Game Capture,Streamlined Gaming Captures,NVIDIA Live Capture,Quick Game Replays\""
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Effortless Game Captures with NVIDIA

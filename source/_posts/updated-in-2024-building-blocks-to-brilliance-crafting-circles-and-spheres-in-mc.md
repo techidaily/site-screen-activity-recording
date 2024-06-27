@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Building Blocks to Brilliance  Crafting Circles and Spheres in MC\""
-date: 2024-05-19T23:01:07.610Z
-updated: 2024-05-20T23:01:07.610Z
+date: 2024-06-26T03:02:04.504Z
+updated: 2024-06-27T03:02:04.504Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Building Blocks to Brilliance: Crafting Circles and Spheres in MC\""
 excerpt: "\"This Article Describes [Updated] In 2024, Building Blocks to Brilliance: Crafting Circles and Spheres in MC\""
 keywords: "MC Sphere Basics,Creating Spheres MC,MC Circle Fundamentals,Building Brilliance MC,Crafting Circles in MC,MC Geometry Mastery,Brilliant MC Sculptures"
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Building Blocks to Brilliance: Crafting Circles and Spheres in MC
 
-# How to Build Circles and Spheres in Minecraft
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# How to Build Circles and Spheres in Minecraft ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

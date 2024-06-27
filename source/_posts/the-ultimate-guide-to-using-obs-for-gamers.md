@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Using OBS for Gamers"
-date: 2024-05-19T23:01:34.840Z
-updated: 2024-05-20T23:01:34.840Z
+date: 2024-06-26T03:01:55.614Z
+updated: 2024-06-27T03:01:55.614Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate Guide to Using OBS for Gamers"
 excerpt: "This Article Describes The Ultimate Guide to Using OBS for Gamers"
 keywords: "FBX Gamer Guide,FBX Game Files,FBX Export Tips,FBX Import Basics,FBX Usage for Games,Mastering FBX for Gamers,FBX in Video Games"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## The Ultimate Guide to Using OBS for Gamers

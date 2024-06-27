@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  QuickCapture 5000  Chrome OS Recording Pro\""
-date: 2024-05-18T12:09:26.916Z
-updated: 2024-05-19T12:09:26.916Z
+date: 2024-06-26T03:01:56.318Z
+updated: 2024-06-27T03:01:56.318Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: QuickCapture 5000: Chrome OS Recording Pro\""
 excerpt: "\"This Article Describes 2024 Approved: QuickCapture 5000: Chrome OS Recording Pro\""
 keywords: "QuickCapture X5000,ChromeOS Recorder,Chrome OS Capture,FastCapture 5K,Chrome OS Recording,UltraQuick 5000,ChromeOS ProRec"
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## QuickCapture 5000: Chrome OS Recording Pro
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 
