@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From PNG to JPEG  Mac Screenshot Transformations\""
-date: 2024-05-18T12:05:22.905Z
-updated: 2024-05-19T12:05:22.905Z
+date: 2024-07-05T04:19:20.921Z
+updated: 2024-07-06T04:19:20.921Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] From PNG to JPEG: Mac Screenshot Transformations\""
 excerpt: "\"This Article Describes [Updated] From PNG to JPEG: Mac Screenshot Transformations\""
 keywords: "Mac Screen Shot Conversion,PNG to JPEG Screenshots,Image Format Change on Mac,Screenshot Transformation Tools,Mac JPEG Screenshots,Photo File Conversion Mac,Digital Image Transformations Mac"
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## From PNG to JPEG: Mac Screenshot Transformations
@@ -46,7 +46,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Supported Image Formats on Mac
 
@@ -62,7 +62,7 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
-![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+![Mac Screenshots formats](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -131,7 +131,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Supported Image Formats on Mac
 
@@ -147,7 +147,7 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
-![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+![Mac Screenshots formats](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -216,7 +216,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Supported Image Formats on Mac
 
@@ -232,7 +232,7 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
-![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+![Mac Screenshots formats](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -301,7 +301,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Supported Image Formats on Mac
 
@@ -317,7 +317,7 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 
 ## How to Change Screenshot Formats?
 
-![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+![Mac Screenshots formats](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 

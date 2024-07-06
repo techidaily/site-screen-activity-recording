@@ -1,7 +1,7 @@
 ---
 title: "\"Live Feed  OBS on Instagram App for 2024\""
-date: 2024-05-18T12:09:25.582Z
-updated: 2024-05-19T12:09:25.582Z
+date: 2024-07-05T04:19:26.417Z
+updated: 2024-07-06T04:19:26.417Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Live Feed: OBS on Instagram App for 2024\""
 excerpt: "\"This Article Describes Live Feed: OBS on Instagram App for 2024\""
 keywords: "\"InstaOBS Live Streaming,OBS on Instagram Replay,Real-Time OBS on IG,Direct OBS to IG Feed,OBS Integration with Instagram,OBS for Instagram Broadcasts,InStream OBS InstaApp\""
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## Live Feed: OBS on Instagram App

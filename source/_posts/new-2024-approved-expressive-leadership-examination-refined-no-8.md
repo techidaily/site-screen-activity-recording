@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expressive Leadership Examination - Refined No. 8\""
-date: 2024-05-19T23:01:05.042Z
-updated: 2024-05-20T23:01:05.042Z
+date: 2024-07-05T04:19:24.351Z
+updated: 2024-07-06T04:19:24.351Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Expressive Leadership Examination - Refined No. 8\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Expressive Leadership Examination - Refined No. 8\""
 keywords: "Expressive Leadership Test,Leadership Expression Assessment,Enhanced Leadership Evaluation,Refined Leadership Insight,No.8 Leadership Exam,Advanced Leadership Quiz,Expressive Leadership Review"
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Expressive Leadership Examination - Refined No. 8

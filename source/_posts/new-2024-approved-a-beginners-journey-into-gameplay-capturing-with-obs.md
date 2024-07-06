@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  A Beginner's Journey Into Gameplay Capturing with OBS\""
-date: 2024-05-18T12:04:58.241Z
-updated: 2024-05-19T12:04:58.241Z
+date: 2024-07-05T04:19:31.038Z
+updated: 2024-07-06T04:19:31.038Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: A Beginner's Journey Into Gameplay Capturing with OBS\""
 excerpt: "\"This Article Describes [New] 2024 Approved: A Beginner's Journey Into Gameplay Capturing with OBS\""
 keywords: "Gameplay Capture Basics,OBS for Beginners,OBS Tutorial Intro,First Steps in Recording Games,Learning Game Capturing,Start Gaming Screen Record,Beginner's OBS Guide"
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## A Beginner's Journey Into Gameplay Capturing with OBS

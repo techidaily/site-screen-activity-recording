@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Moonlight Mastery  A Photographer's Guidebook to Nighttime Imagery\""
-date: 2024-05-19T23:01:39.434Z
-updated: 2024-05-20T23:01:39.434Z
+date: 2024-07-05T04:19:22.583Z
+updated: 2024-07-06T04:19:22.583Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery\""
 excerpt: "\"This Article Describes In 2024, Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery\""
 keywords: "Pro Video Recorder Reviews,Top Video Gear Insights,Ultimate Cam Criteria Guide,Best Camcorder Ratings,Home Cinematographer's Choices,Premium Video Recorders,Expert Tech Camera Test"
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery

@@ -1,7 +1,7 @@
 ---
 title: "\"Tranquil Escapes  Top 12 PC Titles\""
-date: 2024-05-18T12:01:15.834Z
-updated: 2024-05-19T12:01:15.834Z
+date: 2024-07-05T04:19:19.682Z
+updated: 2024-07-06T04:19:19.682Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Tranquil Escapes: Top 12 PC Titles\""
 excerpt: "\"This Article Describes Tranquil Escapes: Top 12 PC Titles\""
 keywords: "PC TITLE Escapes,Top PC Games,Escapes in Gaming,PC Game Guide,Classic PC Titles,Best PC Adventures,Peaceful PC Play"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Tranquil Escapes: Top 12 PC Titles

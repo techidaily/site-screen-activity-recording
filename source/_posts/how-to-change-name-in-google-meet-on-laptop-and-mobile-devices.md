@@ -1,7 +1,7 @@
 ---
 title: "How to Change Name in Google Meet on Laptop and Mobile Devices?"
-date: 2024-05-19T23:03:45.720Z
-updated: 2024-05-20T23:03:45.720Z
+date: 2024-07-05T04:19:24.877Z
+updated: 2024-07-06T04:19:24.877Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Change Name in Google Meet on Laptop and Mobile Devices?"
 excerpt: "This Article Describes How to Change Name in Google Meet on Laptop and Mobile Devices?"
 keywords: "Google Meet Name Update Guide,Laptop Google Meet Name Editing,Changing Google Meet Username PC/Mobile,Google Meet Display Name Change Tips,Resetting Google Meet Profile ID,Google Meet Nickname Renaming Steps,Update Google Meet Identifier on Devices"
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## How to Change Name in Google Meet on Laptop and Mobile Devices?

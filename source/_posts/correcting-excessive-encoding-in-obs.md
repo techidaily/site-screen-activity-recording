@@ -1,7 +1,7 @@
 ---
 title: "Correcting Excessive Encoding in OBS"
-date: 2024-05-19T23:01:15.586Z
-updated: 2024-05-20T23:01:15.586Z
+date: 2024-07-05T04:19:18.108Z
+updated: 2024-07-06T04:19:18.108Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Correcting Excessive Encoding in OBS"
 excerpt: "This Article Describes Correcting Excessive Encoding in OBS"
 keywords: "Correct OBS Encoding,Reduce OBS Overload,Limit OBS Data Size,Optimize OBS Streams,Fix OBS Bandwidth Use,Control OBS Encoding Rate,Balance OBS Bitrate"
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## Correcting Excessive Encoding in OBS

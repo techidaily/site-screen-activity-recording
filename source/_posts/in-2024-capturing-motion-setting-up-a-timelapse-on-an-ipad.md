@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Motion  Setting up a Timelapse on an iPad\""
-date: 2024-05-18T11:52:42.464Z
-updated: 2024-05-19T11:52:42.465Z
+date: 2024-07-05T04:19:22.459Z
+updated: 2024-07-06T04:19:22.459Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Capturing Motion: Setting up a Timelapse on an iPad\""
 excerpt: "\"This Article Describes In 2024, Capturing Motion: Setting up a Timelapse on an iPad\""
 keywords: "Web Moment Recording,Mobile Video Capture,Portable Recorder Guide,Compact Pro Recorders List,Leading Handheld Recorders,Motion Web Capture Tips,Top Portable Video Makers"
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Capturing Motion: Setting up a Timelapse on an iPad

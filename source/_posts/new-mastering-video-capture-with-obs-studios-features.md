@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Video Capture with OBS Studio's Features"
-date: 2024-05-18T12:01:35.240Z
-updated: 2024-05-19T12:01:35.240Z
+date: 2024-07-05T04:19:28.497Z
+updated: 2024-07-06T04:19:28.497Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering Video Capture with OBS Studio's Features"
 excerpt: "This Article Describes [New] Mastering Video Capture with OBS Studio's Features"
 keywords: "OBS Mastery Guide,OBS Studio Basics,Video Capture Techniques,OBS Feature Tutorial,Enhance Video Recording,OBS Performance Optimization,Advanced OBS Usage"
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Mastering Video Capture with OBS Studio's Features

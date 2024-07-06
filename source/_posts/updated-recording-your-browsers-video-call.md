@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Recording Your Browser's Video Call"
-date: 2024-05-18T12:04:55.553Z
-updated: 2024-05-19T12:04:55.553Z
+date: 2024-07-05T04:19:20.964Z
+updated: 2024-07-06T04:19:20.964Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Recording Your Browser's Video Call"
 excerpt: "This Article Describes [Updated] Recording Your Browser's Video Call"
 keywords: "Video Chat Recorder,Record Web Calls,Browser Screen Capture,Online Video Logging,Save Browser Video Calls,Webcam History Storing,Browser Call Transcription"
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Recording Your Browser's Video Call
