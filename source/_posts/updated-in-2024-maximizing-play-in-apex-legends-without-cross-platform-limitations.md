@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Maximizing Play in Apex Legends Without Cross-Platform Limitations\""
-date: 2024-05-18T11:51:42.963Z
-updated: 2024-05-19T11:51:42.963Z
+date: 2024-07-21T03:14:32.187Z
+updated: 2024-07-22T03:14:32.187Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Maximizing Play in Apex Legends Without Cross-Platform Limitations\""
 excerpt: "\"This Article Describes [Updated] In 2024, Maximizing Play in Apex Legends Without Cross-Platform Limitations\""
 keywords: "Play Apex Unlimited,Overcome Platform Bound,Apex Game Access,Expand Legends Scope,Apex Multiplayer Growth,Crossover Limits Beat,Free Play in Apex"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Maximizing Play in Apex Legends Without Cross-Platform Limitations
@@ -39,6 +39,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -65,8 +68,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -91,10 +100,16 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -116,6 +131,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -134,6 +152,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -162,6 +183,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -218,12 +242,18 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -257,6 +287,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -292,3 +325,55 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-10-sandbox-innovations-you-shouldnt-skip/"><u>[New] 2024 Approved  10 Sandbox Innovations You Shouldn't Skip</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-detailed-examination-of-chilled-treat-recorders/"><u>[New] 2024 Approved  Detailed Examination of Chilled Treat Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-free-gamers-guide-to-selecting-best-screen-recorder-apps/"><u>[New] 2024 Approved  Free Gamers' Guide to Selecting Best Screen Recorder Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-free-mobile-screen-snatching-androids-leading-eight/"><u>[New] 2024 Approved  Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quickflips-how-tweets-jumpstart-video-fame/"><u>[New] 2024 Approved  QuickFlips  How Tweets Jumpstart Video Fame</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-simplifying-the-process-of-creating-a-high-quality-rss-feed/"><u>[New] 2024 Approved  Simplifying the Process of Creating a High-Quality RSS Feed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-techniques-for-voice-to-text-transcription-in-whatsapp-for-2024/"><u>[New] Advanced Techniques for Voice-to-Text Transcription in WhatsApp for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-all-you-need-to-know-about-mobizens-screen-capture-for-2024/"><u>[New] All You Need to Know About Mobizen's Screen Capture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-methods-for-capturing-your-playtime-for-2024/"><u>[New] Cutting-Edge Methods for Capturing Your Playtime for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elite-choices-for-image-capturing-for-2024/"><u>[New] Elite Choices for Image Capturing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-pc-based-console-game-recording-for-2024/"><u>[New] Essential Tips for PC-Based Console Game Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-detailed-guide-to-screen-record-skype-via-obs/"><u>[New] In 2024, Detailed Guide to Screen Record Skype via OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-your-youtube-journey-with-analytic-know-how/"><u>[New] In 2024, Enhance Your YouTube Journey with Analytic Know-How</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photo-and-video-edits-made-easy-select-the-best-8-apps-for-android-ios/"><u>[New] Photo & Video Edits Made Easy  Select the Best 8 Apps for Android, iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-photo-and-video-transfer-from-android/"><u>[New] Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-12-clicker-games-on-pc/"><u>[New] Top 12 Clicker Games on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/50264434-new-your-essential-gift-a-compact-bundle-of-50-banners/"><u>[New] Your Essential Gift  A Compact Bundle of 50 Banners!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-brain-benders-await-at-the-best-room-sanctuaries/"><u>[Updated] 2024 Approved  Brain Benders Await at the Best Room Sanctuaries</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-value-screen-recorder-apps-under-50/"><u>[Updated] Best Value Screen Recorder Apps Under $50</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-mac-video-software-alternatives-to-bandicam/"><u>[Updated] In 2024, Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-complete-minecraft-gameplay-capture-protocol/"><u>[Updated] In 2024, Complete Minecraft Gameplay Capture Protocol</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-efficient-techniques-to-record-on-vimeo/"><u>[Updated] In 2024, Efficient Techniques to Record on Vimeo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-explore-8-mirrorless-cameras-that-make-great-video-content/"><u>[Updated] In 2024, Explore 8 Mirrorless Cameras That Make Great Video Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harmony-in-minutes-no-credit-due/"><u>[Updated] In 2024, Harmony in Minutes, No Credit Due</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[Updated] Resolving Frame Rate Puzzle  Which FPS Brings Sharper Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>[Updated] Streamlining Audio Interpretation  A Comprehensive Guide for Google</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-is-active-presenter-8-the-peak-of-recording/"><u>2024 Approved  Is Active Presenter 8 the Peak of Recording?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-next-level-game-capture-strategies-for-high-definition-quality/"><u>2024 Approved  Next-Level Game Capture  Strategies for High Definition Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-to-zoom-call-recordings/"><u>2024 Approved  Step-by-Step Guide to Zoom Call Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>From Novice to Geometric Master  Crafting Perfect Circular & Spherical Objects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guidelines-for-eliminating-obs-fullscreen-freeze/"><u>Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-ps4-with-obs/"><u>How To Record PS4 with OBS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>In 2024, Digital Memory Keepers  Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone XS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity  A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 14 Plus</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>In 2024, Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leading-steps-to-mute-movie-filming-for-2024/"><u>Leading Steps to Mute Movie Filming for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>Mellow Playtime  10 Top-Rated Stress Erasers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/online-streaming-capture-a-comprehensive-guide-for-2024/"><u>Online Streaming Capture  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-logitech-webcam-settings-for-professional-video-outputs/"><u>Optimal Logitech Webcam Settings for Professional Video Outputs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlined-approach-record-movies-everywhere-you-go-for-2024/"><u>Streamlined Approach  Record Movies Everywhere You Go for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-choosing-a-win10-video-grabber-tool-for-2024/"><u>The Ultimate Guide to Choosing a Win10 Video Grabber Tool for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-v-purse-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor V Purse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unrivaled-adventures-a-chronicle-of-the-greatest-action-adventure-games-top-10/"><u>Unrivaled Adventures  A Chronicle of the Greatest Action-Adventure Games (Top 10)</u></a></li>
+</ul></div>

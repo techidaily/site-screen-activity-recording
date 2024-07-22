@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Slides to Screens  Easy Recording Techniques\""
-date: 2024-05-18T11:58:05.723Z
-updated: 2024-05-19T11:58:05.723Z
+date: 2024-07-21T03:43:16.509Z
+updated: 2024-07-22T03:43:16.509Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Slides to Screens: Easy Recording Techniques\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Slides to Screens: Easy Recording Techniques\""
 keywords: "\"Screen Recording Basics,Simple Slidecasts Tips,Easy Video Capture Methods,Quick Slide Transition Guide,Streamlining Slide Presentations,Slides to Videos Techniques,No-Fuss Screen Recording Tricks\""
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## From Slides to Screens: Easy Recording Techniques
@@ -31,16 +31,25 @@ Select the Slideshow tab and snap Record Slide Show. Pick from what slide you wa
 
 ![record slide show](https://images.wondershare.com/filmora/article-images/record-slide-show.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Start Recording
 
 A slideshow recording window will open. Click on the red Record button (or press R on your control centre). Later the three-second beginning recording begins. While recording your slideshow, you can highlight explicit concentrations with various tones from the lower board.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start recording](https://images.wondershare.com/filmora/article-images/start-recording.jpg)
 
 ### Step 3: Stop Recording
 
 Stop recording by crushing Stop on the control centre or tapping on the square Stop button. Exactly when your watchers understand that you're recording the meeting, they'll likely end up being more locked in. Accepting that you're wanting to evade a lengthy social occasion, you could similarly use mechanical assemblies like Filmora, particularly our screen recorder incorporates, to record your get-together.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![stop recording](https://images.wondershare.com/filmora/article-images/stop-recording.jpg)
 
 ## Way 2\. Record Presentation with Filmora Recorder
@@ -82,8 +91,185 @@ From the video catching to the video altering, this product from Wondershare is 
 
 Once you have finished creating the informational video and editing it, you can now save it to share on social media. Filmora allows embedded sharing platforms like YouTube on the go. The file can be saved into the format as; MP4, WMV, AVI, MOV, GIF, MP3.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
 
+## Way 3\. Use Screencast-o-Matic
+
+Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1\. Head to Screencast-O-Matic Website
+
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
+
+![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2\. Begin Recording
+
+To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
+
+### Step 3 Stop and Save Recording
+
+At the point when you are done, click the Pause button, and afterwards click "Done." From here, you are prepared to subtitle, alter, and share your video. When your recording is done, you can without much of a stretch manage and alter the video utilizing Screencast-O-Matic's inherent video proofreader. Click Save As Video File to save your recording to your PC as an MP4 document.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![stop and save recording](https://images.wondershare.com/filmora/article-images/stop-and-save-recording.jpg)
+
+The simplest method for imparting recordings to your understudies is by transferring them to Screencast-O-Matic and afterwards offering the connection to your understudies
+
+## Conclusion
+
+From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for sharing supporting content that assists watchers with retaining and associating with the ideas and thoughts partook in a show. By and large, PowerPoint slides all alone, without the comparing show, are deficient and don't do the best occupation of imparting the ideas from the real show. Hence, we recommend going for Filmora solution for that as it comes in handy with a pack full of features. For those on the end offer and file accounts of their full introductions.
+
+ [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step 1: Download and Install Wondershare Filmora
+
+You probably have downloaded this software due to its simplistic all-in-one approach to video editing and recording solutions. Well, if you haven’t, then this is the time and links as mentioned below to download it hassle-free:  
+  
+Right after the downloading and installation/updating process finishes, you can launch it directly from your desktop. Wondershare Filmora comes with a speciality of two methods to make a slideshow video, which includes:
+
+* By importing your media files
+* By recording your screen presentation
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2: Record the PowerPoint Presentation with Audio
+
+In the next step, you can do the settings on your own without having any prior expertise in this regard. To do that, simply hit the New Recording button, and inside the recording interface, enable Webcam and microphone settings right on your fingertips.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![record ppt with audio](https://images.wondershare.com/filmora/article-images/record-ppt-with-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Edit Your Presentation Video
+
+From the video catching to the video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. Wondershare Filmora is viable with modest frameworks, its video editor has a lot of implicit items to be utilized in the video projects. Planned explicitly for the recordings, this product thinks of a streamlined interface to take your recordings to the next level through its professional editing features.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![edit your pre video](https://images.wondershare.com/filmora/article-images/edit-your-pre-video.jpg)
+
+### Step 4: Export the Masterpiece
+
+Once you have finished creating the informational video and editing it, you can now save it to share on social media. Filmora allows embedded sharing platforms like YouTube on the go. The file can be saved into the format as; MP4, WMV, AVI, MOV, GIF, MP3.
+
+![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Way 3\. Use Screencast-o-Matic
+
+Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+### Step 1\. Head to Screencast-O-Matic Website
+
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2\. Begin Recording
+
+To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
+
+![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 3 Stop and Save Recording
+
+At the point when you are done, click the Pause button, and afterwards click "Done." From here, you are prepared to subtitle, alter, and share your video. When your recording is done, you can without much of a stretch manage and alter the video utilizing Screencast-O-Matic's inherent video proofreader. Click Save As Video File to save your recording to your PC as an MP4 document.
+
+![stop and save recording](https://images.wondershare.com/filmora/article-images/stop-and-save-recording.jpg)
+
+The simplest method for imparting recordings to your understudies is by transferring them to Screencast-O-Matic and afterwards offering the connection to your understudies
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for sharing supporting content that assists watchers with retaining and associating with the ideas and thoughts partook in a show. By and large, PowerPoint slides all alone, without the comparing show, are deficient and don't do the best occupation of imparting the ideas from the real show. Hence, we recommend going for Filmora solution for that as it comes in handy with a pack full of features. For those on the end offer and file accounts of their full introductions.
+
+ [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Step 1: Download and Install Wondershare Filmora
+
+You probably have downloaded this software due to its simplistic all-in-one approach to video editing and recording solutions. Well, if you haven’t, then this is the time and links as mentioned below to download it hassle-free:  
+  
+Right after the downloading and installation/updating process finishes, you can launch it directly from your desktop. Wondershare Filmora comes with a speciality of two methods to make a slideshow video, which includes:
+
+* By importing your media files
+* By recording your screen presentation
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Step 2: Record the PowerPoint Presentation with Audio
+
+In the next step, you can do the settings on your own without having any prior expertise in this regard. To do that, simply hit the New Recording button, and inside the recording interface, enable Webcam and microphone settings right on your fingertips.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![record ppt with audio](https://images.wondershare.com/filmora/article-images/record-ppt-with-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Edit Your Presentation Video
+
+From the video catching to the video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. Wondershare Filmora is viable with modest frameworks, its video editor has a lot of implicit items to be utilized in the video projects. Planned explicitly for the recordings, this product thinks of a streamlined interface to take your recordings to the next level through its professional editing features.
+
+![edit your pre video](https://images.wondershare.com/filmora/article-images/edit-your-pre-video.jpg)
+
+### Step 4: Export the Masterpiece
+
+Once you have finished creating the informational video and editing it, you can now save it to share on social media. Filmora allows embedded sharing platforms like YouTube on the go. The file can be saved into the format as; MP4, WMV, AVI, MOV, GIF, MP3.
+
+![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Use Screencast-o-Matic
 
 Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
@@ -98,6 +284,10 @@ Dispatch the Screencast-O-Matic application on your PC To begin recording, open 
 
 To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
 
 ### Step 3 Stop and Save Recording
@@ -129,12 +319,18 @@ Right after the downloading and installation/updating process finishes, you can 
 
 In the next step, you can do the settings on your own without having any prior expertise in this regard. To do that, simply hit the New Recording button, and inside the recording interface, enable Webcam and microphone settings right on your fingertips.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record ppt with audio](https://images.wondershare.com/filmora/article-images/record-ppt-with-audio.jpg)
 
 ### Step 3: Edit Your Presentation Video
 
 From the video catching to the video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. Wondershare Filmora is viable with modest frameworks, its video editor has a lot of implicit items to be utilized in the video projects. Planned explicitly for the recordings, this product thinks of a streamlined interface to take your recordings to the next level through its professional editing features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit your pre video](https://images.wondershare.com/filmora/article-images/edit-your-pre-video.jpg)
 
 ### Step 4: Export the Masterpiece
@@ -143,6 +339,9 @@ Once you have finished creating the informational video and editing it, you can 
 
 ![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Use Screencast-o-Matic
 
 Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
@@ -157,6 +356,9 @@ Dispatch the Screencast-O-Matic application on your PC To begin recording, open 
 
 To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
 
 ### Step 3 Stop and Save Recording
@@ -167,124 +369,11 @@ At the point when you are done, click the Pause button, and afterwards click "Do
 
 The simplest method for imparting recordings to your understudies is by transferring them to Screencast-O-Matic and afterwards offering the connection to your understudies
 
-## Conclusion
-
-From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for sharing supporting content that assists watchers with retaining and associating with the ideas and thoughts partook in a show. By and large, PowerPoint slides all alone, without the comparing show, are deficient and don't do the best occupation of imparting the ideas from the real show. Hence, we recommend going for Filmora solution for that as it comes in handy with a pack full of features. For those on the end offer and file accounts of their full introductions.
-
- [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Step 1: Download and Install Wondershare Filmora
-
-You probably have downloaded this software due to its simplistic all-in-one approach to video editing and recording solutions. Well, if you haven’t, then this is the time and links as mentioned below to download it hassle-free:  
-  
-Right after the downloading and installation/updating process finishes, you can launch it directly from your desktop. Wondershare Filmora comes with a speciality of two methods to make a slideshow video, which includes:
-
-* By importing your media files
-* By recording your screen presentation
-
-### Step 2: Record the PowerPoint Presentation with Audio
-
-In the next step, you can do the settings on your own without having any prior expertise in this regard. To do that, simply hit the New Recording button, and inside the recording interface, enable Webcam and microphone settings right on your fingertips.
-
-![record ppt with audio](https://images.wondershare.com/filmora/article-images/record-ppt-with-audio.jpg)
-
-### Step 3: Edit Your Presentation Video
-
-From the video catching to the video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. Wondershare Filmora is viable with modest frameworks, its video editor has a lot of implicit items to be utilized in the video projects. Planned explicitly for the recordings, this product thinks of a streamlined interface to take your recordings to the next level through its professional editing features.
-
-![edit your pre video](https://images.wondershare.com/filmora/article-images/edit-your-pre-video.jpg)
-
-### Step 4: Export the Masterpiece
-
-Once you have finished creating the informational video and editing it, you can now save it to share on social media. Filmora allows embedded sharing platforms like YouTube on the go. The file can be saved into the format as; MP4, WMV, AVI, MOV, GIF, MP3.
-
-![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
-
-## Way 3\. Use Screencast-o-Matic
-
-Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
-
-### Step 1\. Head to Screencast-O-Matic Website
-
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
-
-### Step 2\. Begin Recording
-
-To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
-
-![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
-
-### Step 3 Stop and Save Recording
-
-At the point when you are done, click the Pause button, and afterwards click "Done." From here, you are prepared to subtitle, alter, and share your video. When your recording is done, you can without much of a stretch manage and alter the video utilizing Screencast-O-Matic's inherent video proofreader. Click Save As Video File to save your recording to your PC as an MP4 document.
-
-![stop and save recording](https://images.wondershare.com/filmora/article-images/stop-and-save-recording.jpg)
-
-The simplest method for imparting recordings to your understudies is by transferring them to Screencast-O-Matic and afterwards offering the connection to your understudies
-
-## Conclusion
-
-From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for sharing supporting content that assists watchers with retaining and associating with the ideas and thoughts partook in a show. By and large, PowerPoint slides all alone, without the comparing show, are deficient and don't do the best occupation of imparting the ideas from the real show. Hence, we recommend going for Filmora solution for that as it comes in handy with a pack full of features. For those on the end offer and file accounts of their full introductions.
-
- [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Step 1: Download and Install Wondershare Filmora
-
-You probably have downloaded this software due to its simplistic all-in-one approach to video editing and recording solutions. Well, if you haven’t, then this is the time and links as mentioned below to download it hassle-free:  
-  
-Right after the downloading and installation/updating process finishes, you can launch it directly from your desktop. Wondershare Filmora comes with a speciality of two methods to make a slideshow video, which includes:
-
-* By importing your media files
-* By recording your screen presentation
-
-### Step 2: Record the PowerPoint Presentation with Audio
-
-In the next step, you can do the settings on your own without having any prior expertise in this regard. To do that, simply hit the New Recording button, and inside the recording interface, enable Webcam and microphone settings right on your fingertips.
-
-![record ppt with audio](https://images.wondershare.com/filmora/article-images/record-ppt-with-audio.jpg)
-
-### Step 3: Edit Your Presentation Video
-
-From the video catching to the video altering, this product from Wondershare is the hub of vital and significant editing features you would require in your video project as per your expectations. Wondershare Filmora is viable with modest frameworks, its video editor has a lot of implicit items to be utilized in the video projects. Planned explicitly for the recordings, this product thinks of a streamlined interface to take your recordings to the next level through its professional editing features.
-
-![edit your pre video](https://images.wondershare.com/filmora/article-images/edit-your-pre-video.jpg)
-
-### Step 4: Export the Masterpiece
-
-Once you have finished creating the informational video and editing it, you can now save it to share on social media. Filmora allows embedded sharing platforms like YouTube on the go. The file can be saved into the format as; MP4, WMV, AVI, MOV, GIF, MP3.
-
-![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
-
-## Way 3\. Use Screencast-o-Matic
-
-Screencast O Matic is a web-based program that catches your PC screen in a video design. This permits you to record what's going on your PC screen to impart to other people. It is valuable for making instructional exercises or sharing an interaction for achieving an undertaking on your PC. Screencast-O-Matic can record what's on your screen, what's on your PC's camera, or both. You can import and share recordings that you have recorded outside of Screencast-O-Matic also. Investigate to figure out how you can make your narratives besides delighting and keep your meeting seeing. The web is soaked with content, and backers who consider noteworthy contemplations are the ones who beat the resistance. These can be altered into your screencast recordings, or transferred as entire recordings.
-
-### Step 1\. Head to Screencast-O-Matic Website
-
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
-
-### Step 2\. Begin Recording
-
-To guarantee the recording window is set to catch the whole region you want, straighten out the size of the catch box by clicking and hauling the corners to resize the catch window. then, at that point, click the red "Rec" button to start the recording. Assuming your recording will incorporate a PowerPoint with sound or some other application/video that necessities to have sound caught, make certain to set the "PC Audio" to "Yes"
-
-![begin recording](https://images.wondershare.com/filmora/article-images/begin-recording.jpg)
-
-### Step 3 Stop and Save Recording
-
-At the point when you are done, click the Pause button, and afterwards click "Done." From here, you are prepared to subtitle, alter, and share your video. When your recording is done, you can without much of a stretch manage and alter the video utilizing Screencast-O-Matic's inherent video proofreader. Click Save As Video File to save your recording to your PC as an MP4 document.
-
-![stop and save recording](https://images.wondershare.com/filmora/article-images/stop-and-save-recording.jpg)
-
-The simplest method for imparting recordings to your understudies is by transferring them to Screencast-O-Matic and afterwards offering the connection to your understudies
-
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for sharing supporting content that assists watchers with retaining and associating with the ideas and thoughts partook in a show. By and large, PowerPoint slides all alone, without the comparing show, are deficient and don't do the best occupation of imparting the ideas from the real show. Hence, we recommend going for Filmora solution for that as it comes in handy with a pack full of features. For those on the end offer and file accounts of their full introductions.
@@ -314,3 +403,57 @@ From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-3-ways-to-record-lectures-on-mac/"><u>[New] 2024 Approved  3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-cost-effective-screen-capture-apps-explored/"><u>[New] 2024 Approved  Best Cost-Effective Screen Capture Apps Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-guide-to-premium-free-online-screen-recorders/"><u>[New] 2024 Approved  Guide to Premium Free Online Screen Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-playback-game-capturing-on-windows-10/"><u>[New] 2024 Approved  Perfecting Playback  Game Capturing on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-proper-techniques-for-easy-iphone-screen-recording/"><u>[New] 2024 Approved  Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-reducing-excessive-encoding-obs/"><u>[New] 2024 Approved  Reducing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-digital-scribes-leading-screen-recorder-software-for-2024/"><u>[New] Digital Scribes  Leading Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-8-leading-edge-screensnap-solutions/"><u>[New] In 2024, 8 Leading-Edge Screensnap Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-achieve-perfection-in-recordings-with-these-expert-insights/"><u>[New] In 2024, Achieve Perfection in Recordings with These Expert Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-ios-gaming-experience-top-emulators-for-your-favorite-psp-titles/"><u>[New] In 2024, Best iOS Gaming Experience  Top Emulators for Your Favorite PSP Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-dissecting-the-ispring-screencap-magic/"><u>[New] In 2024, Dissecting the iSpring Screencap Magic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[New] In 2024, Elite Fighters Unleashed  Selecting Superior Street Fighter Clones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>[New] In 2024, Vimeo to GIF  How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-channel-branding-to-skyrocket-subscriber-numbers/"><u>[New] Optimizing Channel Branding to Skyrocket Subscriber Numbers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-securesync-experts-analysis-for-2024/"><u>[New] SecureSync Experts Analysis for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-for-iphone-screen-taping-for-2024/"><u>[New] The Ultimate Guide for iPhone Screen Taping for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-techniques-for-silent-film-capturing-for-2024/"><u>[New] Top Techniques for Silent Film Capturing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-ways-to-record-league-of-legends-lol-games/"><u>[Updated] 2024 Approved  5 Ways to Record League of Legends (LOL) Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-free-tools-perfecting-your-video-calls/"><u>[Updated] 2024 Approved  Essential Free Tools  Perfecting Your Video Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-video-editors-for-cutting-edge-webcams/"><u>[Updated] 2024 Approved  Essential Video Editors for Cutting-Edge Webcams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>[Updated] 2024 Approved  Expert Analysis  How ShowMore Enhances Your Video Capture Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastery-in-mac-screen-capture-format-conversion/"><u>[Updated] 2024 Approved  Mastery in Mac  Screen Capture Format Conversion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>[Updated] 2024 Approved  Unleash New Sounds  Top 7 Voice Transformation Android Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-affordable-mp3-recording-skype-calls-saved-for-2024/"><u>[Updated] Affordable MP3 Recording  Skype Calls Saved for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-complete-razer-kiyo-webcam-review-for-2024/"><u>[Updated] Complete Razer Kiyo Webcam Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-your-gaming-choose-the-best-free-voice-modifier-to-sharpen-skills/"><u>[Updated] In 2024, Elevate Your Gaming - Choose the Best Free Voice Modifier to Sharpen Skills</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-leading-list-the-10-cost-effective-mobile-video-conferencing/"><u>[Updated] In 2024, Leading List  The 10 Cost-Effective Mobile Video Conferencing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tracing-back-on-facebook-a-laptop-and-mobile-recipe/"><u>[Updated] In 2024, Tracing Back on Facebook  A Laptop & Mobile Recipe</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-untamed-video-preservation-units/"><u>[Updated] In 2024, Untamed Video Preservation Units</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-innovative-techniques-for-self-duplication-on-social-medias-star-platform-tiktok/"><u>[Updated] Innovative Techniques for Self-Duplication on Social Media's Star Platform, TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-native-chrome-os-screen-snapper-for-2024/"><u>[Updated] Native Chrome OS Screen Snapper for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-speech-clarity-mastering-googles-translation-technology/"><u>[Updated] Speech Clarity  Mastering Google’s Translation Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-no-cost-guide-to-capturing-your-favorite-shows-for-2024/"><u>[Updated] The No-Cost Guide to Capturing Your Favorite Shows for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-10-steps-to-optimize-your-insta-storytelling-for-2024/"><u>[Updated] The Ultimate 10 Steps to Optimize Your Insta Storytelling for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unraveling-the-secrets-of-recording-hulu-across-computersmobile/"><u>2024 Approved  Unraveling the Secrets of Recording Hulu Across Computers/Mobile</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-nubia-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Nubia Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-royalty-free-clip-art-in-2024/"><u>How to Get Royalty Free Clip Art, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-zte-blade-a73-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For ZTE Blade A73 5G Unlock Without Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-8-free-instagram-story-savers-save-instagram-stories-without-limits/"><u>In 2024, 8 Free Instagram Story Savers-Save Instagram Stories without Limits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-g54-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola G54 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-record-roblox-gameplay-on-mac/"><u>In 2024, How to Record Roblox Gameplay on Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edgeplus-2023-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge+ (2023) Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-maximize-your-visuals-free-commercial-image-solutions/"><u>New 2024 Approved Maximize Your Visuals Free Commercial Image Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/superior-economical-live-camera-snapper/"><u>Superior Economical Live Camera Snapper</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-creative-with-windows-video-editing-adding-3d-visuals-and-effects/"><u>Updated 2024 Approved Get Creative with Windows Video Editing Adding 3D Visuals and Effects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>Updated In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
+</ul></div>

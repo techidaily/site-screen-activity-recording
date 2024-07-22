@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Keeping Score with Your Xbox One Screenshots"
-date: 2024-06-26T03:02:22.752Z
-updated: 2024-06-27T03:02:22.752Z
+date: 2024-07-21T05:24:35.933Z
+updated: 2024-07-22T05:24:35.933Z
 tags: 
   - screen-recording
   - ai video
@@ -31,8 +31,14 @@ Let's have a look at how you can take screenshots in video games you play on you
 * [Part 2: Capture Screenshots on Xbox One Using Voice Commands](#part2)
 * [Part 3: How to Manage and Share Screenshots on Xbox One](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,6 +52,9 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Capturing Screenshots on Xbox One Using the Controller
@@ -60,6 +69,9 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Capture Screenshots on Xbox One Using Voice Commands ![Xbox Screenshot](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
@@ -76,6 +88,10 @@ Capturing screenshots of the epic moments in an Xbox One video game and sharing 
 
 The console you're using features the Upload app, so in order to access it, you should simply tap on the right bumper on the controller while you are in the Xbox One's home screen. Repeat this action until you are able to see the content feed your friends shared with you. Locate the screenshot you'd like to share and press the Menu button on the controller. A new window will emerge on the screen and you should simply select the Share option and then proceed to choose whether you want to send the screenshot as a private message, upload it to OneDrive or post it to Twitter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Xbox Screenshot](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -90,6 +106,9 @@ Gaming is one of the best forms of entertainment available to us, but it is even
 
 What is your favorite method of taking screenshots on Xbox One? We're anxious to hear all about it, so let us know in the comments below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -106,3 +125,43 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-all-about-camstudio-screen-recorder-efficiency/"><u>[New] 2024 Approved  All About CamStudio Screen Recorder Efficiency</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cutting-edge-streaming-top-5-tools-for-capturing-every-meeting/"><u>[New] 2024 Approved  Cutting-Edge Streaming  Top 5 Tools for Capturing Every Meeting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-examining-the-best-of-screen-capturing-tools-in-action/"><u>[New] 2024 Approved  Examining the Best of Screen Capturing Tools in Action</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-gaming-through-time-with-top-5-pc-based-ps1-game-emulators/"><u>[New] 2024 Approved  Gaming Through Time with Top 5 PC-Based PS1 Game Emulators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-videography-a-comparative-analysis-between-tiktok-and-snap/"><u>[New] 2024 Approved  Mastering the Art of Videography  A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-professional-zoom-settings-guide-for-google-meet/"><u>[New] 2024 Approved  Professional Zoom Settings Guide for Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-steam-gamers-recordings-for-2024/"><u>[New] Essential Tips for Steam Gamers' Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ace-tools-for-gamer-recording/"><u>[New] In 2024, Ace Tools for Gamer Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-communication-strategies-for-effective-call-logging/"><u>[New] In 2024, Enhancing Communication  Strategies for Effective Call Logging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-picked-screen-capturers-of-movies/"><u>[New] In 2024, Expert-Picked Screen Capturers of Movies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expertise-unleashed-professional-insights-into-video-editing/"><u>[New] In 2024, Expertise Unleashed  Professional Insights Into Video Editing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-fraps-as-a-video-recorder-what-you-need-to-know/"><u>[New] In 2024, Fraps as a Video Recorder  What You Need To Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-snappify-your-macs-viewport/"><u>[New] In 2024, How To Snappify Your Mac's Viewport</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-blitzburst-freezeframe-video/"><u>[Updated] 2024 Approved  BlitzBurst FreezeFrame Video</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-explore-the-premier-video-grabbing-tools-on-windows-10/"><u>[Updated] 2024 Approved  Explore the Premier Video Grabbing Tools on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-phone-applications-altering-your-natural-tone/"><u>[Updated] 2024 Approved  Innovative Phone Applications  Altering Your Natural Tone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-alternative-to-obs-the-next-gen-stream-software/"><u>[Updated] In 2024, Alternative to OBS  The Next-Gen Stream Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-majestic-celestial-images-at-your-command/"><u>[Updated] Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-refine-video-creation-process-via-windows-10-photos-and-story-remix/"><u>[Updated] Refine Video Creation Process via Windows 10 Photos & Story Remix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[Updated] Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-which-livestreaming-tool-wins-obs-or-bandicam/"><u>[Updated] Which Livestreaming Tool Wins  OBS or Bandicam?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715675550208-15-best-android-emulator-mac-and-pc/"><u>15 Best Android Emulator [Mac and PC]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instacapture-the-ultimate-download-toolkit-unveiled/"><u>2024 Approved  InstaCapture  The Ultimate Download Toolkit Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-minimugger-report-onscreen-snaps-reviewed/"><u>2024 Approved  MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-organizing-information-mastery-seamless-integration-of-chapters-in-youtube-videos/"><u>2024 Approved  Organizing Information Mastery  Seamless Integration of Chapters in YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-guide-to-pc-game-screenshots/"><u>2024 Approved  The Ultimate Guide to PC Game Screenshots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grandest-picture-tweaker-suite-for-2024/"><u>Grandest Picture Tweaker Suite for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-obs-studio-mastery-top-5-editing-techniques/"><u>In 2024, OBS Studio Mastery  Top 5 Editing Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-preventing-total-loss-of-image-in-streaming-videos-on-youtube/"><u>In 2024, Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-top-10-economical-platforms-for-seamless-online-video-meetings/"><u>In 2024, The Top 10 Economical Platforms for Seamless Online Video Meetings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-guide-to-10-plugin-choices-for-discord-enthusiasts/"><u>In 2024, The Ultimate Guide to 10 Plugin Choices for Discord Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-10-passport-images-at-no-cost-desktopweb/"><u>In 2024, Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715838820947-top-6-minecraft-house-ideas-for-beginners-for-2024/"><u>Top 6 Minecraft House Ideas [for Beginners] for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-marketing-potential-with-unpacked-plans/"><u>Unleash Marketing Potential with Unpacked Plans</u></a></li>
+</ul></div>

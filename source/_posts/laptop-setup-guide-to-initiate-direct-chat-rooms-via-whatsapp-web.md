@@ -1,7 +1,7 @@
 ---
 title: "Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web"
-date: 2024-05-18T11:57:25.583Z
-updated: 2024-05-19T11:57:25.583Z
+date: 2024-07-21T03:40:10.911Z
+updated: 2024-07-22T03:40:10.911Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web"
 excerpt: "This Article Describes Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web"
 keywords: "Laptop Chat Room WhatsApp,WhatsApp Web Chatting PC,Direct Chat on Laptops,Setup WhatsApp Web Rooms,Initiate Laptop Chat WhatsApp,WhatsApp Chatroom Guide,Direct WhatsApp Room PC"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web
@@ -33,12 +33,143 @@ WhatsApp is one of our favorite communication apps, especially useful while we a
 * [**Part 2: How to Make Video Call from WhatsApp Web in Laptop**](#how-to-make-video-call-whatsapp-laptop)
 * [**Part 3: WhatsApp Web alternative**](#WhatsApp-Web-alternative)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Can You Make Video Calls on WhatsApp Desktop
 
 Unfortunately, you can’t use WhatsApp on the desktop to make video calls directly. However, you can use another third-party software to emulate the WhatsApp video call on desktop. In addition to video calls, you can use other features like on the phone.
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to Make Video Call from WhatsApp Web in Laptop
+
+Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
+
+What you need is an Emulator. This clever little piece of tech was first invented to do things like playing retro video games through a modern pc. The emulator connects the missing encryptions between the two technologies. In the case of a product called [Bluestacks](https://www.bluestacks.com/), it will allow you to run WhatsApp as if it were on your phone, but do it through your computer.
+
+All you need to do is follow these instructions, and you will be making video calls in WhatsApp web in a laptop in no time!
+
+In a few easy steps:
+
+   1. Download an emulator – [Bluestacks](https://www.bluestacks.com/download.html) is considered an industry favorite at the moment.
+   2. Select Save, then run the application. Give it time to install.
+   3. Set up your account with the app and log in to Google to sync.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
+
+   1. Find WhatsApp in the Play or Apple store and download it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
+
+   1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
+
+1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
+2. Choose a friend to start a conversation, and then tap the video call button at the top right corner. The whole process is easy to complete like on the phone.
+
+Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
+
+## Part 3: WhatsApp Web Alternative
+
+There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
+
+### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
+
+Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
+
+### 2\. [Google Duo](https://duo.google.com/about/)
+
+If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
+
+![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. [Facebook Messenger](https://www.messenger.com/)
+
+If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
+
+![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Rounding Up
+
+So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+We are wondering how to make video calls in [WhatsApp web](https://web.whatsapp.com/) on laptops instead of on phones? It can be done, we promise! We took a look to try and explain this one a little further after we found out that not everyone knows how it all works.
+
+WhatsApp is one of our favorite communication apps, especially useful while we are all stuck at home in shelter of the virus. While [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) ensues, apps like this one are increasingly important. However, not all of us know how to make WhatsApp calls from a PC – and that’s why we are here!
+
+* [**Part 1: Can You Make Video Calls on WhatsApp Desktop**](#can-you-make-video-call-whatsapp)
+* [**Part 2: How to Make Video Call from WhatsApp Web in Laptop**](#how-to-make-video-call-whatsapp-laptop)
+* [**Part 3: WhatsApp Web alternative**](#WhatsApp-Web-alternative)
+
+## Part 1: Can You Make Video Calls on WhatsApp Desktop
+
+Unfortunately, you can’t use WhatsApp on the desktop to make video calls directly. However, you can use another third-party software to emulate the WhatsApp video call on desktop. In addition to video calls, you can use other features like on the phone.
+
+Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -76,8 +207,14 @@ There are 3 WhatsApp Web Alternatives that we can think of, off the top of our h
 
 Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 2\. [Google Duo](https://duo.google.com/about/)
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
@@ -94,6 +231,9 @@ If you don’t intend to do much in the way of group chatting, then video callin
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -138,6 +278,9 @@ In a few easy steps:
 
    1. Find WhatsApp in the Play or Apple store and download it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
 
    1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
@@ -157,8 +300,14 @@ There are 3 WhatsApp Web Alternatives that we can think of, off the top of our h
 
 Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [Google Duo](https://duo.google.com/about/)
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
@@ -169,12 +318,18 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -219,6 +374,9 @@ In a few easy steps:
 
    1. Find WhatsApp in the Play or Apple store and download it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
 
    1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
@@ -238,105 +396,39 @@ There are 3 WhatsApp Web Alternatives that we can think of, off the top of our h
 
 Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-We are wondering how to make video calls in [WhatsApp web](https://web.whatsapp.com/) on laptops instead of on phones? It can be done, we promise! We took a look to try and explain this one a little further after we found out that not everyone knows how it all works.
-
-WhatsApp is one of our favorite communication apps, especially useful while we are all stuck at home in shelter of the virus. While [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) ensues, apps like this one are increasingly important. However, not all of us know how to make WhatsApp calls from a PC – and that’s why we are here!
-
-* [**Part 1: Can You Make Video Calls on WhatsApp Desktop**](#can-you-make-video-call-whatsapp)
-* [**Part 2: How to Make Video Call from WhatsApp Web in Laptop**](#how-to-make-video-call-whatsapp-laptop)
-* [**Part 3: WhatsApp Web alternative**](#WhatsApp-Web-alternative)
-
-## Part 1: Can You Make Video Calls on WhatsApp Desktop
-
-Unfortunately, you can’t use WhatsApp on the desktop to make video calls directly. However, you can use another third-party software to emulate the WhatsApp video call on desktop. In addition to video calls, you can use other features like on the phone.
-
-Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
-
-## Part 2: How to Make Video Call from WhatsApp Web in Laptop
-
-Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
-
-What you need is an Emulator. This clever little piece of tech was first invented to do things like playing retro video games through a modern pc. The emulator connects the missing encryptions between the two technologies. In the case of a product called [Bluestacks](https://www.bluestacks.com/), it will allow you to run WhatsApp as if it were on your phone, but do it through your computer.
-
-All you need to do is follow these instructions, and you will be making video calls in WhatsApp web in a laptop in no time!
-
-In a few easy steps:
-
-   1. Download an emulator – [Bluestacks](https://www.bluestacks.com/download.html) is considered an industry favorite at the moment.
-   2. Select Save, then run the application. Give it time to install.
-   3. Set up your account with the app and log in to Google to sync.
-
-![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
-
-   1. Find WhatsApp in the Play or Apple store and download it.
-
-![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
-
-   1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
-
-![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
-
-1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
-2. Choose a friend to start a conversation, and then tap the video call button at the top right corner. The whole process is easy to complete like on the phone.
-
-Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
-
-## Part 3: WhatsApp Web Alternative
-
-There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
-
-### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
-
-Skype is one of the longest-running video calling and web calling apps. It gives you a local international ID to make long-distance calls for free, and much easier. It also has some great functions if you need to work from home or video conference. Skype has excellent customer support and some wonderful add-ons to make the experience more accessible. When it comes to a tailored, professional finish, then Skype has the most experience. You can also [record Skype video call](https://tools.techidaily.com/wondershare/filmora/download/) easily.
-
-![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
-
-### 2\. [Google Duo](https://duo.google.com/about/)
-
-If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
-
-![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
-
-### 3\. [Facebook Messenger](https://www.messenger.com/)
-
-If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
-
-![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
-
-## Rounding Up
-
-So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -370,3 +462,39 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ethical-engagement-sustainable-strategies-for-content-creeps/"><u>[New] 2024 Approved  Ethical Engagement  Sustainable Strategies for Content Creeps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[New] 2024 Approved  Perfect Video Conferencing  The Essential List of 10 Free Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-start-installing-vrecorder-effortlessly/"><u>[New] 2024 Approved  Quick Start  Installing VRecorder Effortlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-domain-your-playground-for-1000-titles-for-2024/"><u>[New] Digital Domain  Your Playground for 1,000 Titles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-screen-record-skype-with-obs/"><u>[New] How to Screen Record Skype with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-remote-recording-techniques-for-podcasts/"><u>[New] In 2024, Remote Recording Techniques for Podcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-capture-audiovisual-screen-shot-for-2024/"><u>[New] Quick Capture  Audiovisual Screen Shot for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sightgraph-assessment-center-for-2024/"><u>[New] SightGraph Assessment Center for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speed-in-snapshots-auditory-recorded-for-2024/"><u>[New] Speed in Snapshots  Auditory Recorded for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-multiple-video-call-and-chat-tools/"><u>[Updated] 2024 Approved  Best Multiple Video Call & Chat Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-optimal-strategy-for-broadcasting-via-obs-on-fb-live/"><u>[Updated] 2024 Approved  Optimal Strategy for Broadcasting via OBS on FB Live</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-top-strategies-for-gamers-recording-with-windows-10/"><u>[Updated] 2024 Approved  The Top Strategies for Gamers Recording with Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-selection-of-ps1-games-now-on-your-computer/"><u>[Updated] 2024 Approved  Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-15-apps-for-high-quality-windows-video-capture/"><u>[Updated] In 2024, Top 15 Apps for High-Quality Windows Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-masterpieces-at-play-choosing-the-top-10-thrilling-games-for-2024/"><u>[Updated] Masterpieces at Play  Choosing the Top 10 Thrilling Games for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-obs-on-android-effective-practices-for-2024/"><u>[Updated] Maximizing OBS on Android  Effective Practices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-stream-success-starts-here-choosing-the-right-camera-for-twitch-for-2024/"><u>[Updated] Stream Success Starts Here  Choosing the Right Camera for Twitch for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-filmmakers-handbook-to-superior-voice-overseeing-for-2024/"><u>[Updated] The Filmmaker's Handbook to Superior Voice Overseeing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleash-focus-the-pros-guide-to-distraction-free-google-meet-sessions-for-2024/"><u>[Updated] Unleash Focus  The Pro's Guide to Distraction-Free Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-youtubes-inner-workings-your-path-to-success/"><u>[Updated] Unlocking YouTube's Inner Workings  Your Path to Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effortless-lenovo-screen-casting/"><u>2024 Approved  Effortless Lenovo Screen Casting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/begin-webcam-footage-recording-with-vlc/"><u>Begin Webcam Footage Recording with VLC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-length-on-youtube-entry-filming/"><u>Boost Length on YouTube Entry Filming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-livestreaming-options-outside-of-obs/"><u>Cutting Edge Livestreaming  Options Outside of OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-started-in-vlogging-gear-and-software-guide-for-2024/"><u>Getting Started in Vlogging  Gear and Software Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-f15-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy F15 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elevate-gaming-experience-through-perfect-recordings/"><u>In 2024, Elevate Gaming Experience Through Perfect Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/movie-magic-on-mobile-ioss-best-free-and-paid-film-apps-for-2024/"><u>Movie Magic on Mobile  IOS's Best Free and Paid Film Apps for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-step-by-step-adjusting-the-tone-of-apples-personal-assistant-siri/"><u>New In 2024, Step-by-Step Adjusting the Tone of Apples Personal Assistant (Siri)</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-lava-blaze-2-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
+</ul></div>

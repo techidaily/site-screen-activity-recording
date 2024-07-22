@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Capturing Desktop, Anytime on Windows"
-date: 2024-06-09T12:57:32.043Z
-updated: 2024-06-10T12:57:32.043Z
+date: 2024-07-21T05:22:23.759Z
+updated: 2024-07-22T05:22:23.759Z
 tags: 
   - screen-recording
   - ai video
@@ -46,8 +46,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -72,16 +78,26 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
@@ -90,12 +106,21 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -130,6 +155,9 @@ Find the moment in the video you'd like to capture, and then select the Screensh
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Take a Quick Screenshots with Print Screen
 
 Nearly all desktop and laptop PCs have a PrintScreen button on their keyboards, but the process of taking a screenshot may vary depending on the model you have. When creating a screenshot on a laptop you have to hold the Function (Fn) key with the Print Screen button that is usually labeled PrtScn or PrntScrn. All screenshots you take will be saved in the Screenshots sub-folder located in the Pictures folder in This PC. Furthermore, you can capture the full screen or only a portion of it and you can either copy or save the screenshot by using this keyboard shortcut.
@@ -178,3 +206,65 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-intuitive-camera-roll-consolidation-step-by-step-snapchat-guide/"><u>[New] 2024 Approved  Intuitive Camera Roll Consolidation  Step-by-Step Snapchat Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-top-hd-video-recorders/"><u>[New] 2024 Approved  Ultimate Guide to Top HD Video Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-budget-devices-superior-obs-setup-guide/"><u>[New] In 2024, Budget Devices - Superior OBS Setup Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-telegram-online-comprehensive-user-guide/"><u>[New] Mastering Telegram Online  Comprehensive User Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-preventing-social-media-platforms-intrusive-ads-for-2024/"><u>[New] Preventing Social Media Platform's Intrusive Ads for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-audio-excellence-balance-and-clarity-tactics/"><u>[New] Zoom Audio Excellence  Balance and Clarity Tactics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-10-best-free-video-conferencing-services-with-screen-sharing/"><u>[Updated] 10 Best Free Video Conferencing Services with Screen Sharing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-funniest-tiktok-videos-latest-trends-and-stars/"><u>[Updated] 2024 Approved  Funniest TikTok Videos  Latest Trends & Stars</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-broadcasts-via-pc-and-mac-with-obs/"><u>[Updated] 2024 Approved  Mastering Facebook Broadcasts via PC & Mac with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tricks-of-the-trade-saving-slides-in-high-definition/"><u>[Updated] 2024 Approved  Tricks of the Trade  Saving Slides in High Definition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-of-your-itunes-recordings/"><u>[Updated] 2024 Approved  Unlocking the Potential of Your iTunes Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] Audio-Visual Vanguard  Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-beyondbasics-futurecameraspost-mycam/"><u>[Updated] BeyondBasics  FutureCamerasPost-MyCam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-elevate-your-social-feed-with-superior-twit-hd-vids/"><u>[Updated] In 2024, Elevate Your Social Feed with Superior Twit HD Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-urban-jungles-and-beyond-top-10-without-gta/"><u>[Updated] In 2024, Urban Jungles and Beyond - Top 10 Without GTA</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>[Updated] Mastering PPT  A Comprehensive Voice Guidance Manual</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unparalleled-selection-of-budget-stock-media-sites/"><u>[Updated] Unparalleled Selection of Budget Stock Media Sites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-ultimate-farming-tactics-in-valheim/"><u>[Updated] Unveiling the Ultimate Farming Tactics in Valheim</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-your-pc-snipping-guide-the-best-tools-to-try-first/"><u>[Updated] Your PC Snipping Guide  The Best Tools to Try First</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/11-pros-of-perfect-color-balancing-mastery-for-2024/"><u>11 Pros of Perfect Color Balancing Mastery for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-decrease-environmental-noise-in-video-recordings/"><u>2024 Approved  Decrease Environmental Noise in Video Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-enhancing-meetings-with-top-5-free-and-paid-zoom-transcribers/"><u>2024 Approved  Enhancing Meetings with Top 5 Free & Paid Zoom Transcribers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations/"><u>2024 Approved  Exclusive Techniques for Monitoring and Logging WhatsApp Conversations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-uploading-youtube-shorts-on-devices/"><u>2024 Approved  Mastering the Art of Uploading YouTube Shorts on Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-videography-minimizing-sound-interference-effectively/"><u>2024 Approved  Optimal Videography  Minimizing Sound Interference Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-stream-media-manage-and-share-with-ms-vision/"><u>2024 Approved  Stream Media, Manage & Share with MS Vision</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unmissable-video-capturing-discover-top-5-tools-now/"><u>2024 Approved  Unmissable Video Capturing - Discover Top 5 Tools Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-voice-log-retrieval-content-scrutiny/"><u>2024 Approved  Voice Log Retrieval, Content Scrutiny</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-launching-your-live-room-virbo-ai-live-stream/"><u>2024 Approved Launching Your Live Room | Virbo AI Live Stream</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/advanced-tips-for-nvidia-recorded-content-for-2024/"><u>Advanced Tips for NVIDIA Recorded Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-with-filmora-top-10-must-haves-for-2024/"><u>Behind the Scenes with Filmora  Top 10 Must-Haves for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/camstudios-screen-recorder-a-deep-dive-into-its-latest-features-for-2024/"><u>CamStudio's Screen Recorder  A Deep Dive Into Its Latest Features for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comprehensive-tips-for-film-recording-on-multiple-platforms/"><u>Comprehensive Tips for Film Recording on Multiple Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-advanced-skype-audio-filtration/"><u>In 2024, Advanced Skype Audio Filtration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-lava-blaze-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Lava Blaze 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-grappling-glory-selecting-the-ultimate-fight-simulator/"><u>In 2024, Grappling Glory  Selecting the Ultimate Fight Simulator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-maiden-recording-appraisal-article/"><u>In 2024, Maiden Recording Appraisal Article</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-the-art-of-preserving-your-musical-journey/"><u>In 2024, Master the Art of Preserving Your Musical Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>In 2024, Secrets to Compelling Presentations  PPT on Mobile & Desktop GMeet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-guide-to-using-obs-in-android/"><u>In 2024, The Ultimate Guide to Using OBS in Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-verdict-vidmas-role-in-modern-screen-capture/"><u>In 2024, The Verdict  Vidma’s Role in Modern Screen Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-m14-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy M14 5G Location | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-screen-capture-apps-for-idevices/"><u>In 2024, Top Screen Capture Apps for iDevices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/lenovo-simple-recording-techniques-for-2024/"><u>Lenovo  Simple Recording Techniques for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-windows-11-firmware/"><u>Logitech HD Webcam C270 Windows 11 Firmware</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-only-guide-youll-need-to-learn-about-wav-converter-for-2024/"><u>New The Only Guide Youll Need to Learn About Wav Converter for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nextgen-webcam-capture-solutions-for-2024/"><u>NextGen Webcam Capture Solutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-opinions-best-9-digital-microphone-capture-gear-for-2024/"><u>Professional Opinions  Best 9 Digital Microphone Capture Gear for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values-for-2024/"><u>Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/skype-the-top-10-audio-capture-tools-for-2024/"><u>Skype  The Top 10 Audio Capture Tools for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unblocked-tiktok-for-iphones-no-watermarking-needed/"><u>Unblocked TikTok for iPhones, No Watermarking Needed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/understanding-and-modifying-screen-capture-formats-mac-for-2024/"><u>Understanding and Modifying Screen Capture Formats (Mac) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-10-best-software-to-reverse-audio-online-desktop-and-phone-for-2024/"><u>Updated 10 Best Software to Reverse Audio Online, Desktop, and Phone for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-comparative-analysis-of-magix-samplitude-with-other-audio-workstations-for-2024/"><u>Updated Comparative Analysis of MAGIX Samplitude with Other Audio Workstations for 2024</u></a></li>
+</ul></div>

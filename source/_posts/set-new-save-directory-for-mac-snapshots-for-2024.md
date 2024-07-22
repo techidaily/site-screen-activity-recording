@@ -1,7 +1,7 @@
 ---
 title: "Set New Save Directory for Mac Snapshots for 2024"
-date: 2024-06-09T12:56:58.843Z
-updated: 2024-06-10T12:56:58.843Z
+date: 2024-07-21T03:17:51.447Z
+updated: 2024-07-22T03:17:51.447Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,9 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -72,6 +75,9 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -82,6 +88,9 @@ Make sure that your username is properly written, and then press Enter to run th
 
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -98,6 +107,9 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -115,8 +127,23 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -129,6 +156,9 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -151,6 +181,9 @@ Make sure that your username is properly written, and then press Enter to run th
 
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -169,6 +202,9 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -184,8 +220,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -198,6 +240,10 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -236,6 +282,9 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -253,6 +302,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -322,3 +374,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>[New] 2024 Approved  Uncovering Budget-Friendly Video Communication Apps  PC/MAC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-compreayers-pathway-to-efficient-screen-recording-via-zd-software/"><u>[New] A Compreayer's Pathway to Efficient Screen Recording via ZD Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-heroic-journeys-unleashed-the-premier-game-collection/"><u>[New] Heroic Journeys Unleashed  The Premier Game Collection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software/"><u>[New] In 2024, The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-through-top-10-youtube-mp3-extractors/"><u>[New] Navigating Through Top 10 YouTube Mp3 Extractors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-six-secrets-to-masterful-mov-saving-in-windows-11-for-2024/"><u>[New] Six Secrets to Masterful .MOV Saving in Windows 11 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-complete-breakdown-of-screen-casting-on-discord/"><u>[New] The Complete Breakdown of Screen Casting on Discord</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-art-of-precision-introducing-an-obs-countdown-timer/"><u>[Updated] 2024 Approved  The Art of Precision  Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-hd-video-recorders/"><u>[Updated] 2024 Approved  Ultimate Guide to Top HD Video Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-win10s-best-practices-for-gaming-video-capture/"><u>[Updated] 2024 Approved  Win10's Best Practices for Gaming Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-virtual-worlds-worth-playing/"><u>[Updated] Essential Virtual Worlds Worth Playing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-8-easy-and-safe-video-call-options-for-enterprises/"><u>[Updated] In 2024, Top 8 Easy and Safe Video Call Options for Enterprises</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-visualvault-review-highlighting-the-best-recording-tools-for-2024/"><u>[Updated] VisualVault Review  Highlighting the Best Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-recordings-to-live-an-obs-guide-to-youtube-and-twitch-streaming/"><u>2024 Approved  From Recordings to Live  An OBS Guide to YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-revolutionize-social-networking-with-downloader-tools/"><u>2024 Approved  Revolutionize Social Networking with Downloader Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-enhanced-ultrablade-samsungs-2023-take/"><u>2024 Approved  The Enhanced UltraBlade  Samsung’s 2023 Take</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adjusting-settings-for-audible-obs-broadcasts-for-2024/"><u>Adjusting Settings for Audible OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adventurers-zenith-a-celebration-of-the-best-games-ever-made/"><u>Adventurers' Zenith  A Celebration of the Best Games Ever Made</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-screen-capture-apps-for-android-devices-reviewed-for-2024/"><u>Best Screen Capture Apps for Android Devices Reviewed for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/crafting-high-quality-game-stream-videos-with-artificial-intelligence-for-2024/"><u>Crafting High-Quality Game Stream Videos with Artificial Intelligence for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-steps-capture-screen-with-macos-tools-and-software/"><u>Easy Steps  Capture Screen with macOS Tools & Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-meetings-best-tools-to-record-zoom/"><u>Elevate Your Meetings  Best Tools to Record Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ensuring-clear-audio-in-remote-recording-for-2024/"><u>Ensuring Clear Audio in Remote Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/freezing-your-window-windows-screenshoting-guide/"><u>Freezing Your Window  Windows Screenshoting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-macbook-webcam-recording-tutorial/"><u>In 2024, MacBook Webcam Recording Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/inside-the-world-of-apeaksofts-screens-recorder-update-2023-for-2024/"><u>Inside the World of Apeaksoft's Screens Recorder Update 2023 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insightful-update-sonys-s6500-hd-and-bd-player-for-2024/"><u>Insightful Update  Sony's S6500 HD & BD Player for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/live-feed-obs-on-instagram-app-for-2024/"><u>Live Feed  OBS on Instagram App for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/quick-and-easy-skype-calls-to-mp3-files-free/"><u>Quick & Easy Skype Calls to MP3 Files (Free)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlining-roblox-games-on-mac-for-recording/"><u>Streamlining Roblox Games on Mac for Recording</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-creative-and-catchy-ringtone-selections-for-modern-phones/"><u>Updated In 2024, Creative and Catchy Ringtone Selections for Modern Phones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-pursuit-of-perfection-the-top-5-real-time-vocal-editing-systems-for-professional-use-for-2024/"><u>Updated In Pursuit of Perfection – The Top 5 Real-Time Vocal Editing Systems for Professional Use for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-some-techniques-for-creating-animated-logo-that-few-people-know-about-for-2024/"><u>Updated Some Techniques for Creating Animated Logo That Few People Know About for 2024</u></a></li>
+</ul></div>

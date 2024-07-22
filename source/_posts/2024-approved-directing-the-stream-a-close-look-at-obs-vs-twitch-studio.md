@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Directing the Stream  A Close Look at OBS vs Twitch Studio\""
-date: 2024-07-05T04:19:30.599Z
-updated: 2024-07-06T04:19:30.599Z
+date: 2024-07-21T02:06:00.518Z
+updated: 2024-07-22T02:06:00.518Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,9 @@ OBS Studio compared to any other broadcasting tool is on the lighter side of CPU
 
 Twitch Studio contains all the tools needed to get started and is essential to have a healthy experience when broadcasting. On the other hand, OBS Studio is very customizable. There is a myriad of customizing choices with no bounds to creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Recommended Specs
 
 Both OBS Studio and Twitch Studio are wonderful tools built for various user experiences. enables the easy installation of OBS Studio. When it comes to the CPU, both Intel and AMD FX series processors support OBS Studio. However, dual-core or 4-core CPUs are ideal. as necessary to conduct multimedia activities. Here's a deep dive into the specifics among both.
@@ -101,6 +104,9 @@ For macOS 10.12 or later
 
 To jumpstart your recording trip with the Filmora, firstly, you need to visit the official website and download the current version of Wondershare Filmora. As soon as the download has been done, run the program and press the New Project catch and you will see the underlying window interface of this product.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 **Step 2: Customize the Screen Interface**
@@ -111,12 +117,18 @@ Inside the Filmora recorder, you may click on the record button and pick the rec
 
 Whenever you're done with the screen modification, you may instantly tap the Record button that will start the recording straight after giving you a 3-second wait. You may start capturing your screen activities thereafter as seen here:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 **Step 4: Save or Broadcast the Recording**
 
 Lastly, after you're done with the recording, you may now employ the editor to the utmost. And to post your piece of art straightforwardly to YouTube or some other recognized stage, click for the Export option and choose the platform to distribute your video clip. Furthermore, if you like, you may even modify the recording before sharing it. Filmora enables you to may employ Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor to polish your recorded footage.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Screen recording and streaming may be used for an almost unlimited variety of reasons, so it's crucial to have your use cases in mind - and know which solution fits the bill - before you pick. To put annotations like shapes, lines, messages, and arrows on the video, which OBS can't accomplish, we've suggested here the Filmora as an alternative. That might include the audio coming from your system sound, microphone, or both. Of course, it can also record in full-screen, microphone, and external webcam. We hope we've made it a little simpler for you with our blog!
@@ -246,6 +258,9 @@ OBS Studio compared to any other broadcasting tool is on the lighter side of CPU
 
 Twitch Studio contains all the tools needed to get started and is essential to have a healthy experience when broadcasting. On the other hand, OBS Studio is very customizable. There is a myriad of customizing choices with no bounds to creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 3\. Recommended Specs
 
 Both OBS Studio and Twitch Studio are wonderful tools built for various user experiences. enables the easy installation of OBS Studio. When it comes to the CPU, both Intel and AMD FX series processors support OBS Studio. However, dual-core or 4-core CPUs are ideal. as necessary to conduct multimedia activities. Here's a deep dive into the specifics among both.
@@ -257,6 +272,9 @@ Both OBS Studio and Twitch Studio are wonderful tools built for various user exp
 | RAM              | 4 GB or more RAM is recommended                                                                                    | 8GB of RAM                                                        |
 | Graphics         | Your system must also have a graphics card with support for DirectX 10.1                                           | If you want to play a modern game, DirectX 11 or 12 is required.  |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. The Best Alternative – Wondershare Filmora
 
 Since an ever-increasing number of people are becoming acclimated with the web-based environment, selecting to work or study from home, the demand for screen recorder software that aids them with their undertakings has also risen. This is the area when Filmora Screen Recorder becomes arguably the most crucial aspect. The Filmora screen capture apparatus incorporates several choices that enable you to adjust your sound and video quality and add effects to your accounts. You may likewise set your edge rate, and enable several forms of equipment speed increase that will make your recording as smooth as could be anticipated. Pick where you keep your accounts and screengrabs, then explore one of the PNG, BMP, JPG default screen capture styles.
@@ -285,6 +303,9 @@ Inside the Filmora recorder, you may click on the record button and pick the rec
 
 Whenever you're done with the screen modification, you may instantly tap the Record button that will start the recording straight after giving you a 3-second wait. You may start capturing your screen activities thereafter as seen here:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 **Step 4: Save or Broadcast the Recording**
@@ -372,12 +393,18 @@ Inside the Filmora recorder, you may click on the record button and pick the rec
 
 Whenever you're done with the screen modification, you may instantly tap the Record button that will start the recording straight after giving you a 3-second wait. You may start capturing your screen activities thereafter as seen here:
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 **Step 4: Save or Broadcast the Recording**
 
 Lastly, after you're done with the recording, you may now employ the editor to the utmost. And to post your piece of art straightforwardly to YouTube or some other recognized stage, click for the Export option and choose the platform to distribute your video clip. Furthermore, if you like, you may even modify the recording before sharing it. Filmora enables you to may employ Animated Titles, stunning effects, Audio Enhancements, and much more using the Editor to polish your recorded footage.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Screen recording and streaming may be used for an almost unlimited variety of reasons, so it's crucial to have your use cases in mind - and know which solution fits the bill - before you pick. To put annotations like shapes, lines, messages, and arrows on the video, which OBS can't accomplish, we've suggested here the Filmora as an alternative. That might include the audio coming from your system sound, microphone, or both. Of course, it can also record in full-screen, microphone, and external webcam. We hope we've made it a little simpler for you with our blog!
@@ -407,3 +434,73 @@ Screen recording and streaming may be used for an almost unlimited variety of re
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/1716068968066-new-2024-approved-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[New] 2024 Approved  Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-detailed-list-of-top-free-cross-platform-mobile-video-chats/"><u>[New] A Detailed List of Top Free, Cross-Platform Mobile Video Chats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-practical-guide-to-saving-screens-on-dell-computers/"><u>[New] A Practical Guide to Saving Screens on Dell Computers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-blackout-blitz-premiere-pro-60s/"><u>[New] Blackout Blitz  Premiere Pro 60S</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-find-and-buy-premium-youtube-ringtone-videos-easily/"><u>[New] Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-foundational-codes-for-youtube-enthusiasts/"><u>[New] Foundational Codes for YouTube Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-ppt-recording-tactics-and-tricks/"><u>[New] Professional PPT Recording Tactics and Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-rapidpace-timefreeze-film/"><u>[New] RapidPace TimeFreeze Film</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-visionmeter-recording-suite/"><u>[New] VisionMeter Recording Suite</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-15-recommended-windows-11-capture-solutions-for-2024/"><u>[Updated] 15 Recommended Windows 11 Capture Solutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-10plus-costless-watermarkless-desktop-recordings/"><u>[Updated] 2024 Approved  10+ Costless, Watermarkless Desktop Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-earnings-across-devices/"><u>[Updated] 2024 Approved  The Ultimate Guide to YouTube Earnings Across Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-amalgamate-ppts-for-video-creation-for-2024/"><u>[Updated] Amalgamate PPTs for Video Creation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-audio-archive-checkout-and-scrutiny-for-2024/"><u>[Updated] Audio Archive Checkout & Scrutiny for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-slide-video-creators-for-2024/"><u>[Updated] Best Slide Video Creators for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-beyondonecam-testing-are-there-better-options-in-2024/"><u>[Updated] BeyondOneCam Testing  Are There Better Options, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-the-perfect-mc-homestead-layout-for-2024/"><u>[Updated] Crafting the Perfect MC Homestead Layout for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tech-analysis-the-best-screen-recorder-roundup-for-2024/"><u>[Updated] Cutting Edge Tech Analysis  The Best Screen Recorder Roundup for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effortless-capture-winmac-tools-to-record-desktop-screens-for-2024/"><u>[Updated] Effortless Capture  Win/Mac Tools to Record Desktop Screens for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-add-roles-in-discord-in-2024/"><u>[Updated] How to Add Roles in Discord, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-eagleeye-hd-recordingtool/"><u>[Updated] In 2024, EagleEye HD RecordingTool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-silliest-stories-on-twitter/"><u>[Updated] In 2024, Silliest Stories on Twitter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-water-wonders-leading-fluid-game-selections/"><u>[Updated] In 2024, Water Wonders  Leading Fluid Game Selections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-muting-background-noise-in-skype-sessions/"><u>[Updated] Muting Background Noise in Skype Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips/"><u>[Updated] The Easy Way  Capture Your Minecraft Moments with These Simple Mac Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-achieving-precision-with-obs-implementing-timer-functionality/"><u>2024 Approved  Achieving Precision with OBS  Implementing Timer Functionality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-adding-joy-to-snaps-the-guide-to-cartoon-filters/"><u>2024 Approved  Adding Joy to Snaps  The Guide to Cartoon Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-characters-animation-basics-in-wmm/"><u>2024 Approved  Crafting Characters  Animation Basics in WMM</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mixing-video-sequences-with-blend-mode-expertise/"><u>2024 Approved  Mixing Video Sequences with Blend Mode Expertise</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-navigating-through-vrs-digital-storyscapes/"><u>2024 Approved  Navigating Through VR's Digital Storyscapes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-your-digital-display-a-screenrec-users-manual/"><u>2024 Approved  Navigating Your Digital Display  A ScreenRec User's Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-art-of-recording-your-steam-gaming-sessions/"><u>2024 Approved  The Art of Recording Your Steam Gaming Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-full-breakdown-of-facetunes-updated-features/"><u>2024 Approved  The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xr-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/achieve-pro-level-results-with-these-top-obs-edits-for-2024/"><u>Achieve Pro-Level Results with These Top OBS Edits for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bidding-adieu-with-elegance-sample-choices-for-2024/"><u>Bidding Adieu with Elegance  Sample Choices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/bridge-iphone-android-and-pc-timelines-for-syncing-zoom-for-2024/"><u>Bridge iPhone, Android, and PC Timelines for Syncing Zoom for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v15-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.5 file when manual method fails</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-a05s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel A05s Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-breaking-down-the-barriers-to-knowing-your-fans/"><u>In 2024, Breaking Down the Barriers to Knowing Your Fans</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 14 Passcode not Working?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-innovative-gaming-intro-options-free-versus-paid-for-youtube-creators/"><u>In 2024, Innovative Gaming Intro Options  Free Versus Paid for YouTube Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-capturing-with-camstudio-complete/"><u>In 2024, Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-show-exclusive-look-at-10-top-audio-amplifiers/"><u>In 2024, Perfect Your Show  Exclusive Look at 10 Top Audio Amplifiers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-insiders-guide-to-personalizing-your-instagram-vocal-style/"><u>In 2024, The Insider's Guide to Personalizing Your Instagram Vocal Style</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-budget-friendly-gaming-mice-under-100/"><u>In 2024, Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v29-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V29 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-voice-changer-recorder-apps/"><u>In 2024, Top 7 Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen/"><u>In 2024, Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-windows-10s-prime-video-grabbing-solutions-ranked/"><u>In 2024, Windows 10'S Prime Video Grabbing Solutions Ranked</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/joyful-ambiance-tunes-for-a-24th-anniversary-celebration/"><u>Joyful Ambiance Tunes for a 24Th Anniversary Celebration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-streaming-experience-dual-screen-mode-on-netflix-for-2024/"><u>Maximize Your Streaming Experience - Dual Screen Mode on Netflix for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-useful-tips-for-tiktok-video-aspect-ratio-included/"><u>New In 2024, Useful Tips for Tiktok Video Aspect Ratio Included</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimal-video-sizing-for-an-instagram-standout/"><u>Optimal Video Sizing for an Instagram Standout</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pinnacle-screen-recorder-windows-11-guide-for-2024/"><u>Pinnacle Screen Recorder  Windows 11 Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/proven-ways-to-capture-and-preserve-your-favorite-discord-sessions-for-2024/"><u>Proven Ways to Capture and Preserve Your Favorite Discord Sessions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revel-in-the-best-virtual-playgrounds/"><u>Revel in the Best Virtual Playgrounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secrets-of-streaming-sound-record-and-preserve/"><u>Secrets of Streaming Sound  Record and Preserve</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/supercharging-instagram-videos-on-the-go-mobile-for-2024/"><u>Supercharging Instagram Videos on the Go (Mobile) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-elite-camera-set-optimal-webcams-for-windows-11/"><u>The Elite Camera Set  Optimal Webcams for Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-visual-vault-in-depth-recorder-comparisons/"><u>The Visual Vault  In-Depth Recorder Comparisons</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/thors-fury-legends-of-the-ragnarok/"><u>Thor's Fury  Legends of the Ragnarök</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
+</ul></div>

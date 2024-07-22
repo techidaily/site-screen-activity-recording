@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips for Capturing Evening Portraits for 2024"
-date: 2024-05-18T11:56:05.644Z
-updated: 2024-05-19T11:56:05.644Z
+date: 2024-07-21T03:34:12.417Z
+updated: 2024-07-22T03:34:12.417Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Essential Tips for Capturing Evening Portraits for 2024"
 excerpt: "This Article Describes Essential Tips for Capturing Evening Portraits for 2024"
 keywords: "Sports Event Live Stream,Live Sports Viewing,Online Sports Coverage,Live Game Broadcasting,Sporting Events Stream,Live Event Capturing,Sports Online Photography"
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Essential Tips for Capturing Evening Portraits
@@ -23,6 +23,9 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -33,6 +36,9 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
@@ -41,6 +47,9 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
@@ -62,6 +71,9 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Don't-Dos in Night Portraits
 
 ### 1\. Don't dress in dark
@@ -74,6 +86,9 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -82,6 +97,9 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
@@ -92,8 +110,15 @@ For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
@@ -137,3 +162,42 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-users-techniques-for-effective-macscreencasting/"><u>[New] 2024 Approved  Advanced Users Techniques for Effective MacScreencasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-download-install-and-utilize-obs-effectively-on-a-macpc/"><u>[New] 2024 Approved  Download, Install, and Utilize OBS Effectively on a MacPC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-loom-capture-toolkit-essential-screen-casts-tips/"><u>[New] 2024 Approved  Loom Capture Toolkit  Essential Screen Casts Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-xbox-live-streaming-setup-for-2024/"><u>[New] Essential Tips for Xbox Live Streaming Setup for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-creative-toolkit-applying-effects-on-existing-content/"><u>[New] Instagram's Creative Toolkit  Applying Effects on Existing Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-obs-capture-directly-on-instagram/"><u>[New] OBS Capture Directly on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-3ips-precision-audio-capture-solutions/"><u>[New] Top 3iP's Precision Audio Capture Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-no-pressure-pc-games-guide/"><u>[Updated] 2024 Approved  Best No-Pressure PC Games Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-browsing-like-a-pro-5-top-choices-for-screen-capture-software/"><u>[Updated] 2024 Approved  Browsing Like a Pro  5 Top Choices for Screen Capture Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-firecapture-extensions-for-ff-users/"><u>[Updated] 2024 Approved  FireCapture Extensions for FF Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fix-for-sudden-audio-gaps-in-obs-captures/"><u>[Updated] In 2024, Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-instant-recording-shutdown-quicktime-hacks/"><u>[Updated] In 2024, Instant Recording Shutdown  QuickTime Hacks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-preserving-your-nintendo-switch-experiences-a-guide/"><u>[Updated] Preserving Your Nintendo Switch Experiences  A Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-revamp-your-rewind-the-top-15-game-capture-tools-listed-here/"><u>[Updated] Revamp Your Rewind  The Top 15 Game Capture Tools Listed Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] Screen Review Snapshot  Is Active 8 Top-Tier or Not?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essential-guide-for-proficiently-playing-games-with-switch-pro-in-steam/"><u>[Updated] The Essential Guide for Proficiently Playing Games with Switch Pro in Steam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-media-craft-debate-between-filmora-and-democracy-creator/"><u>2024 Approved  Mastering Media Craft  Debate Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-unlink-lively-logos-from-your-profile-mobilepc-for-2024/"><u>How to Unlink Lively Logos From Your Profile (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-ce-3-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord CE 3 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leveraging-screencastifys-advanced-features/"><u>In 2024, Leveraging Screencastify's Advanced Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery/"><u>In 2024, Moonlight Mastery  A Photographer's Guidebook to Nighttime Imagery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-video-capture-software-is-bandicam-superior-to-camtasia/"><u>In 2024, Navigating Video Capture Software  Is Bandicam Superior to Camtasia?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-record-everything-pay-nothing-screen-tools-for-all-users/"><u>In 2024, Record Everything, Pay Nothing - Screen Tools for All Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-recording-mastery-with-vsdc-reviewed/"><u>In 2024, Screen Recording Mastery with VSDC Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>In 2024, Speedy Transmission Techniques  Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-s17t-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo S17t</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-turn-your-mobile-into-a-professional-webcam-for-video/"><u>In 2024, Turn Your Mobile Into a Professional Webcam for Video</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-zero-clutter-max-impact-professional-tips-for-striking-virtual-presence/"><u>In 2024, Zero Clutter, Max Impact  Professional Tips for Striking Virtual Presence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mindful-meandering-leisurely-pc-games-for-2024/"><u>Mindful Meandering  Leisurely PC Games for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/next-level-game-capture-strategies-for-high-definition-quality-for-2024/"><u>Next-Level Game Capture  Strategies for High Definition Quality for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/smartscreen-capture-v11-professional-for-2024/"><u>SmartScreen Capture V11 Professional for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording-for-2024/"><u>The Artisan's Handbook  Perfecting Your Windows PC in Live TV Recording for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-12-pro-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 12 Pro Max on MetroPCS</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
+</ul></div>

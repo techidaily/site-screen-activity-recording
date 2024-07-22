@@ -1,7 +1,7 @@
 ---
 title: "Enhancing OBS on a Thrifty Computer"
-date: 2024-05-19T23:03:14.125Z
-updated: 2024-05-20T23:03:14.125Z
+date: 2024-07-21T05:18:35.637Z
+updated: 2024-07-22T05:18:35.637Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Enhancing OBS on a Thrifty Computer"
 excerpt: "This Article Describes Enhancing OBS on a Thrifty Computer"
 keywords: "\"Budget-Friendly OBS Setup,Cost-Effective Streaming Solutions,Efficient OBS Usage Low Cost,Affordable Broadcasting Software,Thrifty Computing for OBS,Optimizing OBS Expenses,Economical Video Capture Tools\""
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Enhancing OBS on a Thrifty Computer
@@ -21,22 +21,40 @@ In the past two decades, the digital and IT industry is growing at a jet pace. P
 
 Therefore, after vast research on the internet, our team came up with an optimal solution to show you a way to stream your videos lag-free, jitter-free, and without any blurriness in a costless way possible. We recommend you the best studio software known as OBS for your streaming using the best OBS settings for your low-end PC or a Laptop. These OBS settings will let you record videos for low-end PC or laptops to stream now without any issues. Keeping things in a little hurry let's straight dive into the real stuff of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 1\. Video Settings
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
@@ -83,6 +101,9 @@ For a clear and better audio performance, it's also necessary you keep the optim
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 ### Step 2: Audio Tab Settings
@@ -109,16 +130,25 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -195,3 +225,48 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unhindered-video-capture-app/"><u>[New] 2024 Approved  Unhindered Video Capture App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobes-path-to-perspective-creating-life-like-text/"><u>[New] Adobe's Path to Perspective  Creating Life-Like Text</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dissonant-designs-mastering-on-a-mac/"><u>[New] Dissonant Designs  Mastering on a Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition/"><u>[New] From Basics to Expert  A Complete Guide to YouTube Chapter Addition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-harmonyheed-evaluating-audio-artifacts/"><u>[New] HarmonyHeed  Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-hps-simplified-guide-to-capturing-and-storing-pc-screen-content/"><u>[New] HP's Simplified Guide to Capturing and Storing PC Screen Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ios-leading-edge-psp-emulators-top-5-lists/"><u>[New] IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-live-the-experience-top-4-ways-to-preserve-your-gaming-adventures/"><u>[New] Live the Experience  Top 4 Ways to Preserve Your Gaming Adventures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>[New] Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-non-obs-the-best-video-recording-tools-for-modern-streamers/"><u>[New] Non-OBS  The Best Video Recording Tools for Modern Streamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-recordcast-review/"><u>[New] RecordCast Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-valheim-vegetation-value-optimal-sapling-guidance-for-2024/"><u>[New] Valheim Vegetation Value  Optimal Sapling Guidance for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevating-clarity-optimal-speech-to-text-with-google/"><u>[Updated] Elevating Clarity  Optimal Speech-to-Text with Google</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-mobile-and-desktop-video-chat-apps/"><u>[Updated] In 2024, Top 10 Mobile & Desktop Video Chat Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-makers-guide-for-iphones/"><u>[Updated] Meme Makers' Guide (For iPhones)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-modify-mac-screen-shot-storage-path/"><u>[Updated] Modify Mac Screen Shot Storage Path</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimize-performance-mac-screen-recording-made-easy/"><u>[Updated] Optimize Performance  Mac Screen Recording Made Easy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplified-window-capturing-software/"><u>[Updated] Simplified Window Capturing Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>[Updated] Strategizing for Success  The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-fixes-for-crafting-collage-artworks-on-mac/"><u>2024 Approved  Fast Fixes for Crafting Collage Artworks on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-freerecorder-x-unveiled-features-and-performance/"><u>2024 Approved  FreeRecorder X Unveiled  Features and Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-harness-the-potential-of-iphone-burst-photography/"><u>2024 Approved  Harness the Potential of iPhone Burst Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-instantly-engage-in-video-talks-using-whatsapp-web-from-your-laptop/"><u>2024 Approved  Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-nikons-leap-to-4k-the-d500-breakdown/"><u>2024 Approved  Nikon's Leap to 4K  The D500 Breakdown</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-list-best-8-free-open-source-enterprise-callers/"><u>2024 Approved  The Ultimate List  Best 8 Free, Open Source Enterprise Callers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-vrecorder-basics-seamless-installation/"><u>2024 Approved  VRecorder Basics  Seamless Installation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1714063826962-adding-sound-effects-can-make-your-video-more-interesting-and-adorable-setting-the-frequency-of-audio-with-on-screen-visuals-will-invoke-the-viewers-emotion/"><u>Adding Sound Effects Can Make Your Video More Interesting and Adorable. Setting the Frequency of Audio with On-Screen Visuals Will Invoke the Viewers Emotions and Attach Them to the Scene for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adventure-aces-ranking-games-that-make-you-want-to-explore-for-2024/"><u>Adventure Aces  Ranking Games That Make You Want to Explore for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>Bandicam Review  Enhancing Your Computer with Effective Recording Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-gameplay-logging-for-console-games-on-computer-for-2024/"><u>Digital Gameplay Logging for Console Games on Computer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-guide-enabling-a-full-screen-grid-on-zoom-for-2024/"><u>Essential Guide  Enabling a Full-Screen Grid on Zoom for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exclusive-online-cam-dance-duels-for-2024/"><u>Exclusive Online Cam Dance Duels for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>In 2024, Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>In 2024, Best No-Cost Video Conferencing Apps  Cross-System Friendly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-broadcast-your-xbox-adventures-online/"><u>In 2024, Broadcast Your Xbox Adventures Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-switching-names-on-google-meet-for-laptops-phones/"><u>In 2024, Switching Names on Google Meet for Laptops, Phones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mycams-evolution-a-new-era-of-home-video-capture/"><u>MyCam's Evolution  A New Era of Home Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimize-your-facebook-streaming-experience-with-these-methods-for-2024/"><u>Optimize Your Facebook Streaming Experience with These Methods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tips-for-recording-high-quality-video-in-zoom-for-2024/"><u>Tips for Recording High-Quality Video in Zoom for 2024</u></a></li>
+</ul></div>

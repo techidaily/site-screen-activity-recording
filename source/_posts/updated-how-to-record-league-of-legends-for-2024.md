@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Record League of Legends for 2024"
-date: 2024-05-18T11:57:18.324Z
-updated: 2024-05-19T11:57:18.324Z
+date: 2024-07-21T03:39:40.973Z
+updated: 2024-07-22T03:39:40.973Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] How to Record League of Legends for 2024"
 excerpt: "This Article Describes [Updated] How to Record League of Legends for 2024"
 keywords: "LoL Game Recording Guide,League Of Legends Screen Capture,Capturing LoL Matches,Save LoL Sessions Easily,LoL Streaming Tips,LoL Broadcast Techniques,Record Gaming Playthroughs"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## How to Record League of Legends
@@ -31,6 +31,9 @@ Way 4. [Record LOL Game Video with Bandicam](#part4)
 
 Way 5. [Use Fraps to Record LOL Games](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Way 1\. Record LOL Gameplay with Filmora
 
 When you want to record gameplay of a high-end game, you have to invest in purchasing a [superior screen recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can get the job done with a free screen recorder but you can clearly understand the differences in recorded gameplay quality when you record with a premium gameplay recorder. The best recorder to record game LOL is Wondershare Filmora. The gameplay recorder is available for Windows and Mac users. Apart from recording your gameplay, you can edit them with Filmora like a professional video editor. Here are the steps to record LOL gameplay.
@@ -47,6 +50,126 @@ For macOS 10.12 or later
 
 Step 2: Go to Record menu and select Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
+
+Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
+
+Step 4: Click on the Record button. Within a few seconds, the recording will start and you can start playing LOL game immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
+
+Step 5: Press F9 whenever you want to stop recording.
+
+![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
+
+## Way 2\. Use OBS Studio to Record LOL
+
+If you are a part of any gaming community, you must have heard gamers using OBS Studio to live stream their gameplay on YouTube, Twitch and other platforms. Well, OBS Studio is equally useful in recording your gameplay. In fact, the software is available free of cost and there is no dearth of advanced settings to better gameplay recording. The user interface is not as easy as other gameplay recorders but here is how to record LOL games with OBS Studio.
+
+Step 1: Download and install OBS Studio for free.
+
+Step 2: Open OBS Studio and click on “+” icon from Sources tab. From the menu, select Game Capture option.
+
+![obs game recorder](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
+
+Step 3: Follow the on-screen instructions and select ”Capture any fullscreen application” from Mode. Click on OK button.
+
+Step 4: Click on Start Recording button and open LOL game on your computer. The recording is going on in the background and you can start playing the game.
+
+Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
+
+## Way 3\. Record LOL Games with Windows Game Bar
+
+If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
+
+![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
+
+Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
+
+Step 2: Open LOL game on your computer and start playing the game. Press Windows + Alt + R keys together to start recording LOL gameplay.
+
+Step 3: You can stop recording anytime by pressing Windows + Alt + R together again.
+
+You can find the recorded video by going to Widgets and then to Gallery section.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+## Way 4\. Record LOL Game Video with Bandicam
+
+Bandicam is one of the most preferred gameplay recorders in the gaming community. Unlike other premium recorders, there is only one-time purchase plan available to unlock all the advanced features and settings. The software can record gameplay at 4k resolution and at 480fps. If you are into 3D gaming, Bandicam is the best recorder available. Here are the steps on how to record LOL games with Bandicam.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
+
+Step 1: Download and install Bandicam to launch it.
+
+Step 2: Click on Home tab and go to Game recording option.
+
+Step 3: You need to click on Rec button to start recording your LOL gameplay.
+
+Step 4: If you are done playing LOL game, click on Stop button.
+
+## Way 5\. Use Fraps to Record LOL Games
+
+Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
+
+Step 1: Download and install Fraps on your Windows PC.
+
+Step 2: Launch the software and go to General tab and turn on Monitor Aero Desktop option. This option will enable you to record the full screen.
+
+Step 3: Under Movies tab, set all the parameters correctly.
+
+Step 4: Open LOL and press F9 key to start recording the gameplay. Press F9 again to stop recording.
+
+## The Bottom Line
+
+League of Legends is a high-end game and you cannot let recording in the background to affect the performance and face lag issues. That is why you have to choose a gameplay recorder wisely if you want to record LOL games. We have picked the top five best gameplay recorders, some of which are premium while others are free. We recommend Wondershare Filmora as you can record at 4K resolution and edit your video to make it more interesting and eye-catching.
+
+Way 2. [Use OBS Studio to Record LOL](#part2)
+
+Way 3. [Record LOL Games with Windows Game Bar](#part3)
+
+Way 4. [Record LOL Game Video with Bandicam](#part4)
+
+Way 5. [Use Fraps to Record LOL Games](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 1\. Record LOL Gameplay with Filmora
+
+When you want to record gameplay of a high-end game, you have to invest in purchasing a [superior screen recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can get the job done with a free screen recorder but you can clearly understand the differences in recorded gameplay quality when you record with a premium gameplay recorder. The best recorder to record game LOL is Wondershare Filmora. The gameplay recorder is available for Windows and Mac users. Apart from recording your gameplay, you can edit them with Filmora like a professional video editor. Here are the steps to record LOL gameplay.
+
+Step 1: Download and install Wondershare Filmora. Launch the application and select New Project option.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Go to Record menu and select Record PC Screen option.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
 
 Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
@@ -67,6 +190,9 @@ Step 1: Download and install OBS Studio for free.
 
 Step 2: Open OBS Studio and click on “+” icon from Sources tab. From the menu, select Game Capture option.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![obs game recorder](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 Step 3: Follow the on-screen instructions and select ”Capture any fullscreen application” from Mode. Click on OK button.
@@ -155,8 +281,14 @@ Step 4: Click on the Record button. Within a few seconds, the recording will sta
 
 Step 5: Press F9 whenever you want to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Way 2\. Use OBS Studio to Record LOL
 
 If you are a part of any gaming community, you must have heard gamers using OBS Studio to live stream their gameplay on YouTube, Twitch and other platforms. Well, OBS Studio is equally useful in recording your gameplay. In fact, the software is available free of cost and there is no dearth of advanced settings to better gameplay recording. The user interface is not as easy as other gameplay recorders but here is how to record LOL games with OBS Studio.
@@ -177,6 +309,9 @@ Step 5: If you want to stop recording, come back on OBS Studio and click on Stop
 
 If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
@@ -191,6 +326,10 @@ You can find the recorded video by going to Widgets and then to Gallery section.
 
 Bandicam is one of the most preferred gameplay recorders in the gaming community. Unlike other premium recorders, there is only one-time purchase plan available to unlock all the advanced features and settings. The software can record gameplay at 4k resolution and at 480fps. If you are into 3D gaming, Bandicam is the best recorder available. Here are the steps on how to record LOL games with Bandicam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
 Step 1: Download and install Bandicam to launch it.
@@ -205,6 +344,9 @@ Step 4: If you are done playing LOL game, click on Stop button.
 
 Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
 
 Step 1: Download and install Fraps on your Windows PC.
@@ -243,6 +385,9 @@ For macOS 10.12 or later
 
 Step 2: Go to Record menu and select Record PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
 
 Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
@@ -263,6 +408,9 @@ Step 1: Download and install OBS Studio for free.
 
 Step 2: Open OBS Studio and click on “+” icon from Sources tab. From the menu, select Game Capture option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs game recorder](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 Step 3: Follow the on-screen instructions and select ”Capture any fullscreen application” from Mode. Click on OK button.
@@ -271,10 +419,25 @@ Step 4: Click on Start Recording button and open LOL game on your computer. The 
 
 Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 3\. Record LOL Games with Windows Game Bar
 
 If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
 
 Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
@@ -285,10 +448,16 @@ Step 3: You can stop recording anytime by pressing Windows + Alt + R together ag
 
 You can find the recorded video by going to Widgets and then to Gallery section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 4\. Record LOL Game Video with Bandicam
 
 Bandicam is one of the most preferred gameplay recorders in the gaming community. Unlike other premium recorders, there is only one-time purchase plan available to unlock all the advanced features and settings. The software can record gameplay at 4k resolution and at 480fps. If you are into 3D gaming, Bandicam is the best recorder available. Here are the steps on how to record LOL games with Bandicam.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
 Step 1: Download and install Bandicam to launch it.
@@ -303,104 +472,9 @@ Step 4: If you are done playing LOL game, click on Stop button.
 
 Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
 
-![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
-
-Step 1: Download and install Fraps on your Windows PC.
-
-Step 2: Launch the software and go to General tab and turn on Monitor Aero Desktop option. This option will enable you to record the full screen.
-
-Step 3: Under Movies tab, set all the parameters correctly.
-
-Step 4: Open LOL and press F9 key to start recording the gameplay. Press F9 again to stop recording.
-
-## The Bottom Line
-
-League of Legends is a high-end game and you cannot let recording in the background to affect the performance and face lag issues. That is why you have to choose a gameplay recorder wisely if you want to record LOL games. We have picked the top five best gameplay recorders, some of which are premium while others are free. We recommend Wondershare Filmora as you can record at 4K resolution and edit your video to make it more interesting and eye-catching.
-
-Way 2. [Use OBS Studio to Record LOL](#part2)
-
-Way 3. [Record LOL Games with Windows Game Bar](#part3)
-
-Way 4. [Record LOL Game Video with Bandicam](#part4)
-
-Way 5. [Use Fraps to Record LOL Games](#part5)
-
-## Way 1\. Record LOL Gameplay with Filmora
-
-When you want to record gameplay of a high-end game, you have to invest in purchasing a [superior screen recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can get the job done with a free screen recorder but you can clearly understand the differences in recorded gameplay quality when you record with a premium gameplay recorder. The best recorder to record game LOL is Wondershare Filmora. The gameplay recorder is available for Windows and Mac users. Apart from recording your gameplay, you can edit them with Filmora like a professional video editor. Here are the steps to record LOL gameplay.
-
-Step 1: Download and install Wondershare Filmora. Launch the application and select New Project option.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Go to Record menu and select Record PC Screen option.
-
-![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
-
-Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
-
-Step 4: Click on the Record button. Within a few seconds, the recording will start and you can start playing LOL game immediately.
-
-![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
-
-Step 5: Press F9 whenever you want to stop recording.
-
-![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
-
-## Way 2\. Use OBS Studio to Record LOL
-
-If you are a part of any gaming community, you must have heard gamers using OBS Studio to live stream their gameplay on YouTube, Twitch and other platforms. Well, OBS Studio is equally useful in recording your gameplay. In fact, the software is available free of cost and there is no dearth of advanced settings to better gameplay recording. The user interface is not as easy as other gameplay recorders but here is how to record LOL games with OBS Studio.
-
-Step 1: Download and install OBS Studio for free.
-
-Step 2: Open OBS Studio and click on “+” icon from Sources tab. From the menu, select Game Capture option.
-
-![obs game recorder](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
-
-Step 3: Follow the on-screen instructions and select ”Capture any fullscreen application” from Mode. Click on OK button.
-
-Step 4: Click on Start Recording button and open LOL game on your computer. The recording is going on in the background and you can start playing the game.
-
-Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
-
-## Way 3\. Record LOL Games with Windows Game Bar
-
-If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
-
-![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
-
-Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
-
-Step 2: Open LOL game on your computer and start playing the game. Press Windows + Alt + R keys together to start recording LOL gameplay.
-
-Step 3: You can stop recording anytime by pressing Windows + Alt + R together again.
-
-You can find the recorded video by going to Widgets and then to Gallery section.
-
-## Way 4\. Record LOL Game Video with Bandicam
-
-Bandicam is one of the most preferred gameplay recorders in the gaming community. Unlike other premium recorders, there is only one-time purchase plan available to unlock all the advanced features and settings. The software can record gameplay at 4k resolution and at 480fps. If you are into 3D gaming, Bandicam is the best recorder available. Here are the steps on how to record LOL games with Bandicam.
-
-![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
-
-Step 1: Download and install Bandicam to launch it.
-
-Step 2: Click on Home tab and go to Game recording option.
-
-Step 3: You need to click on Rec button to start recording your LOL gameplay.
-
-Step 4: If you are done playing LOL game, click on Stop button.
-
-## Way 5\. Use Fraps to Record LOL Games
-
-Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
-
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
 
 Step 1: Download and install Fraps on your Windows PC.
@@ -440,3 +514,44 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-beginner-to-pro-the-top-tips-for-instagram-stories/"><u>[New] 2024 Approved  From Beginner to Pro  The Top Tips for Instagram Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-junior-jams-and-junction-gaming/"><u>[New] 2024 Approved  Junior Jams & Junction Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[New] 2024 Approved  Mastery Over Airwaves  Recording Techniques for Live Sounds</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[New] Dazzle and Stand Out  50 FREE YouTube Branding Pieces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-feature-a-podcast-in-one-quick-snap/"><u>[New] Feature a Podcast in One Quick Snap</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-image-all-screen-website-view-for-2024/"><u>[New] Image All-Screen Website View for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-edge-top-5-modern-video-capture-solutions/"><u>[New] In 2024, Leading Edge  Top 5 Modern Video Capture Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-precision-recorder-ads-free-edition/"><u>[New] In 2024, Precision Recorder - Ads-Free Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-win-1011s-top-screencasting-applications-unveiled/"><u>[New] In 2024, Win 10/11'S Top Screencasting Applications Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-logitech-webcam-basics-video-recording-made-easy-for-2024/"><u>[New] Logitech Webcam Basics  Video Recording Made Easy for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-screen-sharing-in-google-meet-mobiledesktop-for-2024/"><u>[New] Navigating Screen Sharing in Google Meet Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[New] Nikon D500 at a Glance  The Frontiers of 4K HD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-picking-between-filmora-and-democracy-creator-for-edits-for-2024/"><u>[New] Picking Between Filmora and Democracy Creator for Edits for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-guide-iphones-easiest-screen-recording-method-for-2024/"><u>[New] Quick Guide  IPhone's Easiest Screen Recording Method for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-strategic-screen-customization-timely-adjustments-in-teams-for-2024/"><u>[New] Strategic Screen Customization  Timely Adjustments in Teams for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-trailblazing-pfp-concepts-to-secure-your-spotlight-on-tiktok-for-2024/"><u>[New] Trailblazing PFP Concepts to Secure Your Spotlight on TikTok for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>[Updated] 2024 Approved  PeekSnapper  A Critical Examination of Micro-Recording Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-recordevaluator-critique/"><u>[Updated] 2024 Approved  RecordEvaluator Critique</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-ultimate-tools-for-high-quality-monitoring/"><u>[Updated] 2024 Approved  Unveiling the Ultimate Tools for High-Quality Monitoring</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-add-context-and-meaning-with-strategic-text-overlays-on-tiktok-videos/"><u>[Updated] Add Context and Meaning with Strategic Text Overlays on TikTok Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-get-hooked-our-curated-12-best-pc-clicker-titles/"><u>[Updated] In 2024, Get Hooked  Our Curated 12 Best PC Clicker Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-ways-to-record-without-background-sounds/"><u>[Updated] In 2024, Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ipad-timelapse-essentials-for-beginners/"><u>[Updated] In 2024, IPad Timelapse Essentials for Beginners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sims-4-recording-tips-and-tricks-for-quality/"><u>[Updated] In 2024, Sims 4 Recording  Tips and Tricks for Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-best-virtual-playground-for-ps3-games-on-windows-pcs/"><u>[Updated] In 2024, The Best Virtual Playground for PS3 Games on Windows PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-must-have-windows-11-cam-recorders/"><u>[Updated] In 2024, Top 10 Must-Have Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-12-screen-recorder-no-time-limits-for-2024/"><u>[Updated] Top 12 Screen Recorder No Time Limits for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-truescreenpro-windows-10s-choice-for-2024/"><u>[Updated] TrueScreenPro  Windows 10'S Choice for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation/"><u>2024 Approved  Aspire with Angles  Crafting Compelling Visuals Through Instagram Rotation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-gear-best-mac-apps-for-capturing-videos/"><u>2024 Approved  Top Gear  Best Mac Apps for Capturing Videos</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone-for-2024/"><u>Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/in-the-ideal-aspect-ratio-for-stunning-youtube-videos-for-2024/"><u>Dial in the Ideal Aspect Ratio for Stunning YouTube Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a24-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy A24 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-htc-u23-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any HTC U23 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-and-organize-your-mp4-videos-with-these-tag-editors/"><u>New 2024 Approved Edit and Organize Your MP4 Videos with These Tag Editors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-maximizing-sound-the-best-online-tools-for-amplifying-video-volumes/"><u>Updated In 2024, Maximizing Sound The Best Online Tools for Amplifying Video Volumes</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Dos and Don'ts in Night Portraits for 2024"
-date: 2024-06-09T12:57:05.622Z
-updated: 2024-06-10T12:57:05.622Z
+date: 2024-07-21T03:03:41.436Z
+updated: 2024-07-22T03:03:41.436Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,9 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -64,16 +67,25 @@ Experts suggest using a sturdy camera tripod, and it will be better to get a rem
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -86,14 +98,23 @@ Talking about the shutter speed, for stationary subjects, you can go for 1/160s.
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
@@ -102,6 +123,9 @@ As per the experts, the lower the aperture, the more light your camera will rece
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Are the Best Camera Settings for Night Photography?
 
 You should use your camera in manual mode. Besides, utilizing long camera shutter speeds, around 30 seconds to 60 seconds, will be good. Sometimes, using auto-white balance, you can get great results. The experts also suggest keeping the aperture around f/11 and going for a low ISO, between 100 to 200.
@@ -137,3 +161,45 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-zoom-meetings-for-beginners-a-comprehensive-introduction-guide/"><u>[New] 2024 Approved  Zoom Meetings for Beginners  A Comprehensive Introduction Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-audio-waveforms-and-vocal-tracks/"><u>[New] Capture Audio Waveforms & Vocal Tracks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-conquering-cinematic-recording-a-guide-to-windowsmacosios/"><u>[New] Conquering Cinematic Recording  A Guide to Windows/macOS/iOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uide-to-producing-impactful-lifestyle-motivational-content-for-2024/"><u>[New] Guide to Producing Impactful Lifestyle Motivational Content for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-iphone-recording/"><u>[New] In 2024, Unlocking the Secrets of iPhone Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-lore-legends-top-10-roguelike-experiences/"><u>[New] Lore Legends  Top 10 Roguelike Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-meets-shadowcast-for-2024/"><u>[New] OBS Meets ShadowCast for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-video-annotations-mastery-cutting-with-precision-and-style/"><u>[Updated] 2024 Approved  Video Annotations Mastery  Cutting with Precision & Style</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ensuring-privacy-in-zoom-meetings-by-recording/"><u>[Updated] Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-free-discolinking-techniques-desktop-and-smartphone-edition-for-2024/"><u>[Updated] Free DiscoLinking Techniques  Desktop & Smartphone Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminating-iphones-in-the-dark-photography-tips/"><u>[Updated] Illuminating iPhones in the Dark  Photography Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-immersive-playgrounds-androids-top-15-simulations/"><u>[Updated] Immersive Playgrounds  Android's Top 15 Simulations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-online-identity-with-tailored-fb-slideshow-content/"><u>[Updated] In 2024, Elevate Your Online Identity with Tailored FB Slideshow Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tapestry-transitions-loom-recording-steps-for-2024/"><u>[Updated] Tapestry Transitions  Loom Recording Steps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>2024 Approved  Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-x9b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor X9b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/backupbuddy-reviewers-thoughts/"><u>BackupBuddy Reviewers Thoughts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-virtual-background-for-google-meet/"><u>Best Virtual Background for Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cut-to-a-new-beginning-four-fade-techniques/"><u>Cut to a New Beginning  Four Fade Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/economical-pc-streaming-with-simple-obs-configurations-for-2024/"><u>Economical PC Streaming with Simple OBS Configurations for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guidelines-registering-on-google-meet/"><u>Guidelines  Registering on Google Meet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-your-csgo-montage-impressive/"><u>How to Make Your CSGO Montage Impressive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-bandicam-or-camtasia-best-recording-and-editing-software/"><u>In 2024, Bandicam or Camtasia  Best Recording & Editing Software?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-how-to-animate-image-on-scroll/"><u>In 2024, How to Animate Image on Scroll</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-alternative-editors-beyond-youtubes-limits/"><u>In 2024, Top 5 Alternative Editors  Beyond Youtube's Limits</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-spark-10-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 10 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leading-applications-replacing-obs-for-live-sessions/"><u>Leading Applications Replacing OBS for Live Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-obs-for-live-skype-recording/"><u>Mastering OBS for Live Skype Recording</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>New Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfecting-synchronized-recording-webcam-plus-display-techniques/"><u>Perfecting Synchronized Recording  Webcam + Display Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revamp-your-recordings-with-these-expert-tips/"><u>Revamp Your Recordings with These Expert Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>Spark Interest  10 Innovative Highlight Ideas to Try Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-alternative-review-to-sharex/"><u>The Ultimate Alternative Review to ShareX</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users/"><u>Unlocking Fullscreen Footage  Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>Unplugged Delight  Your Guide to Free Screen-Free Games for Android</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-absence-efficient-ways-to-extract-silent-videos-from-iphone-recordings/"><u>Updated Audio Absence Efficient Ways to Extract Silent Videos From iPhone Recordings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/visual-language-in-tiktok-a-complete-overview-for-2024/"><u>Visual Language in TikTok  A Complete Overview for 2024</u></a></li>
+</ul></div>

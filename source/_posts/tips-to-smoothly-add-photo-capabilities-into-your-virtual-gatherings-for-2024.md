@@ -1,7 +1,7 @@
 ---
 title: "Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024"
-date: 2024-05-18T11:45:30.891Z
-updated: 2024-05-19T11:45:30.891Z
+date: 2024-07-21T02:46:47.108Z
+updated: 2024-07-22T02:46:47.108Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024"
 excerpt: "This Article Describes Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings for 2024"
 keywords: "Virtual Photo Tools Tips,JoinGathering Images,Enhance Virtue Snapshots,AddPhotos Online Meetings,VideoChat Picture Boost,Gathering Photo Upgrade,Virtual Event Image Fix"
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings
@@ -45,6 +45,9 @@ Once downloaded, find the file on your desktop and double click to install. On t
 
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Use Snap Camera on Google Meet?
 
 There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
@@ -57,6 +60,9 @@ There are two different ways of using the snap camera on Google Meet - the first
 
 **Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
 
 **Step 4:** Click on the three dots on the preview screen and click on settings.
@@ -118,10 +124,20 @@ Currently, Snap Camera is available for Windows and Mac computers, which means y
 
 **Step 5:** Tap on the filters option and see all the filters available. Choose any filter you want, and it will be automatically added to your video input.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 5: Google Meet Adds Video Filters and AR Stickers for Personal Call
 
 Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
 
 **Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
@@ -180,6 +196,9 @@ There are two different ways of using the snap camera on Google Meet - the first
 
 **Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
 
 **Step 4:** Click on the three dots on the preview screen and click on settings.
@@ -211,12 +230,18 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
 It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
 
 **Step 1:** Open the Snap camera app and find the default camera input that it shows you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Google Meet Camera Source Settings ](https://images.wondershare.com/filmora/article-images/select-third-party-camera-in-snap-camera.jpg)
 
 **Step 2:** Find the Gear icon on the top right of the screen and click on it to open the Snap Camera settings.
@@ -227,6 +252,160 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
+## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
+
+Currently, Snap Camera is available for Windows and Mac computers, which means you can’t install it on your iPhone or Android phone. If you want to add filters to Google Meet on mobile, you can follow the steps below to use the on-platform integrated filters:
+
+**Step 1:** Open Google Meet on your [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=fr&gl=US) device or [iPhone](https://apps.apple.com/fr/app/google-meet/id1013231476).
+
+**Step 2:** Follow the usual steps: start a meeting or join an existing one.
+
+**Step 3:** As soon as you access your meeting, tap on the “Effects” icon situated near the bottom of your face on the screen.
+
+**Step 4:** You’ll be able to access different options under the Effects icon, such as Blur, Backgrounds, Style. At the very end, you’ll find “Filters”.
+
+**Step 5:** Tap on the filters option and see all the filters available. Choose any filter you want, and it will be automatically added to your video input.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 5: Google Meet Adds Video Filters and AR Stickers for Personal Call
+
+Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
+
+**Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
+
+**Step 2:** Select a meeting to enter - you can either open a new one or join an existing one.
+
+**Step 3:** Once you’ve entered the meeting, click the “Sparkle” icon at the bottom right of the video screen.
+
+**Step 4:** Select the fun new video effect you’d like and it will automatically add to your video input screen, AKA to your face.
+
+**Video Calls can be Fun!**
+
+As you can see, there are many different ways of implementing filters into your Google Meet video communications, to make your calls a little less boring. You can use these filters on your computer, whether it be a Windows or Mac device, by downloading Snap Camera; or you can use the Google Meet app to use the brand new filters Google has introduced. Don’t let physical distance be an obstacle to having fun with your loved ones - the infinite possibilities of filters on Google Meet will assure lots of laughs!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+This past year, many of us have been forced to go through long, fastidious video meetings via platforms such as [Zoom](https://tools.techidaily.com/wondershare/filmora/download/), Skype, or Google Meet. Though it has proven to be an efficient and useful way of connecting with a team or with loved ones, maybe you’re sick and tired of enduring long hours of tasteless video calls and want to spice things up. One of the ways to do so is to use Snap Camera with Google Meet, in order to have access to the multitude of filters available on Snapchat. Let’s talk about how to do so.
+
+_If you’re using the Zoom app to have a video conference, you can also use Snap Camera on it. Check this article to find [how to use Snap Camera on Zoom meetings](https://tools.techidaily.com/wondershare/filmora/download/)._
+
+* [Part 1: How to Download and Set up Snap Camera with Google Meet?](#part1)
+* [Part 2: How to Use Snap Camera on Google Meet](#part2)
+* [Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs](#part3)
+* [Part 4: Add Filters to Google Meet Without Snap Camera on Mobile](#part4)
+* [Part 5: Adds Video Filters and AR Stickers on Google Meet](#part5)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to Download and Set up Snap Camera with Google Meet?
+
+The first thing you’ll need to do is download and install the Snap Camera. It’s a very easy process. Visit the [Snap Camera website](https://snapcamera.snapchat.com/) and click the Download button to start. Please note you’ll need a Windows 10 (64 bit) or newer; or a macOS 10.13 or newer to be able to download and install the Snap Camera.
+
+Once downloaded, find the file on your desktop and double click to install. On the mac, you’ll need to drag the icon to the applications file (when you click the downloaded file it usually automatically shows you what to do).
+
+Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Use Snap Camera on Google Meet?
+
+There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
+
+**Method 1: Gmail login**
+
+**Step 1:** Log in to your Gmail account and on the left-hand side of your Gmail landing page, you will see two options under Meet: New meeting and Join a meeting.
+
+![Google Meet  Options](https://images.wondershare.com/filmora/article-images/gmail-meet-options.jpg)
+
+**Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
+
+**Step 4:** Click on the three dots on the preview screen and click on settings.
+
+**Step 5:** Inside the settings option, switch to the Video option and then you will see the first option that you get is “Camera”.
+
+![Set Snap Camera as Google Meet Camera ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+**Step 6:** Click on the options under the camera selection and select the Snap Camera.
+
+**Step 7:** Set the resolution to 720p or whatever the highest option is for the sending resolution and the receiving resolution accordingly.
+
+That’s it! Now you’ll be able to use Snap Camera for your Google Meet communications! Let’s look at the other way of logging in to Google Meet: directly from the website.
+
+**Method 2: Access Google Meet from the Website**
+
+**Step 1:** Open the [Google Meet website](https://meet.google.com/).
+
+**Step 2:** If you are logged in, you’ll be able to see the homepage which shows two options: New meeting, which allows you to create a new meeting , or join an existing one which says enter a code or link. So, to create a new meeting, click on “New meeting”, and then select Start an instant meeting to create. You can also create a meeting for later or schedule a meeting in Google Calendar. If you don’t see these two options, log in first, and then you’ll be able to access the two buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ Google Meet Website Options ](https://images.wondershare.com/filmora/article-images/google-meet-website-options.jpg)
+
+**Step 3:** To set up your Snap Camera and use it as a part of your Google Meet session, follow the steps below.
+
+* _Float your mouse over the bottom of the window to make the menu appear (find the microphone, hang up, and camera button), then click the three dotes positioned on the far right of the screen._
+* _Inside the settings option, Select the Settings button from the_ menu, _open the Video tab by clicking on Video. As soon as you do this, the first option that you get is “Camera”._
+* _Click on the options under the camera selection and select the Snap Camera._
+* _Set the resolution to 720p or whatever the highest option is._
+
+![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
+
+It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
+
+**Step 1:** Open the Snap camera app and find the default camera input that it shows you.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ Google Meet Camera Source Settings ](https://images.wondershare.com/filmora/article-images/select-third-party-camera-in-snap-camera.jpg)
+
+**Step 2:** Find the Gear icon on the top right of the screen and click on it to open the Snap Camera settings.
+
+**Step 3:** Inside the Snap Camera settings, you will be able to see the “Choose Your Camera” option, which should be the first option available. Just below, find the drop-down menu with all the available camera inputs.
+
+**Step 4:** Select your desired camera input and change it to that. You’ll now be able to use ut with Snap Camera.
+
+To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
 
 Currently, Snap Camera is available for Windows and Mac computers, which means you can’t install it on your iPhone or Android phone. If you want to add filters to Google Meet on mobile, you can follow the steps below to use the on-platform integrated filters:
@@ -283,6 +462,9 @@ _If you’re using the Zoom app to have a video conference, you can also use Sna
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Download and Set up Snap Camera with Google Meet?
 
 The first thing you’ll need to do is download and install the Snap Camera. It’s a very easy process. Visit the [Snap Camera website](https://snapcamera.snapchat.com/) and click the Download button to start. Please note you’ll need a Windows 10 (64 bit) or newer; or a macOS 10.13 or newer to be able to download and install the Snap Camera.
@@ -291,6 +473,9 @@ Once downloaded, find the file on your desktop and double click to install. On t
 
 Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to Use Snap Camera on Google Meet?
 
 There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
@@ -334,12 +519,18 @@ That’s it! Now you’ll be able to use Snap Camera for your Google Meet commun
 
 ![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
 
 It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
 
 **Step 1:** Open the Snap camera app and find the default camera input that it shows you.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![ Google Meet Camera Source Settings ](https://images.wondershare.com/filmora/article-images/select-third-party-camera-in-snap-camera.jpg)
 
 **Step 2:** Find the Gear icon on the top right of the screen and click on it to open the Snap Camera settings.
@@ -350,6 +541,9 @@ It is also possible to use Google Meet and Snap Camera with third-party inputs s
 
 To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
 
 Currently, Snap Camera is available for Windows and Mac computers, which means you can’t install it on your iPhone or Android phone. If you want to add filters to Google Meet on mobile, you can follow the steps below to use the on-platform integrated filters:
@@ -368,129 +562,9 @@ Currently, Snap Camera is available for Windows and Mac computers, which means y
 
 Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
 
-![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
-
-**Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
-
-**Step 2:** Select a meeting to enter - you can either open a new one or join an existing one.
-
-**Step 3:** Once you’ve entered the meeting, click the “Sparkle” icon at the bottom right of the video screen.
-
-**Step 4:** Select the fun new video effect you’d like and it will automatically add to your video input screen, AKA to your face.
-
-**Video Calls can be Fun!**
-
-As you can see, there are many different ways of implementing filters into your Google Meet video communications, to make your calls a little less boring. You can use these filters on your computer, whether it be a Windows or Mac device, by downloading Snap Camera; or you can use the Google Meet app to use the brand new filters Google has introduced. Don’t let physical distance be an obstacle to having fun with your loved ones - the infinite possibilities of filters on Google Meet will assure lots of laughs!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-This past year, many of us have been forced to go through long, fastidious video meetings via platforms such as [Zoom](https://tools.techidaily.com/wondershare/filmora/download/), Skype, or Google Meet. Though it has proven to be an efficient and useful way of connecting with a team or with loved ones, maybe you’re sick and tired of enduring long hours of tasteless video calls and want to spice things up. One of the ways to do so is to use Snap Camera with Google Meet, in order to have access to the multitude of filters available on Snapchat. Let’s talk about how to do so.
-
-_If you’re using the Zoom app to have a video conference, you can also use Snap Camera on it. Check this article to find [how to use Snap Camera on Zoom meetings](https://tools.techidaily.com/wondershare/filmora/download/)._
-
-* [Part 1: How to Download and Set up Snap Camera with Google Meet?](#part1)
-* [Part 2: How to Use Snap Camera on Google Meet](#part2)
-* [Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs](#part3)
-* [Part 4: Add Filters to Google Meet Without Snap Camera on Mobile](#part4)
-* [Part 5: Adds Video Filters and AR Stickers on Google Meet](#part5)
-
----
-
-## Part 1: How to Download and Set up Snap Camera with Google Meet?
-
-The first thing you’ll need to do is download and install the Snap Camera. It’s a very easy process. Visit the [Snap Camera website](https://snapcamera.snapchat.com/) and click the Download button to start. Please note you’ll need a Windows 10 (64 bit) or newer; or a macOS 10.13 or newer to be able to download and install the Snap Camera.
-
-Once downloaded, find the file on your desktop and double click to install. On the mac, you’ll need to drag the icon to the applications file (when you click the downloaded file it usually automatically shows you what to do).
-
-Open the snap camera and you’ll be able to see your face on the screen. That’s it, you’ve downloaded the Snap Camera. Select the preferred filters and lens from the below list and check the result in the video stream window. Now onto the next step, which is configuring the Snap Camera to work with Google Meet.
-
-## Part 2: How to Use Snap Camera on Google Meet?
-
-There are two different ways of using the snap camera on Google Meet - the first method is to log in via Gmail and the second is to access Google Meet directly from the website.
-
-**Method 1: Gmail login**
-
-**Step 1:** Log in to your Gmail account and on the left-hand side of your Gmail landing page, you will see two options under Meet: New meeting and Join a meeting.
-
-![Google Meet  Options](https://images.wondershare.com/filmora/article-images/gmail-meet-options.jpg)
-
-**Step 3:** Select “New Meeting” and then choose to send an invitation link or start right now. Here, let’s click on Start now and a Google Meet pop-up will tell you what the default video source is.
-
-![Google Meeting ](https://images.wondershare.com/filmora/article-images/google-meet-interface.jpg)
-
-**Step 4:** Click on the three dots on the preview screen and click on settings.
-
-**Step 5:** Inside the settings option, switch to the Video option and then you will see the first option that you get is “Camera”.
-
-![Set Snap Camera as Google Meet Camera ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
-
-**Step 6:** Click on the options under the camera selection and select the Snap Camera.
-
-**Step 7:** Set the resolution to 720p or whatever the highest option is for the sending resolution and the receiving resolution accordingly.
-
-That’s it! Now you’ll be able to use Snap Camera for your Google Meet communications! Let’s look at the other way of logging in to Google Meet: directly from the website.
-
-**Method 2: Access Google Meet from the Website**
-
-**Step 1:** Open the [Google Meet website](https://meet.google.com/).
-
-**Step 2:** If you are logged in, you’ll be able to see the homepage which shows two options: New meeting, which allows you to create a new meeting , or join an existing one which says enter a code or link. So, to create a new meeting, click on “New meeting”, and then select Start an instant meeting to create. You can also create a meeting for later or schedule a meeting in Google Calendar. If you don’t see these two options, log in first, and then you’ll be able to access the two buttons.
-
-![ Google Meet Website Options ](https://images.wondershare.com/filmora/article-images/google-meet-website-options.jpg)
-
-**Step 3:** To set up your Snap Camera and use it as a part of your Google Meet session, follow the steps below.
-
-* _Float your mouse over the bottom of the window to make the menu appear (find the microphone, hang up, and camera button), then click the three dotes positioned on the far right of the screen._
-* _Inside the settings option, Select the Settings button from the_ menu, _open the Video tab by clicking on Video. As soon as you do this, the first option that you get is “Camera”._
-* _Click on the options under the camera selection and select the Snap Camera._
-* _Set the resolution to 720p or whatever the highest option is._
-
-![ Google Meet  Camera Settings ](https://images.wondershare.com/filmora/article-images/google-meet-video-camera-settings.jpg)
-
-## Part 3: How to Use Snap Cam with Google Meet using Third-Party Inputs
-
-It is also possible to use Google Meet and Snap Camera with third-party inputs such as the Canon EOS webcam utility or other applications such as IRUin camera of Epoc Cam. Here is how:
-
-**Step 1:** Open the Snap camera app and find the default camera input that it shows you.
-
-![ Google Meet Camera Source Settings ](https://images.wondershare.com/filmora/article-images/select-third-party-camera-in-snap-camera.jpg)
-
-**Step 2:** Find the Gear icon on the top right of the screen and click on it to open the Snap Camera settings.
-
-**Step 3:** Inside the Snap Camera settings, you will be able to see the “Choose Your Camera” option, which should be the first option available. Just below, find the drop-down menu with all the available camera inputs.
-
-**Step 4:** Select your desired camera input and change it to that. You’ll now be able to use ut with Snap Camera.
-
-To use third-party inputs like Iruin webcam, Epic cam, or Canon Webcam Utility, you’ll need to select the Snap Cam as the input in the meet settings. Your input will be passed through Snap Cam via webcam utility or another application using your phone or your DSLR, then passed through to Google Meet. You’ll be able to use the filters with far better resolution on Google Meet.
-
-## Part 4: How to Add Filters to Google Meet Without Snap Camera on Mobile
-
-Currently, Snap Camera is available for Windows and Mac computers, which means you can’t install it on your iPhone or Android phone. If you want to add filters to Google Meet on mobile, you can follow the steps below to use the on-platform integrated filters:
-
-**Step 1:** Open Google Meet on your [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=fr&gl=US) device or [iPhone](https://apps.apple.com/fr/app/google-meet/id1013231476).
-
-**Step 2:** Follow the usual steps: start a meeting or join an existing one.
-
-**Step 3:** As soon as you access your meeting, tap on the “Effects” icon situated near the bottom of your face on the screen.
-
-**Step 4:** You’ll be able to access different options under the Effects icon, such as Blur, Backgrounds, Style. At the very end, you’ll find “Filters”.
-
-**Step 5:** Tap on the filters option and see all the filters available. Choose any filter you want, and it will be automatically added to your video input.
-
-## Part 5: Google Meet Adds Video Filters and AR Stickers for Personal Call
-
-Google Meet recently added new filters, effects, and AR (augmented reality) masks for calls on iOS and Android. On July 7th, Google tweeted that the new features would be available: “cats, astronauts, jellyfish and more”... Sounds exciting! Here’s how to add them to your Google Meet calls.
-
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Google Meet AR Stickers](https://images.wondershare.com/filmora/article-images/google-new-ar-stickers-news-on-twitter.jpg)
 
 **Step 1:** If you haven’t yet, download Google Meet for Android or iOS and then open it.
@@ -538,3 +612,53 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-indispensable-fcp-enhancing-plugins/"><u>[New] 10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[New] A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-10-sandbox-innovations-you-shouldnt-skip/"><u>[New] In 2024, 10 Sandbox Innovations You Shouldn't Skip</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>[New] In 2024, Navigate the Future of Meetings  A Win11 and Zoom Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-minecraft-homestead-blueprint-series/"><u>[New] Minecraft Homestead Blueprint Series</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-strategies-for-captivating-your-online-audience-with-videos/"><u>[New] Ultimate Strategies for Captivating Your Online Audience with Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-win-and-mac-accessible-screen-capture-utilities/"><u>[New] Win & Mac  Accessible Screen Capture Utilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-5-top-android-ps2-game-simulators/"><u>[Updated] 5 Top Android PS2 Game Simulators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[Updated] In 2024, A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-studio-explained-capturing-ps4-playthroughs/"><u>[Updated] OBS Studio Explained  Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>[Updated] OBS vs ShadowPlay  The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-save-your-session-effortlessly-with-free-recorders/"><u>[Updated] Save Your Session Effortlessly with Free Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-screen-casting-on-your-phone/"><u>[Updated] The Ultimate Guide to Screen Casting on Your Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-high-flying-moba-games-for-android-users/"><u>[Updated] Top 10 High-Flying MOBA Games for Android Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-8-top-choices-your-go-to-templates-on-ig-for-2024/"><u>[Updated] Unveiling 8 Top Choices  Your Go-To Templates on IG for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-perfect-picture-quality-on-zoom/"><u>2024 Approved  Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-building-a-reliable-routine-for-google-meet-sessions/"><u>2024 Approved  Building a Reliable Routine for Google Meet Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715806247227-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>2024 Approved  Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-tech-advances-top-5-windows-screenshots/"><u>2024 Approved  Leading Tech Advances  Top 5 Windows Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-powerful-insights-unlocking-full-potential-with-mobizen-screen-recording/"><u>2024 Approved  Powerful Insights  Unlocking Full Potential with Mobizen Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>2024 Approved  Quick Tips  Simplified Techniques for Capturing Google Meets</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-mobile-video-makers-with-a-beat-the-best-apps-for-android-and-iphone/"><u>2024 Approved Mobile Video Makers with a Beat The Best Apps for Android and iPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/best-foreign-flicks-to-learn-a-new-tongue/"><u>Best Foreign Flicks To Learn A New Tongue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/boosting-twitch-viewership-5-key-tactics-for-2024/"><u>Boosting Twitch Viewership  5 Key Tactics for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-in-depth-recmaster-screen-capture-analysis/"><u>In 2024, In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-intenseflame-screen-recorders/"><u>In 2024, IntenseFlame Screen Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-jumpstart-your-recording-with-this-obs-mac-setup-guide/"><u>In 2024, Jumpstart Your Recording with This OBS Mac Setup Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-best-equipment-for-precise-zoom-recording/"><u>In 2024, The Best Equipment for Precise Zoom Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-most-reliable-voice-recorders-suited-for-macos-users/"><u>In 2024, The Most Reliable Voice Recorders Suited for MacOS Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-ranked-gaming-recorder-tools/"><u>In 2024, Top-Ranked Gaming Recorder Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-guide-for-sustainable-visual-recording/"><u>In 2024, Ultimate Guide for Sustainable Visual Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-time-lapse-capturing-moments-quickly-for-2024/"><u>IPhone Time-Lapse  Capturing Moments Quickly for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/master-your-favorite-games-with-obs-streaming-tips-for-2024/"><u>Master Your Favorite Games with OBS Streaming Tips for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-loop-video-in-powerpoint/"><u>New In 2024, How to Make Loop Video in PowerPoint</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-green-screen-software-which-one-is-right-for-you/"><u>New Mac Green Screen Software Which One Is Right for You?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-synthesis-and-shaping-sounds-the-essential-list-of-digital-audio-effects-to-explore/"><u>New Synthesis and Shaping Sounds The Essential List of Digital Audio Effects to Explore</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-video-quality-on-tiktok/"><u>Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-streaming-showdown-whos-the-champion-obs-or-shadowgl/"><u>Screen Streaming Showdown  Who's the Champion? OBS or ShadowGL?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-eight-video-grabber-software-for-2024/"><u>Top Eight Video Grabber Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-clear-communication-zooms-best-transcription-services-for-2024/"><u>Unlocking Clear Communication  Zoom's Best Transcription Services for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-exploring-8-premium-and-affordable-daws-for-windows-enthusiasts/"><u>Updated Exploring 8 Premium and Affordable DAWs for Windows Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-rpi-console-powers-retro-gaming-more-batocera-or-retropie/"><u>Which RPi Console Powers Retro Gaming More: Batocera or RetroPie?</u></a></li>
+</ul></div>

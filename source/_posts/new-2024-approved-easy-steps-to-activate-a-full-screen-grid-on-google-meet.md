@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Easy Steps to Activate a Full-Screen Grid on Google Meet\""
-date: 2024-05-18T12:13:25.331Z
-updated: 2024-05-19T12:13:25.331Z
+date: 2024-07-21T04:52:19.358Z
+updated: 2024-07-22T04:52:19.358Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Easy Steps to Activate a Full-Screen Grid on Google Meet\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Easy Steps to Activate a Full-Screen Grid on Google Meet\""
 keywords: "Grid Meet Start,Screen Grid Activate,Fullscreen Grid OnMeet,Enable Grid View,Meet Grid Step,Grid Activation Google,GoGoogleGridFullScreen"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Easy Steps to Activate a Full-Screen Grid on Google Meet
@@ -53,8 +53,171 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 **Note:** The slider can expand the view up to 49 participants.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
+
+Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 1: Join Meeting through phone's browser
+
+**Step 1: Enable desktop site**
+
+Click on the **three dots** and enable the **desktop site** option from the menu.
+
+![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
+
+**Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
+
+Click on the **three dots** at the bottom right corner and select **change layout.**
+
+![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Ask someone else to share the screen
+
+Ask any other participant in the meeting to share the screen with tiled mode enabled.
+
+**Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
+
+## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
+
+Grid view extension is another method of monitoring all participants of the meeting in Google Meet. So, if you cannot enable tiled layout in Google Meet, this extension can be helpful. If you are in a quest to know more about the Grid View extension, its installation, and how to use it in Google Meet, we have summarized the process in easy and simple steps below.
+
+**Step 1: Add Grid View extension to the chrome**
+
+Launch Chrome browser and access **chrome.google.com**. Click on **features** and select **extension** appearing at the last of the list. Search the extension and press **add to chrome** button. Or you can go to this extension page here: <https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip?hl=en>.
+
+Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
+
+**Step 2 : Create or join a meeting room in a Google Meet**
+
+Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
+
+**Step 3 : Enable the extension**
+
+Click on the **extension** at the top right of the screen corner and tick the **Google Meet Grid View option.**
+
+**Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: How to Fix Google Meet Grid View Not Working Issue?
+
+By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
+
+**Step 1: Download the latest version of Grid View.**
+
+Install 1.31 or newer version of Grid view by clicking on the [extension link](https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip?hl=en) and tap **add to chrome** option. Then, select add an extension when a pop-up message appears.
+
+**Step 2: Access Chrome tools and Enable developer mode**
+
+Open Google Chrome and click on the **three dots** at the top right corner. Choose **more tools** from the list. Select Extensions from the list of options in the more tools and turn on the developer mode at the top right of the corner.
+
+**Note:** Also, check whether the extension is installed or not. If it is available, try re-installing it. If it is still not visible, update Google chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
+
+**Step 3 : Check the working in Google Meet**
+
+Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
+
+![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+### Frequently Asked Questions About See Everyone on Google Meet
+
+#### 1\. How do I see everyone on Google Meet mobile?
+
+Google Meet does not allow to view more than 4 participants simultaneously on iOS and Android Devices. However, if it is crucial for you to monitor the activity of all participants, it is better to use the browser on the phone rather than the application. It is better to enable desktop mode before joining the Google Meeting session on the phone's browser. And the most people that you can see in the screen is 49 at the time of writing.
+
+#### 2\. Why can't I install the Grid View extension?
+
+You might not be able to download the Grid View extension for a couple of reasons. Most of the time, you have a duplicate extension installed. So, you need to delete all duplicate extensions and then re-install the Grid View extension. Another reason for encountering issues when installing an extension can be that you are not downloading it from the right developer.
+
+#### 3\. Can you record a Google Meet in grid view?
+
+If you think about whether one can record a Google Meet session in Grid view, the answer is yes for the one hosting a meeting. So, the person sharing a screen and talking will be recorded, and Google Meet in-built recorder will not record all participants in the tile.
+
+**Conclusion**
+
+Sometimes, it becomes essential to make all participants visible in the grid. For instance, if you have been asked to invigilate students in an online test, monitoring the activity of all participants becomes your job duty. Like other conferencing apps, Google Meet offers a grid view to see participants in your window. Alongside auto, slide bar, and spotlight, Google Meet facilitates the users with the tiled view. In this article, we have gathered sufficient information on how to enable grid view in Google Meet. Not just on desktop, the article mentions configuring the layout on mobile devices as well.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Virtual meetings are becoming increasingly popular among the educational and business sector. So, the technology is continuously evolving to give the participants the best video-conferencing experience. Grid view is one of the features that video-conferencing applications provide to their users to see all participants.
+
+Previously, only 4 participants could be viewed in the Grid view mode. However, Google Meet has introduced a tiled layout in an update that lets you see 49 participants simultaneously on the screen. The following article will educate you about enabling grid and tiled view in Google Meet and address some other relevant concerns.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+## Part 1: How to Enable Tiled View in Google Meet to See Everyone on Desktop?
+
+The tiled view is one of the preferred layout options in Google Meet. Tiled view in Google Meet expanded the range of visible participants. So, if you have joined a video conference room of many participants, Google Meet tiled layout can help you view all participants simultaneously.
+
+Moreover, when the speaker switches among participants, the screen does not change when the tiled mode is enabled. Do you want to learn how to enable tiled view in Google Meet on desktop? If yes, follow the simple steps below.
+
+**Step 1: Open Google Meet and join the meeting**
+
+Access the Google Meet website or launch its app. Click on the new meeting to start a video session.
+
+**Note**: You can also join the meeting using an invitation link or entering code. This works when you are joining the session as a participant, not a host.
+
+Step 2: Switch to tiled layout
+
+Click on the **three dots** at the bottom of the screen. Select **change layout** from the menu and choose the **tiled** option.
+
+![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
+
+**Step 3: Expand View**
+
+Use a slider to increase or decrease the number of participants you want to see.
+
+**Note:** The slider can expand the view up to 49 participants.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
@@ -73,12 +236,18 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
 Grid view extension is another method of monitoring all participants of the meeting in Google Meet. So, if you cannot enable tiled layout in Google Meet, this extension can be helpful. If you are in a quest to know more about the Grid View extension, its installation, and how to use it in Google Meet, we have summarized the process in easy and simple steps below.
@@ -185,6 +354,9 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
@@ -219,6 +391,9 @@ Launch Chrome browser and access **chrome.google.com**. Click on **features** an
 
 Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 **Step 2 : Create or join a meeting room in a Google Meet**
@@ -233,6 +408,9 @@ Click on the **extension** at the top right of the screen corner and tick the **
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
 By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
@@ -253,6 +431,9 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -289,6 +470,9 @@ Virtual meetings are becoming increasingly popular among the educational and bus
 
 Previously, only 4 participants could be viewed in the Grid view mode. However, Google Meet has introduced a tiled layout in an update that lets you see 49 participants simultaneously on the screen. The following article will educate you about enabling grid and tiled view in Google Meet and address some other relevant concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Enable Tiled View in Google Meet to See Everyone on Desktop?
 
 The tiled view is one of the preferred layout options in Google Meet. Tiled view in Google Meet expanded the range of visible participants. So, if you have joined a video conference room of many participants, Google Meet tiled layout can help you view all participants simultaneously.
@@ -305,6 +489,9 @@ Step 2: Switch to tiled layout
 
 Click on the **three dots** at the bottom of the screen. Select **change layout** from the menu and choose the **tiled** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
 
 **Step 3: Expand View**
@@ -313,18 +500,27 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 **Note:** The slider can expand the view up to 49 participants.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
 
 Click on the **three dots** and enable the **desktop site** option from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
@@ -333,6 +529,9 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
@@ -349,6 +548,9 @@ Launch Chrome browser and access **chrome.google.com**. Click on **features** an
 
 Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 **Step 2 : Create or join a meeting room in a Google Meet**
@@ -361,8 +563,14 @@ Click on the **extension** at the top right of the screen corner and tick the **
 
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
 By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
@@ -403,136 +611,9 @@ If you think about whether one can record a Google Meet session in Grid view, th
 
 Sometimes, it becomes essential to make all participants visible in the grid. For instance, if you have been asked to invigilate students in an online test, monitoring the activity of all participants becomes your job duty. Like other conferencing apps, Google Meet offers a grid view to see participants in your window. Alongside auto, slide bar, and spotlight, Google Meet facilitates the users with the tiled view. In this article, we have gathered sufficient information on how to enable grid view in Google Meet. Not just on desktop, the article mentions configuring the layout on mobile devices as well.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Virtual meetings are becoming increasingly popular among the educational and business sector. So, the technology is continuously evolving to give the participants the best video-conferencing experience. Grid view is one of the features that video-conferencing applications provide to their users to see all participants.
-
-Previously, only 4 participants could be viewed in the Grid view mode. However, Google Meet has introduced a tiled layout in an update that lets you see 49 participants simultaneously on the screen. The following article will educate you about enabling grid and tiled view in Google Meet and address some other relevant concerns.
-
-## Part 1: How to Enable Tiled View in Google Meet to See Everyone on Desktop?
-
-The tiled view is one of the preferred layout options in Google Meet. Tiled view in Google Meet expanded the range of visible participants. So, if you have joined a video conference room of many participants, Google Meet tiled layout can help you view all participants simultaneously.
-
-Moreover, when the speaker switches among participants, the screen does not change when the tiled mode is enabled. Do you want to learn how to enable tiled view in Google Meet on desktop? If yes, follow the simple steps below.
-
-**Step 1: Open Google Meet and join the meeting**
-
-Access the Google Meet website or launch its app. Click on the new meeting to start a video session.
-
-**Note**: You can also join the meeting using an invitation link or entering code. This works when you are joining the session as a participant, not a host.
-
-Step 2: Switch to tiled layout
-
-Click on the **three dots** at the bottom of the screen. Select **change layout** from the menu and choose the **tiled** option.
-
-![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
-
-**Step 3: Expand View**
-
-Use a slider to increase or decrease the number of participants you want to see.
-
-**Note:** The slider can expand the view up to 49 participants.
-
-![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
-
-## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
-
-Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
-
-### Method 1: Join Meeting through phone's browser
-
-**Step 1: Enable desktop site**
-
-Click on the **three dots** and enable the **desktop site** option from the menu.
-
-![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
-
-**Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
-
-Click on the **three dots** at the bottom right corner and select **change layout.**
-
-![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
-
-### Method 2: Ask someone else to share the screen
-
-Ask any other participant in the meeting to share the screen with tiled mode enabled.
-
-**Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
-
-Grid view extension is another method of monitoring all participants of the meeting in Google Meet. So, if you cannot enable tiled layout in Google Meet, this extension can be helpful. If you are in a quest to know more about the Grid View extension, its installation, and how to use it in Google Meet, we have summarized the process in easy and simple steps below.
-
-**Step 1: Add Grid View extension to the chrome**
-
-Launch Chrome browser and access **chrome.google.com**. Click on **features** and select **extension** appearing at the last of the list. Search the extension and press **add to chrome** button. Or you can go to this extension page here: <https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip?hl=en>.
-
-Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
-
-![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
-
-**Step 2 : Create or join a meeting room in a Google Meet**
-
-Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
-
-**Step 3 : Enable the extension**
-
-Click on the **extension** at the top right of the screen corner and tick the **Google Meet Grid View option.**
-
-**Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
-
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
-
-## Part 4: How to Fix Google Meet Grid View Not Working Issue?
-
-By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
-
-**Step 1: Download the latest version of Grid View.**
-
-Install 1.31 or newer version of Grid view by clicking on the [extension link](https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip?hl=en) and tap **add to chrome** option. Then, select add an extension when a pop-up message appears.
-
-**Step 2: Access Chrome tools and Enable developer mode**
-
-Open Google Chrome and click on the **three dots** at the top right corner. Choose **more tools** from the list. Select Extensions from the list of options in the more tools and turn on the developer mode at the top right of the corner.
-
-**Note:** Also, check whether the extension is installed or not. If it is available, try re-installing it. If it is still not visible, update Google chrome.
-
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
-
-**Step 3 : Check the working in Google Meet**
-
-Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
-
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
-
-### Frequently Asked Questions About See Everyone on Google Meet
-
-#### 1\. How do I see everyone on Google Meet mobile?
-
-Google Meet does not allow to view more than 4 participants simultaneously on iOS and Android Devices. However, if it is crucial for you to monitor the activity of all participants, it is better to use the browser on the phone rather than the application. It is better to enable desktop mode before joining the Google Meeting session on the phone's browser. And the most people that you can see in the screen is 49 at the time of writing.
-
-#### 2\. Why can't I install the Grid View extension?
-
-You might not be able to download the Grid View extension for a couple of reasons. Most of the time, you have a duplicate extension installed. So, you need to delete all duplicate extensions and then re-install the Grid View extension. Another reason for encountering issues when installing an extension can be that you are not downloading it from the right developer.
-
-#### 3\. Can you record a Google Meet in grid view?
-
-If you think about whether one can record a Google Meet session in Grid view, the answer is yes for the one hosting a meeting. So, the person sharing a screen and talking will be recorded, and Google Meet in-built recorder will not record all participants in the tile.
-
-**Conclusion**
-
-Sometimes, it becomes essential to make all participants visible in the grid. For instance, if you have been asked to invigilate students in an online test, monitoring the activity of all participants becomes your job duty. Like other conferencing apps, Google Meet offers a grid view to see participants in your window. Alongside auto, slide bar, and spotlight, Google Meet facilitates the users with the tiled view. In this article, we have gathered sufficient information on how to enable grid view in Google Meet. Not just on desktop, the article mentions configuring the layout on mobile devices as well.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -566,3 +647,41 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-screens-seamlessly-with-ezvid-video-maker-for-2024/"><u>[Updated] Capturing Screens Seamlessly with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlocking-potential-your-ultimate-youtube-facebook-transition-guide/"><u>[Updated] In 2024, Unlocking Potential  Your Ultimate YouTube-Facebook Transition Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-sorbet-snapshot-guide-a-thorough-examination-of-screen-recorder/"><u>[Updated] Sorbet Snapshot Guide  A Thorough Examination of Screen Recorder</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tech-savvy-simplified-your-guide-to-making-10-easy-youtube-videos/"><u>[Updated] Tech Savvy Simplified  Your Guide to Making 10 Easy YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-start-live-webcam-recording-with-vlc-media/"><u>2024 Approved  Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-state-of-the-art-methods-for-documenting-digital-education/"><u>2024 Approved  State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-storage-galore-selecting-top-ps5-hddsssds/"><u>2024 Approved  Storage Galore  Selecting Top PS5 HDDs/SSDs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-screen-recording-for-gaming-joy/"><u>2024 Approved  Streamline Screen Recording for Gaming Joy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlined-steps-easy-recording-on-vimeo/"><u>2024 Approved  Streamlined Steps  Easy Recording on Vimeo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-presentations-webcam-recording-tips/"><u>2024 Approved  Streamlining Presentations  Webcam Recording Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-your-powerpoint-to-video-journey/"><u>2024 Approved  Streamlining Your PowerPoint to Video Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-zoom-dates-into-iosandroid-and-desktop-plans/"><u>2024 Approved  Streamlining Zoom Dates Into iOS/Android and Desktop Plans</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-superior-hd-video-capturing-choosing-premium-recorder-models/"><u>2024 Approved  Superior HD Video Capturing  Choosing Premium Recorder Models</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-take-screenshots-on-a-chromebook-in-just-four-ways/"><u>2024 Approved  Take Screenshots on a Chromebook in Just Four Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-taming-echoes-syncing-voices-to-obs-channel/"><u>2024 Approved  Taming Echoes  Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-techniques-to-ensure-uninterrupted-video-capturing/"><u>2024 Approved  Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-10-best-gba-emulators-for-android/"><u>2024 Approved  The 10 Best GBA Emulators for Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-best-equipment-for-precise-zoom-recording/"><u>2024 Approved  The Best Equipment for Precise Zoom Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-best-screen-capture-tools-for-creative-professionals/"><u>2024 Approved  The Best Screen Capture Tools for Creative Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-best-webcam-recorders-for-windows-11/"><u>2024 Approved  The Best Webcam Recorders for Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>2024 Approved  The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-comprehensible-guide-to-wincams-bests/"><u>2024 Approved  The Comprehensible Guide to WinCams' Bests</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dark-art-of-night-photography-best-practices-revealed/"><u>2024 Approved  The Dark Art of Night Photography  Best Practices Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-definitive-list-of-tools-for-computer-and-microphone-capture/"><u>2024 Approved  The Definitive List of Tools for Computer & Microphone Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>2024 Approved  The Dynamics of Home Security  ManyCam Vs. Single-Camera Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/aplus-craftsmen-outstanding-instagram-highlight-pages/"><u>A+ Craftsmen  Outstanding Instagram Highlight Pages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-list-of-premium-ways-to-access-cricket-live-for-2024/"><u>Comprehensive List of Premium Ways to Access Cricket Live for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-f23-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo F23 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>In 2024, Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-os-x-mavericks-video-editing-tutorial-mastering-the-basics-for-2024/"><u>New OS X Mavericks Video Editing Tutorial Mastering the Basics for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-dawn-of-enhanced-speech-to-text-systems/"><u>New The Dawn of Enhanced Speech-to-Text Systems</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-top-9-choices-for-video-auto-translate/"><u>updated 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-top-10-sketch-animation-video-makers/"><u>Updated Top 10 Sketch Animation Video Makers</u></a></li>
+</ul></div>
