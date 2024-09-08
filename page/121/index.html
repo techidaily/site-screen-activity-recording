@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"screen-activity-recording.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17442</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17566</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17442</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17566</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-in-2024-saving-your-iphone-screen-a-step-by-step-approach/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg" alt="&#34;[New] In 2024, Saving Your iPhone Screen  A Step-by-Step Approach&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg" alt="[New] 2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-in-2024-saving-your-iphone-screen-a-step-by-step-approach/">
-                            &#34;[New] In 2024, Saving Your iPhone Screen  A Step-by-Step Approach&#34;
+                        <a href="/new-2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/">
+                            [New] 2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] In 2024, Saving Your iPhone Screen: A Step-by-Step Approach”</p>
+                            <p>“This Article Describes [New] 2024 Approved: Jumpstart High-Res WebCam Filming for Amazing Results”</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:52 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:48 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/new-in-2024-saving-your-iphone-screen-a-step-by-step-approach/">Read more<span class="seo-reader-text">&#34;[New] In 2024, Saving Your iPhone Screen  A Step-by-Step Approach&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/">Read more<span class="seo-reader-text">[New] 2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -789,21 +846,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-screen-saving-solutions-a-critical-look-at-capturers-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg" alt="&#34;[New] Screen Saving Solutions  A Critical Look at Capturers for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-in-2024-premium-choice-top-12-apps-with-no-time-limit-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg" alt="[New] In 2024, Premium Choice Top 12 Apps with No Time Limit Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-screen-saving-solutions-a-critical-look-at-capturers-for-2024/">
-                            &#34;[New] Screen Saving Solutions  A Critical Look at Capturers for 2024&#34;
+                        <a href="/new-in-2024-premium-choice-top-12-apps-with-no-time-limit-feature/">
+                            [New] In 2024, Premium Choice Top 12 Apps with No Time Limit Feature
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Screen Saving Solutions: A Critical Look at Capturers for 2024”</p>
+                            <p>“This Article Describes [New] In 2024, Premium Choice: Top 12 Apps with No Time Limit Feature”</p>
 
                         
                     </div>
@@ -811,9 +868,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:50 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:47 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/new-screen-saving-solutions-a-critical-look-at-capturers-for-2024/">Read more<span class="seo-reader-text">&#34;[New] Screen Saving Solutions  A Critical Look at Capturers for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-in-2024-premium-choice-top-12-apps-with-no-time-limit-feature/">Read more<span class="seo-reader-text">[New] In 2024, Premium Choice Top 12 Apps with No Time Limit Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-2024-approved-smoothmoves-recordwatcher-study/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg" alt="&#34;[New] 2024 Approved  SmoothMoves RecordWatcher Study&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-2024-approved-prime-fareless-streaming-and-recording-software/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg" alt="[New] 2024 Approved Prime Fareless Streaming &amp; Recording Software" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-2024-approved-smoothmoves-recordwatcher-study/">
-                            &#34;[New] 2024 Approved  SmoothMoves RecordWatcher Study&#34;
+                        <a href="/new-2024-approved-prime-fareless-streaming-and-recording-software/">
+                            [New] 2024 Approved Prime Fareless Streaming &amp; Recording Software
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] 2024 Approved: SmoothMoves RecordWatcher Study”</p>
+                            <p>“This Article Describes [New] 2024 Approved: Prime Fareless Streaming &amp; Recording Software”</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:49 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:45 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/new-2024-approved-smoothmoves-recordwatcher-study/">Read more<span class="seo-reader-text">&#34;[New] 2024 Approved  SmoothMoves RecordWatcher Study&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-2024-approved-prime-fareless-streaming-and-recording-software/">Read more<span class="seo-reader-text">[New] 2024 Approved Prime Fareless Streaming &amp; Recording Software</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -981,21 +1038,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-cutting-edge-splitcams-rated-or-not/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg" alt="&#34;[Updated] Cutting-Edge SplitCams  Rated or Not?&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-in-2024-reviewing-cybernetic-tools-for-live-video-capture/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png" alt="[Updated] In 2024, Reviewing Cybernetic Tools for Live Video Capture" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-cutting-edge-splitcams-rated-or-not/">
-                            &#34;[Updated] Cutting-Edge SplitCams  Rated or Not?&#34;
+                        <a href="/updated-in-2024-reviewing-cybernetic-tools-for-live-video-capture/">
+                            [Updated] In 2024, Reviewing Cybernetic Tools for Live Video Capture
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] Cutting-Edge SplitCams: Rated or Not?”</p>
+                            <p>This Article Describes [Updated] In 2024, Reviewing Cybernetic Tools for Live Video Capture</p>
 
                         
                     </div>
@@ -1003,9 +1060,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:48 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:44 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/updated-cutting-edge-splitcams-rated-or-not/">Read more<span class="seo-reader-text">&#34;[Updated] Cutting-Edge SplitCams  Rated or Not?&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-in-2024-reviewing-cybernetic-tools-for-live-video-capture/">Read more<span class="seo-reader-text">[Updated] In 2024, Reviewing Cybernetic Tools for Live Video Capture</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-delving-into-active-presenters-record-capabilities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png" alt="[Updated] Delving Into Active Presenter&#39;s Record Capabilities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-in-2024-reducing-excessive-encoding-obs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg" alt="[New] In 2024, Reducing Excessive Encoding (OBS)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-delving-into-active-presenters-record-capabilities/">
-                            [Updated] Delving Into Active Presenter&#39;s Record Capabilities
+                        <a href="/new-in-2024-reducing-excessive-encoding-obs/">
+                            [New] In 2024, Reducing Excessive Encoding (OBS)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Updated] Delving Into Active Presenter’s Record Capabilities</p>
+                            <p>This Article Describes [New] In 2024, Reducing Excessive Encoding (OBS)</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:47 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:42 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/updated-delving-into-active-presenters-record-capabilities/">Read more<span class="seo-reader-text">[Updated] Delving Into Active Presenter&#39;s Record Capabilities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-in-2024-reducing-excessive-encoding-obs/">Read more<span class="seo-reader-text">[New] In 2024, Reducing Excessive Encoding (OBS)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1173,21 +1230,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-top-notch-game-capture-applications-outshining-fbx-capabilities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg" alt="&#34;[Updated] Top-Notch Game Capture Applications Outshining FBX Capabilities&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-2024-approved-seekingnextgencamerasolutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png" alt="[Updated] 2024 Approved SeekingNextGenCameraSolutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-top-notch-game-capture-applications-outshining-fbx-capabilities/">
-                            &#34;[Updated] Top-Notch Game Capture Applications Outshining FBX Capabilities&#34;
+                        <a href="/updated-2024-approved-seekingnextgencamerasolutions/">
+                            [Updated] 2024 Approved SeekingNextGenCameraSolutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] Top-Notch Game Capture Applications Outshining FBX Capabilities”</p>
+                            <p>“This Article Describes [Updated] 2024 Approved: SeekingNextGenCameraSolutions”</p>
 
                         
                     </div>
@@ -1195,9 +1252,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:45 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:41 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/updated-top-notch-game-capture-applications-outshining-fbx-capabilities/">Read more<span class="seo-reader-text">&#34;[Updated] Top-Notch Game Capture Applications Outshining FBX Capabilities&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-2024-approved-seekingnextgencamerasolutions/">Read more<span class="seo-reader-text">[Updated] 2024 Approved SeekingNextGenCameraSolutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-avoiding-common-mistakes-in-screencasting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png" alt="[Updated] Avoiding Common Mistakes in Screencasting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-in-2024-streamlined-capturing-top-5-mac-tools-for-effective-snipping/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg" alt="[Updated] In 2024, Streamlined Capturing Top 5 Mac Tools for Effective Snipping" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-avoiding-common-mistakes-in-screencasting/">
-                            [Updated] Avoiding Common Mistakes in Screencasting
+                        <a href="/updated-in-2024-streamlined-capturing-top-5-mac-tools-for-effective-snipping/">
+                            [Updated] In 2024, Streamlined Capturing Top 5 Mac Tools for Effective Snipping
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Updated] Avoiding Common Mistakes in Screencasting</p>
+                            <p>“This Article Describes [Updated] In 2024, Streamlined Capturing: Top 5 Mac Tools for Effective Snipping”</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:44 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:40 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/updated-avoiding-common-mistakes-in-screencasting/">Read more<span class="seo-reader-text">[Updated] Avoiding Common Mistakes in Screencasting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-in-2024-streamlined-capturing-top-5-mac-tools-for-effective-snipping/">Read more<span class="seo-reader-text">[Updated] In 2024, Streamlined Capturing Top 5 Mac Tools for Effective Snipping</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1365,21 +1422,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/new-premium-capture-suite-chromebook-focus/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg" alt="&#34;[New] Premium Capture Suite  Chromebook Focus&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-synchronize-speech-and-slide-show-the-voiceover-advantage-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg" alt="[Updated] Synchronize Speech and Slide Show The Voiceover Advantage for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/new-premium-capture-suite-chromebook-focus/">
-                            &#34;[New] Premium Capture Suite  Chromebook Focus&#34;
+                        <a href="/updated-synchronize-speech-and-slide-show-the-voiceover-advantage-for-2024/">
+                            [Updated] Synchronize Speech and Slide Show The Voiceover Advantage for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [New] Premium Capture Suite: Chromebook Focus”</p>
+                            <p>“This Article Describes [Updated] Synchronize Speech and Slide Show: The Voiceover Advantage for 2024”</p>
 
                         
                     </div>
@@ -1387,9 +1444,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:42 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:38 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1445,7 +1502,7 @@
         
     </div>
 
-    <a href="/new-premium-capture-suite-chromebook-focus/">Read more<span class="seo-reader-text">&#34;[New] Premium Capture Suite  Chromebook Focus&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-synchronize-speech-and-slide-show-the-voiceover-advantage-for-2024/">Read more<span class="seo-reader-text">[Updated] Synchronize Speech and Slide Show The Voiceover Advantage for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1461,21 +1518,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg" alt="&#34;[Updated] Video Calls That Protect  Our Selection of the Best Free, Secure Applications for Mobile Tech for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updated-superior-free-reproduction-tools-for-switch-games-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg" alt="[Updated] Superior Free Reproduction Tools for Switch Games for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech-for-2024/">
-                            &#34;[Updated] Video Calls That Protect  Our Selection of the Best Free, Secure Applications for Mobile Tech for 2024&#34;
+                        <a href="/updated-superior-free-reproduction-tools-for-switch-games-for-2024/">
+                            [Updated] Superior Free Reproduction Tools for Switch Games for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes [Updated] Video Calls That Protect: Our Selection of the Best Free, Secure Applications for Mobile Tech for 2024”</p>
+                            <p>This Article Describes [Updated] Superior Free Reproduction Tools for Switch Games for 2024</p>
 
                         
                     </div>
@@ -1483,9 +1540,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:41 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:37 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/updated-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech-for-2024/">Read more<span class="seo-reader-text">&#34;[Updated] Video Calls That Protect  Our Selection of the Best Free, Secure Applications for Mobile Tech for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updated-superior-free-reproduction-tools-for-switch-games-for-2024/">Read more<span class="seo-reader-text">[Updated] Superior Free Reproduction Tools for Switch Games for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1557,21 +1614,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/updated-in-2024-how-to-make-your-lol-gaming-memories-last-3-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg" alt="[Updated] In 2024, How to Make Your LOL Gaming Memories Last (3 Tips)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/new-the-complete-users-manual-to-zoom-meeting-recordings-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png" alt="[New] The Complete User&#39;s Manual to Zoom Meeting Recordings for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/updated-in-2024-how-to-make-your-lol-gaming-memories-last-3-tips/">
-                            [Updated] In 2024, How to Make Your LOL Gaming Memories Last (3 Tips)
+                        <a href="/new-the-complete-users-manual-to-zoom-meeting-recordings-for-2024/">
+                            [New] The Complete User&#39;s Manual to Zoom Meeting Recordings for 2024
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Updated] In 2024, How to Make Your LOL Gaming Memories Last (3 Tips)</p>
+                            <p>This Article Describes [New] The Complete User’s Manual to Zoom Meeting Recordings for 2024</p>
 
                         
                     </div>
@@ -1579,9 +1636,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 08:30:40 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 03 2024 00:19:35 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-03
                 
             </span>
         </span>
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/updated-in-2024-how-to-make-your-lol-gaming-memories-last-3-tips/">Read more<span class="seo-reader-text">[Updated] In 2024, How to Make Your LOL Gaming Memories Last (3 Tips)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/new-the-complete-users-manual-to-zoom-meeting-recordings-for-2024/">Read more<span class="seo-reader-text">[New] The Complete User&#39;s Manual to Zoom Meeting Recordings for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1647,7 +1704,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/120/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/119/">119</a><a class="page-number" href="/page/120/">120</a><span class="page-number current">121</span><a class="page-number" href="/page/122/">122</a><a class="page-number" href="/page/123/">123</a><span class="space">&hellip;</span><a class="page-number" href="/page/1745/">1745</a><a class="extend next" rel="next" href="/page/122/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/120/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/119/">119</a><a class="page-number" href="/page/120/">120</a><span class="page-number current">121</span><a class="page-number" href="/page/122/">122</a><a class="page-number" href="/page/123/">123</a><span class="space">&hellip;</span><a class="page-number" href="/page/1757/">1757</a><a class="extend next" rel="next" href="/page/122/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
