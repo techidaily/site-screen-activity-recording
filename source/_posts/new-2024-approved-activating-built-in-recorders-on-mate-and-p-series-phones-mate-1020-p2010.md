@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)\""
-date: 2024-09-06T18:03:53.468Z
-updated: 2024-09-13T21:02:23.403Z
+date: 2024-09-14T00:37:58.049Z
+updated: 2024-09-19T03:51:56.210Z
 tags: 
   - screen-recording
   - ai video
@@ -50,20 +50,6 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Capture Screen on a Huawei Smartphone
 
 With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
@@ -90,39 +76,19 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -132,10 +98,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -153,18 +119,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-customizing-teams-background-priorpost-meeting/"><u>[New] 2024 Approved Customizing Teams Background Prior/Post-Meeting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovating-communication-integrate-google-meets-in-daily-life/"><u>[New] In 2024, Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screenflow-unleashed-the-ultimate-macos-experience/"><u>[Updated] 2024 Approved ScreenFlow Unleashed The Ultimate MacOS Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screensavvy-comprehensive-free-recording-software-for-everyone/"><u>[Updated] 2024 Approved ScreenSavvy Comprehensive, Free Recording Software for Everyone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-7-top-rated-free-mobile-apps-for-video-downloads/"><u>[Updated] 7 Top-Rated Free Mobile Apps for Video Downloads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-conquer-snapchats-boomerang-challenges-easily-for-2024/"><u>[Updated] Conquer Snapchat's Boomerang Challenges Easily for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>[Updated] ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-steps-to-restore-obs-fullscreen-for-2024/"><u>[Updated] Steps to Restore OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[Updated] The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-dominating-digital-space-top-5-youtube-tactics-revealed/"><u>2024 Approved Dominating Digital Space Top 5 YouTube Tactics Revealed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-moto-g14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Moto G14</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-new-realm-of-jaunt-vr/"><u>In 2024, Navigating the New Realm of Jaunt VR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-non-working-dolby-atmos-on-windows-1110-systems/"><u>Step-by-Step Fix for Non-Working Dolby Atmos on Windows 11/10 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[New] In 2024, Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-overcoming-delayed-or-non-sending-videos-in-facebooks-popular-chat-application-for-mobile-users/"><u>[Updated] 2024 Approved Overcoming Delayed or Non-Sending Videos in Facebook's Popular Chat Application for Mobile Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-dos-and-donts-the-essential-night-photography-checklist/"><u>[Updated] Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-finding-the-best-gaming-keys-at-unbeatable-prices-less-than-100/"><u>[Updated] In 2024, Finding the Best Gaming Keys at Unbeatable Prices Less than $100</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-gamers-blueprint-securing-memorable-moments-with-4-methods/"><u>[Updated] The Gamers' Blueprint Securing Memorable Moments with 4 Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-8-smooth-capture-tools-reviewed-for-2024/"><u>[Updated] Top 8 Smooth Capture Tools Reviewed for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitvidsync-ios-tool-to-seamlessly-save-twitter-vids-for-2024/"><u>[Updated] TwitVidsync IOS Tool to Seamlessly Save Twitter Vids for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-10-syncing-guide-effortless-mov-file-management/"><u>[Updated] Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-the-power-of-pixel-mastery-over-aspect-ratios-and-dimensions-on-facebook/"><u>2024 Approved Unlocking the Power of Pixel Mastery over Aspect Ratios & Dimensions on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-and-easy-hp-officejet-pro-8715-driver-download-for-windows-operating-systems-win10-win11-win8/"><u>Free and Easy: HP Officejet Pro 8715 Driver Download for Windows Operating Systems (Win10, Win11, Win8)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-successfully-eliminate-watermarks-from-your-gif-images/"><u>How to Successfully Eliminate Watermarks From Your GIF Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-iconic-quests-and-thrills-a-curated-list-of-classics/"><u>In 2024, Iconic Quests & Thrills A Curated List of Classics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/obs-recording-problem-solved-enjoy-flawless-streams-again/"><u>OBS Recording Problem Solved: Enjoy Flawless Streams Again</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results/"><u>Updated 2024 Approved Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results</u></a></li>
 </ul></div>
 

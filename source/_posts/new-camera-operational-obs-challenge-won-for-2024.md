@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Camera Operational  OBS Challenge Won for 2024\""
-date: 2024-09-10T16:21:45.031Z
-updated: 2024-09-13T16:04:48.451Z
+date: 2024-09-16T20:38:37.303Z
+updated: 2024-09-18T19:59:34.422Z
 tags: 
   - screen-recording
   - ai video
@@ -21,31 +21,11 @@ Open Broadcaster Software (OBS) is a free tool that enables you to broadcast mus
 
 Assuming you are a post for freeware that can do screen recording properly and profitably, an OBS screen recorder is warmly encouraged. Even better, its outstanding ability is to cope with live spillage by supporting numerous popular web-based features. In video conferencing software like Skype, Zoom, Teams, Google Meet, or Facebook Messenger Rooms, you may notice a video source issue labeled "OBS camera not showing" in the OBS Studio. And you may question what it is and how to utilize the virtual camera Virtually every streamer around the world knows about OBS (Open Broadcaster Software), a free open-sourced streaming and recording application. That being said, users of OBS still run into a handful of technical troubles from time to time and the "OBS camera not working" issue is a classic example. So OBS appears to fail to pick up your camera all of a sudden and you don't know what to do to fix it? Then you have arrived in the correct spot as down below, you will discover some of the most common solutions to the problem of "OBS camera stops working" presently.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Update to the Newest Windows Version
 
 Regularly upgrading drivers and the newest versions of Windows can cure most issues on your computer, including OBS difficulties.
 
 ![windows update](https://images.wondershare.com/filmora/article-images/windows-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Reinstall Webcam
 
@@ -58,13 +38,6 @@ Step 2: Find and right-click your camera in the list, choose Uninstall, then unp
 ![device manager](https://images.wondershare.com/filmora/article-images/device-manager.jpg)
 
 Step 3: Also, you may upgrade the camera driver from Device Manager by locating and right-clicking on the webcam, then choosing Update Driver then restarting your computer and checking if the issue remains.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Fix Webcam Problem with OBS Not Functioning
 
@@ -81,32 +54,25 @@ Step 2: Open webcam settings by accessing the Source tab. Here, locate and doubl
 Step 3: Check the options Deactivate When Not Showing. Perform the same processes for each scene in OBS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Adjust Webcam Settings
 
 If the webcam is still not functioning on OBS, visit the webcam settings by completing the same steps before and tweak items like camera resolution, FPS, video format, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 5: Add Your Webcam as A Source
 
 At the moment everything is set to default and you could notice your camera looks softer than it should and also cropped. Once you're pleased with your choices, press Configure Video and this will bring up your camera's attributes and settings. What you'll have accessible to you can depend on your camera, but you'll also have access to things like brightness, contrast, sharpness, and so on. Add your camera as a source and then right-click and pick Properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use OBS Alternative to Record Screen
@@ -147,12 +113,42 @@ Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
+## The Bottom Line
+
+OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Install and Launch the Software
+
+To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 2: Setup Webcam Recording
+
+To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
+
+![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 3: Start Recording
+
+To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
+
+![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+Step 4: Save Webcam Recordings
+
+In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
 
 ## The Bottom Line
 
@@ -169,16 +165,10 @@ To start, visit the official website and download the Filmora installer for your
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Setup Webcam Recording
@@ -187,18 +177,18 @@ To personalize your webcam with the recording screen, firstly, you need to start
 
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Start Recording
 
 To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
 
 ![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Save Webcam Recordings
 
@@ -233,57 +223,6 @@ To commence, just tap the Record button and it will start recording your persona
 Step 4: Save Webcam Recordings
 
 In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
-
-## The Bottom Line
-
-OBS Studio is especially popular in the gaming community since it helps you create video from numerous sources, mix your audio, set hotkeys to operate the recorder in full-screen mode, and then broadcast it live via Twitch and similar platforms or submit it to video sharing sites. if you want to make use of the capabilities of video recording and editing, consider Filmora. So, if you're a newbie wishing to film your gaming sessions, Filmora is an OBS option you should explore. Filmora video editorial manager gives various essential parts including the potential to add overlays,3D Effects, and components, for example, GIF photos, music, and text to the recordings.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Install and Launch the Software
-
-To start, visit the official website and download the Filmora installer for your preferred system. Afterward, install the program within your system to get started. For that, you may utilize this OBS Studio option on the move. Just visit the Wondershare official platform on the web and from there, you can discover both versions of Filmora software, i-e., Windows and Mac versions with the current version.
-
-![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 2: Setup Webcam Recording
-
-To personalize your webcam with the recording screen, firstly, you need to start with the New Project and then open the Screen recorder. For that, go to the File > Record Media and then choose your chosen format of screen recording from the options as shown above. It'll transport you to the user-friendly UI of Filmora where you may pick up the recording capability on-spot as demonstrated in the image below:
-
-![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
-
-Step 3: Start Recording
-
-To commence, just tap the Record button and it will start recording your personalized screen with the webcam straight immediately. And similar is the method after you're done with the recording, tap the Stop button that'll transport you inside the video editor to polish your recorded material.
-
-![recording video with filmora](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 4: Save Webcam Recordings
-
-In the end, after you're done with different edits and modifications of the editing and recording, Filmora also enables you to publish your masterpiece straight to YouTube or any other recognized site, you may without much of a stretch pick your chosen platform to share from there. Just press the Export button as indicated above and it might provide several possibilities for you on the fly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -313,19 +252,19 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-insights-mastering-your-game-recording-on-windows-10/"><u>[New] 2024 Approved Expert Insights Mastering Your Game Recording on Windows 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leveraging-the-full-visualization-feature-with-google-meets-grids/"><u>[New] 2024 Approved Leveraging the Full Visualization Feature with Google Meet's Grids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-craft-instagram-visuals-mac-techniques-for-video-scaling-for-2024/"><u>[New] Craft Instagram Visuals Mac Techniques for Video Scaling for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-system-requirements-guide-for-the-latest-mac-os-release/"><u>[New] System Requirements Guide for the Latest Mac OS Release</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-uncluttered-program-w10-screenshot-maker/"><u>[Updated] 2024 Approved Uncluttered Program W10 Screenshot Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[Updated] In 2024, Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>[Updated] Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience-for-2024/"><u>[Updated] Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>2024 Approved Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a59-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A59 5G without App | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-tips-to-access-pcs-health-metrics/"><u>Decoding Tips to Access PC's Health Metrics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-dall-e-3-photo-ideas-8-innovative-prompt-examples/"><u>Discover the Best DALL-E 3 Photo Ideas: 8 Innovative Prompt Examples</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>In 2024, Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-with-imagination-pro-tiktok-edits-revealed/"><u>Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-address-incompatible-facebook-videos-on-ios-for-2024/"><u>[New] Address Incompatible Facebook Videos on iOS for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[Updated] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-choosing-the-right-recorder-top-4-full-screen-picks-for-pcmac/"><u>[Updated] In 2024, Choosing the Right Recorder Top 4 Full-Screen Picks for PC/Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet-for-2024/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-insiders-method-for-rl-recording/"><u>2024 Approved The Insider's Method for RL Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-ai-powered-video-enhancement-tools-top-6-picks-for-crystal-clear-results/"><u>Discover the Best AI-Powered Video Enhancement Tools: Top 6 Picks for Crystal Clear Results</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/exhaustive-analysis-of-gecata-playback-device/"><u>Exhaustive Analysis of Gecata Playback Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-seeing-suggestions-for-you-when-using-instagram/"><u>How To Stop Seeing 'Suggestions For You' When Using Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y17s-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y17s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-the-art-of-iphone-7-screen-capture/"><u>In 2024, Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-the-art-of-leaving-a-discord-server/"><u>Mastering the Art of Leaving a Discord Server</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-enabling-screen-capture-on-macos/"><u>Step-by-Step Enabling Screen Capture on MacOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-the-secrets-of-facebook-story-filming-and-editing-for-2024/"><u>Unveiling the Secrets of Facebook Story Filming and Editing for 2024</u></a></li>
 </ul></div>
 

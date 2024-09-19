@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-09-07T20:49:43.612Z
-updated: 2024-09-13T18:01:34.231Z
+date: 2024-09-17T05:59:13.761Z
+updated: 2024-09-19T09:48:28.577Z
 tags: 
   - screen-recording
   - ai video
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
 
  Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
 
 #### Step 3: Use Annotation Tools
@@ -76,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 4: Zoom Annotation Settings
 
  Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
@@ -90,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -145,16 +111,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About Zoom Whiteboard
@@ -166,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -203,18 +163,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-unique-workout-concepts-for-a-pulse-raising-video-channel/"><u>[New] 8 Unique Workout Concepts for a Pulse-Raising Video Channel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-adobe-memefixer-a-humorous-journey/"><u>[New] Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-isprings-screen-recording-explored/"><u>[New] In 2024, ISpring's Screen Recording Explored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-podcasters-at-universities-for-2024/"><u>[New] Premium Podcasters at Universities for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>[New] YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-mastering-screen-sharing-basics-for-2024/"><u>[New] Zoom Mastering Screen-Sharing Basics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-zoom-call-blunders-smart-filters-usage/"><u>[Updated] Avoiding Zoom Call Blunders Smart Filters Usage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-adobe-presenters-video-features/"><u>[Updated] In 2024, Unlocking the Potential of Adobe Presenter's Video Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-image-capture-with-ios-11-updates/"><u>2024 Approved Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-whispering-through-screens-a-private-story-journey/"><u>2024 Approved Whispering Through Screens A Private Story Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-best-budget-game-recording-software-for-gamers-for-2024/"><u>The Best Budget Game Recording Software for Gamers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods/"><u>[New] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-steam-gamers-recordings-for-2024/"><u>[New] Essential Tips for Steam Gamers' Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-filmforge-editors-review-complete-overview/"><u>[New] In 2024, FilmForge Editor's Review – Complete Overview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-screen-and-video-capture-on-android-for-2024/"><u>[New] Step-by-Step Screen and Video Capture on Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-tutorial-iphoneipad-time-lapse-recording/"><u>[New] The Ultimate Tutorial IPhone/iPad Time Lapse Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[Updated] 2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-free-nba-action-at-home-the-best-15-ways-to-watch-games-online-for-2024/"><u>[Updated] Free NBA Action at Home The Best 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-weavers-codex-looms-screen-capture-secrets-for-2024/"><u>[Updated] The Weaver’s Codex Loom's Screen Capture Secrets for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-totv-multimedia-player-wmp-alternative/"><u>[Updated] TOTV Multimedia Player WMP Alternative</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exploring-8-premium-open-source-videoconferencing-platforms/"><u>2024 Approved Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-poptoons-ultimate-insight-24-annual/"><u>In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a60s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A60s FRP Bypass</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>Updated In 2024, Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
 </ul></div>
 
