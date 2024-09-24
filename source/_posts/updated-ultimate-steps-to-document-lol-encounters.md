@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Steps to Document LOL Encounters"
-date: 2024-09-11T21:04:43.927Z
-updated: 2024-09-18T20:57:45.922Z
+date: 2024-09-18T17:56:56.981Z
+updated: 2024-09-24T00:18:34.542Z
 tags: 
   - screen-recording
   - ai video
@@ -109,6 +109,13 @@ Last but for least, you can record game LOL even when you are playing the game o
 
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Download and install Fraps on your Windows PC.
 
 Step 2: Launch the software and go to General tab and turn on Monitor Aero Desktop option. This option will enable you to record the full screen.
@@ -116,6 +123,13 @@ Step 2: Launch the software and go to General tab and turn on Monitor Aero Deskt
 Step 3: Under Movies tab, set all the parameters correctly.
 
 Step 4: Open LOL and press F9 key to start recording the gameplay. Press F9 again to stop recording.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -148,10 +162,10 @@ Step 2: Go to Record menu and select Record PC Screen option.
 ![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
@@ -159,13 +173,6 @@ Step 3: Select the recording screen size and audio sources to record game sounds
 Step 4: Click on the Record button. Within a few seconds, the recording will start and you can start playing LOL game immediately.
 
 ![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Press F9 whenever you want to stop recording.
 
@@ -215,18 +222,18 @@ Step 3: You need to click on Rec button to start recording your LOL gameplay.
 
 Step 4: If you are done playing LOL game, click on Stop button.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 5\. Use Fraps to Record LOL Games
 
 Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
 
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 1: Download and install Fraps on your Windows PC.
 
@@ -266,6 +273,13 @@ Step 2: Go to Record menu and select Record PC Screen option.
 
 ![customize lol recording screen](https://images.wondershare.com/filmora/article-images/customize-lol-screen-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select the recording screen size and audio sources to record game sounds and even your commentary through microphone.
 
 Step 4: Click on the Record button. Within a few seconds, the recording will start and you can start playing LOL game immediately.
@@ -287,10 +301,16 @@ Step 2: Open OBS Studio and click on “+” icon from Sources tab. From the men
 ![obs game recorder](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Follow the on-screen instructions and select ”Capture any fullscreen application” from Mode. Click on OK button.
@@ -304,6 +324,13 @@ Step 5: If you want to stop recording, come back on OBS Studio and click on Stop
 If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
 
 ![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
 
@@ -381,13 +408,6 @@ Step 5: Press F9 whenever you want to stop recording.
 
 ![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 2\. Use OBS Studio to Record LOL
 
 If you are a part of any gaming community, you must have heard gamers using OBS Studio to live stream their gameplay on YouTube, Twitch and other platforms. Well, OBS Studio is equally useful in recording your gameplay. In fact, the software is available free of cost and there is no dearth of advanced settings to better gameplay recording. The user interface is not as easy as other gameplay recorders but here is how to record LOL games with OBS Studio.
@@ -403,6 +423,13 @@ Step 3: Follow the on-screen instructions and select ”Capture any fullscreen a
 Step 4: Click on Start Recording button and open LOL game on your computer. The recording is going on in the background and you can start playing the game.
 
 Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3\. Record LOL Games with Windows Game Bar
 
@@ -474,16 +501,25 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-3-ways-to-record-itunes-videos/"><u>[New] 2024 Approved 3 Ways to Record iTunes Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-ways-to-record-without-background-sounds/"><u>[New] 2024 Approved Innovative Ways to Record Without Background Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-a-comprehensible-list-of-mac-snippers-ranked/"><u>[New] A Comprehensible List of Mac Snippers Ranked</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exploring-instagrams-video-sharing-cap/"><u>[New] In 2024, Exploring Instagram's Video Sharing Cap</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncluttered-recorder-screen-log-for-win10-for-2024/"><u>[New] Uncluttered Recorder Screen Log for Win10 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[Updated] 2024 Approved Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/capturing-your-screen-in-windows-11-discover-these-4-simple-ways/"><u>Capturing Your Screen in Windows 11: Discover These 4 Simple Ways</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-insider-guide-attending-live-tiktok-gigs/"><u>In 2024, The Insider Guide Attending Live TikTok Gigs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-ultra-hd-monitors-with-superior-video-capture-capabilities/"><u>In 2024, Ultra HD Monitors with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-ahead-of-the-curve-leading-exercise-apps-to-optimize-your-workouts/"><u>Stay Ahead of the Curve: Leading Exercise Apps to Optimize Your Workouts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-compact-master-speedy-flash-get-yn560iv-now-at-a-deal/"><u>The Compact Master Speedy Flash - Get YN560IV Now at a Deal!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] 2024 Approved Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-macs-preferred-snippers/"><u>[New] 2024 Approved Comprehensive Guide to Mac's Preferred Snippers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-high-definition-recording-reigns-supreme-top-picks-listed/"><u>[New] 2024 Approved High Definition Recording Reigns Supreme Top Picks Listed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>[New] Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-guide-using-nvidia-recorder/"><u>[New] In 2024, Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-inclusive-iptv-service-distribution/"><u>[New] Inclusive IPTV Service Distribution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-rethinking-streaming-new-platforms-challenge-obs/"><u>[New] Rethinking Streaming New Platforms Challenge OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps/"><u>[New] Secure Your Conversations on the Go with Top 10 Mobile Chat Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speed-in-snapshots-auditory-recorded-for-2024/"><u>[New] Speed in Snapshots Auditory Recorded for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-best-ways-to-record-webinar/"><u>[New] The Best Ways to Record Webinar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>[New] The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ancient-warriors-new-battlegrounds-top-games-like-the-japanese-epic-for-2024/"><u>[Updated] Ancient Warriors, New Battlegrounds Top Games Like the Japanese Epic for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-a2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi A2 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-15-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 15 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide/"><u>New Leading Audio-Modification Programs A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-for-unfreezing-your-chrome-browser-on-windows-11/"><u>Simple Solutions for Unfreezing Your Chrome Browser on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ctbt-prohibits-all-nuclear-explosions-for-both-civilian-and-military-purposes-but-has-yet-to-enter-into-force-requiring-ratification-by-specific-countri87/"><u>The CTBT Prohibits All Nuclear Explosions for Both Civilian and Military Purposes but Has yet to Enter Into Force, Requiring Ratification by Specific Countries that Have Not Occurred</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722884418429-the-ultimate-pre-buy-guide-for-smart-televisions-discover-these-absolutely-critical-elements-first/"><u>The Ultimate Pre-Buy Guide for Smart Televisions: Discover These Absolutely Critical Elements First!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/undead-unleashed-discovering-the-ultimate-zombie-games-for-2024/"><u>Undead Unleashed Discovering the Ultimate Zombie Games for 2024</u></a></li>
 </ul></div>
 

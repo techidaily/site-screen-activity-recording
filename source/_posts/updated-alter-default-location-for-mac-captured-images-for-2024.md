@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alter Default Location for Mac Captured Images for 2024"
-date: 2024-09-17T02:46:52.552Z
-updated: 2024-09-18T22:19:19.183Z
+date: 2024-09-18T17:59:18.680Z
+updated: 2024-09-23T21:25:38.161Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -61,6 +75,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -71,6 +92,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -99,27 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capturing-crisp-sound-a-guide-to-superior-audio-recording/"><u>[New] 2024 Approved Capturing Crisp Sound A Guide to Superior Audio Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-explore-top-rated-sandbox-game-compilations-for-2024/"><u>[New] Explore Top-Rated Sandbox Game Compilations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-female-gamers-faction-yts-10-stars-for-2024/"><u>[New] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-path-to-perfect-presence-on-zoom-platforms/"><u>[New] In 2024, The Path to Perfect Presence on Zoom Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-visual-narratives-effective-titling/"><u>2024 Approved Crafting Visual Narratives Effective Titling</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/behind-the-goals-a-comprehensive-look-at-fifa-19s-dominance-in-e-sports-entertainment/"><u>Behind the Goals: A Comprehensive Look at FIFA 19'S Dominance in E-Sports Entertainment</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elite-8-streaming-software-selections-for-2024/"><u>Elite 8 Streaming Software Selections for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-msvbvm50dll-file-missing-error-a-step-by-step-guide/"><u>How To Resolve 'msvbvm50.dll' File Missing Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discovering-new-ways-to-use-bandicam-a-deep-dive/"><u>In 2024, Discovering New Ways to Use Bandicam – A Deep Dive</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ideal-chat-and-meetup-tools-for-large-groups/"><u>In 2024, Ideal Chat & Meetup Tools for Large Groups</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>In 2024, Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-iphones-photo-library-top-8-solutions-to-fix-usual-camera-roll-problems/"><u>Mastering the iPhone's Photo Library: Top 8 Solutions to Fix Usual Camera Roll Problems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-visual-data-harvester/"><u>[New] Visual Data Harvester</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-conference-configuration-essentials/"><u>[New] Zoom Conference Configuration Essentials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-digital-learning-session-replays/"><u>[Updated] 2024 Approved Digital Learning Session Replays</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-tech-for-live-video-recording-webcam-with-vlc/"><u>[Updated] 2024 Approved Innovative Tech for Live Video Recording – Webcam with VLC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[Updated] Deep Dive Ultimate Ice Cream Viewer Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>[Updated] In 2024, 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>[Updated] In 2024, How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snap-it-all-navigating-the-world-of-free-tiktok-bgs/"><u>[Updated] Snap It All Navigating the World of Free TikTok BGs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-agri-game-guide-for-social-playtime-with-pals/"><u>[Updated] The Ultimate Agri-Game Guide for Social Playtime with Pals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-briskbounce-momentmirror-tape/"><u>2024 Approved BriskBounce MomentMirror Tape</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-v-purse-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor V Purse Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-magic5-ultimate-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-non-functioning-microphone-on-google-hangouts/"><u>Effortless Fixes for a Non-Functioning Microphone on Google Hangouts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-tips-for-updating-the-system-management-bus-controller-on-dell-computers/"><u>Essential Tips for Updating the System Management Bus Controller on Dell Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g04-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G04 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>In 2024, Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-slowdowns-in-ubisoft-connect-effective-techniques-for-faster-downloads/"><u>Overcoming Slowdowns in Ubisoft Connect - Effective Techniques for Faster Downloads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-sealed-snap-chronicles-an-experts-guidebook-for-2024/"><u>The Sealed Snap Chronicles An Expert's Guidebook for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-secrets-for-recording-sports-events-live-online/"><u>Top 10 Secrets for Recording Sports Events Live Online</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

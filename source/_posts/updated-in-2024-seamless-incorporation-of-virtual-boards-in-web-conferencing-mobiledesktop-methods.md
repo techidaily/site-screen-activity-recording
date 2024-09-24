@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Seamless Incorporation of Virtual Boards in Web Conferencing  Mobile/Desktop Methods\""
-date: 2024-09-15T08:59:30.792Z
-updated: 2024-09-18T18:21:52.823Z
+date: 2024-09-20T00:20:51.801Z
+updated: 2024-09-23T20:20:08.092Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -83,6 +90,13 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -102,10 +116,10 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -129,10 +143,10 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -156,14 +170,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[New] 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-academic-engagement-lecture-capture-via-mac-computers/"><u>[New] Academic Engagement Lecture Capture via Mac Computers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pros-picks-premium-10-windows-11-webcam-recorders/"><u>[Updated] 2024 Approved Pro's Picks Premium 10 Windows 11 Webcam Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-zoom-essentials-for-webinar-novices-an-introductory-walkthrough-for-2024/"><u>[Updated] Zoom Essentials for Webinar Novices An Introductory Walkthrough for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts/"><u>2024 Approved Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-unconventional-ways-to-leverage-chatbots/"><u>5 Unconventional Ways to Leverage ChatBots</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/income-journey-on-youtube-start-here-with-8-tips-for-2024/"><u>Income Journey on YouTube - Start Here with 8 Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/integrating-multimedia-elements-for-engaging-facebook-slideshows-for-2024/"><u>Integrating Multimedia Elements for Engaging Facebook Slideshows for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-6-minecraft-survival-house-ideas-for-2024/"><u>Top 6 Minecraft Survival House Ideas for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pioneering-innovative-webcam-functions/"><u>[New] 2024 Approved Pioneering Innovative Webcam Functions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-detecting-invisible-interactions-on-snapchat-for-2024/"><u>[New] Detecting Invisible Interactions on Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>[New] From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-blitzburst-freezeframe-video/"><u>[Updated] 2024 Approved BlitzBurst FreezeFrame Video</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-zooms-best-practices-for-organizing-online-meetings/"><u>[Updated] 2024 Approved Zoom's Best Practices for Organizing Online Meetings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-approaches-for-logging-online-discussions-for-2024/"><u>[Updated] Innovative Approaches for Logging Online Discussions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-audio-enhancements-for-youtube-creators/"><u>[Updated] Innovative Audio Enhancements for YouTube Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-exclusion-dilemma-is-someone-hidden-on-snapchat-for-2024/"><u>[Updated] The Exclusion Dilemma Is Someone Hidden On Snapchat for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-mac-dvd-authorization-handbook/"><u>[Updated] The Ultimate Mac DVD Authorization Handbook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-free-window-recording-guide-3-easy-steps/"><u>2024 Approved Free Window Recording Guide – 3 Easy Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-straightening-correcting-fisheye-in-gopro-footage/"><u>2024 Approved The Art of Straightening Correcting Fisheye in GoPro Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expansive-movement-assessment-2023/"><u>Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-itel-p55plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Itel P55+ IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

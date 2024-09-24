@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Archive Your Nintendo Switch Gameplay"
-date: 2024-09-18T06:15:58.566Z
-updated: 2024-09-19T09:31:59.681Z
+date: 2024-09-20T19:10:33.543Z
+updated: 2024-09-23T17:27:25.514Z
 tags: 
   - screen-recording
   - ai video
@@ -74,7 +74,21 @@ Let’s take Smach Bros as an example. To do the recording, follow the steps:
 
 **Step 1:** As soon as you have finished the game, the screen of the final score appears. A button appears at the top right down corner of the screen ‘Do you want to save the game’. ![smash-bro-ending](https://images.wondershare.com/filmora/article-images/smash-bros-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the ‘Y’ button and then click on ‘Save.’![smash-bros-saving](https://images.wondershare.com/filmora/article-images/smash-bros-saving.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to save the gameplay. The game replay will be lost if you do so.
 
@@ -82,11 +96,25 @@ Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to
 
 To convert the replays in the video, a straightforward option is given in the menu ‘Convert to Video.’ Go to the replay that you would like to save. Look at the right down corner and click on the ‘Convert to Video’ option.![video-quality-interface](https://images.wondershare.com/filmora/article-images/gameplay-quality1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tips: Within the video conversion settings, you can include information about the display, music, sound effects, and video quality of the replay. Check all these settings and select them the way you want your gameplay to be. Video quality is the most important thing to consider.
 
 **Step 4:** Your gameplay will be converted to the video. In the videos section of the game menu, you will find all the videos that you have saved. Now power off your Switch and remove the SD card from your Switch. Connect the SD card with PC, it will appear in the folders shown below.
 
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Record your whole gameplay with Capture Card
 
@@ -119,10 +147,10 @@ Nintendo Switch allows you to trim video easily in album:
 ![zelda-trim](https://images.wondershare.com/filmora/article-images/zelda-trim.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Edit gameplay with Filmora X
@@ -130,13 +158,6 @@ Nintendo Switch allows you to trim video easily in album:
 Filmora X is a multipurpose video editing tool that can be used to edit your videos in the best possible way. One way is to edit the gaming montage is by editing it to the beat and the other is the speed control. Beat detection by beat marker is done by software automatically and adjusted with the video. Speed control is the key element here and adjusts it with the video. Adjust the speed by adjusting the duration. You can also add effects such as clinches to the video while adjusting the speed.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Conclusion**
 
@@ -159,20 +180,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>[New] 2024 Approved Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leveraging-screencastifys-advanced-features/"><u>[New] 2024 Approved Leveraging Screencastify's Advanced Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-switch-saving-gameplay-footage/"><u>[New] 2024 Approved Mastering Switch Saving Gameplay Footage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-5-gaming-headsets-for-youtube/"><u>[Updated] 2024 Approved Top 5 Gaming Headsets for YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-budget-friendly-video-settings-for-low-end-systems-for-2024/"><u>[Updated] Budget-Friendly Video Settings for Low-End Systems for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-sound-shift-secrets-revealed-uncover-the-best-voice-recorder-changer-apps/"><u>[Updated] In 2024, Sound Shift Secrets Revealed Uncover the Best Voice Recorder Changer Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-no-root-audio-recording-on-android-devices-tutorial/"><u>[Updated] No-Root Audio Recording on Android Devices [Tutorial]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimize-productivity-with-mematic-app/"><u>2024 Approved Optimize Productivity with Mematic App</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/heres-how-to-use-mondly-and-get-the-best-out-of-it/"><u>Here’s How To Use Mondly And Get The Best Out Of It</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-boost-your-tiktok-presence-zoom-integration-guide/"><u>In 2024, Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premiere-10-battle-royale-titles/"><u>Premiere 10 Battle Royale Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/saving-screen-shots-in-windows-systems-for-2024/"><u>Saving Screen Shots in Windows Systems for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-manycam-review-is-there-a-better-alternative/"><u>[New] ManyCam Review Is There A Better Alternative?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ips-for-constructing-motivating-daily-routine-vids-for-2024/"><u>[New] Tips for Constructing Motivating Daily Routine Vids for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-360-camera-rigsmounts-for-vr-video-production/"><u>[Updated] 360 Camera Rigs/Mounts for VR Video Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>[Updated] Comprehensive Insights Mastering Lenovo Screenshot Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-download-verbatim-excerpt-for-2024/"><u>[Updated] Download Verbatim Excerpt for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-transitions-integrating-green-screen-and-yt/"><u>[Updated] Seamless Transitions Integrating Green Screen & YT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-drone-buying-roadmap-pre-purchase-essentials-for-2024/"><u>[Updated] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-speech-file-extract-and-critical-assessment/"><u>2024 Approved Speech File Extract & Critical Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-syma-107g-rc-helicopter-comprehensive-user-guide-and-reviews/"><u>Budget-Friendly Syma 107G RC Helicopter - Comprehensive User Guide & Reviews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-access-chatgpt-from-anywhere-using-chatgpt-everywhere/"><u>How to Access ChatGPT From Anywhere Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximizing-learning-through-recording-classroom-discourse-on-mac-for-2024/"><u>Maximizing Learning Through Recording Classroom Discourse on Mac for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-efficient-grab-your-usb-webcam-drivers-today/"><u>Quick and Efficient: Grab Your USB Webcam Drivers Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securing-perfect-images-on-pc-check-out-these-top-5-tools-in-2024/"><u>Securing Perfect Images on PC? Check Out These Top 5 Tools, In 2024</u></a></li>
 </ul></div>
 

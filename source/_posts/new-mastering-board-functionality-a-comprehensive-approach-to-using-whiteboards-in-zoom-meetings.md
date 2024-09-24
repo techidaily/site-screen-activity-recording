@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-09-17T05:59:13.761Z
-updated: 2024-09-19T09:48:28.577Z
+date: 2024-09-18T22:31:52.290Z
+updated: 2024-09-23T22:39:48.804Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -84,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -93,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
@@ -110,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -124,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -148,6 +155,19 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -163,21 +183,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods/"><u>[New] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-steam-gamers-recordings-for-2024/"><u>[New] Essential Tips for Steam Gamers' Recordings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-filmforge-editors-review-complete-overview/"><u>[New] In 2024, FilmForge Editor's Review – Complete Overview</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-screen-and-video-capture-on-android-for-2024/"><u>[New] Step-by-Step Screen and Video Capture on Android for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-tutorial-iphoneipad-time-lapse-recording/"><u>[New] The Ultimate Tutorial IPhone/iPad Time Lapse Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[Updated] 2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-free-nba-action-at-home-the-best-15-ways-to-watch-games-online-for-2024/"><u>[Updated] Free NBA Action at Home The Best 15 Ways to Watch Games Online for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-weavers-codex-looms-screen-capture-secrets-for-2024/"><u>[Updated] The Weaver’s Codex Loom's Screen Capture Secrets for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-totv-multimedia-player-wmp-alternative/"><u>[Updated] TOTV Multimedia Player WMP Alternative</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exploring-8-premium-open-source-videoconferencing-platforms/"><u>2024 Approved Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord CE 3 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-poptoons-ultimate-insight-24-annual/"><u>In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a60s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A60s FRP Bypass</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>Updated In 2024, Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-webcam-recording-for-slideshows/"><u>[New] 2024 Approved Mastering Webcam Recording for Slideshows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-cam-screen-recorder-review-and-best-alternatives/"><u>[New] In 2024, Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-next-level-broadcast-software-beyond-streamlabs-for-2024/"><u>[New] Next-Level Broadcast Software Beyond StreamLabs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-beginners-pathway-to-screen-casting-and-capturing-macos/"><u>[Updated] A Beginner's Pathway to Screen Casting and Capturing macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-budget-drone-selection-the-ultimate-list-for-(100/"><u>[Updated] Budget Drone Selection The Ultimate List for <$100</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-excellent-low-cost-webcam-snipper-app/"><u>[Updated] In 2024, Excellent Low-Cost Webcam Snipper App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-ppt-perfecting-your-voiceover-artistry/"><u>[Updated] In 2024, Mastering PPT Perfecting Your Voiceover Artistry</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breaking-down-barriers-with-shared-youtube-curations/"><u>Breaking Down Barriers with Shared YouTube Curations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-started-fast-leverage-these-8-ready-made-gpt-models-for-immediate-action/"><u>Getting Started Fast: Leverage These 8 Ready-Made GPT Models for Immediate Action</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-2-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze 2 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco Phone Now with These Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovate-illusions-advanced-techniques-for-image-distortion-for-2024/"><u>Innovate Illusions Advanced Techniques for Image Distortion for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-premium-karaoke-equipment/"><u>Ultimate Selection of Premium Karaoke Equipment</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 

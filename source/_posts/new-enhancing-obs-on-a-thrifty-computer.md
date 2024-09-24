@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2024-09-17T22:09:06.123Z
-updated: 2024-09-19T06:58:46.727Z
+date: 2024-09-18T18:22:06.315Z
+updated: 2024-09-24T00:48:00.545Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,13 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -40,6 +47,13 @@ Output tab, which is the resolution of the video that the people will watch. For
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Output Settings
 
@@ -75,13 +89,6 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
@@ -95,6 +102,13 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
@@ -116,21 +130,22 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Stream Tab
@@ -138,13 +153,6 @@ Here are the streaming settings that you just need to follow for your streaming 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
 
@@ -156,13 +164,6 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
@@ -170,16 +171,10 @@ There is a lot of other [screen recording software](https://tools.techidaily.com
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -242,20 +237,16 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-knowledge-for-saving-app-activity/"><u>[New] In 2024, Essential Knowledge for Saving App Activity</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-rise-in-popularity-top-10-instagram-hashtags-for-now/"><u>[New] Rise in Popularity Top 10 Instagram Hashtags for Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-huawei-p10-a-deep-dive-into-its-artificial-intelligence-capabilities/"><u>[Updated] 2024 Approved The Huawei P10 A Deep Dive Into Its Artificial Intelligence Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-affordable-gopros-where-to-buy-with-best-price/"><u>[Updated] Affordable GoPros Where to Buy with Best Price</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-efficiently-archive-your-gaming-adventures-on-windows-10-for-2024/"><u>[Updated] Efficiently Archive Your Gaming Adventures on Windows 10 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-recording-your-youtube-livestreams-for-2024/"><u>[Updated] Ultimate Guide Recording Your YouTube Livestreams for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/crimson-classic-codec/"><u>Crimson Classic Codec</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/generate-humor-picmagic-creation-for-2024/"><u>Generate Humor PicMagic Creation for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s18-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S18 Phones? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/powerful-manycam-substitutes-discover-superior-live-broadcast-tools-and-remote-camera-features/"><u>Powerful ManyCam Substitutes - Discover Superior Live Broadcast Tools and Remote Camera Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-recording-on-mac-a-comprehensible-method-for-2024/"><u>Screen Recording on Mac A Comprehensible Method for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-network-synergy-enhancing-story-sharing/"><u>Social Network Synergy Enhancing Story Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/speed-capturing-screens-with-sound/"><u>Speed Capturing Screens With Sound</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-x-cite-reviews-and-simpler-choices/"><u>[New] 2024 Approved X-Cite Reviews & Simpler Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-effortless-transition-free-onlineoffline-text-animation/"><u>[New] Effortless Transition Free Online/Offline Text Animation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-remove-jello-effect-from-an-aerial-video/"><u>[New] How to Remove Jello Effect From an Aerial Video</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-insights-into-simplified-ipad-and-iphone-recording/"><u>[New] In 2024, Quick Insights Into Simplified iPad & iPhone Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-highlighting-the-best-practices-in-screen-recording-facetime-calls/"><u>[Updated] Highlighting the Best Practices in Screen Recording FaceTime Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preparing-for-a-mobile-cinematic-experience/"><u>[Updated] Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-content-across-platforms-youtube-and-igtv/"><u>[Updated] Streamlining Content Across Platforms YouTube & IGTV</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fixing-sudden-disconnections-in-pc-speakers-windows-11/"><u>Fixing Sudden Disconnections in PC Speakers (Windows 11)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-experts-guide-to-growing-valheim-crops-successfully/"><u>The Expert's Guide to Growing Valheim Crops Successfully</u></a></li>
 </ul></div>
 
