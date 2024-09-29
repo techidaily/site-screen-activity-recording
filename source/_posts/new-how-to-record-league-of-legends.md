@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record League of Legends"
-date: 2024-09-20T20:05:17.548Z
-updated: 2024-09-23T22:25:58.977Z
+date: 2024-09-24T19:31:03.327Z
+updated: 2024-09-29T19:33:01.726Z
 tags: 
   - screen-recording
   - ai video
@@ -76,10 +76,10 @@ Step 4: Click on Start Recording button and open LOL game on your computer. The 
 Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 3\. Record LOL Games with Windows Game Bar
@@ -201,10 +201,10 @@ Bandicam is one of the most preferred gameplay recorders in the gaming community
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1: Download and install Bandicam to launch it.
@@ -216,10 +216,10 @@ Step 3: You need to click on Rec button to start recording your LOL gameplay.
 Step 4: If you are done playing LOL game, click on Stop button.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 5\. Use Fraps to Record LOL Games
@@ -229,10 +229,10 @@ Last but for least, you can record game LOL even when you are playing the game o
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 1: Download and install Fraps on your Windows PC.
@@ -256,10 +256,16 @@ Way 4. [Record LOL Game Video with Bandicam](#part4)
 Way 5. [Use Fraps to Record LOL Games](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 1\. Record LOL Gameplay with Filmora
@@ -285,13 +291,6 @@ Step 3: Select the recording screen size and audio sources to record game sounds
 Step 4: Click on the Record button. Within a few seconds, the recording will start and you can start playing LOL game immediately.
 
 ![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Press F9 whenever you want to stop recording.
 
@@ -328,10 +327,10 @@ Step 3: You can stop recording anytime by pressing Windows + Alt + R together ag
 You can find the recorded video by going to Widgets and then to Gallery section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 4\. Record LOL Game Video with Bandicam
@@ -353,6 +352,13 @@ Step 4: If you are done playing LOL game, click on Stop button.
 Last but for least, you can record game LOL even when you are playing the game on a Windows PC that has older Windows versions. It is not the most advanced gameplay recorder but it gets the job done. The user interface is old-fashioned and hence, simple to use. Here are the steps on how to record LOL gameplay with Fraps.
 
 ![fraps](https://images.wondershare.com/filmora/article-images/fraps-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Download and install Fraps on your Windows PC.
 
@@ -418,18 +424,18 @@ Step 4: Click on Start Recording button and open LOL game on your computer. The 
 
 Step 5: If you want to stop recording, come back on OBS Studio and click on Stop Recording.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 3\. Record LOL Games with Windows Game Bar
 
 If you are a Windows 10 user and you want to record your game for the first time, you can opt for Windows Game Bar app. The application comes pre-installed on Windows 10\. Therefore, there is no need for any external gameplay recorder. However, there are reports from gamers that when you record your LOL games through Windows Game Bar, the game performance can lag at times. If that is not the case with you, you can use Windows Game Bar to capture screenshots and record gameplay in simple steps.
 
 ![windows game bar recording](https://images.wondershare.com/filmora/article-images/launch-xbox-game-bar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Press Windows + G keys and you will see Windows Game Bar on your screen.
 
@@ -493,5 +499,24 @@ League of Legends is a high-end game and you cannot let recording in the backgro
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-10-excellent-web-based-screen-capture-solutions-for-2024/"><u>[New] 10 Excellent Web-Based Screen Capture Solutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac/"><u>[New] 2024 Approved Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection-for-2024/"><u>[New] Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-speech-to-storage-the-recorders-pathway-for-2024/"><u>[Updated] From Speech to Storage The Recorder's Pathway for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hearnow-podcast-and-speaker-assessment/"><u>[Updated] HearNow Podcast and Speaker Assessment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>2024 Approved Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-video-chat-on-windows-1-8/"><u>2024 Approved Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-understanding-video-length-and-content-strategy-in-youtube-shorts/"><u>2024 Approved Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/altering-screenshot-file-types-on-a-macintosh/"><u>Altering Screenshot File Types on a Macintosh</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capture-what-you-see-the-complete-guide-to-pc-screenshots/"><u>Capture What You See: The Complete Guide to PC Screenshots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-game-hacks-in-apex-legends-with-this-straightforward-anti-cheat-solution/"><u>Eliminate Game Hacks in Apex Legends with This Straightforward Anti-Cheat Solution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-brands-instagram-presence-with-these-hacks/"><u>In 2024, Elevate Your Brand's Instagram Presence with These Hacks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a05-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A05 to Another | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/selecting-the-perfect-no-fee-video-communication-tools/"><u>Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shielding-iphones-from-threats-a-curated-guide-to-the-top-6-mobile-antiviruses/"><u>Shielding iPhones From Threats: A Curated Guide to the Top 6 Mobile Antiviruses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y55s-5g-2023-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y55s 5G (2023) Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/trasforma-i-tuoi-file-mpeg-in-formato-flac-senza-costi-con-il-servizio-online-di-movavi/"><u>Trasforma I Tuoi File MPEG in Formato FLAC Senza Costi Con Il Servizio Online Di Movavi</u></a></li>
+</ul></div>
 
