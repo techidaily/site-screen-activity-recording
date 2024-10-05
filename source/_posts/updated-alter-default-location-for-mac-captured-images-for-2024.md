@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alter Default Location for Mac Captured Images for 2024"
-date: 2024-09-27T20:04:27.355Z
-updated: 2024-09-29T18:36:44.957Z
+date: 2024-09-27T18:41:55.588Z
+updated: 2024-10-05T02:05:36.945Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,6 +61,13 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -68,13 +75,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,24 +127,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-windows-11-gamers-guide-to-immaculate-game-recording/"><u>[New] In 2024, Windows 11 Gamers' Guide to Immaculate Game Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamline-screen-capture-on-google-chat/"><u>[New] Streamline Screen Capture on Google Chat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-digital-dive-essential-recording-tactics-for-shows/"><u>[Updated] 2024 Approved Digital Dive Essential Recording Tactics for Shows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-androids-best-practice-for-saving-gameplay-videos-for-2024/"><u>[Updated] Android's Best Practice for Saving Gameplay Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>[Updated] Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-the-mystery-of-facebook-data-a-novices-handbook/"><u>[Updated] Decoding the Mystery of Facebook Data A Novice’s Handbook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-spotlight-on-11-top-audio-capture-equipments/"><u>[Updated] Spotlight on 11 Top Audio Capture Equipments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-sword-and-shield-the-ultimate-10-game-collection/"><u>[Updated] Sword and Shield The Ultimate 10-Game Collection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>2024 Approved Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>2024 Approved Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-uncluttered-desktop-recorder-w10/"><u>2024 Approved Uncluttered Desktop Recorder W10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-free-no-invasive-android-video-recorders-for-2024/"><u>Best Free, No-Invasive Android Video Recorders for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-edge-how-pcs-beat-macs-in-9-aspects/"><u>Decoding the Edge: How PCs Beat Macs in 9 Aspects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-a18-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo A18 to Roku | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-interactive-media-platform-breakdown/"><u>In 2024, Interactive Media Platform Breakdown</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mycam-recorder-insights-a-thorough-technical-assessment/"><u>In 2024, MyCam Recorder Insights A Thorough Technical Assessment</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-tecno-spark-10-4g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Tecno Spark 10 4G</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tech-evolution-how-apples-latest-macbook-pro-with-m1-chip-is-redefining-laptops-2020/"><u>Tech Evolution: How Apple's Latest MacBook Pro with M1 Chip Is Redefining Laptops (2020)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-picks-top-6-food-diary-and-tracker-apps-reviewed/"><u>The Ultimate Picks: Top 6 Food Diary and Tracker Apps Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crafting-the-impeccable-circle-and-sphere-forms-in-mc-world/"><u>[New] 2024 Approved Crafting the Impeccable Circle & Sphere Forms in MC World</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubers-essential-camera-guidebook/"><u>[New] 2024 Approved YouTubers' Essential Camera Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>[New] Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-record-screen-with-ultra-screen-recorder/"><u>[New] How to Record Screen With Ultra Screen Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-workings-of-drones-an-introduction-for-beginners/"><u>[New] The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-to-maximize-creativity-and-efficiency-in-obs-edits/"><u>[Updated] Expert Tips to Maximize Creativity and Efficiency in OBS Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovating-your-teaching-with-interactive-screencasts/"><u>[Updated] Innovating Your Teaching with Interactive Screencasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-techniques-for-sims-4-live-action-for-2024/"><u>[Updated] Professional Techniques for Sims 4 Live-Action for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-for-newcomers-on-av1/"><u>[Updated] The Essential Guide for Newcomers on AV1</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-gmail-and-zoom-for-productive-video-collaboration/"><u>2024 Approved Navigating Gmail and Zoom for Productive Video Collaboration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mov-file-management-made-simple-on-windows-10/"><u>In 2024, .mov File Management Made Simple on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-your-screenplay-free-software-insights/"><u>In 2024, Capturing Your Screenplay Free Software Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-the-process-of-saving-whatsapp-dialogues/"><u>In 2024, Unlocking the Process of Saving WhatsApp Dialogues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-resetting-video-driver-errors/"><u>Steps to Fix Resetting Video Driver Errors</u></a></li>
 </ul></div>
 

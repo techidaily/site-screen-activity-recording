@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Saving Your Focus  A Guide to Quieting Naysayers on Google Video Calls\""
-date: 2024-08-29T08:37:02.709Z
-updated: 2024-08-30T08:37:02.709Z
+date: 2024-10-04T04:55:18.296Z
+updated: 2024-10-05T03:51:38.551Z
 tags: 
   - screen-recording
   - ai video
@@ -59,15 +59,16 @@ If they click that same button again, they will be unmuted.
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Mute Someone in Google Meet?
 
 There are times when individuals are not aware that the background noise of their surroundings is causing a disturbance in the meeting. That is when muting someone can come in handy! Basically in this, a host or other participants in the meeting can mute an individual based on need. However, there is an eligibility criterion they must adhere to in order to get the muting permissions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### The Eligibility Criteria To Mute Someone in Google Meet
 
 Before looking into **how to mute someone on Google Meet**, check if any of the following scenarios apply to you,
@@ -89,8 +90,12 @@ Click the microphone button in the middle, and once a cross appears on the mic, 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Mute All Participants in Google Meet?
 
 Want to convey your message to everyone without having some interrupt you and have you lose your train? Mute everyone!
@@ -102,8 +107,12 @@ At the button right of your Google Meet window, click on “people” and then c
 ![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
 ## Part 5: Best Chrome Extensions to Mute Everyone in Google Meet
@@ -112,12 +121,16 @@ Well, it’s not like everyone has an educational Google account through which t
 
 Take a look at these extensions which will enable you to mute Google Meet participants all at once!
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Mute All for Google Meet
 
 ![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -128,9 +141,6 @@ Listed below are some of its salient features,
 * Mute everyone while conducting a presentation.
 * Add emojis, prevent popups, and use hotkeys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mute All On Meet
 
 This highly innovative tool is a creation of <https://www.zoomcorder.com/> and allows you to mute all members with a single click **or** by pressing _ctrl+m_ on your keyboard.
@@ -138,8 +148,18 @@ This highly innovative tool is a creation of <https://www.zoomcorder.com/> and a
 It allows individuals to record meetings without attending and without being the host in any of the meetings! What an incredible way to watch your missed meetings on your own schedule!
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Meet Extension
 
 This extension offered by <https://meetextension.com/> is used by teachers, students, entrepreneurs, NGOs, and more in 20+ countries around the globe.
@@ -150,9 +170,6 @@ Using this extension, you can do many things, such as record the Google Meeting 
 
 Don’t you just hate it when there is too much distortion or disturbance in a session because of another participant? Well, lucky for everyone, Google Meet has a “remove from the meeting” feature as well. In this, individuals can remove other people from the meeting, if they aren’t meant to be in the session or if they are causing challenges in the meeting. They can do this while being the host and even when they are not the host of the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 1\. How to Remove Someone While Being The Host?
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
@@ -164,6 +181,13 @@ Then, from the list with the names of all participants, click on the name of the
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -185,13 +209,18 @@ The mute feature on Google Meet is truly very simplistic and handy to use. All o
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +228,25 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-the-art-of-ppt-delivery-via-google-meet-any-device/"><u>[New] Perfecting the Art of PPT Delivery via Google Meet (Any Device)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-recorders-face-off-determining-superiority-of-bandicam-and-camtasia-for-2024/"><u>[New] Screen Recorders Face-Off Determining Superiority of Bandicam & Camtasia for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-budget-friendly-online-face-offs-for-2024/"><u>[New] Ultimate Budget-Friendly Online Face-Offs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] 2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-effortless-webinar-capture-techniques-for-os-xwindows-enthusiasts/"><u>[Updated] 2024 Approved Effortless Webinar Capture Techniques for OS X/Windows Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-android-dominance-top-10-moba-games-showcase-for-2024/"><u>[Updated] Android Dominance Top 10 MOBA Games Showcase for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-endless-screen-saving-software-for-2024/"><u>[Updated] Endless Screen Saving Software for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-save-and-watch-5-best-pinterest-videos-tools/"><u>2024 Approved Capture, Save and Watch 5 Best Pinterest Videos Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellence-in-expression-top-talkers-on-google-podcasts/"><u>Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-se-2022-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone SE (2022) After iOS Update? | Stellar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/identifying-the-most-effective-windows-snipping-apps-for-2024/"><u>Identifying the Most Effective Windows Snipping Apps for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-aspect-ratios-for-stellar-youtube-thumbnails/"><u>In 2024, Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-effortless-video-segmentation-techniques/"><u>In 2024, Effortless Video Segmentation Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technological-components-with-advice-from-toms-hq/"><u>Mastering Technological Components with Advice From Tom's HQ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-time-saviors-expert-evaluations-of-video-tech/"><u>Screen Time Saviors Expert Evaluations of Video Tech</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Studio vs Fraps  Performance Showdown\""
-date: 2024-09-26T18:07:16.684Z
-updated: 2024-09-29T16:52:36.332Z
+date: 2024-10-01T04:29:53.273Z
+updated: 2024-10-05T02:18:46.808Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ System Requirements – Fraps is compatible with the older version of Windows su
 
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How To Use OBS Studio and Fraps -
 
 ## OBS: Here are the steps on how to record video with OBS Studio
@@ -61,15 +68,22 @@ Step 3: Go to Sources tab, click on “+” button and select Display Capture op
 
 ![obs launch display capture](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Go to Controls tab, click on Start Recording to start recording.
 
 ![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: When your recording is done, click on Stop Recording option under Controls tab.
@@ -83,10 +97,10 @@ Step 2: Open the application and under General tab, check the required parameter
 ![fraps general required parameters](https://images.wondershare.com/filmora/article-images/fraps-heneral-required-parameters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Go to Movies tab and set the settings as required.
@@ -133,23 +147,9 @@ Step 2: Customize the recording screen size and select the audio source as requi
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -164,10 +164,10 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
@@ -179,17 +179,10 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -207,6 +200,19 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
@@ -228,16 +234,16 @@ Step 2: Customize the recording screen size and select the audio source as requi
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -267,15 +273,24 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-crafting-memorable-content-the-essentials-of-20-intriguing-tiktok-captions/"><u>[Updated] In 2024, Crafting Memorable Content The Essentials of 20 Intriguing TikTok Captions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelprofiler-yearly-review-of-best-screen-capturing-tools-for-2024/"><u>[Updated] PixelProfiler Yearly Review of Best Screen Capturing Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-take-fullscreen-digital-canvas/"><u>[Updated] Take Fullscreen Digital Canvas</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>2024 Approved A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-voice-log-retrieval-content-scrutiny/"><u>2024 Approved Voice Log Retrieval, Content Scrutiny</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-capture-top-10-windows-11-cam-recorders-for-2024/"><u>Cutting-Edge Capture Top 10 Windows 11 Cam Recorders for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-edge-2023-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Edge 2023.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11-for-2024/"><u>Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-secret-to-successful-partnering-with-chatgpts-dating-insights/"><u>The Secret to Successful Partnering with ChatGPT's Dating Insights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-coexisting-screen-data-gathering/"><u>[New] 2024 Approved Coexisting Screen Data Gathering</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[New] In 2024, Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-economical-action-recording-next-level-performance-under-200/"><u>[Updated] 2024 Approved Economical Action Recording - Next Level Performance Under $200</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-professional-pcmac-screen-recorders/"><u>[Updated] 2024 Approved Professional PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] In 2024, Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>[Updated] In 2024, Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlined-recording-experience-with-macbooks-webcam-for-2024/"><u>[Updated] Streamlined Recording Experience with MacBook's Webcam for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-presentations-webcam-screen-capture-techniques-for-2024/"><u>[Updated] Streamlining Presentations Webcam Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unbeatable-11-audio-devices-reviewed-here-for-2024/"><u>[Updated] Unbeatable 11 Audio Devices Reviewed Here for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevating-your-content-game-strategic-use-of-igtv-hashtags/"><u>2024 Approved Elevating Your Content Game Strategic Use of IGTV Hashtags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mapping-out-instagram-departures/"><u>2024 Approved Mapping Out Instagram Departures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-quality-should-you-choose-30-or-60-fps-for-2024/"><u>Capturing Quality Should You Choose 30 or 60 FPS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-website-insights-using-cookiebot-driven-tracking-solutions/"><u>Enhance Website Insights Using Cookiebot-Driven Tracking Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-component-failures-on-windows-10-solutions-explored/"><u>Fixing Essential Component Failures on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fundamental-constructs-in-creating-effective-fb-ad-copy-for-2024/"><u>Fundamental Constructs in Creating Effective FB Ad Copy for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-v27e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo V27e to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-convenient-techniques-for-saving-youtube-videos/"><u>In 2024, Convenient Techniques for Saving YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>In 2024, Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Google Meet's Grid View Functionality for 2024"
-date: 2024-08-29T08:37:15.635Z
-updated: 2024-08-30T08:37:15.635Z
+date: 2024-09-29T22:34:27.098Z
+updated: 2024-10-04T21:51:06.741Z
 tags: 
   - screen-recording
   - ai video
@@ -59,6 +59,13 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
@@ -67,18 +74,12 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
 Click on the **three dots** at the bottom right corner and select **change layout.**
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
@@ -98,9 +99,12 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -114,9 +118,18 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
 By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
@@ -140,8 +153,12 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Frequently Asked Questions About See Everyone on Google Meet
 
 #### 1\. How do I see everyone on Google Meet mobile?
@@ -163,15 +180,17 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -179,3 +198,23 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-become-a-pro-at-screen-recording-essential-tips-for-xiaomi-users/"><u>[New] Become a Pro at Screen Recording Essential Tips for Xiaomi Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-breakdown-of-streamlabs-obs-features-and-functions/"><u>[New] In 2024, Breakdown of Streamlabs OBS Features and Functions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-smart-guide-top-picks-for-6-fb-lite-videos/"><u>[Updated] 2024 Approved Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-insight-into-budget-friendly-design-portals/"><u>2024 Approved Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-junior-jams-and-junction-gaming/"><u>2024 Approved Junior Jams & Junction Gaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/as-melhores-tecnologias-de-edicao-para-produzir-videos-multimidia-no-brasil/"><u>As Melhores Tecnologias De Edição Para Produzir Videos Multimídia No Brasil</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diy-meme-magic-perfecting-the-art-of-gifs/"><u>DIY Meme Magic Perfecting the Art of GIFs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859715798-in-2024-eco-friendly-recorder-ads-absolved/"><u>In 2024, Eco-Friendly Recorder - Ads Absolved!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-choices-premier-mac-video-capture-apps/"><u>In 2024, Top Choices Premier Mac Video Capture Apps</u></a></li>
+<li><a href="https://discover-data.techidaily.com/maximizing-your-investment-essential-advice-after-acquiring-a-flipbuilder-license/"><u>Maximizing Your Investment: Essential Advice After Acquiring a FlipBuilder License</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pioneering-camera-tech-an-analysis-of-manycams-new-recorder-for-2024/"><u>Pioneering Camera Tech An Analysis of ManyCam's New Recorder for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-game-crashes-in-football-manager-2022-on-your-desktop-pc/"><u>Troubleshooting Tips for Preventing Game Crashes in Football Manager 2022 on Your Desktop PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-creativity-mastering-ios-screen-capture-for-youtube-for-2024/"><u>Unlocking Creativity Mastering iOS Screen Capture for YouTube for 2024</u></a></li>
+</ul></div>
+

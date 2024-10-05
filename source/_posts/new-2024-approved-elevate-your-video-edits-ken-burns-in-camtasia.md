@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-08-29T08:38:13.931Z
-updated: 2024-08-30T08:38:13.931Z
+date: 2024-09-27T23:09:11.458Z
+updated: 2024-10-04T20:20:10.616Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,19 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +67,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-compact-guide-to-macs-screen-recording-shortcuts-for-2024/"><u>[New] Compact Guide to Mac's Screen Recording Shortcuts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-ffxp-mode/"><u>[New] Unlocking the Secrets of FFXP Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-magix-multimedia-software/"><u>[Updated] Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-delay-expert-tips-for-optimizing-game-performance-on-your-pc/"><u>Beat the Delay: Expert Tips for Optimizing Game Performance on Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-skills-for-efficient-zoom-podcasting/"><u>Essential Skills for Efficient Zoom Podcasting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-videos-on-mac-download-vn-video-editor-or-explore-alternatives/"><u>In 2024, Edit Videos on Mac Download VN Video Editor or Explore Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>In 2024, Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-11-5-ways-to-get-into-a-locked-iphone-11-drfone-by-drfone-ios/"><u>Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/maintaining-confidentiality-with-professional-zoom-recordings/"><u>Maintaining Confidentiality with Professional Zoom Recordings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-dying-light-performance-issues/"><u>Troubleshooting Tips For Resolving Dying Light Performance Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-guide-to-the-best-9-video-call-apps-androidios-for-2024/"><u>Ultimate Guide to the Best 9 Video Call Apps Android/iOS for 2024</u></a></li>
+</ul></div>
+
