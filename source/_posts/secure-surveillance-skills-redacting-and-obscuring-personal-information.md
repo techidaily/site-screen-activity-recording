@@ -1,7 +1,7 @@
 ---
 title: "\"Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2024-08-29T08:30:08.374Z
-updated: 2024-08-30T08:30:08.374Z
+date: 2024-10-09T05:37:57.811Z
+updated: 2024-10-10T04:15:02.091Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -67,6 +74,13 @@ Recording voice-over during the recording session, adding markers, or using HotK
 #### 3. Edit Video Footage with Creative Effects
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -86,11 +100,15 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -100,8 +118,12 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -116,9 +138,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -131,17 +150,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +162,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[New] 2024 Approved Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tips-for-minecraft-recording-with-macos/"><u>[New] 2024 Approved Essential Tips for Minecraft Recording with MacOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-12-pc-clicker-games-to-elevate-gameplay-for-2024/"><u>[New] Essential 12 PC Clicker Games to Elevate Gameplay for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lashing-feathersticks-short-film-characters-music/"><u>[New] Flashing Feathersticks Short Film Characters' Music</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos-for-2024/"><u>[New] Mastering ScreenFlow A Guide to Enhanced Creativity on macOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-durecorder-complete-breakdown/"><u>[Updated] 2024 Approved Mastering DuRecorder Complete Breakdown</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-infinite-possibilities-with-ai-generating-viral-video-titles/"><u>[Updated] In 2024, Infinite Possibilities with AI Generating Viral Video Titles</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/93-must-know-phrases-to-unlock-a-world-of-travel-in-spanish/"><u>93 Must-Know Phrases to Unlock a World of Travel in Spanish</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comprehensible-guide-to-documenting-live-sports-events-for-2024/"><u>Comprehensible Guide to Documenting Live Sports Events for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-videos-youtube-tools-and-more/"><u>Crafting Videos YouTube Tools and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/formato-gratuito-para-transformar-mkv-en-mov-usando-el-servicio-online-de-movavi/"><u>Formato Gratuito Para Transformar MKV en MOV Usando El Servicio Online De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frequency-fluctuations-for-game-mastery/"><u>Frequency Fluctuations for Game Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-talking-audio-log-audit/"><u>In 2024, Talking Audio Log Audit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-playback-hiccups-smoothing-out-stutters-in-valorant-for-pc-gaming/"><u>Solve Playback Hiccups: Smoothing Out Stutters in Valorant for PC Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/sound-recorder-quality-overview/"><u>Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-your-content-inserting-chapter-markers-in-youtube-videos/"><u>Streamlining Your Content Inserting Chapter Markers in YouTube Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-filmora-13-video-editor-free-download/"><u>Updated 2024 Approved Get Filmora 13 Video Editor Free Download</u></a></li>
+</ul></div>
+

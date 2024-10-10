@@ -1,7 +1,7 @@
 ---
 title: "GoPro HERO7 Black: Top-Tier Action Camera Verdict"
-date: 2024-10-01T18:51:39.534Z
-updated: 2024-10-04T23:45:39.040Z
+date: 2024-10-09T08:31:24.626Z
+updated: 2024-10-10T08:32:01.822Z
 categories:
   - BestProducts
 description: "This Article Describes GoPro HERO7 Black: Top-Tier Action Camera Verdict"
@@ -40,6 +40,13 @@ Lifewire / Jeff Dojillo
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/GYZOA14ZRWOM3tJzi8ZbmTTASe8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
@@ -75,19 +82,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Classic action camera design**
 
  The GoPro HERO7 Black measures in at 2.4 x 1.3 x 1.8 inches, so it’s super compact and almost a cube. The device is all black with a very nice rubber casing around the unit that makes it feel soft to the touch.
@@ -104,13 +98,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Updates out of the box**
 
  The GoPro HERO7 Black did not have much battery life out of the box. Once we powered it on, we set the date, time, and location. It then prompted us to update the software, which required a blank memory card and fully-charged battery to complete.
@@ -118,6 +105,13 @@ Lifewire / Jeff Dojillo
  The HERO7 Black has both Wi-Fi and Bluetooth compatibility, which makes it easy to pair with a smartphone that has the GoPro App downloaded. We were able to make the camera discoverable in the Preferences menu, and then the app could automatically scan and connect to the camera when it was opened.
 
  Lifewire / Jeff Dojillo
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sensor: Small but mighty**
 
@@ -145,13 +139,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Photo Quality: Nothing to brag about**
 
  The photo quality on the GoPro HERO7 Black is average, though it does have the ability to create HDR (High Dynamic Range) images.
@@ -159,6 +146,13 @@ Lifewire / Jeff Dojillo
  Due to the lens distortion, the images that this camera produces have a specific look that you may either love or hate. It also has a fixed lens that does not zoom, so that limits its functionality compared to typical point-and-shoot cameras.
 
  But generally speaking, the GoPro HERO7 Black is not a camera known for its stunning photographs—it is known for its stunning video capabilities. It’s not for someone that wants to use it specifically for still photographs.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sound Quality: Sensitive to the touch**
 
@@ -178,6 +172,13 @@ Lifewire / Jeff Dojillo
 
  Inside the app, there are also options to edit mode settings, change the original set up, review camera info, changed Wi-Fi remotes, as well as monitor the battery level and[SD card](https://www.lifewire.com/how-to-format-sd-card-camera-4587017) capacity. It also makes it easier to review footage and images that the camera captures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery Life: High-res video drains it quickly**
 
  When recording 4K video at 60 fps, the HERO7 Black’s battery only lasts about 50 minutes, so if you’re going to be shooting all day, it would be smart to have a few extra batteries available.
@@ -191,13 +192,6 @@ Lifewire / Jeff Dojillo
  Perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
 
  The portability of the GoPro HERO7 Black is perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Less rugged, but better with still photography**
 
@@ -222,10 +216,10 @@ Lifewire / Jeff Dojillo
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -235,10 +229,10 @@ Lifewire / Jeff Dojillo
 * [Sony DSC-W800](https://www.lifewire.com/sony-dsc-w800-review-4589510)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -272,24 +266,20 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-screen-capturing-with-your-iphone-7/"><u>[New] Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfecting-your-teammates-backdrops-in-teams-calls/"><u>[New] In 2024, Perfecting Your Teammates' Backdrops in Teams Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimal-mac-mpeg-producer/"><u>[New] Optimal Mac MPEG Producer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-handbook-for-optimal-youtube-banners-and-art-sizes-for-2024/"><u>[New] The Ultimate Handbook for Optimal YouTube Banners & Art Sizes for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-transform-meetings-with-easy-to-follow-zoom-sharing-tips-for-2024/"><u>[New] Transform Meetings with Easy-to-Follow Zoom Sharing Tips for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-meet-visuals-applying-filters-effects-and-masks/"><u>[Updated] 2024 Approved Enhancing Meet Visuals Applying Filters, Effects & Masks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-chromebook-tips-capturing-high-quality-webcams/"><u>[Updated] Chromebook Tips Capturing High-Quality Webcams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-mixers-free-lut-compendium/"><u>[Updated] Masterful Mixers' Free LUT Compendium</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-10-mac-exclusive-free-drawing-platforms-for-2024/"><u>[Updated] Top 10 Mac-Exclusive Free Drawing Platforms for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-pc-emulators-bringing-ps1-to-life/"><u>[Updated] Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-video-synchronization-with-obs/"><u>2024 Approved Mastering Video Synchronization with OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>2024 Approved Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-process-for-successful-obs-integration-on-macos/"><u>2024 Approved Step-by-Step Process for Successful OBS Integration on macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-notifications-not-working-on-windows/"><u>How to Fix Outlook Notifications Not Working on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone without PIN</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>In 2024, A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-photoharmony-android-and-ios-instagram-collages/"><u>In 2024, PhotoHarmony Android & iOS Instagram Collages</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-x-voice-sync-studio-windows-version/"><u>[New] In 2024, X-Voice Sync Studio, Windows Version</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-tutorial-for-gameplay-recorders-on-win10-for-2024/"><u>[New] In-Depth Tutorial for Gameplay Recorders on Win10 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-inside-the-apeaksoft-revolution-discovering-new-tech/"><u>[New] Inside the Apeaksoft Revolution Discovering New Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-comprehensive-insights-into-imovie-techniques-for-youtube-creators-for-2024/"><u>[Updated] Comprehensive Insights Into iMovie Techniques for YouTube Creators for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-captivatescreen-scrutiny-platform/"><u>[Updated] In 2024, CaptivateScreen Scrutiny Platform</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-syncing-visuals-and-soundtracks-in-video-magic/"><u>[Updated] In 2024, Syncing Visuals & Soundtracks in Video Magic</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-maximizing-video-quality-with-gopro-max-or-hero-11/"><u>[Updated] Maximizing Video Quality with GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-leveraging-costless-methods-for-integrating-videos-into-writing/"><u>2024 Approved Leveraging Costless Methods for Integrating Videos Into Writing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-fixes-for-perfect-ipad-screenshots/"><u>2024 Approved Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/advanced-procedures-for-livestreaming-sporting-spectacles-for-2024/"><u>Advanced Procedures for Livestreaming Sporting Spectacles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-join-google-meet/"><u>How to Join Google Meet?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-10c-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Spark 10C? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
 </ul></div>
 

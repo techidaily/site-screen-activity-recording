@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Zoom Class Chronicling"
-date: 2024-08-29T08:33:17.795Z
-updated: 2024-08-30T08:33:17.795Z
+date: 2024-10-03T21:19:45.527Z
+updated: 2024-10-10T02:06:24.519Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -66,6 +73,13 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
@@ -73,6 +87,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -93,9 +114,12 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -104,16 +128,11 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,3 +140,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expressive-leadership-examination-refined-no-8/"><u>[New] 2024 Approved Expressive Leadership Examination - Refined No. 8</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-top-8-instagram-schedulers-for-iphone-and-android-users/"><u>[New] 2024 Approved Unveiling the Top 8 Instagram Schedulers for iPhone and Android Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>[New] Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-beginners-guide-to-iphone-slow-movement-videography-for-2024/"><u>[New] The Beginner's Guide to iPhone Slow Movement Videography for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tips-to-restore-functionality-in-frozen-obs-screen/"><u>[New] Tips to Restore Functionality in Frozen OBS Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds-for-2024/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-ez-grabber-software/"><u>[Updated] How to Use EZ Grabber Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[Updated] Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/"><u>[Updated] The Insider’s Guide to Flawless Game Recordings on PlayStation 4 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cant-remember-your-ipad-password-successful-methods-to-unlock-and-fix-it/"><u>Can't Remember Your iPad Password? Successful Methods to Unlock and Fix It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-and-managing-dual-or-multi-monitor-configurations-on-your-windows-10-pc/"><u>Creating and Managing Dual or Multi-Monitor Configurations on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-best.techidaily.com/gratuit-flac-to-mp4-konverteren-onder-online-ze-mogen/"><u>Gratuit FLAC-to-MP4 Konverteren - Onder Online Ze Mogen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975300714-how-to-fix-and-update-your-wi-fi-card-drivers-for-optimal-performance-download-now/"><u>How to Fix and Update Your Wi-Fi Card Drivers for Optimal Performance - Download Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/triumph-over-ten-common-vlogging-worries-for-2024/"><u>Triumph Over Ten Common Vlogging Worries for 2024</u></a></li>
+</ul></div>
+

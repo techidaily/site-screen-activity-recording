@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Pull Off Professional Video Edits with Ken Burns Effect"
-date: 2024-08-29T08:32:39.664Z
-updated: 2024-08-30T08:32:39.664Z
+date: 2024-10-03T23:33:40.772Z
+updated: 2024-10-10T10:30:31.287Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-video-setups-perfect-self-portraits-for-youtubers/"><u>[New] 2024 Approved DIY Video Setups Perfect Self-Portraits for YouTubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-simple-smooth-gaming-video-editors-for-starters/"><u>[New] 2024 Approved Unveiling Simple, Smooth Gaming Video Editors for Starters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-deciphering-ios-mechanism-for-image-capture/"><u>[New] In 2024, Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[New] In 2024, Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-12-tycoons-the-ultimate-challenge-for-every-gamer-for-2024/"><u>[New] Top 12 Tycoons - The Ultimate Challenge for Every Gamer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[Updated] 2024 Approved Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mobile-magic-instagram-covers-iphone-plus-android/"><u>[Updated] Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sharpsnap-recorder-for-windows-10/"><u>[Updated] SharpSnap Recorder for Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-what-do-podcast-producers-really-make-for-2024/"><u>[Updated] What Do Podcast Producers Really Make for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cd-revival-why-physical-music-formats-are-making-a-comeback/"><u>CD Revival: Why Physical Music Formats Are Making a Comeback</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-easel-alterations-color-command-for-2024/"><u>Expertise in Easel Alterations - Color Command for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-8-access-free-eco-friendly-vfx-backdrops-online/"><u>In 2024, Top 8 Access Free Eco-Friendly VFX Backdrops Online</u></a></li>
+</ul></div>
+

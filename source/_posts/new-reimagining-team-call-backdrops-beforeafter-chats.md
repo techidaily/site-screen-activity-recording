@@ -1,7 +1,7 @@
 ---
 title: "[New] Reimagining Team Call Backdrops Before/After Chats"
-date: 2024-10-01T01:07:08.756Z
-updated: 2024-10-05T04:40:08.208Z
+date: 2024-10-07T20:03:07.869Z
+updated: 2024-10-09T22:05:51.163Z
 tags: 
   - screen-recording
   - ai video
@@ -35,16 +35,16 @@ Teams enables you to use a virtual background before you start or join a meeting
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -63,13 +63,6 @@ Teams enables you to use a virtual background before you start or join a meeting
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1: Prepare for a Teams Meeting**
 
 Launch Microsoft Teams on your laptop (a Windows 10 PC is used here for demonstration). Make sure that the **Chat** option is selected from the left pane, click the **New Meeting** (**Camcorder**) icon from the upper-right area of the **Chat** pane, and click **Start meeting**.
@@ -87,10 +80,10 @@ From the images available in the **Background settings** pane on the right, clic
 ![change background on teams before meeting](https://images.wondershare.com/filmora/article-images/change-background-in-teams-before-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change Your Microsoft Teams Background During a Meeting on Laptop?
@@ -109,18 +102,18 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 ![apply background on Teams meeting](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Change the Background**
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
 
 ![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
@@ -142,6 +135,13 @@ Click to select any other background from the **Background settings** pane, loca
 
 ![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
 Even the mobile versions of Microsoft Teams let you change the background. However, the restriction is, you must start or join a meeting before the **More actions** icon appears at the bottom of the screen. To learn **how to change background in Microsoft Teams mobile app**, you can follow the step-by-step instructions that are given below:
@@ -151,6 +151,13 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
 ![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Get to the Select background Screen**
 
@@ -162,22 +169,16 @@ Once the meeting starts, tap the **More actions** icon from the bottom of the sc
 
 ![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Filmora - Best Teams Meeting Recorder
 
@@ -196,19 +197,6 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs About Changing Background in Microsoft Teams Meeting
 
@@ -234,10 +222,10 @@ You can find more details on this (<https://answers.microsoft.com/en-us/msteams/
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -255,16 +243,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screen-to-air-assessing-obs-and-twitch-studios-features/"><u>[New] 2024 Approved Screen to Air Assessing OBS and Twitch Studio's Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users/"><u>[New] 8 Compelling No-Cost Video Calls Applications for PC and MAC Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-converting-mac-image-types-a-step-by-step-process-for-2024/"><u>[New] Converting Mac Image Types A Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion/"><u>[New] In 2024, Advanced Audio Softening Techniques for the Proficient User on Lumafusion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-10-royale-showdowns/"><u>[Updated] 2024 Approved Ultimate 10 Royale Showdowns</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-top-10-lifters-drones-that-move-mountains/"><u>[Updated] The Top 10 Lifters Drones That Move Mountains</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity-for-2024/"><u>[Updated] Unlock Screen Capture Potential with Expert Tips From Adobe Captivity for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-radial-blur-photoshop-edition/"><u>2024 Approved Mastering Radial Blur Photoshop Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/deciphenas-luts-revolutionizing-photo-editing-techniques/"><u>Deciphenas LUTs Revolutionizing Photo Editing Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-youtube-presence-with-custom-animated-subscription-buttons-in-filmora/"><u>In 2024, Elevate Your YouTube Presence with Custom Animated Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-igniting-curiosity-and-participation-in-fb-giveaway-initiatives/"><u>[New] 2024 Approved Igniting Curiosity and Participation in FB Giveaway Initiatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-accelerated-video-maker-time-lapse-edition/"><u>[New] In 2024, Accelerated Video Maker Time-Lapse Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-obs-audio-fix-strategies-quickly/"><u>[New] OBS Audio Fix Strategies Quickly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prime-zero-dollar-webcam-recorder-app/"><u>[New] Prime Zero-Dollar Webcam Recorder App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-your-overwatch-sessions-recording/"><u>[Updated] In 2024, Streamlining Your Overwatch Sessions Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discover-unique-features-of-the-missing-iphone-x/"><u>2024 Approved Discover Unique Features of the Missing iPhone X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/convenient-ways-to-document-game-sessions-for-2024/"><u>Convenient Ways to Document Game Sessions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-knowledge-for-effective-screensaver-use-in-mobile-applications-for-2024/"><u>Essential Knowledge for Effective Screensaver Use in Mobile Applications for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-logitechs-elite-4k-webcam-exhaustive-features-and-usability/"><u>In 2024, Logitech’s Elite 4K Webcam Exhaustive Features & Usability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-stuttering-video-on-photo-booth-app/"><u>In 2024, Troubleshooting Stuttering Video on Photo Booth App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revelations-on-elon-musks-ai-endeavor-the-mystery-behind-truthgpt/"><u>Revelations on Elon Musk’s AI Endeavor – The Mystery Behind TruthGPT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-guide-how-to-watch-social-media-videos-on-your-apple-tv/"><u>Step by Step Guide How to Watch Social Media Videos on Your Apple TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-to-resolving-battlefield-5-startup-problems/"><u>Troubleshooting Guide to Resolving Battlefield 5 Startup Problems</u></a></li>
 </ul></div>
 

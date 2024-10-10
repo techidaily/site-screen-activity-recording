@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-10-02T23:22:52.009Z
-updated: 2024-10-05T04:24:33.266Z
+date: 2024-10-03T01:10:20.727Z
+updated: 2024-10-09T19:28:19.625Z
 tags: 
   - screen-recording
   - ai video
@@ -73,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
@@ -92,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -109,16 +115,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -137,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -151,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -183,22 +183,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-hear-the-difference-mac-in-sound-recording/"><u>[New] 2024 Approved Hear the Difference Mac in Sound Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-moonlit-mastery-tips-for-perfecting-nighttime-photos/"><u>[New] 2024 Approved Moonlit Mastery Tips for Perfecting Nighttime Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-compreenas-for-snapchat-success-stories/"><u>[New] 2024 Approved The Compreenas for SnapChat Success Stories</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>[New] 2024 Approved Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-screen-capture-tools-no-lag-just-clarity/"><u>[New] In 2024, Prime Screen Capture Tools - No Lag, Just Clarity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncovering-budget-friendly-video-conferencing-tools-for-all-systems-for-2024/"><u>[New] Uncovering Budget-Friendly Video Conferencing Tools for All Systems for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-your-mi-11-screens-step-by-step-for-2024/"><u>[Updated] Capturing Your Mi 11 Screens - Step by Step for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cerebral-quests-the-ultimate-list-of-escape-rooms-for-2024/"><u>[Updated] Cerebral Quests The Ultimate List of Escape Rooms for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[Updated] In 2024, Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>[Updated] Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>2024 Approved From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-journey-beyond-boundaries-secure-this-top-7-metavue-tech/"><u>2024 Approved Journey Beyond Boundaries - Secure This Top 7 Metavue Tech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/5-simple-methods-to-enhance-and-clarify-blurry-images-movavis-guide/"><u>5 Simple Methods to Enhance and Clarify Blurry Images - Movavi's Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-tools-unlock-a-world-of-dvd-experience-on-devices/"><u>Free Tools Unlock a World of DVD Experience on Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a54-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A54 5G Is Unlocked</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unlock-the-full-potential-of-your-iphones-voice-memo-for-2024/"><u>Unlock the Full Potential of Your iPhone's Voice Memo for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-best-no-cost-video-enhancement-platforms/"><u>[New] 5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-8-premier-no-lag-screen-capture-tools/"><u>[New] In 2024, 8 Premier No-Lag Screen Capture Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlined-guide-to-ingesting-ipodcast-content/"><u>[Updated] 2024 Approved Streamlined Guide to Ingesting IPodcast Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-android-screen-grabber/"><u>2024 Approved Seamless Android Screen Grabber</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-unique-podcast-logos-visibility-tips/"><u>Crafting Unique Podcast Logos Visibility Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/illustrators-playground-navigating-through-top-8-iphone-drawing-tools-for-2024/"><u>Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/immediate-video-capture-and-audio-guide-app/"><u>Immediate Video Capture & Audio Guide App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-conversation-designing-unique-chatgpts/"><u>Innovating Conversation: Designing Unique ChatGPTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laugh-ledger-premium-free-meme-collections/"><u>Laugh Ledger Premium, FREE Meme Collections</u></a></li>
+<li><a href="https://common-error.techidaily.com/nier-automata-pc-stability-improvements-how-to-prevent-frequent-crashes/"><u>NieR: Automata PC Stability Improvements: How to Prevent Frequent Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd-for-2024/"><u>Unveiling the Secrets Detailed Guide on Capturing Screens with ZD for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights</u></a></li>
 </ul></div>
 

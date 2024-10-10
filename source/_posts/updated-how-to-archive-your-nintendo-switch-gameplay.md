@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Archive Your Nintendo Switch Gameplay"
-date: 2024-10-01T19:10:48.044Z
-updated: 2024-10-05T04:47:36.784Z
+date: 2024-10-04T05:19:37.988Z
+updated: 2024-10-10T13:16:14.633Z
 tags: 
   - screen-recording
   - ai video
@@ -74,13 +74,20 @@ Let’s take Smach Bros as an example. To do the recording, follow the steps:
 
 **Step 1:** As soon as you have finished the game, the screen of the final score appears. A button appears at the top right down corner of the screen ‘Do you want to save the game’. ![smash-bro-ending](https://images.wondershare.com/filmora/article-images/smash-bros-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the ‘Y’ button and then click on ‘Save.’![smash-bros-saving](https://images.wondershare.com/filmora/article-images/smash-bros-saving.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to save the gameplay. The game replay will be lost if you do so.
@@ -89,18 +96,18 @@ Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to
 
 To convert the replays in the video, a straightforward option is given in the menu ‘Convert to Video.’ Go to the replay that you would like to save. Look at the right down corner and click on the ‘Convert to Video’ option.![video-quality-interface](https://images.wondershare.com/filmora/article-images/gameplay-quality1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tips: Within the video conversion settings, you can include information about the display, music, sound effects, and video quality of the replay. Check all these settings and select them the way you want your gameplay to be. Video quality is the most important thing to consider.
 
 **Step 4:** Your gameplay will be converted to the video. In the videos section of the game menu, you will find all the videos that you have saved. Now power off your Switch and remove the SD card from your Switch. Connect the SD card with PC, it will appear in the folders shown below.
 
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Record your whole gameplay with Capture Card
 
@@ -110,10 +117,23 @@ Choose your capture card, connect it with Nintendo switch and your PC, you can c
 * **Step 2:** Select screen area that you want to save.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Step 3:** Hit microphone to choose from audio sources.
@@ -139,25 +159,11 @@ Nintendo Switch allows you to trim video easily in album:
 
 ![zelda-trim](https://images.wondershare.com/filmora/article-images/zelda-trim.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Edit gameplay with Filmora X
 
 Filmora X is a multipurpose video editing tool that can be used to edit your videos in the best possible way. One way is to edit the gaming montage is by editing it to the beat and the other is the speed control. Beat detection by beat marker is done by software automatically and adjusted with the video. Speed control is the key element here and adjusts it with the video. Adjust the speed by adjusting the duration. You can also add effects such as clinches to the video while adjusting the speed.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Conclusion**
 
@@ -180,18 +186,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-checklist-to-record-web-chats/"><u>[New] 2024 Approved The Ultimate Checklist to Record Web Chats</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-dissonant-designs-mastering-on-a-mac/"><u>[New] Dissonant Designs Mastering on a Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>[New] In 2024, Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-ios-guide-to-superior-psp-emulators/"><u>[New] In 2024, The Ultimate iOS Guide to Superior PSP Emulators</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-strategies-for-documenting-ps3-matches/"><u>[Updated] In 2024, Essential Strategies for Documenting PS3 Matches</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-high-definition-audio-essentials-the-top-6-mics-for-livestreaming/"><u>2024 Approved High-Definition Audio Essentials The Top 6 Mics for Livestreaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/boosting-gaming-engagement-with-high-quality-steam-captures-for-2024/"><u>Boosting Gaming Engagement with High Quality Steam Captures for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-chat-solutions-to-replace-skype-this-year/"><u>Discover the Best Free Chat Solutions to Replace Skype This Year</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>In 2024, Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-playback-tips-and-tricks-for-infinite-youtube-views-for-2024/"><u>Seamless Playback Tips & Tricks for Infinite Youtube Views for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-add-a-countdown-timer-in-obs/"><u>[New] 2024 Approved How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-immersive-animal-life-on-android-ultimate-list/"><u>[New] 2024 Approved Immersive Animal Life on Android Ultimate List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-irecorder-unleashed-a-review-revealed/"><u>[New] 2024 Approved IRecorder Unleashed A Review Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>[New] In 2024, Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>[New] In 2024, Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>[Updated] In 2024, The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-asus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Asus?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-premier-iphone-tone-producers-for-2024/"><u>Ultimate List Premier iPhone Tone Producers for 2024</u></a></li>
 </ul></div>
 
