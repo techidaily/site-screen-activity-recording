@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2024-10-06T11:24:12.811Z
-updated: 2024-10-10T07:35:17.262Z
+date: 2024-10-15T19:36:47.259Z
+updated: 2024-10-16T16:10:51.705Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -69,6 +69,13 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -106,21 +113,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -138,6 +131,13 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -145,24 +145,24 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -179,20 +179,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-twitch-broadcasting-techniques/"><u>[New] 2024 Approved Top 5 Twitch Broadcasting Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-strategies-for-photovideo-importers-in-win11/"><u>[New] Exclusive Strategies for Photo/Video Importers in Win11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-avoid-spending-discover-the-finest-free-mac-screen-recorders/"><u>[New] In 2024, Avoid Spending Discover the Finest Free Mac Screen Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-tech-choices-for-virtual-meetings/"><u>[New] In 2024, Leading Tech Choices for Virtual Meetings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-game-recordings-on-fortnite-for-2024/"><u>[New] Mastering Game Recordings on Fortnite for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-videos-understanding-time-constraints-for-2024/"><u>[Updated] Mastering Instagram Videos Understanding Time Constraints for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-indoor-brightness-sunlight-strategies-inside/"><u>2024 Approved Mastering Indoor Brightness Sunlight Strategies Inside</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-moto-g14-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Moto G14.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/hasty-handlings-of-slideshow-documentation-for-2024/"><u>Hasty Handlings of Slideshow Documentation for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-beyond-virtualdub-exploring-other-video-editing-software-options/"><u>In 2024, Beyond VirtualDub Exploring Other Video Editing Software Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g14-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G14 Lock Screen Password</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-transforming-gameplay-into-visual-stories-using-obs/"><u>In 2024, Transforming Gameplay Into Visual Stories Using OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-webcam-wizardry-crafting-ultimate-gamer-footage/"><u>In 2024, WebCam Wizardry Crafting Ultimate Gamer Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/simplified-video-sharing-via-ms-vision-suite-for-2024/"><u>Simplified Video Sharing via MS Vision Suite for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-instant-impression-audiovisual-capture/"><u>[New] 2024 Approved Instant Impression Audiovisual Capture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-maximizing-mac-audio-quality-in-mixer-streaming/"><u>[New] 2024 Approved Maximizing Mac Audio Quality in Mixer Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-comparative-analysis-of-screen-capture-software-obs-and-fraps/"><u>[New] In 2024, Comparative Analysis of Screen Capture Software OBS and Fraps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-6-android-apps-for-immersive-music-videos/"><u>[New] In 2024, Top 6 Android Apps for Immersive Music Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimizing-your-livestream-youtube-twitch-with-obs/"><u>[New] Optimizing Your Livestream YouTube, Twitch with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pixelated-pastures-celebrating-rural-games-for-2024/"><u>[New] Pixelated Pastures Celebrating Rural Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2024s-top-camera-lineup-for-professional-use/"><u>[Updated] 2024’S Top Camera Lineup for Professional Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-strategies-for-flawless-custom-shorts-coverage/"><u>[Updated] In 2024, Cutting-Edge Strategies for Flawless Custom Shorts Coverage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-keep-your-games-bright-solutions-for-avoiding-obs-black-screens/"><u>[Updated] In 2024, Keep Your Games Bright Solutions for Avoiding OBS Black Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>2024 Approved Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
 </ul></div>
 

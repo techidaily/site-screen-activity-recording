@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fade Perfection  Quick Tips and Tricks for 2024\""
-date: 2024-10-05T09:40:19.197Z
-updated: 2024-10-10T07:54:27.033Z
+date: 2024-10-12T19:11:30.196Z
+updated: 2024-10-16T17:50:41.208Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ If you’re using the latest version of Filmora, there’re several ways you can
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Add Dissolve Transitions to Video to Fade in and Fade out Video Footage
 
 The first way to fade in and fade out the footage in Filmora is by applying dissolve transition. The dissolve, also called lap dissolve sometimes, is a gradual transition from one image to another. It is often used when the first image starts to disappear and the next image starts to display gradually.
@@ -45,16 +52,23 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
 ![Add Dissolve to Fade video in Filmora9 ](https://images.wondershare.com/filmora/article-images/dissolve-transtion-filmora9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Drag the Dissolve transition to the beginning part of the clip, and then drag the Dissolve transition again to the end of the clip.
@@ -62,13 +76,6 @@ Here is how to add dissolve transition in Filmora.
 Besides applying Dissolve transition to fade video, you can also try the Fade or transitions under Ripple & Dissolve category such as Dispersion blur, evaporate, ripple, wind, swirl, or wave.
 
 ![Ripple & Dissolve Transtions in Filmora9 ](https://images.wondershare.com/filmora/article-images/ripple-dissolve-transtions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You can adjust the duration of the Dissolve transition to get a better result.
 
@@ -91,35 +98,15 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 
 ![Add  black color screen   to video in Filmora  ](https://images.wondershare.com/filmora/article-images/add-sample-color-screen-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -133,6 +120,19 @@ Double click on the video footage in the timeline, and then go to the Animation 
 Here are Preset and Customize options available, in order to create a fade effect, click the Customize option and you will see the screen like below:
 
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
 
@@ -163,19 +163,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-stardom-a-beginners-blueprint/"><u>[New] 2024 Approved Instagram Stardom A Beginner's Blueprint</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-crafting-time-lapses-with-your-ipad-easefully-for-2024/"><u>[New] Crafting Time-Lapses with Your iPad Easefully for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>[New] In 2024, Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-visioncapture-x-high-quality-edition/"><u>[New] In 2024, VisionCapture X High-Quality Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] 2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-game-changing-ps4-screen-recordings-using-obs/"><u>[Updated] Game-Changing PS4 Screen Recordings Using OBS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>[Updated] In 2024, Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastery-of-tasks-with-the-help-of-ez-grabber-for-2024/"><u>[Updated] Mastery of Tasks with the Help of EZ Grabber for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-poll-power-play-best-election-strategy-games/"><u>2024 Approved Poll Power Play Best Election Strategy Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-online-de-archivos-swf-a-formatos-mkv-sin-coste-habilidades-con-movavi/"><u>Conversión Online De Archivos SWF a Formatos MKV Sin Coste: Habilidades Con Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/engaging-sims-4-experience-through-recording-for-2024/"><u>Engaging Sims 4 Experience Through Recording for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-google-pixel-7a-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Google Pixel 7a for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proximity-prowess-mastering-the-art-of-roblox-magnification-for-2024/"><u>Proximity Prowess Mastering the Art of Roblox Magnification for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcpx-freebie-list-10-best-plugins-for-2024/"><u>The Ultimate FCPX Freebie List 10 Best Plugins for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comparing-screen-recorders-the-leader-vs-contenders/"><u>[New] Comparing Screen Recorders The Leader Vs. Contenders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-audio-the-ultimate-guide-to-music-icons/"><u>[New] Instagram Audio The Ultimate Guide to Music Icons</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>[Updated] 2024 Approved Real-Time Capture Mastery Discover the Top 4 Livestream Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-compre-cookie-cutter-webinar-logging-a-windows-and-macos-manual/"><u>[Updated] Compre Cookie Cutter Webinar Logging A Windows & macOS Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelsnapper-professional-edition-for-2024/"><u>[Updated] PixelSnapper Professional Edition for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/explore-the-top-10-online-courses-providers-revolutionizing-education/"><u>Explore the Top 10 Online Courses Providers Revolutionizing Education</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-socialsound-maker-twitter-audio/"><u>In 2024, SocialSound Maker Twitter Audio</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-google-pixel-8-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Google Pixel 8 to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

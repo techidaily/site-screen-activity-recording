@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Android Screenshots in 4 Steps\""
-date: 2024-08-24T19:52:11.444Z
-updated: 2024-08-25T19:52:11.444Z
+date: 2024-10-11T19:37:03.876Z
+updated: 2024-10-16T17:22:38.816Z
 tags: 
   - screen-recording
   - ai video
@@ -105,15 +105,19 @@ Android Debug Bridge is a command-line utility that can control your Android Sma
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
 
 #### Step 2: Connecting the Android Smartphone to a computer
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-confirm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Use the USB cable to connect your Android device to a computer, and before proceeding any further enable the USB Debugging and Developer features on your phone.
 
 A pop-up message should appear on your Smartphone's screen asking you if you'd like to allow debugging from the PC to which the device is connected. Click OK and head back to the ADB terminal you launched.
@@ -124,16 +128,17 @@ You should be able to see the terminal window on your computer's screen. Run tes
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
 
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
 
 **Pros:** Enables users who have KitKat OS installed on their Smartphones to capture the screen on their device.
@@ -142,18 +147,6 @@ The session cannot be longer than three minutes, but if you want to stop recordi
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Capture Android Screen on a Computer with Mirroring Software
 
 Both the methods I mentioned above require Android 4.1 (Jelly bean) or later on your device. That doesn’t necessarily mean that you can’t record video with older android devices.
@@ -174,8 +167,12 @@ Click on the Android Recorder button to stop the session, and once the screen ca
 ---
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Capture Screen on Android with Capture Card
 
 Capture Cards are devices that enable you to record screens on a wide range of different devices including X-box or PS4\. Although they are frequently used to capture the gameplay of a video game, capture cards can also be used to capture a screen on an Android Smartphone.
@@ -191,15 +188,17 @@ Sometimes you shouldn’t depend on installing apps. With the help of a ROM flas
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +206,20 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-syncing-sounds-to-visuals-online-for-2024/"><u>[New] Syncing Sounds to Visuals Online for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[New] Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-two-simple-tweaks-for-skyrocketing-youtube-traffic/"><u>[Updated] In 2024, Two Simple Tweaks for Skyrocketing YouTube Traffic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2023s-ultimate-capture-software-revisited/"><u>2023'S Ultimate Capture Software Revisited</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-search-of-alternatives-to-vlc-media-player/"><u>2024 Approved In Search of Alternatives to VLC Media Player</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-solutions-for-storing-mov-files-in-windows-10/"><u>2024 Approved Innovative Solutions for Storing Mov Files in Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-spherical-videos-the-iphone-way/"><u>2024 Approved Making Spherical Videos The iPhone Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-master-of-mayhem-top-10-roguelites/"><u>2024 Approved Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-your-content-explore-the-most-admirable-33-video-reducers-for-2024/"><u>Compact Your Content Explore the Most Admirable 33 Video Reducers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhance-with-ease-introduction-to-video-enhancer-v22/"><u>Enhance with Ease Introduction to Video Enhancer V2.2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-boosting-engagement-and-reach-secrets-of-instagram-video-uploads-on-desktop/"><u>In 2024, Boosting Engagement & Reach Secrets of Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-ways-streaming-and-recording-real-time-sport-events/"><u>In 2024, Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
+</ul></div>
+

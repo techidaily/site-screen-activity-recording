@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Minecraft Geometries  Circular & Spherical Designs for 2024\""
-date: 2024-08-29T08:26:48.762Z
-updated: 2024-08-30T08:26:48.762Z
+date: 2024-10-12T16:03:38.872Z
+updated: 2024-10-16T19:23:49.015Z
 tags: 
   - screen-recording
   - ai video
@@ -67,13 +67,34 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -91,13 +112,18 @@ Creating such amazing things and sharing them on your social media and video sha
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,6 +131,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-knowledge-for-optimal-valheim-harvest/"><u>[New] 2024 Approved Essential Knowledge for Optimal Valheim Harvest</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-swift-moments-visual-and-auditory-sniped/"><u>[New] Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-the-social-sea-identifying-unfollowers-on-instagram/"><u>[Updated] Navigating the Social Sea Identifying Unfollowers on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-zombies-unleashed-a-curated-list/"><u>2024 Approved Essential Zombies Unleashed A Curated List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revitalize-your-virtual-team-sessions-with-google-hangouts/"><u>2024 Approved Revitalize Your Virtual Team Sessions with Google Hangouts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-experts-guide-to-live-classroom-capturing-via-macos/"><u>2024 Approved The Expert's Guide to Live Classroom Capturing via MacOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-fidelity-in-mac-screen-and-audio-recording/"><u>2024 Approved Ultimate Fidelity in Mac Screen & Audio Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/archive-gamers-best-runs-using-samsung-phones-for-2024/"><u>Archive Gamer's Best Runs Using Samsung Phones for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-mouse-drivers-in-windows-7-download-successfully-tested/"><u>Easy Guide to Installing Mouse Drivers in Windows 7 – Download Successfully Tested</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-advice-on-maximizing-fidelity-in-vr-recording-for-2024/"><u>Expert Advice on Maximizing Fidelity in VR Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-in-class-skype-recorders-ranked/"><u>In 2024, Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-stutter-on-windows-10-heres-how-you-can-fix-it/"><u>Keyboard Stutter on Windows 10? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win11-how-to-resolve-stalled-file-transfers-4/"><u>Overcoming WIN11: How to Resolve Stalled File Transfers (4)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-se-2022-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone SE (2022) Before the Plan Expires</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsiphoneandroidtop5/"><u>Windows、iPhone、Android用動画連結手法TOP5 - スムーズな映像編集</u></a></li>
+</ul></div>
+

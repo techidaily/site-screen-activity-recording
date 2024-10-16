@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Your Switch Pro Controller on Steam for 2024"
-date: 2024-10-08T08:23:50.799Z
-updated: 2024-10-09T23:06:56.558Z
+date: 2024-10-15T18:24:10.152Z
+updated: 2024-10-16T19:26:39.205Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -69,33 +62,19 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
@@ -108,6 +87,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -122,6 +108,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -139,6 +132,13 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -154,18 +154,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-techniques-for-quality-controlled-skype-call-captures/"><u>[New] 2024 Approved Techniques for Quality-Controlled Skype Call Captures</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>[New] In 2024, Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-indulge-in-pure-play-celebrating-the-top-10-offline-games-for-2024/"><u>[New] Indulge in Pure Play - Celebrating the Top 10 Offline Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio-for-2024/"><u>[New] Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crucial-techniques-for-documenting-lol-wars/"><u>[Updated] In 2024, Crucial Techniques for Documenting LOL Wars</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-recording-gear-for-environmentalists/"><u>[Updated] In 2024, Essential Recording Gear for Environmentalists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-record-everything-pay-nothing-screen-tools-for-all-users/"><u>[Updated] In 2024, Record Everything, Pay Nothing - Screen Tools for All Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tactical-approaches-to-harvesting-hd-content-from-social-feeds/"><u>[Updated] In 2024, Tactical Approaches to Harvesting HD Content From Social Feeds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-switching-file-extensions-for-your-mac-snapshots/"><u>2024 Approved Switching File Extensions for Your Mac Snapshots</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-new-driver-updates-for-your-gtx-1650-super-gpu-on-the-latest-windows-11-os-free-download/"><u>How to Install New Driver Updates for Your GTX 1650 Super GPU on the Latest Windows 11 OS (Free Download)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-e-stores-for-securely-downloading-youtube-ringtones/"><u>Leading E-Stores for Securely Downloading YouTube Ringtones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-titles-unveiling-the-top-8-mobile-games-to-play-now/"><u>Leading Titles: Unveiling the Top 8 Mobile Games to Play Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[New] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exclusive-access-to-top-15-android-virtualization-apps-mac-and-pc/"><u>[New] In 2024, Exclusive Access to Top 15 Android Virtualization Apps (Mac & PC)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seeking-the-perfect-cut-choose-between-filmora-or-democreator/"><u>[Updated] 2024 Approved Seeking the Perfect Cut? Choose Between Filmora or Democreator</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-essential-steps-for-fb-file-transfers-on-linux-mac/"><u>[Updated] Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-the-process-of-ppt-recording/"><u>[Updated] Streamlining the Process of PPT Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-using-vlc-for-videos/"><u>[Updated] Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-understanding-du-recorder-through-this-guide-for-2024/"><u>[Updated] Understanding Du Recorder Through This Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-the-premier-android-emulators-for-ps2-games-for-2024/"><u>[Updated] Unveiling the Premier Android Emulators for PS2 Games for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-your-free-guide-to-android-device-screenshots-for-2024/"><u>[Updated] Your FREE Guide to Android Device Screenshots for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-future-proof-file-storage-essential-cloud-services-revealed/"><u>2024 Approved Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-list-of-premium-cost-free-webm-streaming-services-for-2024/"><u>Essential List of Premium, Cost-Free WebM Streaming Services for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-recording-pros-and-cons-obs-and-shadowplay/"><u>Game Recording Pros & Cons OBS and ShadowPlay</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-6-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 6 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/kopieren-sie-ihre-uefi-festplattengrosse-auf-eine-ssd-und-machen-sie-es-bootfahig-mit-gpt/"><u>Kopieren Sie Ihre UEFI-Festplattengröße Auf Eine SSD Und Machen Sie Es Bootfähig Mit GPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-to-using-bandicam-insights-users/"><u>Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
 </ul></div>
 

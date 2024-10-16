@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-10-03T01:10:20.727Z
-updated: 2024-10-09T19:28:19.625Z
+date: 2024-10-11T17:32:23.715Z
+updated: 2024-10-16T17:31:02.348Z
 tags: 
   - screen-recording
   - ai video
@@ -72,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -98,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -115,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -137,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -144,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -168,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -183,17 +177,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-5-best-no-cost-video-enhancement-platforms/"><u>[New] 5 Best No-Cost Video Enhancement Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-8-premier-no-lag-screen-capture-tools/"><u>[New] In 2024, 8 Premier No-Lag Screen Capture Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlined-guide-to-ingesting-ipodcast-content/"><u>[Updated] 2024 Approved Streamlined Guide to Ingesting IPodcast Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-android-screen-grabber/"><u>2024 Approved Seamless Android Screen Grabber</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-unique-podcast-logos-visibility-tips/"><u>Crafting Unique Podcast Logos Visibility Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/illustrators-playground-navigating-through-top-8-iphone-drawing-tools-for-2024/"><u>Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/immediate-video-capture-and-audio-guide-app/"><u>Immediate Video Capture & Audio Guide App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-conversation-designing-unique-chatgpts/"><u>Innovating Conversation: Designing Unique ChatGPTs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/laugh-ledger-premium-free-meme-collections/"><u>Laugh Ledger Premium, FREE Meme Collections</u></a></li>
-<li><a href="https://common-error.techidaily.com/nier-automata-pc-stability-improvements-how-to-prevent-frequent-crashes/"><u>NieR: Automata PC Stability Improvements: How to Prevent Frequent Crashes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd-for-2024/"><u>Unveiling the Secrets Detailed Guide on Capturing Screens with ZD for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-crafting-dynamic-duo-videos-on-macos-sierra-for-2024/"><u>[New] Crafting Dynamic Duo Videos on macOS Sierra for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cutting-edge-zooid-formulation-tools/"><u>[New] Cutting-Edge Zooid Formulation Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-epicurean-elites-top-food-vloggers-you-cant-miss-for-2024/"><u>[New] Epicurean Elites Top Food Vloggers You Can't Miss for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-shoppers-ultimate-list-of-top-rated-webcams/"><u>[New] In 2024, Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-integrating-masks-and-filters-to-improve-google-meet-engagement-for-2024/"><u>[Updated] Integrating Masks and Filters to Improve Google Meet Engagement for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-grandmasters-choice-best-martial-arts-games-list/"><u>[Updated] The Grandmasters' Choice Best Martial Arts Games List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advanced-tips-for-nvidia-recorded-content/"><u>2024 Approved Advanced Tips for NVIDIA Recorded Content</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/beste-youtube-zu-wav-konverter-fur-download-and-konvertierung-laden-sie-ihre-lieblingsvideos-jetzt/"><u>Beste YouTube Zu WAV-Konverter Für Download & Konvertierung - Laden Sie Ihre Lieblingsvideos Jetzt</u></a></li>
+<li><a href="https://fox-place.techidaily.com/complete-guide-restoring-deleted-or-accidentally-altered-text-in-microsoft-word-files-docx-on-windows-11/"><u>Complete Guide: Restoring Deleted or Accidentally Altered Text in Microsoft Word Files (DOCX) on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-creating-health-objectives-using-chatgpt/"><u>Effective Strategies for Creating Health Objectives Using ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-eveo-usb-bluetooth-receivers-latest-firmware-here/"><u>Get Your EVEO USB Bluetooth Receiver's Latest Firmware Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-distinctions-between-gpt-4-gpt-4-turbo-and-phi/"><u>Unveiling the Distinctions Between GPT-4, GPT-4 Turbo, and Phi</u></a></li>
 </ul></div>
 

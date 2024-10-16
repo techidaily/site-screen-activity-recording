@@ -1,7 +1,7 @@
 ---
 title: "[New] Game Recording Made Easy with Xbox One Capture Techniques"
-date: 2024-10-07T11:22:48.161Z
-updated: 2024-10-10T09:12:10.324Z
+date: 2024-10-11T17:55:08.068Z
+updated: 2024-10-16T16:20:23.268Z
 tags: 
   - screen-recording
   - ai video
@@ -52,13 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
@@ -66,10 +59,10 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -83,10 +76,10 @@ Keep in mind that 4K screenshots are significantly larger in size than those in 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
@@ -94,6 +87,13 @@ Older versions of Xbox One feature the Kinect motion sensor, while the more rece
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -120,10 +120,10 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,24 +141,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-best-video-calling-software-on-phone-and-pc-for-2024/"><u>[New] 10 Best Video Calling Software on Phone and PC for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-vegas-pro-19-review/"><u>[New] 2024 Approved VEGAS Pro 19 Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-comprehensive-compendium-all-features-of-bublcams-360-degree-lens-for-2024/"><u>[New] Comprehensive Compendium All Features of Bublcam's 360-Degree Lens for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nsight-into-tseries-earnings-and-profitability-through-youtube-channels-for-2024/"><u>[New] Insight Into TSeries' Earnings and Profitability Through YouTube Channels for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-soundsreview-summary/"><u>[Updated] In 2024, SoundsReview Summary</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pros-of-expanded-ram-in-minecraft-gaming-world/"><u>[Updated] Pros of Expanded Ram in Minecraft Gaming World</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps/"><u>2024 Approved Secure Your Conversations on the Go with Top 10 Mobile Chat Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-tactical-tagging-for-towering-youtube-traction/"><u>2024 Approved Tactical Tagging for Towering YouTube Traction</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-users-handbook-for-zd-softs-screen-recorder/"><u>2024 Approved Ultimate User’s Handbook for ZD Soft's Screen Recorder</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>2024 Approved YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/correcting-muted-voice-in-obs-broadcasts-for-2024/"><u>Correcting Muted Voice in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50-gt-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-guide-fixing-unloaded-textures-in-warzone-gameplay/"><u>How-To Guide: Fixing Unloaded Textures in Warzone Gameplay</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>In 2024, Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>In 2024, Step by Step How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/jumping-to-ais-next-chapter-gpt-4-vs-gpt-35/"><u>Jumping to AI's Next Chapter: GPT-4 Vs. GPT-3.5</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/seamless-conversion-switching-from-webm-to-wmv-files-both-offline-and-online/"><u>Seamless Conversion: Switching From WebM to WMV Files Both Offline & Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-achieving-seamless-background-blurs-in-video-calls/"><u>[New] 2024 Approved Achieving Seamless Background Blurs in Video Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-techniques-for-effective-mobile-screen-capturing-with-mobizen-for-2024/"><u>[New] Advanced Techniques for Effective Mobile Screen Capturing with Mobizen for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhancing-webcam-gaming-experience-and-quality-for-2024/"><u>[New] Enhancing WebCam Gaming Experience & Quality for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-4k-camera-guide-low-cost-options-(1000/"><u>[Updated] 2024 Approved 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>[Updated] 2024 Approved Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlock-xbox-gaming-memories-with-these-4-methods/"><u>[Updated] 2024 Approved Unlock Xbox Gaming Memories with These 4 Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-graphics-genesis-radeon-reclaimed/"><u>[Updated] Graphics Genesis Radeon Reclaimed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-chart-to-screen-recorder-for-2024/"><u>[Updated] Prime Chart to Screen Recorder for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi 13T Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-relay-youtube-playlists-to-the-public/"><u>2024 Approved Rapid Relay Youtube Playlists to the Public</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-superior-sound-capture-insiders-list-of-the-best-9-microphones-online/"><u>2024 Approved Superior Sound Capture Insider's List of the Best 9 Microphones Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a54-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A54 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y28-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y28 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-setup-integrating-latest-network-drivers-from-intel-in-fedora/"><u>Precision Setup: Integrating Latest Network Drivers From Intel in Fedora</u></a></li>
 </ul></div>
 
