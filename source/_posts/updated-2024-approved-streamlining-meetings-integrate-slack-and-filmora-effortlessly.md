@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Streamlining Meetings  Integrate Slack & Filmora Effortlessly\""
-date: 2024-10-10T17:49:39.428Z
-updated: 2024-10-16T18:57:39.745Z
+date: 2024-10-18T00:46:55.202Z
+updated: 2024-10-21T21:08:36.025Z
 tags: 
   - screen-recording
   - ai video
@@ -63,13 +63,6 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Record Slack Meetings
 
 All the text messages on Slack are backed up and can easily be searched and shared again. But, what if you start an audio or video Slack meeting? Until now, no feature enables you to record Slack meeting.
@@ -86,6 +79,13 @@ Here is how you can record Slack meeting.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3.Tap on **Add** **to** **Slack**.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
@@ -94,33 +94,33 @@ Here is how you can record Slack meeting.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
+<span id="1982485">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7.Click on **Join** to start the meeting.
 
@@ -140,15 +140,28 @@ The settings tab in the video call enables you to create a name for the video ca
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -158,13 +171,6 @@ Slack is dedicated to making virtual communication and workflow seamless. This v
 With this powerful tool and our guide at hand, you can transform your work life and be more productive. Whether you want to start an audio or video meeting, Slack has got you covered. Collaborate and coordinate quickly using a Slack meeting. So, schedule a meeting on Slack and communicate seamlessly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -181,22 +187,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-a-visual-journey-uncovering-the-best-icons-and-logos-online/"><u>[New] 2024 Approved A Visual Journey Uncovering the Best Icons & Logos Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-ios-tools-for-psp-gaming-top-5-for-2024/"><u>[New] Best iOS Tools for PSP Gaming, Top 5 for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-crafting-engaging-voiceovers-for-powerpoint-slides/"><u>[New] Crafting Engaging Voiceovers for PowerPoint Slides</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-foundational-guide-to-navigating-zoom-meetings/"><u>[New] In 2024, The Foundational Guide to Navigating Zoom Meetings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-nextupcameras-venturing-past-mycam/"><u>[New] NextUpCameras Venturing Past MyCam</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-home-design-potential-in-minecraft/"><u>[New] Unlocking Home Design Potential in Minecraft</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-digital-world/"><u>[Updated] 2024 Approved Capturing Your Digital World</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-immersive-escapades-documented-the-experts-guide-to-capturing-vr-games/"><u>[Updated] 2024 Approved Immersive Escapades Documented The Expert's Guide to Capturing VR Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-and-easy-iphone-screen-capture-techniques/"><u>[Updated] 2024 Approved Quick and Easy iPhone Screen Capture Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elite-capture-best-screen-recorder-apps-timelapse/"><u>[Updated] In 2024, Elite Capture Best Screen Recorder Apps (Timelapse)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/gentle-volume-reduction-methods-in-ableton-live-for-2024/"><u>Gentle Volume Reduction Methods in Ableton Live for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chasing-the-crash-action-cameras-reviewed/"><u>In 2024, Chasing the Crash Action Cameras Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones-for-2024/"><u>Perfect Chat Harmony How to Download and Tailor WhatsApp Tones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-fix-guide-reviving-dead-or-slow-moving-airdrop-links-for-2024/"><u>Quick Fix Guide Reviving Dead or Slow-Moving Airdrop Links for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolution-of-ai-creativity-with-dall-e-3s-integrated-editing-features-is-it-time-for-a-refine/"><u>The Evolution of AI Creativity with DALL-E 3'S Integrated Editing Features - Is It Time for a Refine?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/vision-quest-movies-in-augmented-reality/"><u>Vision Quest Movies in Augmented Reality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ranscribe-without-breaking-the-bank-learn-how-with-our-free-guide-for-2024/"><u>[New] Transcribe Without Breaking the Bank Learn How with Our Free Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-high-definition-top-win-11-cameras-and-recorder-list/"><u>[Updated] 2024 Approved High Definition Top Win 11 Cameras and Recorder List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-easy-route-to-capturing-every-gameplay-moment/"><u>[Updated] 2024 Approved The Easy Route to Capturing Every Gameplay Moment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-iobit-screen-recorder-review-and-alternative-for-2024/"><u>[Updated] IObit Screen Recorder Review and Alternative for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-latest-smartphones-and-their-fit-with-gear-vr-technology/"><u>[Updated] Latest Smartphones and Their Fit With Gear VR Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-film-capture-on-mac-pc-and-smartphones/"><u>[Updated] Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sync-up-success-sharing-youtube-on-ig-stories/"><u>[Updated] Sync Up Success Sharing YouTube on IG Stories</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-carryminati-the-youtube-money-trail-of-ajey-nagar/"><u>2024 Approved CarryMinati The YouTube Money Trail of Ajey Nagar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>2024 Approved Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-webcam-mastery-choosing-the-best-video-tools/"><u>2024 Approved Webcam Mastery Choosing the Best Video Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-macpros-screenflow-insight-a-comprehensive-guide/"><u>In 2024, MacPro's ScreenFlow Insight A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unraveling-the-art-of-screencasts-a-step-by-step-approach/"><u>In 2024, Unraveling the Art of Screencasts A Step-by-Step Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-java-virtual-machine-error-on-pcs/"><u>Steps to Overcome Java Virtual Machine Error on PCs</u></a></li>
 </ul></div>
 

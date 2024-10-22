@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mac Screenshot Format Reconfiguration Guide for 2024"
-date: 2024-10-14T19:50:00.455Z
-updated: 2024-10-16T18:30:46.315Z
+date: 2024-10-18T07:00:48.537Z
+updated: 2024-10-21T23:50:29.006Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
 
@@ -68,10 +68,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,10 +79,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -122,10 +122,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,17 +143,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-streaming-athletic-games-real-time/"><u>[New] 2024 Approved Best Practices for Streaming Athletic Games Real-Time</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-choose-your-arena-top-platforms-without-cross-play-in-apex-legends/"><u>[New] 2024 Approved Choose Your Arena Top Platforms Without Cross-Play in Apex Legends</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-free-user-friendly-srt-services-ranked-1-to-8/"><u>[New] 2024 Approved Free, User-Friendly SRT Services – Ranked #1 to #8</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-new-insights-into-sony-s6700s-updates/"><u>[New] 2024 Approved New Insights Into Sony S6700's Updates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[New] In 2024, Transformative Recording Techniques Audacity Tips and Tricks on a Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-guide-to-iphone-7-screen-recordings-for-2024/"><u>[New] The Complete Guide to iPhone 7 Screen Recordings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-transforming-live-engagements-into-lasting-media/"><u>[New] Transforming Live Engagements Into Lasting Media</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>[Updated] The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pcwordexcel/"><u>「PC上でWord/Excelファイルを探す究極ガイド：どこにデータが格納されていますか？」</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-tags-to-amplify-your-youtube-gaming-channel-for-2024/"><u>Essential Tags to Amplify Your YouTube Gaming Channel for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-xr-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone XR After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-new-to-video-editing-here-are-15-free-and-easy-to-use-options/"><u>New In 2024, New to Video Editing? Here Are 15 Free and Easy-to-Use Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-your-android-videos/"><u>[Updated] Illuminating Your Android Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-nuances-of-professional-voice-over-workflow/"><u>[Updated] Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-speedy-visual-scan-of-your-pictures-on-win11-for-2024/"><u>[Updated] Speedy Visual Scan of Your Pictures on Win11 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-acethinker-screen-recorder-review-and-alternative/"><u>2024 Approved AceThinker Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-highlight-your-pc-gaming-6-effective-screen-methods/"><u>2024 Approved Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/adopting-effective-mobile-hygiene-with-advanced-intelligence-and-efficient-note-taking-via-abbyy-solutions/"><u>Adopting Effective Mobile Hygiene with Advanced Intelligence and Efficient Note-Taking via ABBYY Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-pitfalls-solutions-to-6-recurrent-chatgpt-mistakes/"><u>Avoiding Pitfalls: Solutions to 6 Recurrent ChatGPT Mistakes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beat-the-norm-with-mac-audio-guide-for-2024/"><u>Beat the Norm with Mac Audio Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-enhance-pc-listening-experience-install-x-recorder/"><u>In 2024, Enhance PC Listening Experience - Install X-Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y100i-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y100i Location | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-2023-ps3-emulators-for-enhanced-gaming-for-2024/"><u>Top 2023 Ps3 Emulators for Enhanced Gaming for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-picks-8-economical-video-conferencing-tools-compatible-with-mac-and-pc/"><u>Top Picks 8 Economical Video Conferencing Tools Compatible with Mac & PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
 

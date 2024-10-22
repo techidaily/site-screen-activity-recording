@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Payday 2 Won't Start on Your PC"
-date: 2024-10-09T19:13:04.106Z
-updated: 2024-10-16T17:14:01.915Z
+date: 2024-10-19T10:56:44.451Z
+updated: 2024-10-22T07:44:36.071Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue with Far Cry 6\. Verifying game files may help to resolve installation corruptions that prevent you from being able to play your game. Here’s how:
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 2. Navigate to the**Games** tab, click Far Cry 6 and select**Properties** . Then click**Verify Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, relaunch the game to check if the black screen issue still occurs.
 
@@ -70,25 +84,11 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
 
 If you still encounter black screen issues, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -98,19 +98,19 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
 If this fix doesn’t help, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
 
@@ -120,41 +120,34 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Switch to windowed mode
 
  If the black screen issue was caused due to a small glitch, you can try to fix it by switching to windowed mode. This workaround has been proven useful by many gamers and you can give it a shot. Simply press**ALT+Enter** to switch to windowed mode while in full screen.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -167,21 +160,28 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -203,10 +203,10 @@ If this fix doesn’t do the trick, take a look at the next one.
 3. Once the process is complete, try reinstalling the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Epic Games Launcher
@@ -239,20 +239,18 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems-for-2024/"><u>[New] A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-change-background-on-teams/"><u>[New] How to Change Background on Teams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-strategic-dominance-unleashed-the-foremost-7-war-games-for-2024/"><u>[New] Strategic Dominance Unleashed The Foremost 7 War Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-methods-capturing-powerpoint-talks/"><u>[Updated] 2024 Approved Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-becoming-a-snapchat-videography-pro-time-control-tactics-for-2024/"><u>[Updated] Becoming a Snapchat Videography Pro Time Control Tactics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-economical-pc-streaming-with-simple-obs-configurations-for-2024/"><u>[Updated] Economical PC Streaming with Simple OBS Configurations for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-perfect-your-presence-with-solo-video-setups-and-techniques/"><u>[Updated] In 2024, Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tunefab-screen-recorder-review/"><u>[Updated] In 2024, Tunefab Screen Recorder Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-master-the-art-of-editing-on-zero-budget-discover-these-apps/"><u>[Updated] Master the Art of Editing on Zero Budget Discover These Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-efficacy-of-vlcs-screen-recording/"><u>[Updated] The Efficacy of VLC's Screen Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-innovative-ways-to-remove-ssgnature-backdrops-fast/"><u>2024 Approved Innovative Ways to Remove Ssgnature Backdrops Fast</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-11-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme 11 Pro+ to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-12-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 12 Pro Max with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-computers-touchpad-fails/"><u>Troubleshooting Steps When Your Computer's Touchpad Fails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-toolkit-disabling-background-noise-during-gmeets/"><u>[New] In 2024, The Ultimate Toolkit Disabling Background Noise During GMeets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-video-anonymity-tips-for-blurring-private-data/"><u>[New] Video Anonymity Tips for Blurring Private Data</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-corrected-non-existence-of-shorts-on-feeds/"><u>[Updated] 2024 Approved Corrected Non-Existence of Shorts on Feeds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-display-selections-10-mac-list/"><u>[Updated] Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-webcam-features-on-apples-macbook/"><u>[Updated] Navigating Webcam Features on Apple's MacBook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unlocking-srt-files-accessing-on-windowsmac/"><u>2024 Approved Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-determining-if-gemini-surpasses-chatgpt-in-code-development/"><u>AI Showdown: Determining If Gemini Surpasses ChatGPT in Code Development</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-130-music-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia 130 Music? Try These Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-k70-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi K70 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-harnessing-power-a-complete-ez-grabber-manual/"><u>In 2024, Harnessing Power A Complete EZ Grabber Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/incorporating-obs-setting-up-a-countdown-scheduler/"><u>Incorporating OBS Setting Up A Countdown Scheduler</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-issues-when-windows-update-fails/"><u>Ultimate Guide: Resolving Issues When Windows Update Fails</u></a></li>
 </ul></div>
 

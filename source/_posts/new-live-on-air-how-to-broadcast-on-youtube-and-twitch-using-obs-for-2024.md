@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live on Air  How to Broadcast on YouTube & Twitch Using OBS for 2024\""
-date: 2024-10-13T16:14:44.159Z
-updated: 2024-10-16T19:11:53.429Z
+date: 2024-10-20T17:41:07.017Z
+updated: 2024-10-22T06:55:18.620Z
 tags: 
   - screen-recording
   - ai video
@@ -23,6 +23,13 @@ If you want to enhance your audience reach, consider multi-streaming to Twitch a
 
 Well, it all boils down to choosing. But if you want to know the streaming networks with the highest traffic, those platforms are Twitch and YouTube Gaming. Twitch is a mainstreaming service that enables you to broadcast on more than 30 of your favorite platforms simultaneously. It merely takes a few minutes to join your numerous live streaming accounts and interact directly with the popular encoding program OBS. You may also multi streams on Twitch and your other favorite streaming services. Knowing what the correct gear is when you’re starting as a streamer may be intimidating, but we come with good news. Nowadays the entry-level for streaming has reduced quite a bit owing to hardware becoming more affordable, but also because many PCs are already prepared to manage a broadcast or can be readily updated to support one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Stream to Twitch with OBS
 
 If you want to obtain the very greatest quality broadcast, you're searching for some fantastic software. In the case of Windows, one of the most common solutions is Open Broadcaster Software (OBS) (OBS). Many people are first drawn to OBS since it's free to use owing to being open source. Luckily, it's also a feature-rich piece of software that can handle practically anything you throw at it. If you're new to OBS or to streaming in general, it might be a bit frightening at first.
@@ -34,6 +41,20 @@ Before you stream anything anyplace, you need to provide OBS with the credential
 In all circumstances, you need to either produce a stream key in your account settings on the appropriate provider or link your account to OBS if it's supported like it is on Twitch. Simply signing in with your credentials is by far the simplest approach, and OBS utilizes streaming, so you're not providing any of your personal login information directly to it. YouTube likewise offers a similar kind of authentication.
 
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2\. Installing and Setting OBS
 
@@ -49,25 +70,11 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4\. Adding Scene and Sources
 
 A scene may be simply added in OBS by clicking on the addition symbol indicated in the picture below. Once you have chosen this, you will simply be prompted to pick a name for the scene. All of your overlays, sources, and basic on-screen items will need to be introduced through a specified scene. Once you have created your scene and titled it, make sure it is chosen and proceed to the box on the right side of the picture below to click the plus symbol. This brings up the many sources you may pick from for your freshly constructed scenario. The good thing is, once you have inserted a source in one scene, you can simply use it again in another.
 
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 5\. Adding a Twitch Chat
 
@@ -76,23 +83,17 @@ Adding your twitch chat to your broadcasts may help make your viewers feel more 
 ![twitch chat](https://images.wondershare.com/filmora/article-images/twitch-chat.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Stream to YouTube with OBS
@@ -121,6 +122,13 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![link obs to youtube](https://images.wondershare.com/filmora/article-images/link-obs-to-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ****Step 2:** Go to the Stream tab using the left-hand menu and pick YouTube -RTMPS from the Service drop-down box.
 
 ****Step 3:** Click Audio on the left-hand menu. Each audio device on that page represents one possible audio source in your broadcast. If you want viewers to hear in-game or desktop audio, assign one of the Desktop Audio options to your system’s audio output. If you want your viewers to hear you, pick your microphone from the drop-down next to Mic/Auxiliary Audio.
@@ -129,13 +137,6 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Start Streaming**
 
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
@@ -143,17 +144,10 @@ With all of the aforementioned settings in place and your YouTube channel ready 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: Conclusion
@@ -184,16 +178,16 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[New] 2024 Approved Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-avoiding-common-pitfalls-in-rl-gameplay-recordings-for-2024/"><u>[New] Avoiding Common Pitfalls in RL Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[New] In 2024, ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-15-windows-10-recording-applications-reviewed/"><u>[New] In 2024, Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs-for-2024/"><u>[New] Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>[New] The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-window-wisdom-taking-precise-screen-captures-for-2024/"><u>[New] Window Wisdom Taking Precise Screen Captures for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-audio-integration-into-visual-screens-via-apple/"><u>[Updated] Audio Integration Into Visual Screens via Apple</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-quirky-creations-your-guide-to-no-cost-memes/"><u>[Updated] Quirky Creations – Your Guide to No-Cost Memes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-iphone-solutions-leveraging-the-power-of-the-apple-support-application/"><u>Unlocking iPhone Solutions: Leveraging the Power of the Apple Support Application</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-reverse-the-ordinary-turning-images-upside-down/"><u>[New] Reverse the Ordinary Turning Images Upside Down</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-extensions-to-capture-firefox/"><u>[Updated] Best Extensions to Capture Firefox</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tools-for-youtube-screen-capturing-for-2024/"><u>[Updated] Cutting-Edge Tools for YouTube Screen Capturing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-flawlessly-capture-your-ios-devices-screen-for-2024/"><u>[Updated] How to Flawlessly Capture Your iOS Device's Screen for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-is-active-presenter-8-the-peak-of-recording/"><u>[Updated] In 2024, Is Active Presenter 8 the Peak of Recording?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-live-capture-review-discovering-obs-dominance/"><u>[Updated] In 2024, Ultimate Live Capture Review Discovering OBS Dominance</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/einfache-losungen-zur-einfachen-wiederherstellung-von-daten-auf-einer-sd-karte-entdecken-sie-diese-vier-effektiven-methoden/"><u>Einfache Lösungen Zur Einfachen Wiederherstellung Von Daten Auf Einer SD-Karte: Entdecken Sie Diese Vier Effektiven Methoden</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-online-sound-experience-with-these-5-steps/"><u>Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-x7-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find X7 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Note 30 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-insights-from-toms-hardware-review-channel/"><u>Mastering PC Building - Insights From Tom's Hardware Review Channel</u></a></li>
 </ul></div>
 

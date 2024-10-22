@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Split Screen Audio Logging\""
-date: 2024-08-24T19:48:24.442Z
-updated: 2024-08-25T19:48:24.442Z
+date: 2024-10-16T08:45:06.987Z
+updated: 2024-10-22T06:46:46.188Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
@@ -55,14 +62,12 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -79,14 +84,6 @@ Sum up the two values of the wider sides of the screens and insert the value you
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -113,20 +110,26 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +137,19 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world-for-2024/"><u>[New] Exploring the Spectrum Projectors & Televisions in a 4K World for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-fix-full-screen-error-in-obs-for-2024/"><u>[New] How to Fix Full Screen Error in OBS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamline-your-zoom-meetings-screen-sharing-essentials/"><u>[New] Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-power-of-branding-in-video-ranks-and-traffic/"><u>[Updated] 2024 Approved The Power of Branding in Video Ranks and Traffic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-video-editor-face-off-making-an-informed-decision-filmora-vs-democracy-creator/"><u>[Updated] 2024 Approved The Video Editor Face-Off Making an Informed Decision (Filmora Vs. Democracy Creator)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-tools-for-capturing-call-of-duty-warzone/"><u>2024 Approved Top Tools for Capturing Call of Duty Warzone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-your-videography-youtube-studio-edition-techniques/"><u>Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-new-tech-in-lg-360-cameras-for-a-fresh-perspective-for-2024/"><u>Evaluating New Tech in LG 360 Cameras for a Fresh Perspective for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-shoot-a-time-lapse-video-with-gopro-hero5-black/"><u>How to Shoot a Time-Lapse Video with GoPro Hero5 Black</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>In 2024, Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+</ul></div>
+

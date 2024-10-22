@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path for 2024"
-date: 2024-10-07T18:58:10.470Z
-updated: 2024-10-09T23:04:49.222Z
+date: 2024-10-15T06:49:23.343Z
+updated: 2024-10-21T21:51:05.535Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,16 +55,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -81,6 +68,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -93,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -112,10 +106,16 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,16 +133,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[New] 2024 Approved Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cutting-edge-tips-refine-your-brands-instagram-visibility-for-2024/"><u>[Updated] Cutting-Edge Tips Refine Your Brand's Instagram Visibility for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>[Updated] In 2024, Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[Updated] In 2024, Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-selecting-your-perfect-monitor-and-recorder-duo/"><u>[Updated] In 2024, Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-lapse-tips-for-iphoneipad-users/"><u>[Updated] In 2024, Time-Lapse Tips for iPhone/iPad Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/from-soil-to-success-selecting-the-top-valheim-seeds/"><u>From Soil to Success Selecting the Top Valheim Seeds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-camon-20-premier-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Camon 20 Premier 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-patient-outcomes-with-ai-in-cognitive-therapy/"><u>Optimizing Patient Outcomes with AI in Cognitive Therapy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-practices-for-screen-recording-phones/"><u>[New] 2024 Approved Best Practices for Screen Recording Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-facetune-2024-a-detailed-app-exploration-and-tips/"><u>[New] Facetune 2024 A Detailed App Exploration and Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-virtual-racing-masterclass-our-five-favorite-games/"><u>[New] In 2024, Virtual Racing Masterclass Our Five Favorite Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-depth-evaluation-obs-as-an-advanced-recorder-for-2024/"><u>[Updated] In-Depth Evaluation OBS as an Advanced Recorder for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamlessly-sync-your-ideas-on-mematic/"><u>[Updated] Seamlessly Sync Your Ideas on Mematic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-synergizing-social-networks-share-your-igtv-content/"><u>[Updated] Synergizing Social Networks Share Your IGTV Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-freeze-the-fun-screenshots-and-recording-in-win10/"><u>2024 Approved Freeze the Fun Screenshots & Recording in Win10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-the-art-of-online-meeting-recordings-with-google/"><u>2024 Approved Mastering the Art of Online Meeting Recordings with Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategic-approaches-to-mass-acquirement-of-tiktok-videos/"><u>Strategic Approaches to Mass Acquirement of TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-simple-solution-to-refresh-your-samsung-tvs-configuration/"><u>The Simple Solution to Refresh Your Samsung TV's Configuration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Guide to Screen Capture on Laptops and ChromeOS"
-date: 2024-10-09T17:53:48.854Z
-updated: 2024-10-16T18:12:57.826Z
+date: 2024-10-20T21:06:47.789Z
+updated: 2024-10-22T14:37:46.577Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the HP Laptop Webcam to Record Video?
 
 To use the webcam built-in HP laptop, you need to make sure that you have the HP MediaSmart Software installed as well as the latest webcam driver.
@@ -74,10 +67,10 @@ You can also use the **Advanced Settings** tab to make further adjustments. Afte
 ![hp-webcam-recorder-settings.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3. Record Webcam Videos
@@ -90,18 +83,18 @@ Click **OK** to save the adjustments and continue.
 
 ![hp-webcam-recorder-zoom.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 4.Add Effects and Filters
 
 There are also a series of special effect tools you can use to make your video recordings more fun. You can add frames and filters to the recorded webcam video or draw on the video. The MediaSmart webcam also provides avatars, emotions and distortion effects which are very popular for making creative videos. If you want to remove an effect from your recorded video, use the **Erase** function at the top of the window.
 
 ![hp-webcam-recorder-filters.jpg](https://images.wondershare.com/filmora/article-images/hp-webcam-recorder-filters.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That’s it! Now, you can try the MediaSmart webcam recording software on your HP laptop to record your own webcam videos.
 
@@ -110,6 +103,13 @@ That’s it! Now, you can try the MediaSmart webcam recording software on your H
 The recording features in the HP MediaSmart webcam is limited, if you are want to record your desktop screen and the webcam at the same time with more advanced features like adding Markers during recording and editing the recorded video, we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Record Video on HP Chromebooks?
 
@@ -142,10 +142,10 @@ To recap, if you are running an HP laptop on Windows 7, you will need to downloa
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,24 +163,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamline-your-screens-the-essential-online-record-guide/"><u>[New] 2024 Approved Streamline Your Screens The Essential Online Record Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlined-mac-imagery-unveiling-the-top-5-quick-and-effective-methods/"><u>[New] 2024 Approved Streamlined Mac Imagery Unveiling the Top 5 Quick & Effective Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-guide-recording-netflix-videos-on-a-mac-for-2024/"><u>[New] Essential Guide Recording Netflix Videos on a Mac for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-legends-unite-battle-for-midgard-for-2024/"><u>[New] Legends Unite Battle for Midgard for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-searchingforsmartercameraspost-mycam/"><u>[New] SearchingForSmarterCamerasPost-MyCam</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/etting-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>[New] Setting Up Your YouTube Standings From Beginner to Beneficial Businesses for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-leveraging-zoom-tools-to-capture-effective-sessions/"><u>[Updated] 2024 Approved Leveraging Zoom Tools to Capture Effective Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] 2024 Approved Most Valuable Maps Top Treasures in Terraria</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>[Updated] MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-prevent-unwanted-recordings-quit-time-tricks-for-2024/"><u>[Updated] Prevent Unwanted Recordings Quit Time Tricks for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>2024 Approved Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mold-your-own-online-giggle-piece/"><u>2024 Approved Mold Your Own Online Giggle Piece</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/audacitypc/"><u>AudacityによるPC対応の高品質オーディオ録音技術</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-y27-4g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo Y27 4G</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/icloud-image-deletion-tutorial-safeguard-your-iphones-photograph-collection/"><u>ICloud Image Deletion Tutorial - Safeguard Your iPhone's Photograph Collection</u></a></li>
-<li><a href="https://article-posts.techidaily.com/revolutionizing-video-speed-in-social-networks-for-2024/"><u>Revolutionizing Video Speed in Social Networks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformez-vos-fichiers-ts-en-fichiers-mp3-gratuitement-sur-le-web-avec-movavi/"><u>Transformez Vos Fichiers .TS en Fichiers MP3 Gratuitement Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-screen-scores-viral-video-highlights-on-twitter/"><u>[New] 2024 Approved Screen Scores Viral Video Highlights on Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-selecting-your-stream-space-obs-or-twitch-for-2024/"><u>[New] Selecting Your Stream Space OBS or Twitch for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>[Updated] 2024 Approved Adventure Aces Ranking Games That Make You Want to Explore</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enhance-your-video-meetings-with-snap-shots-on-zoom/"><u>[Updated] 2024 Approved Enhance Your Video Meetings with Snap Shots on Zoom</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users/"><u>[Updated] Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-turn-games-into-memories-no-fuss-nvidia-style-for-2024/"><u>[Updated] Turn Games Into Memories - No Fuss, NVIDIA Style for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-advanced-techniques-capturing-teams-screen-content/"><u>2024 Approved Advanced Techniques Capturing Teams' Screen Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audiovisual-decision-making-is-podcast-or-youtube-more-appealing/"><u>2024 Approved Audiovisual Decision-Making Is Podcast or YouTube More Appealing?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection/"><u>2024 Approved Zoom's Acoustic Edge Unlocking Two-Pronged Audio Perfection</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-the-latest-in-pc-and-hardware-with-toms-technology-insights/"><u>Discover the Latest in PC & Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/explore-androids-best-moba-experiences-in-10-for-2024/"><u>Explore Android's Best MOBA Experiences in #10 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-12-mini-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-generative-ais-impact-on-search-methods-usage-and-forward-thinking-companies/"><u>Inside Generative AI's Impact on Search: Methods, Usage, and Forward-Thinking Companies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-voice-capture-on-mac-compiling-the-best-5-apps-for-2024/"><u>Professional Voice Capture on Mac Compiling The Best 5 Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secure-storage-strategies-for-itunes-media/"><u>Secure Storage Strategies for iTunes Media</u></a></li>
 </ul></div>
 

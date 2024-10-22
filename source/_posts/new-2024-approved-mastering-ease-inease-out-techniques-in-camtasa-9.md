@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Ease In/Ease Out Techniques in Camtasa 9\""
-date: 2024-08-24T19:47:54.164Z
-updated: 2024-08-25T19:47:54.164Z
+date: 2024-10-15T05:50:21.326Z
+updated: 2024-10-21T20:52:10.069Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,19 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +67,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +99,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +118,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-recruiting-revolutionaries-10-most-motivational-episodes/"><u>[New] 2024 Approved Recruiting Revolutionaries - 10 Most Motivational Episodes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection-for-2024/"><u>[New] Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>[New] In 2024, Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-finest-ps1-emulators-for-seamless-gaming-experience-for-2024/"><u>[New] The Finest PS1 Emulators for Seamless Gaming Experience for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-speech-to-storage-the-recorders-pathway-for-2024/"><u>[Updated] From Speech to Storage The Recorder's Pathway for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hearnow-podcast-and-speaker-assessment/"><u>[Updated] HearNow Podcast and Speaker Assessment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elusive-story-viewers-mobile-hacks/"><u>[Updated] In 2024, Elusive Story Viewers' Mobile Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>[Updated] Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-inside-the-magic-of-io-screen-capture-technology/"><u>2024 Approved Inside the Magic of IO Screen Capture Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-video-chat-on-windows-1-8/"><u>2024 Approved Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163479927-get-ready-for-youtubes-mini-games-a-call-to-gamers/"><u>Get Ready for YouTube’s Mini Games: A Call to Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>In 2024, ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/material-you-design-arrives-on-five-popular-android-devices-with-upcoming-android-12-update/"><u>Material You Design Arrives on Five Popular Android Devices with Upcoming Android 12 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-audio-repair-tips-addressing-and-resolving-soundplay-problems-in-your-slideshow/"><u>PowerPoint Audio Repair Tips: Addressing and Resolving Soundplay Problems in Your Slideshow</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-magic-6-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Magic 6 Pro to Gmail | Dr.fone</u></a></li>
+</ul></div>
+

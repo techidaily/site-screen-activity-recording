@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Activating Built-In Screen Recorders  Mate 10/20 & P-Series Devices (P20, P10)\""
-date: 2024-08-24T19:44:41.977Z
-updated: 2024-08-25T19:44:41.977Z
+date: 2024-10-14T17:06:01.542Z
+updated: 2024-10-22T08:02:08.149Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Pressing Buttons to Record Huawei Screen
 
 Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
@@ -81,20 +88,23 @@ If you want to record the screen video, just knock the screen with two knuckles 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
@@ -102,15 +112,17 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +130,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-adventurers-playground-top-10-games-revealed/"><u>[New] 2024 Approved Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-creating-costless-webinars-on-youtube-a-handbook/"><u>[New] Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-engaging-users-with-instagrams-interactive-survey-feature/"><u>[New] Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators/"><u>[Updated] 2024 Approved Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-video-grabber-tool-decompiler/"><u>[Updated] In 2024, Video Grabber Tool Decompiler</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pinnacle-ps2-simulators-for-ios-systems/"><u>[Updated] Pinnacle PS2 Simulators for iOS Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-preserving-your-nintendo-switch-experiences-a-guide/"><u>[Updated] Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unmatched-visuals-leading-ps5-compatible-hdmi-21-monitors/"><u>[Updated] Unmatched Visuals Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-innovators-guide-to-youtube-commercial-success/"><u>2024 Approved The Innovator's Guide to YouTube Commercial Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ballot-box-battles-prime-voting-challenge-platforms/"><u>Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/best-solutions-for-cult-of-the-lambs-gameplay-issues-and-pc-crashes/"><u>Best Solutions for Cult of the Lamb's Gameplay Issues and PC Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-strategies-for-hulu-screen-grabs-everywhere-for-2024/"><u>Expert Strategies for Hulu Screen Grabs Everywhere for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-12plus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-xr-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone XR Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/simple-and-effective-methods-for-seamlessly-saving-your-ipad-data-via-itunes-the-definitive-guide/"><u>Simple and Effective Methods for Seamlessly Saving Your iPad Data via iTunes - The Definitive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-recurring-freezes-during-your-overwatch-matches/"><u>Solved: How To Stop Recurring Freezes During Your Overwatch Matches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated Free TV Streaming 9 Sites You Need To Know</u></a></li>
+</ul></div>
+
