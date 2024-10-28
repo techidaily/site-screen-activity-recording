@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-08-17T12:12:37.698Z
-updated: 2024-08-18T12:12:37.698Z
+date: 2024-10-26T00:34:12.733Z
+updated: 2024-10-27T23:17:04.416Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-tricks-for-ios-screenshots-just-got-updated/"><u>[New] In 2024, Advanced Tricks for iOS Screenshots - Just Got Updated</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-12-clicker-games-on-pc/"><u>[New] Top 12 Clicker Games on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>[Updated] Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-easy-process-to-turn-any-tiktok-sound-into-cellphone-alerts/"><u>[Updated] In 2024, Easy Process to Turn Any TikTok Sound Into Cellphone Alerts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-action-sims-perfecting-your-videos/"><u>[Updated] In 2024, Live-Action Sims Perfecting Your Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleash-the-potential-of-your-webcam-for-slideshows-for-2024/"><u>[Updated] Unleash the Potential of Your Webcam for Slideshows for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-experts-choice-androids-best-large-group-calling/"><u>2024 Approved Expert's Choice Android's Best Large Group Calling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-slice-and-capture-best-cam-reevaluation/"><u>2024 Approved Slice and Capture Best Cam Reevaluation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-the-functionality-of-airborne-robotics-for-2024/"><u>Grasping the Functionality of Airborne Robotics for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus Phone without Google Account?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>In 2024, A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-archive-of-high-quality-online-workshops/"><u>In 2024, The Complete Archive of High-Quality Online Workshops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-godfall-on-playstation-5-a-tale-of-mediocrity-in-a-promising-franchise/"><u>Navigating Through Godfall on PlayStation 5: A Tale of Mediocrity in a Promising Franchise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-a54-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy A54 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-artisans-selection-best-photo-frame-software-for-2024/"><u>The Artisan's Selection Best Photo Frame Software for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alter Default Location for Mac Captured Images for 2024"
-date: 2024-10-21T02:08:17.671Z
-updated: 2024-10-22T13:06:27.188Z
+date: 2024-10-25T20:44:59.637Z
+updated: 2024-10-27T16:08:46.997Z
 tags: 
   - screen-recording
   - ai video
@@ -48,19 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -68,16 +55,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -87,6 +68,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -99,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -118,10 +106,16 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,15 +133,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-a-comprehensive-list-of-mac-methods-to-record-minecraft-play-for-2024/"><u>[New] A Comprehensive List of Mac Methods to Record Minecraft Play for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/remium-watchlists-highest-youtube-movie-selections-for-2024/"><u>[New] Premium Watchlists Highest YouTube Movie Selections for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-origami-and-samurai-inspirations-for-minecraft-homes/"><u>[Updated] 2024 Approved Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-heroes-choice-top-10-astonishing-adventure-games-for-2024/"><u>[Updated] Digital Heroes' Choice Top 10 Astonishing Adventure Games for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/come-ripristinare-il-video-sul-pc-strategie-di-risoluzione-dei-problemi-per-un-riproduzione-ottimale/"><u>Come Ripristinare Il Video Sul PC: Strategie Di Risoluzione Dei Problemi per Un Riproduzione Ottimale</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-cinematic-reels-embracing-the-power-of-pause-for-2024/"><u>Crafting Cinematic Reels Embracing the Power of Pause for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-onboard-ai-how-localized-machine-learning-transforms-devices/"><u>Decoding Onboard AI: How Localized Machine Learning Transforms Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012108904-expert-tips-for-a-smooth-experience-with-hearts-of-iron-4-eliminate-bugs/"><u>Expert Tips for a Smooth Experience with Hearts of Iron 4 - Eliminate Bugs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>In 2024, Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-k70-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi K70 FRP Without Computer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-proven-youtube-seo-methods-for-video-rankings/"><u>[Updated] 2024 Approved Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-preserve-the-ephemeral-magic-of-discords-streaming-world/"><u>[Updated] How to Preserve the Ephemeral Magic of Discord's Streaming World</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-integrate-voice-over-into-powerpoint-shows-easily-for-2024/"><u>[Updated] Integrate Voice-Over Into PowerPoint Shows Easily for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-narzo-60-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme Narzo 60 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-paper-artistry-building-harmonious-collages/"><u>2024 Approved Paper Artistry Building Harmonious Collages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prime-mac-video-tools-apart-from-bandicam/"><u>2024 Approved Prime Mac Video Tools Apart From Bandicam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-url-scanning-in-microsoft-offices-spellcheck-a-step-by-step-guide/"><u>Bypassing URL Scanning in Microsoft Office's Spellcheck: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722083208937-discover-confidential-chatting-on-duckduckgos-platform-beyond-just-chatgpt/"><u>Discover Confidential Chatting on DuckDuckGo's Platform: Beyond Just ChatGPT!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6s with iTunes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-meizu-21-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Meizu 21 FRP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-straightforward-video-recorders-for-win10/"><u>In 2024, Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/retro-chic-powershot-g9x2-for-your-travels/"><u>Retro Chic PowerShot G9X2 for Your Travels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/rhythm-reviews-cutting-edge-sound/"><u>Rhythm Reviews Cutting-Edge Sound</u></a></li>
 </ul></div>
 

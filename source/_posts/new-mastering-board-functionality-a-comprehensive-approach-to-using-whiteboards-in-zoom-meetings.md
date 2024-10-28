@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-10-20T03:09:19.625Z
-updated: 2024-10-22T00:19:56.713Z
+date: 2024-10-22T01:30:47.392Z
+updated: 2024-10-28T06:38:48.751Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,19 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -85,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -100,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
@@ -117,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -131,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -156,10 +162,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -177,18 +183,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>[New] 2024 Approved Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>[New] Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ideal-screen-snapshot-service-chromebook/"><u>[New] Ideal Screen Snapshot Service Chromebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>[Updated] 2024 Approved Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-from-captured-moments-to-digital-fame-broadcasting-with-gopro-and-social-platforms/"><u>[Updated] From Captured Moments to Digital Fame Broadcasting with GoPro & Social Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>[Updated] The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-power-of-fb-conversation-capture-tools-for-2024/"><u>[Updated] Unlock the Power of FB Conversation Capture Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-vlc-capture-tool-assessment-for-2024/"><u>[Updated] VLC Capture Tool Assessment for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-webcam-use-for-professional-meeting-records/"><u>2024 Approved Mastering Webcam Use for Professional Meeting Records</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-fixing-win11-ccleaner-problems/"><u>Bridging the Gap: Fixing Win11 CCleaner Problems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficiently-delete-files-automatically-try-the-scheduled-erase-feature-in-standard-stellar-for-macos/"><u>Efficiently Delete Files Automatically - Try the Scheduled Erase Feature in Standard Stellar for macOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-resolve-the-sudden-termination-error-code-1067-in-windows-operating-system/"><u>Solved! How to Resolve the Sudden Termination Error (Code 1067) in Windows Operating System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-avoiding-lost-frames-during-video-capture-in-obs/"><u>[New] In 2024, Avoiding Lost Frames During Video Capture in OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-essential-tutorial-for-vrecorder-setup/"><u>[New] In 2024, The Essential Tutorial for VRecorder Setup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-next-gen-homes-in-minecraft-top-6-concepts-for-2024/"><u>[New] Next-Gen Homes in Minecraft Top 6 Concepts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-every-move-in-games-with-fbx/"><u>[Updated] 2024 Approved Capturing Every Move in Games with FBX</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-6-minecraft-survival-house-ideas/"><u>[Updated] 2024 Approved Top 6 Minecraft Survival House Ideas</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-affordable-video-editors-in-the-market-2023-edition-for-2024/"><u>[Updated] Best Affordable Video Editors in the Market - 2023 Edition for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[Updated] In 2024, A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elevate-your-live-streaming-expert-camrecorder-guidance/"><u>[Updated] In 2024, Elevate Your Live Streaming Expert CamRecorder Guidance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-lenovo-screenshots-made-quickly-and-easy/"><u>[Updated] In 2024, Lenovo Screenshots Made Quickly and Easy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-the-hits-top-tracks-on-spotify/"><u>Discover the Hits Top Tracks on Spotify</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-recommendations-prime-apps-for-mac-video-recording/"><u>Expert Recommendations Prime Apps for Mac Video Recording</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo T2 5G FRP Locks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>In 2024, Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-canon-color-imageclass-ix7900ix7910-driver-on-windows-10-systems/"><u>Install Canon Color imageCLASS iX7900/iX7910 Driver on Windows 10 Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/overcome-stalled-reset-process-in-windows-10-at-1-34-64-and-99-learn-the-top-6-troubleshooting-methods/"><u>Overcome Stalled Reset Process in Windows 10 at 1%, 34%, 64%, and 99% - Learn the Top 6 Troubleshooting Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplified-methods-for-google-meet-recordings/"><u>Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-mts-to-mp4-convertor-for-macos-big-sur-your-ultimate-guide/"><u>Top-Rated Free MTS to MP4 Convertor for macOS Big Sur: Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transforming-audio-to-text-on-slides-for-ppt-for-2024/"><u>Transforming Audio to Text on Slides for PPT for 2024</u></a></li>
 </ul></div>
 

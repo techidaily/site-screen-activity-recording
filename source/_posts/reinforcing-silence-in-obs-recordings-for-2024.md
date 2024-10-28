@@ -1,7 +1,7 @@
 ---
 title: "Reinforcing Silence in OBS Recordings for 2024"
-date: 2024-10-17T16:28:52.922Z
-updated: 2024-10-22T07:18:52.249Z
+date: 2024-10-26T23:51:03.496Z
+updated: 2024-10-27T18:24:42.656Z
 tags: 
   - screen-recording
   - ai video
@@ -35,11 +35,31 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -52,16 +72,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -74,20 +88,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -97,6 +97,13 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -118,17 +125,10 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -140,6 +140,13 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -156,13 +163,6 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -186,24 +186,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-digital-pioneer-how-jake-paul-mastered-youtube/"><u>[New] 2024 Approved The Digital Pioneer How Jake Paul Mastered Youtube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tricks-to-flawless-screen-casting-on-mobile-and-desktop/"><u>[New] 2024 Approved Tricks to Flawless Screen Casting on Mobile and Desktop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-full-screen-glitch-resolved-in-obs/"><u>[New] In 2024, Full-Screen Glitch Resolved in Obs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlocking-apowersofts-zero-cost-screen-recording/"><u>[New] In 2024, Unlocking Apowersoft's Zero-Cost Screen Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-imagedivide-review-summary/"><u>[Updated] 2024 Approved ImageDivide Review Summary</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-topnotch-recorder-for-windows-users-win-10/"><u>[Updated] 2024 Approved TopNotch Recorder for Windows Users (Win 10)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights/"><u>[Updated] 2024 Approved Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[Updated] 2024 Approved Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-comprehensive-recorder-apps-pcmacos/"><u>[Updated] In 2024, Best Comprehensive Recorder Apps - PC/macOS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>2024 Approved Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-metaverse-mayhem-top-10-sci-fi-movies-breaking-boundaries/"><u>2024 Approved Metaverse Mayhem Top 10 Sci-Fi Movies Breaking Boundaries</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-8-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 8 Plus by Name | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cing-visibility-and-discoverability-via-targeted-tags-for-2024/"><u>Enhancing Visibility and Discoverability via Targeted Tags for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/getting-started-how-to-organize-a-google-based-conference-call-for-2024/"><u>Getting Started How to Organize a Google-Based Conference Call for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>In 2024, Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>In 2024, The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization-for-2024/"><u>Unlocking the Secrets of PUBG Sound Personalization for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-techniques-for-capturing-ps4-games-in-obs/"><u>[New] Cutting-Edge Techniques for Capturing PS4 Games in OBS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-video-enlargement-on-youtube/"><u>[New] Mastering Video Enlargement on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-walking-through-time-a-guide-to-inverted-videos-on-instagram-for-2024/"><u>[New] Walking Through Time A Guide to Inverted Videos on Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-superior-hd-gameplay-through-top-captures/"><u>[Updated] 2024 Approved Superior HD Gameplay Through Top Captures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-winning-scenarios-prime-video-recording-software-for-windows/"><u>[Updated] 2024 Approved Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] In 2024, Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-webcam-visuals-uncluttered-remove-obscurants/"><u>[Updated] In 2024, Webcam Visuals Uncluttered Remove Obscurants</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-mix-fold-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Mix Fold 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-guide-3-ways-to-keep-track-of-live-discord-events/"><u>2024 Approved Expert Guide 3 Ways to Keep Track of Live Discord Events</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhancing-performance-of-your-dell-2330ddn-monochrome-laser-printer/"><u>Enhancing Performance of Your Dell 2330D/Dn Monochrome Laser Printer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-xr-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-synaptic-driver-installation-on-windows/"><u>Quick and Easy Synaptic Driver Installation on Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-coherencecore-the-innovative-approach-to-synchronized-sound-design-in-adobe-premiere-pro-2023/"><u>Updated 2024 Approved CoherenceCore The Innovative Approach to Synchronized Sound Design in Adobe Premiere Pro 2023</u></a></li>
 </ul></div>
 
