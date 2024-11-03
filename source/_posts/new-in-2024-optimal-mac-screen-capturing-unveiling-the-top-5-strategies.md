@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Optimal Mac Screen Capturing  Unveiling The Top 5 Strategies\""
-date: 2024-10-24T05:02:20.437Z
-updated: 2024-10-27T17:33:30.550Z
+date: 2024-10-31T01:32:01.938Z
+updated: 2024-11-02T20:08:35.476Z
 tags: 
   - screen-recording
   - ai video
@@ -122,16 +122,10 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
@@ -158,20 +152,27 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
 
 MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on their computers. Click on the **Apple logo** from the menu bar, then select the **System Preferences** option. Click on the **Keyboard > Customize Control Strip** feature, located at the bottom of the screen. Once the new window pops-out you should locate the **Screenshot** icon and drag and drop it to the Touch Bar, and click **Done**.
 
 ![screenshots from touch bar on macbook pro](https://images.wondershare.com/filmora/article-images/touch-bar-on-macbook-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3 Capture Screen with Built-in Preview App
 
@@ -179,14 +180,14 @@ Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-me
 
 ![capture screen with preview on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-preview-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Preview app lets you select the saving path and name it before saving.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
@@ -195,22 +196,15 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
 
@@ -232,16 +226,16 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -258,18 +252,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-of-the-best-windows-11-webcams-for-recording/"><u>[New] Best of the Best Windows 11 Webcams for Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>[New] How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-chronicles-expert-tips-for-story-downloads/"><u>[New] In 2024, Instagram Chronicles Expert Tips for Story Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-acoustic-architects-building-with-mac-studios-for-2024/"><u>[Updated] Acoustic Architects Building with Mac Studios for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-giggles-and-graphics-iphone-edition/"><u>[Updated] Giggles & Graphics IPhone Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-digital-image-grabbers/"><u>[Updated] Leading Digital Image Grabbers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlined-screenshots-on-chrome-devices-for-2024/"><u>[Updated] Streamlined Screenshots on Chrome Devices for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-convenient-iphone-method-for-live-screen-capture/"><u>2024 Approved Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-converting-your-cellphone-to-a-diy-video-recorder/"><u>2024 Approved Converting Your Cellphone to a DIY Video Recorder</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boosting-sap-bot-capabilities-through-abbyys-advanced-content-analytics/"><u>Boosting SAP Bot Capabilities Through ABBYY's Advanced Content Analytics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-professional-discs-on-windows-11-with-our-new-dvd-authoring-software/"><u>Create Professional Discs on Windows 11 with Our New DVD Authoring Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-framefinder-top-picks-for-screen-capturing/"><u>In 2024, FrameFinder Top Picks for Screen Capturing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/las-8-maquinadoras-digitales-numero-uno-mejores-programas-para-recortar-tus-canciones-mp3-online/"><u>Las 8 Maquinadoras Digitales Número Uno: Mejores Programas Para Recortar Tus Canciones MP3 Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-apowersofts-technology-insightfully-analyzed-with-comparisons-for-2024/"><u>[New] Apowersoft's Technology Insightfully Analyzed with Comparisons for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-charting-trends-twitters-viral-videos-of-2023-analysis/"><u>[New] Charting Trends Twitter’s Viral Videos of 2023 Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-grabber-tech-for-film-lovers-for-2024/"><u>[New] Innovative Grabber Tech for Film Lovers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-one-shot-screenshot-instruction/"><u>[New] One-Shot Screenshot Instruction</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-stepwise-process-for-capturing-live-soundtracks-online-for-2024/"><u>[New] Stepwise Process for Capturing Live Soundtracks Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-harness-the-web-to-preserve-and-share-live-music-sounds/"><u>[Updated] In 2024, Harness the Web to Preserve and Share Live Music Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>[Updated] Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/10-outstanding-windows-10-video-capture-solutions/"><u>10 Outstanding Windows 10 Video Capture Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2016-hyperlinks-working-by-stellar-guide/"><u>Easy Steps to Make Excel 2016 Hyperlinks Working</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-crafting-stories-that-capture-attention-a-3-tiered-approach-to-fb-advertising-copywriting/"><u>In 2024, Crafting Stories That Capture Attention A 3-Tiered Approach to FB Advertising Copywriting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-stream-lifeline-high-quality-recorders-reviewed-in-obs-for-2024/"><u>Live Stream Lifeline High-Quality Recorders Reviewed in OBS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/logo-genius-10-tips-for-memorable-podcast-imagery/"><u>Logo Genius 10 Tips for Memorable Podcast Imagery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nailing-the-art-of-ppt-video-reproduction-for-2024/"><u>Nailing the Art of PPT Video Reproduction for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/quick-how-to-transferring-windows-10-images-onto-usb-drives/"><u>Quick How-To: Transferring Windows 10 Images Onto USB Drives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-12-capture-providers-never-stop/"><u>Top 12 Capture Providers, Never Stop</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-blueprint-for-fixing-teardown-crashes/"><u>Ultimate Troubleshooting Blueprint for Fixing Teardown Crashes</u></a></li>
 </ul></div>
 

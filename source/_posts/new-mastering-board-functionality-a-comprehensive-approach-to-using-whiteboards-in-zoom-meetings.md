@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-10-22T01:30:47.392Z
-updated: 2024-10-28T06:38:48.751Z
+date: 2024-11-02T00:17:23.281Z
+updated: 2024-11-02T20:47:59.305Z
 tags: 
   - screen-recording
   - ai video
@@ -72,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -97,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -115,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -137,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -144,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
 
@@ -162,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -183,24 +177,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-avoiding-lost-frames-during-video-capture-in-obs/"><u>[New] In 2024, Avoiding Lost Frames During Video Capture in OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-essential-tutorial-for-vrecorder-setup/"><u>[New] In 2024, The Essential Tutorial for VRecorder Setup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-next-gen-homes-in-minecraft-top-6-concepts-for-2024/"><u>[New] Next-Gen Homes in Minecraft Top 6 Concepts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-every-move-in-games-with-fbx/"><u>[Updated] 2024 Approved Capturing Every Move in Games with FBX</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-6-minecraft-survival-house-ideas/"><u>[Updated] 2024 Approved Top 6 Minecraft Survival House Ideas</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-affordable-video-editors-in-the-market-2023-edition-for-2024/"><u>[Updated] Best Affordable Video Editors in the Market - 2023 Edition for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[Updated] In 2024, A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elevate-your-live-streaming-expert-camrecorder-guidance/"><u>[Updated] In 2024, Elevate Your Live Streaming Expert CamRecorder Guidance</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-lenovo-screenshots-made-quickly-and-easy/"><u>[Updated] In 2024, Lenovo Screenshots Made Quickly and Easy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-the-hits-top-tracks-on-spotify/"><u>Discover the Hits Top Tracks on Spotify</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-recommendations-prime-apps-for-mac-video-recording/"><u>Expert Recommendations Prime Apps for Mac Video Recording</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo T2 5G FRP Locks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>In 2024, Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-canon-color-imageclass-ix7900ix7910-driver-on-windows-10-systems/"><u>Install Canon Color imageCLASS iX7900/iX7910 Driver on Windows 10 Systems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/overcome-stalled-reset-process-in-windows-10-at-1-34-64-and-99-learn-the-top-6-troubleshooting-methods/"><u>Overcome Stalled Reset Process in Windows 10 at 1%, 34%, 64%, and 99% - Learn the Top 6 Troubleshooting Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/simplified-methods-for-google-meet-recordings/"><u>Simplified Methods for Google Meet Recordings</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-rated-free-mts-to-mp4-convertor-for-macos-big-sur-your-ultimate-guide/"><u>Top-Rated Free MTS to MP4 Convertor for macOS Big Sur: Your Ultimate Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transforming-audio-to-text-on-slides-for-ppt-for-2024/"><u>Transforming Audio to Text on Slides for PPT for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-10-pro-ways-to-upgrade-your-twitch-broadcast-experience/"><u>[New] 10 Pro Ways to Upgrade Your Twitch Broadcast Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-four-straightforward-methods-for-lenovo-screenshots/"><u>[New] Four Straightforward Methods for Lenovo Screenshots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-delve-into-all-shared-visuals-within-a-chat-on-messenger/"><u>[New] In 2024, Delve Into All Shared Visuals Within a Chat on Messenger</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps/"><u>[New] In 2024, The Ultimate Guide to Enhancing Your Android & iPhone Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>[New] Secrets of Savings The Ultimate List of Boxes-Buying Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simplify-your-audio-life-master-vrecorder-installs-for-2024/"><u>[New] Simplify Your Audio Life - Master VRecorder Installs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-watch-record-and-edit-football-matches-for-free/"><u>[Updated] 2024 Approved How to Watch, Record, and Edit Football Matches for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-your-workflow-with-macs-finest-snipers/"><u>[Updated] 2024 Approved Streamlining Your Workflow with Mac's Finest Snipers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-swift-introduction-the-art-of-green-screening/"><u>[Updated] 2024 Approved Swift Introduction The Art of Green Screening</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhancing-presence-how-to-effortlessly-eliminate-borders-for-2024/"><u>[Updated] Enhancing Presence How to Effortlessly Eliminate Borders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] In 2024, Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-meme-matrix-perfect-pratfalls-for-parties/"><u>[Updated] Meme Matrix Perfect Pratfalls for Parties</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/academic-engagement-lecture-capture-via-mac-computers/"><u>Academic Engagement Lecture Capture via Mac Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>In 2024, High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncover-the-potential-testing-and-review-of-the-netgear-ex6200-wifi-signal-amplifier-ac1200-model/"><u>Uncover the Potential: Testing and Review of the Netgear EX6200 WiFi Signal Amplifier (AC1200 Model)</u></a></li>
 </ul></div>
 
