@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-11-02T00:17:23.281Z
-updated: 2024-11-02T20:47:59.305Z
+date: 2024-11-06T00:27:37.294Z
+updated: 2024-11-10T22:33:36.240Z
 tags: 
   - screen-recording
   - ai video
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -95,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -118,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About Zoom Whiteboard
@@ -133,10 +140,16 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -155,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -177,21 +183,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-pro-ways-to-upgrade-your-twitch-broadcast-experience/"><u>[New] 10 Pro Ways to Upgrade Your Twitch Broadcast Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-four-straightforward-methods-for-lenovo-screenshots/"><u>[New] Four Straightforward Methods for Lenovo Screenshots</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-delve-into-all-shared-visuals-within-a-chat-on-messenger/"><u>[New] In 2024, Delve Into All Shared Visuals Within a Chat on Messenger</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps/"><u>[New] In 2024, The Ultimate Guide to Enhancing Your Android & iPhone Snaps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>[New] Secrets of Savings The Ultimate List of Boxes-Buying Websites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplify-your-audio-life-master-vrecorder-installs-for-2024/"><u>[New] Simplify Your Audio Life - Master VRecorder Installs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-watch-record-and-edit-football-matches-for-free/"><u>[Updated] 2024 Approved How to Watch, Record, and Edit Football Matches for Free</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-your-workflow-with-macs-finest-snipers/"><u>[Updated] 2024 Approved Streamlining Your Workflow with Mac's Finest Snipers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-swift-introduction-the-art-of-green-screening/"><u>[Updated] 2024 Approved Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-enhancing-presence-how-to-effortlessly-eliminate-borders-for-2024/"><u>[Updated] Enhancing Presence How to Effortlessly Eliminate Borders for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] In 2024, Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-meme-matrix-perfect-pratfalls-for-parties/"><u>[Updated] Meme Matrix Perfect Pratfalls for Parties</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/academic-engagement-lecture-capture-via-mac-computers/"><u>Academic Engagement Lecture Capture via Mac Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>In 2024, High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncover-the-potential-testing-and-review-of-the-netgear-ex6200-wifi-signal-amplifier-ac1200-model/"><u>Uncover the Potential: Testing and Review of the Netgear EX6200 WiFi Signal Amplifier (AC1200 Model)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-streaming-athletic-games-real-time/"><u>[New] 2024 Approved Best Practices for Streaming Athletic Games Real-Time</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-boost-views-via-strategic-tagging-tactics/"><u>[New] 2024 Approved Boost Views via Strategic Tagging Tactics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mi-11s-screen-recording-elevate-your-digital-storytelling/"><u>[New] In 2024, Mi 11'S Screen Recording Elevate Your Digital Storytelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[New] In 2024, Transformative Recording Techniques Audacity Tips and Tricks on a Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries-for-2024/"><u>[New] Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-master-iphone-screen-recording-in-minutes-for-2024/"><u>[New] Master iPhone Screen Recording in Minutes for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prevention-of-fetal-alcohol-syndrome/"><u>[New] Prevention of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-guide-to-iphone-7-screen-recordings-for-2024/"><u>[New] The Complete Guide to iPhone 7 Screen Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-transforming-live-engagements-into-lasting-media/"><u>[New] Transforming Live Engagements Into Lasting Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-creating-polished-video-content-in-captivate/"><u>[Updated] Creating Polished Video Content in Captivate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>[Updated] The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-primer-on-the-language-of-immersive-technology-for-2024/"><u>A Primer on the Language of Immersive Technology for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-a-peek-into-the-heart-of-youtubes-video-operations/"><u>In 2024, A Peek Into the Heart of YouTube's Video Operations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-13-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 13 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://solve-info.techidaily.com/resolving-file-transfer-issues-how-to-successfully-copy-files-from-windows-11-to-an-external-hdd/"><u>Resolving File Transfer Issues: How to Successfully Copy Files From Windows 11 to an External HDD</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029612271-step-by-step-tutorial-for-transforming-mpeg-files-into-mp4-format-across-various-systems-updated/"><u>Step-by-Step Tutorial for Transforming MPEG Files Into MP4 Format Across Various Systems (Updated )</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-dvd-player-software-for-windows-11-and-macos-free-download/"><u>Top Rated DVD Player Software for Windows 11 & macOS: Free Download</u></a></li>
 </ul></div>
 

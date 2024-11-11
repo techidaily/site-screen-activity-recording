@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Change Saving Spot for Mac's Photos\""
-date: 2024-08-10T11:21:04.747Z
-updated: 2024-08-11T11:21:04.747Z
+date: 2024-11-06T18:57:16.245Z
+updated: 2024-11-11T01:19:49.483Z
 tags: 
   - screen-recording
   - ai video
@@ -29,9 +29,6 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -49,19 +46,27 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -69,10 +74,14 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -85,8 +94,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -97,9 +110,6 @@ Make sure that your username is properly written, and then press Enter to run th
 
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -108,11 +118,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[New] 2024 Approved Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-2024s-premier-unboxers-on-youtube/"><u>[New] Comprehensive Guide to 2024'S Premier Unboxers on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-an-inclusive-easeus-recexperts-review/"><u>[New] In 2024, An Inclusive EaseUS RecExperts Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-for-capturing-gotomeeting-conversations/"><u>[New] In 2024, Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-comprehensive-kinetic-study-2023/"><u>[Updated] Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-monitoring-your-instagram-fan-loss-rate/"><u>[Updated] In 2024, Monitoring Your Instagram Fan-Loss Rate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>[Updated] The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-budget-friendly-bundles-startup-channels-for-newcomers/"><u>In 2024, Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-potions-tips-and-tricks-for-creating-awkward-elixirs-in-minecraft/"><u>Mastering Potions: Tips & Tricks for Creating Awkward Elixirs in Minecraft</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximize-attendee-visibility-with-google-meet-grids/"><u>Maximize Attendee Visibility with Google Meet Grids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/selection-mastery-making-every-frame-count-on-youtube/"><u>Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-checklist-to-record-web-chats-for-2024/"><u>The Ultimate Checklist to Record Web Chats for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-perfect-gaming-experience-kinemaster-on-android-for-2024/"><u>Unveiling the Perfect Gaming Experience KineMaster on Android for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-breaking-down-the-clip-how-to-split-videos-in-windows-live-movie-maker/"><u>Updated Breaking Down the Clip How to Split Videos in Windows Live Movie Maker</u></a></li>
+</ul></div>
+

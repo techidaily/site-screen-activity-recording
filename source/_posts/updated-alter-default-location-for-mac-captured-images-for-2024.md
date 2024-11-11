@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alter Default Location for Mac Captured Images for 2024"
-date: 2024-10-26T16:37:55.845Z
-updated: 2024-11-02T16:13:17.805Z
+date: 2024-11-09T00:22:21.983Z
+updated: 2024-11-11T05:01:09.726Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,14 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vocal-lens-capture-microphone-inputs/"><u>[New] 2024 Approved Vocal Lens Capture Microphone Inputs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-converting-insta-videos-to-mp3-a-comprehensive-overview-for-2024/"><u>[New] Converting Insta Videos to MP3 - A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-save-your-screencasts-on-pc-with-free-tools/"><u>[Updated] 2024 Approved Save Your Screencasts on PC with Free Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-itunes-recording-hacks-for-enhanced-videos/"><u>[Updated] ITunes Recording Hacks for Enhanced Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-non-fbx-innovations-leading-the-way-in-gameplay-tracking-for-2024/"><u>[Updated] Non-FBX Innovations Leading the Way in Gameplay Tracking for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-a-grayed-out-screen-saver-settings-on-windows/"><u>4 Ways to Fix a Grayed Out Screen Saver Settings on Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-fixes-for-spatial-sound-issues-in-both-windows-10-and-windows-11-environments/"><u>Master Fixes for Spatial Sound Issues in Both Windows 10 and Windows 11 Environments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-eco-conscious-filmmaking-advances-for-2024/"><u>Top 5 Eco-Conscious Filmmaking Advances for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-equality-in-tech-easeus-experts-take/"><u>[New] 2024 Approved Equality in Tech EaseUS Experts' Take</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screen-capture-showdown-is-obs-better-than-fraps/"><u>[New] 2024 Approved Screen Capture Showdown Is OBS Better Than Fraps?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-alternative-game-capture-software-no-more-fbx-dependence/"><u>[New] Alternative Game Capture Software No More FBX Dependence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-direct-directions-simple-techniques-for-laptop-screening-dell-for-2024/"><u>[New] Direct Directions Simple Techniques for Laptop Screening (Dell) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-techniques-to-perfectly-transcribe-ppts/"><u>[New] In 2024, Techniques to Perfectly Transcribe PPTs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>[New] The Art of Video Marketing 11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tips-for-a-seamless-phone-screen-record/"><u>[New] Tips for a Seamless Phone Screen Record</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unmatched-editing-apps-to-enhance-webcam-content-for-2024/"><u>[New] Unmatched Editing Apps to Enhance Webcam Content for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-cod-modern-warfare-fps-drops/"><u>[SOLVED] COD: Modern Warfare FPS Drops</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-revolutionize-game-recording-in-windows-11-with-these-top-strategies/"><u>[Updated] In 2024, Revolutionize Game Recording in Windows 11 with These Top Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>[Updated] Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/accelerated-download-of-rs232-compatible-drivers-for-usb-hardware/"><u>Accelerated Download of RS232-Compatible Drivers for USB Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-play-40c-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Play 40C Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-mac-tool-for-screen-and-audio-capture-for-2024/"><u>Innovative Mac Tool for Screen & Audio Capture for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/isolating-linguistic-tech-from-machine-learning-systems/"><u>Isolating Linguistic Tech From Machine Learning Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211349045-9798869345547-organic-life/"><u>Organic Life | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-quest-for-video-perfection-debating-between-bandicam-and-camtasia-for-2024/"><u>The Quest for Video Perfection Debating Between Bandicam & Camtasia for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-soundscape-mac-studios-explained/"><u>The Soundscape Mac Studios Explained</u></a></li>
 </ul></div>
 
