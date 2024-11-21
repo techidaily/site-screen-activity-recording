@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2024-11-06T02:11:21.399Z
-updated: 2024-11-10T21:59:50.992Z
+date: 2024-11-17T22:13:02.562Z
+updated: 2024-11-20T17:10:56.247Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
@@ -52,10 +56,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -69,13 +74,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -113,7 +111,15 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -124,13 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -144,25 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -179,22 +164,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-crafting-a-professional-rss-feed-for-your-podcast/"><u>[New] 2024 Approved Crafting a Professional RSS Feed for Your Podcast</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen/"><u>[New] 2024 Approved Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>[New] 2024 Approved Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-techniques-for-flawless-distance-audio-capture/"><u>[New] 2024 Approved Top Techniques for Flawless Distance Audio Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-zoom-the-path-to-crystal-clear-borders/"><u>[New] Effortless Zoom The Path to Crystal Clear Borders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-list-screen-recorders-for-expert-users/"><u>[New] In 2024, A-List Screen Recorders for Expert Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evaluating-screencast-software-the-bandicamcamtasia-comparison/"><u>[New] In 2024, Evaluating Screencast Software The Bandicam/Camtasia Comparison</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-tune-into-your-instagram-feed-music-integration-essentials/"><u>[New] In 2024, Tune Into Your Instagram Feed Music Integration Essentials</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>[Updated] 2024 Approved The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-free-skype-mp3-logger-101-guide/"><u>[Updated] Free Skype Mp3 Logger 101 Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-creative-uses-for-home-webcams/"><u>[Updated] In 2024, Creative Uses for Home Webcams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[Updated] In 2024, Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-degrees-elevating-your-youtube-videos/"><u>[Updated] The Art of Degrees Elevating Your YouTube Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-video-makers-with-music-for-android-and-iphone/"><u>New In 2024, Best Video Makers with Music for Android and iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photogs-cameras-the-top-entry-level-picks-of-24-for-2024/"><u>New Photog's Cameras The Top Entry-Level Picks of '24 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/sweet-screen-snatcher-examination-in-depth/"><u>Sweet Screen Snatcher Examination In-Depth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-next-for-apple-discover-the-exciting-developments-in-its-revolutionary-game-mode/"><u>What's Next for Apple? Discover the Exciting Developments in Its Revolutionary Game Mode</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[New] In 2024, The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-android-video-capture-the-best-5-picks/"><u>[Updated] 2024 Approved Essential Android Video Capture The Best 5 Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-uniting-live-stream-tech-a-step-by-step-obs-and-zoom/"><u>[Updated] 2024 Approved Uniting Live Stream Tech A Step-by-Step OBS & Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-excellence-in-screensnapting-fast-reliable-recorder/"><u>[Updated] In 2024, Excellence in Screensnapting Fast, Reliable Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-skype-call-recording-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Skype Call Recording A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-skype-capture-methods-seamless-transition-between-oses-for-2024/"><u>[Updated] Skype Capture Methods Seamless Transition Between OSes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>2024 Approved Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-natural-colors-to-a-yellowish-iphone-panel/"><u>How To Restore Natural Colors to A Yellowish iPhone Panel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/inside-apeaksofts-2023-recording-technology-breakthroughs-for-2024/"><u>Inside Apeaksoft's 2023 Recording Technology Breakthroughs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/smooth-video-capture-with-your-laptops-webcam/"><u>Smooth Video Capture with Your Laptop's Webcam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-to-prevent-and-repair-permanent-imprints-on-screens/"><u>Step-by-Step Solutions to Prevent and Repair Permanent Imprints on Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-precision-step-by-step-guide-to-muting-unnecessary-sounds-in-after-effects/"><u>Updated 2024 Approved Audio Precision Step-by-Step Guide to Muting Unnecessary Sounds in After Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/webinar-technology-hacks-with-no-financial-cost/"><u>Webinar Technology Hacks with No Financial Cost</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-asus-rog-phone-7-ultimate-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Asus ROG Phone 7 Ultimate Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

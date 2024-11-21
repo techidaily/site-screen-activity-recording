@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Direct Screens Capture ChromeOS Edition for 2024"
-date: 2024-11-06T03:42:44.136Z
-updated: 2024-11-11T02:07:17.923Z
+date: 2024-11-17T02:36:44.789Z
+updated: 2024-11-21T02:03:51.039Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ So we have done our research to assist those who are in search of a cool and eas
 
 The Chrome OS Native screenshot as well as a screen recorder application is very easy and simple to use. It comes with a simple GUI in the Chromebook OS. The recorder lets you record your screen and audio input. To get your hand on the application and learn how to use it, you gotta follow the steps below. Before moving to the “How’s” you need to know that the Chrome OS native screenshot generally comes with the OS but if you are an old user and using the old version then you will need to bring it on your OS. Let's see how can we do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Setting Up
 
 If you are not seeing the recorder out of the box then you will need to access the Chrome OS features. It can be done by enabling the Chromes OS flags. All you have to do is to search chrome://flags with its browser. After that search for “screen capture”. And you will see enable option in front of the screen capture bar, enable it and you will be asked for a permission reset prompt and it's done.
@@ -32,10 +36,7 @@ If you are not seeing the recorder out of the box then you will need to access t
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Recorder Screen
@@ -44,16 +45,13 @@ Once you are done with settings up the flag or you are using the latest Chrome O
 
 ![chrome recorder screen screen capture](https://images.wondershare.com/filmora/article-images/chrome-recorder-screen-screen-capture.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Soon as you click on the screen capture, you will be prompted to a new screen with a variety of options for the tool as shown. Here you can choose a specific target area on the screen for screenshots as well as screen videos from the “Capture Area” in the figure. You can switch using the two options as shown in the figure below. To finally start recording, click “Start Capturing” as shown in the figure.
 
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, once you are done recording and now it's time to stop recording. You just need to click on the stop icon in the lower-right bottom of the desktop screen as shown in the figure below.
 
@@ -69,22 +67,13 @@ Screencastify is one of the easy to set up and user-friendly extensions that can
 
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify-site.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once it is installed, you can go to extensions and launch it. It will pop up a signing page just sign in using your Google account directly as shown. There are three steps, each step needs to be done completely to proceed further. The First step is signing in. To get done with this step in hurry just click sign in using google account.
 
 ![screencastify setup sign in google account](https://images.wondershare.com/filmora/article-images/screencastify-setup-sign-in-google-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are finished signing in and installing, it's time to set microphone settings in a new browser window. After that click next and it will be finished. Access it from the top right corner as shown in the picture and it will be open.
 
@@ -93,13 +82,6 @@ Once you are finished signing in and installing, it's time to set microphone set
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
 
 ![screencastify click that icon record](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
 
@@ -113,31 +95,29 @@ After adding the extension a new window will appear to set up your extension. Th
 
 ![awesome screenshot pin extension](https://images.wondershare.com/filmora/article-images/awesome-screenshot-pin-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Let's come to the recording of the screen. Open up the extension from the pinned icon and you will see its GUI. Select “record” and click on the “Desktop” icon as shown. Do the simple settings by selecting the storing facility, enabling the microphone, setting resolution, and enabling the camera. In the end, click start recording. Next, you will select the screen or a specific application window. Once it's chosen click share as shown in the figure. To stop the sharing click on the “Stop Sharing” button to stop.
 
 ![awesome screenshot setting resolution](https://images.wondershare.com/filmora/article-images/awesome-screenshot-setting-resolution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Nimbus
 
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
@@ -191,24 +171,22 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camera-mended-problems-resolved-with-obs/"><u>[New] 2024 Approved Camera Mended, Problems Resolved with OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-supercharge-your-media-download-sounds-for-editing/"><u>[New] 2024 Approved Supercharge Your Media Download Sounds for Editing!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-full-application-evaluation-through-az-video-logger-for-2024/"><u>[New] Full Application Evaluation Through AZ Video Logger for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-meet-your-new-record-keeping-companion-the-mycam-cam-for-2024/"><u>[New] Meet Your New Record-Keeping Companion The MyCam Cam for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[New] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-rl-live-capture/"><u>[New] The Ultimate Guide to RL Live Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elevating-gameplay-with-optimized-ram-assignment-for-minecraft/"><u>[Updated] 2024 Approved Elevating Gameplay with Optimized Ram Assignment for Minecraft</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-voice-over-techniques-that-transform-video-storytelling/"><u>[Updated] 2024 Approved Voice Over Techniques That Transform Video Storytelling</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] In 2024, CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-5-mac-snipping-utilities-essential-choices/"><u>[Updated] In 2024, Top 5 Mac Snipping Utilities Essential Choices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-superb-costless-video-rendezvous-games-for-2024/"><u>[Updated] Superb Costless Video Rendezvous Games for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/critical-methods-to-record-lol-skirmishes-for-2024/"><u>Critical Methods to Record LOL Skirmishes for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expertly-selected-ultimate-list-of-ipad-pro-cases-in-2n4-your-complete-buying-guide-zdnet/"><u>Expertly Selected Ultimate List of iPad Pro Cases in 2N4: Your Complete Buying Guide | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/insider-guide-decoding-youtube-live-image-codes/"><u>Insider Guide Decoding YouTube Live Image Codes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-15-gratis-videovy-konverter-typu-mac/"><u>Top 15 Grátis Vídeový Konvertér Typu Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1722962666996-ultimate-guide-to-the-havit-5-laptop-chiller-stay-cool-while-gaming/"><u>Ultimate Guide to the HAVIT 5 Laptop Chiller: Stay Cool While Gaming!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-rayman-legends-review-celebrating-quality-in-two-dimensional-platform-play/"><u>Unveiling Rayman Legends Review: Celebrating Quality in Two-Dimensional Platform Play</u></a></li>
-<li><a href="https://win-blog.techidaily.com/welcome-back-to-the-digital-front-door-logging-in-is-ready/"><u>Welcome Back to the Digital Front Door: Logging In Is Ready!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-direct-viewing-verdict-obs-vs-shadowcast/"><u>[New] In 2024, Direct Viewing Verdict OBS vs ShadowCast</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-premium-discord-bots-for-optimal-music-listening-for-2024/"><u>[New] The Ultimate Guide to Premium Discord Bots for Optimal Music Listening for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-the-highest-rated-conference-recorders-for-2024/"><u>[New] The Ultimate Guide to the Highest Rated Conference Recorders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-kung-fu-games-just-like-sifu/"><u>[New] Top 5 Kung Fu Games Just Like Sifu</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-professional-streaming-made-simple-in-obs-studio-android-edition/"><u>[Updated] 2024 Approved Professional Streaming Made Simple in OBS Studio, Android Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns-for-2024/"><u>[Updated] Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-iphone-7-live-view-recording-tutorial/"><u>[Updated] IPhone 7 Live View Recording Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-x-mix-master-pro-for-computer-users/"><u>[Updated] X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-camera-operational-obs-challenge-won/"><u>2024 Approved Camera Operational OBS Challenge Won</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-12-mini-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 12 mini to Computer? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-a05s-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy A05s online without jailbreak</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>In 2024, Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/soundcheck-summary-for-2024/"><u>SoundCheck Summary for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transform-your-video-presentation-with-updated-covers-for-2024/"><u>Transform Your Video Presentation with Updated Covers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-issues-with-microsoft-outlooks-spell-checker/"><u>Troubleshooting Guide: Resolving Issues with Microsoft Outlook's Spell Checker</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-13-ultra-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pista-logia-eygnwmwn-gkreman/"><u>Πιστά Λόγια Ευγνώμων Γκρεμάν</u></a></li>
 </ul></div>
 

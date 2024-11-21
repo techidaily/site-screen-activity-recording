@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to Simple Iphone Screen Recording"
-date: 2024-11-09T00:24:24.376Z
-updated: 2024-11-11T06:52:13.208Z
+date: 2024-11-15T16:43:55.126Z
+updated: 2024-11-20T21:03:10.306Z
 tags: 
   - screen-recording
   - ai video
@@ -59,13 +59,6 @@ Step 4: Once you have recorded everything, you can either stop the recording by 
 
 iPhones require different and yet special environments for various tasks. Some applications could be used to record screens on iPhone. Now that you have a fair knowledge about enabling screen recording in iPhone and its process let us introduce some popular screen recorder iPhone to you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Record it! :: Screen Recorder](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545)
 
 The application could be used for recording screens on iPhones. With this screen recorder, you can record any demo video, any gaming video. Training videos and tutorials can also be recorded from your iPhone with this recorder. This is the best application for screen recording iPhone 12.
@@ -81,13 +74,6 @@ Another Screen recorder for iPhone users is Techsmith Capture. With this, you ca
 It can quickly transfer the screen recording videos over the internet to Camtasia and Snagit. The best part is that the application keeps all the recordings organized in the library.
 
 ![techsmith capture](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [DU Recorder – Screen Recorder](https://apps.apple.com/us/app/du-recorder-screen-recorder/id1295647284)
 
@@ -108,13 +94,6 @@ With the help of this application, you can react directly to things on platforms
 The last application to be discussed is 'Screen Recorder +.' With this application, you can set the settings to HD before you start recording. By using Screen Recorder +, you can also record your reactions from the Face Cam. Customize your videos by adding your reaction. The microphone of the application will help you add voiceover to your videos.
 
 ![screen recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Recommend Desktop Screen Recorder -Wondershare Filmora
 
@@ -138,14 +117,11 @@ You can thoroughly plan and customize your recording activity. Filmora lets you 
 
 ![customize settings for filmora recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-11.jpg)
 
-Now comes the time to disclose the little surprise, that is, the Wondershare Filmora Video Editor. After you have recorded anything, you can edit it by adding cool transitions and effects to it. With Filmora Video editor, add text and titles to make your video seem classy and organized.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now comes the time to disclose the little surprise, that is, the Wondershare Filmora Video Editor. After you have recorded anything, you can edit it by adding cool transitions and effects to it. With Filmora Video editor, add text and titles to make your video seem classy and organized.
 
 ### Ending Thoughts
 
@@ -174,6 +150,10 @@ iOS devices have different features, functionality, and entirely different worki
 Step 1: To enable screen recording in your iPhone, firstly head over to the 'Settings' app and then look for 'Control Center.' Tap on the 'Customize Controls' option from the Control Center screen.
 
 ![access customized controls of control center](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Now, from the Customize Controls section, find the option of 'Screen Recording.' If the option is not available in the 'Include' section, hit the plus sign in green, and it will be moved to the 'Include' section.
 
@@ -205,6 +185,10 @@ The application supports easy and fast export to platforms like YouTube, or else
 
 ![record it screen recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [TechSmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056)
 
 Another Screen recorder for iPhone users is Techsmith Capture. With this, you can quickly record your application demos, training, and tutorials. Techsmith Capture uses iOS systems global recording APIs, which aid in recording one or more full-screen videos.
@@ -219,6 +203,10 @@ The [DU recorder](https://tools.techidaily.com/wondershare/filmora/download/) is
 
 ![du screen recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Reaction and Screen Recorder](https://apps.apple.com/us/app/reaction-cam/id1225289579)
 
 As its name represents, this application can be used for screen recording as well as for recording your reactions to any cool YouTube video or maybe TikTok. It has some amazing features, which include pausing and rewinding your video while recording it.
@@ -232,13 +220,6 @@ With the help of this application, you can react directly to things on platforms
 The last application to be discussed is 'Screen Recorder +.' With this application, you can set the settings to HD before you start recording. By using Screen Recorder +, you can also record your reactions from the Face Cam. Customize your videos by adding your reaction. The microphone of the application will help you add voiceover to your videos.
 
 ![screen recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Recommend Desktop Screen Recorder -Wondershare Filmora
 
@@ -255,6 +236,10 @@ For macOS 10.12 or later
 The screen recorder offers three types of recordings to its users. With Wondershare Filmora Screen Recorder, you can either Record from Webcam, where your video and audio are recorded simultaneously. The other option is to Record Voiceover, where the user can only record their voice to add later to any video. Lastly, the usual, Record PC Screen to capture everything from the screen.
 
 ![filmora recorder multiple options](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Screen Recording Software has different types of recording options, like either record 'Full Screen' or 'Custom' option; you can customize the screen recording. Lastly, you can record any targeted screen by using the 'Target' option.
 
@@ -322,19 +307,6 @@ The application supports easy and fast export to platforms like YouTube, or else
 
 ![record it screen recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [TechSmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056)
 
 Another Screen recorder for iPhone users is Techsmith Capture. With this, you can quickly record your application demos, training, and tutorials. Techsmith Capture uses iOS systems global recording APIs, which aid in recording one or more full-screen videos.
@@ -342,6 +314,14 @@ Another Screen recorder for iPhone users is Techsmith Capture. With this, you ca
 It can quickly transfer the screen recording videos over the internet to Camtasia and Snagit. The best part is that the application keeps all the recordings organized in the library.
 
 ![techsmith capture](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [DU Recorder – Screen Recorder](https://apps.apple.com/us/app/du-recorder-screen-recorder/id1295647284)
 
@@ -379,6 +359,10 @@ The screen recorder offers three types of recordings to its users. With Wondersh
 
 ![filmora recorder multiple options](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Screen Recording Software has different types of recording options, like either record 'Full Screen' or 'Custom' option; you can customize the screen recording. Lastly, you can record any targeted screen by using the 'Target' option.
 
 You can thoroughly plan and customize your recording activity. Filmora lets you set the 'Frame Rate' by yourself. You can also select a Quality option that what kind of result quality do you want. It allows offers you to pre-set a Record time to end the recording. You can also use the F9 key to stop recording. Once the recording is stopped, the file spontaneously goes into the media library.
@@ -415,13 +399,6 @@ Step 1: To enable screen recording in your iPhone, firstly head over to the 'Set
 
 ![access customized controls of control center](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Now, from the Customize Controls section, find the option of 'Screen Recording.' If the option is not available in the 'Include' section, hit the plus sign in green, and it will be moved to the 'Include' section.
 
 ![add screen recording](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-2.jpg)
@@ -439,6 +416,10 @@ Step 3: After that, it will hardly take 3 seconds, and then the Record button wi
 Step 4: Once you have recorded everything, you can either stop the recording by hitting the Record button from the Control Center. Or else, tap on the red time in the top left corner and click on 'Stop.'
 
 ![stop screen recording](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. 5 Popular Screen Recorder for iPhone
 
@@ -496,18 +477,15 @@ The screen recorder offers three types of recordings to its users. With Wondersh
 
 ![filmora recorder multiple options](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Screen Recording Software has different types of recording options, like either record 'Full Screen' or 'Custom' option; you can customize the screen recording. Lastly, you can record any targeted screen by using the 'Target' option.
 
 You can thoroughly plan and customize your recording activity. Filmora lets you set the 'Frame Rate' by yourself. You can also select a Quality option that what kind of result quality do you want. It allows offers you to pre-set a Record time to end the recording. You can also use the F9 key to stop recording. Once the recording is stopped, the file spontaneously goes into the media library.
 
 ![customize settings for filmora recorder](https://images.wondershare.com/filmora/article-images/2021/screen-recording-on-iphone-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now comes the time to disclose the little surprise, that is, the Wondershare Filmora Video Editor. After you have recorded anything, you can edit it by adding cool transitions and effects to it. With Filmora Video editor, add text and titles to make your video seem classy and organized.
 
@@ -551,14 +529,22 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>[New] 2024 Approved Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>[New] 2024 Approved MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-tackling-frame-rate-glitches-in-obs-outputs-for-2024/"><u>[New] Tackling Frame Rate Glitches in OBS Outputs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>[Updated] 2024 Approved Conquerors of the Past The Prime 7 Battle Simulations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-tips-capturing-overwatch-matches/"><u>[Updated] In 2024, Quick Tips Capturing Overwatch Matches</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/creating-a-class-library/"><u>Creating a Class Library</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-straightforward-path-to-iphone-screen-capture/"><u>In 2024, A Straightforward Path to iPhone Screen Capture</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210105696-9781633484436-the-year-of-the-black-sheep/"><u>The Year of the Black Sheep | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-soundscout-audio-critique-adventure/"><u>[New] 2024 Approved SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-all-encompassing-evaluation-gecatas-live-recording-for-2024/"><u>[New] All-Encompassing Evaluation Gecata's Live Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[New] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-proven-instagram-analysis-apps-enhance-engagement-growth-and-conversion-rates/"><u>[New] In 2024, Proven Instagram Analysis Apps Enhance Engagement, Growth & Conversion Rates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-mac-live-streaming-options-ranked-1-5/"><u>[New] Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-screen-with-ultra-screen-recorder-for-2024/"><u>[Updated] How to Record Screen With Ultra Screen Recorder for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-razer-kiyo-webcam-review/"><u>[Updated] In 2024, Razer Kiyo Webcam Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-core-elements-in-storytelling-skills/"><u>2024 Approved Core Elements in Storytelling Skills</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-discover-11-leading-streamers-audio-recorders/"><u>2024 Approved Discover 11 Leading Streamers' Audio Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-podcast-imagery-creating-memorable-graphics/"><u>2024 Approved The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/deep-dive-into-conflict-11-top-strategy-war-games/"><u>Deep Dive Into Conflict: 11 Top Strategy War Games</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967435848-get-optimized-performance-download-rtx-2060-super-drivers-for-windows-11-today/"><u>Get Optimized Performance: Download RTX 2060 Super Drivers for Windows 11 Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-cinematography-processes-using-obss-versatile-lut-tools-and-downloads/"><u>In 2024, Streamline Cinematography Processes Using OBS's Versatile LUT Tools and Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-legion-5-pro-i7-16gb-ram-installing-the-optimal-drivers/"><u>Lenovo Legion 5 Pro (I7, 16GB RAM) - Installing the Optimal Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop for 2024"
-date: 2024-08-03T06:59:41.445Z
-updated: 2024-08-04T06:59:41.445Z
+date: 2024-11-19T01:33:23.706Z
+updated: 2024-11-20T16:40:38.083Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 # How to Make a Video Call in WhatsApp Web in Laptop
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,8 +34,9 @@ WhatsApp is one of our favorite communication apps, especially useful while we a
 * [**Part 3: WhatsApp Web alternative**](#WhatsApp-Web-alternative)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Can You Make Video Calls on WhatsApp Desktop
 
 Unfortunately, you can’t use WhatsApp on the desktop to make video calls directly. However, you can use another third-party software to emulate the WhatsApp video call on desktop. In addition to video calls, you can use other features like on the phone.
@@ -59,9 +57,6 @@ In a few easy steps:
    2. Select Save, then run the application. Give it time to install.
    3. Set up your account with the app and log in to Google to sync.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
 
    1. Find WhatsApp in the Play or Apple store and download it.
@@ -77,9 +72,17 @@ In a few easy steps:
 
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: WhatsApp Web Alternative
 
 There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
 
@@ -87,35 +90,30 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 2\. [Google Duo](https://duo.google.com/about/)
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -124,11 +122,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid/"><u>[New] 2024 Approved Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-experts-blueprint-for-calculating-your-videos-impact-and-income-for-2024/"><u>[New] An Expert's Blueprint for Calculating Your Video's Impact & Income for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-android-non-root-audio-capture-4-easy-methods-for-2024/"><u>[New] Android Non-Root Audio Capture 4 Easy Methods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[New] Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-leading-8-affordable-open-source-platforms-for-enterprise-calls/"><u>[Updated] 2024 Approved Leading 8 Affordable Open-Source Platforms for Enterprise Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-hd-recording-apps-for-your-computer-display/"><u>[Updated] Top 10 HD Recording Apps for Your Computer Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-troubleshooting-common-issues-in-skype-and-obs-collaboration/"><u>[Updated] Troubleshooting Common Issues in Skype & OBS Collaboration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-prime-camera-choices-revealing-the-best/"><u>2024 Approved The Prime Camera Choices – Revealing the Best</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-critical-questions-to-ask-before-investing-in-new-stereo-speakers/"><u>5 Critical Questions to Ask Before Investing in New Stereo Speakers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-toshiba-bluetooth-driver/"><u>Download Toshiba Bluetooth Driver</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ensuring-long-term-access-to-instagrams-video-gems-for-2024/"><u>Ensuring Long-Term Access to Instagram's Video Gems for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-deep-dive-side-by-side-specification-comparison/"><u>GoPro Deep Dive Side-by-Side Specification Comparison</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-optimize-workflow-effective-methods-of-capturing-macs-screen-via-shortcut-keys/"><u>In 2024, Optimize Workflow Effective Methods of Capturing Mac’s Screen via Shortcut Keys</u></a></li>
+</ul></div>
+

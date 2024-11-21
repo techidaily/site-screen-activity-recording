@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024"
-date: 2024-11-06T23:55:18.635Z
-updated: 2024-11-10T17:49:52.247Z
+date: 2024-11-17T19:21:28.197Z
+updated: 2024-11-21T06:29:31.444Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Step 4: Change CPU Usage Present from Veryfast to Ultrafast so that OBS uses les
 
 Step 5: Click on Apply and Ok button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2\. Shut Down The Game Bar Recording
 
 There are certain gaming features available in Windows 10 that cause rendering issue for OBS studio. If game mode is on, all the GPU resources are used in the active game and hence, OBS suffers in performance. Similarly, if Game Bar recording is on, it interferes with OBS Studio full screen recording and leads to OBS studio not recording full screen game. You need to turn off Game Bar recording by taking the following steps.
@@ -52,6 +56,10 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 4: Turn it off so that it does not record your gameplay.
 
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Empower the Compatibility Mode
 
@@ -72,26 +80,20 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
@@ -105,16 +107,13 @@ Step 3: Right-click on Display Capture and click on Windowed Projector option.
 
 ![turn your gameplay to windows mode](https://images.wondershare.com/filmora/article-images/turn-your-gameplay-to-windows-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Click on Start Recording and move to your Windowed game screen. After recording for a few seconds, click on Stop Recording. Check if the recording has been successful.
 
 Step 5: Thereafter, you can move your game to full screen mode. On OBS, you can then select Fullscreen Projector and select your monitor. Start recording again and see if OBS can capture the full screen now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. Re-install OBS
 
@@ -150,9 +149,17 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
@@ -190,23 +197,9 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
@@ -225,10 +218,7 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
@@ -236,22 +226,12 @@ Step 2: Select the recording screen size as full screen.
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -281,24 +261,16 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/fixed-7-fixes-for-twitch-streams-not-loading/"><u>[Fixed] 7 Fixes for Twitch Streams Not Loading</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>[New] 2024 Approved How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-androids-playground-of-dreams-the-favorite-15-games-for-2024/"><u>[New] Android's Playground of Dreams The Favorite 15 Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>[New] In 2024, 5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>[New] In 2024, Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mellow-mixdowns-lowlighting-with-ease-in-garageband/"><u>[New] In 2024, Mellow Mixdowns Lowlighting with Ease in Garageband</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamline-webcam-use-on-modern-devices/"><u>[New] In 2024, Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11/"><u>[Updated] 2024 Approved Six Innovative Approaches for Recording and Storing MOV Files on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-tips-for-capturing-desktop-activity-the-ezvide-way/"><u>[Updated] Expert Tips for Capturing Desktop Activity - The Ezvide Way</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crafting-countdowns-the-essentials-for-obs-users/"><u>[Updated] In 2024, Crafting Countdowns The Essentials for OBS Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-seamless-integration-of-obs-studio-with-android-tech/"><u>[Updated] In 2024, Seamless Integration of OBS Studio with Android Tech</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktok-triumphs-in-twitter-land-toptiktoks-revealed/"><u>[Updated] In 2024, TikTok Triumphs in Twitter Land #TopTikToks Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-timeliness-iphone-slow-motion-filming/"><u>[Updated] In 2024, Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-six-most-effective-portable-translator-applications/"><u>Discover the Six Most Effective Portable Translator Applications</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-vision-realized-educating-the-next-70-million-learners/"><u>Mondly's Vision Realized – Educating the Next 70 Million Learners</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pc-and-macs-premier-screen-capture-tools-ranked/"><u>PC & Mac's Premier Screen Capture Tools Ranked</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mov-storage-techniques-a-windows-10-perspective/"><u>[Updated] .mov Storage Techniques A Windows 10 Perspective</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techniques-for-flawless-live-broadcasting-of-rl-games/"><u>[Updated] 2024 Approved Techniques for Flawless Live Broadcasting of RL Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-record-webinar-for-free/"><u>[Updated] In 2024, How to Record Webinar for Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-master-quickfix-for-podcast-broadcasts-for-2024/"><u>[Updated] Master Quickfix for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-navigating-the-world-of-spotify-marketing/"><u>[Updated] Navigating the World of Spotify Marketing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advancing-ai-responsibly-with-open-source-innovations-insights-from-zdnet/"><u>Advancing AI Responsibly with Open Source Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/affordable-choices-best-laptops-for-gamers-on-a-dime-for-2024/"><u>Affordable Choices Best Laptops for Gamers on a Dime for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-6s-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 6s GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/htc-vive-review-the-most-immersive-vr-headset/"><u>HTC Vive Review – The Most Immersive VR Headset</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-premier-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Camon 20 Premier 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-capturing-purity-best-sound-for-podcasts/"><u>In 2024, Capturing Purity Best Sound for Podcasts</u></a></li>
 </ul></div>
 

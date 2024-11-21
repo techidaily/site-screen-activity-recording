@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Full Screen OBS Complication Overcome for 2024"
-date: 2024-11-08T09:14:54.715Z
-updated: 2024-11-11T09:53:14.522Z
+date: 2024-11-17T22:56:56.776Z
+updated: 2024-11-20T18:30:12.936Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ OBS Studio is the most popular free video recording and streaming software. Howe
 
 First of all, OBS Studio files could have got corrupted somehow. Sometimes, OBS Studio is heavily using CPU resources in capturing full screen, and hence, due to very fast access, CPU has limited the access of usage. There are could be a compatibility issue with OBS Studio and your Windows version. Sometimes, any third-party screen recording software could intervene in OBS operation. In this article, we will illustrate all the possible ways to fix OBS does not recording full screen issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1\. Modify CPU Setting for OBS
 
 By default, OBS CPU usage present is set to very fast. This means the encoder is running very fast which leads to less CPU time usage. The higher the present, the less is the CPU usage. Unless you have a high-end computer, this default setting can lead to rendering and encoding issues. OBS uses more CPU resources when you are recording full screen. CPU tends to limit its allocation for OBS when OBS starts using CPU resources at a very fast speed. This leads to OBS not full screen recording issue. You should change the setting by taking the following steps.
@@ -37,6 +41,10 @@ Step 4: Change CPU Usage Present from Veryfast to Ultrafast so that OBS uses les
 
 ![obs change cpu usage](https://images.wondershare.com/filmora/article-images/obs-change-cpu-usage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Click on Apply and Ok button.
 
 ## Way 2\. Shut Down The Game Bar Recording
@@ -52,13 +60,6 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 4: Turn it off so that it does not record your gameplay.
 
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. Empower the Compatibility Mode
 
@@ -78,33 +79,16 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 4\. Turn Your Gameplay to Windowed Mode
@@ -133,29 +117,9 @@ Step 2: From the list of installed applications, find OBS Studio and click on Un
 
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
 
@@ -177,9 +141,17 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
@@ -206,10 +178,7 @@ Step 3: Click on Record button when you are ready. You will get a few buffer sec
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -231,6 +200,10 @@ Step 2: Select the recording screen size as full screen.
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -249,15 +222,16 @@ Step 2: Select the recording screen size as full screen.
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -287,22 +261,17 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-irecorder-demystified-a-deep-dive-into-features/"><u>[New] 2024 Approved IRecorder Demystified A Deep Dive Into Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimal-video-saver-best-chromebook-recorder/"><u>[New] Optimal Video Saver Best Chromebook Recorder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-smart-social-media-strategies-from-youtube-to-facebook/"><u>[New] Smart Social Media Strategies From YouTube To Facebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-art-of-video-presentation-in-adobe-captivate/"><u>[New] The Art of Video Presentation in Adobe Captivate</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-key-to-memorable-tiktok-opens-mac-edition-for-2024/"><u>[New] The Key to Memorable TikTok Opens - Mac Edition for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-precision-audio-capturing-techniques-in-overwatch/"><u>[Updated] 2024 Approved Precision Audio Capturing Techniques in Overwatch</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-the-mechanics-an-introduction-to-gopro-time-lapse/"><u>[Updated] In 2024, Mastering the Mechanics An Introduction to GoPro Time-Lapse</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>[Updated] In 2024, Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts-for-2024/"><u>[Updated] Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-screeners-guide-to-8-choices/"><u>[Updated] Ultimate Screener's Guide to 8 Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-embrace-tranquility-top-10-stress-free-games/"><u>2024 Approved Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-exploring-ios-screenshot-apps-deeply/"><u>2024 Approved Exploring iOS Screenshot Apps Deeply</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-imagecaptor-3000-windowsmacs-ultimate-choice/"><u>In 2024, ImageCaptor 3000 Windows/Mac's Ultimate Choice</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g04-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G04 Phone? Unlock It Now</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-no-cost-game-recorders-the-essential-selection-list/"><u>In 2024, No-Cost Game Recorders The Essential Selection List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/vlc-video-record-a-critique-for-2024/"><u>VLC Video Record A Critique for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-multi-view-magic-is-splitcam-prime/"><u>[New] 2024 Approved Multi-View Magic Is SplitCam Prime?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[New] In 2024, Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovating-with-obs-studio-on-android-systems-for-2024/"><u>[New] Innovating with OBS Studio on Android Systems for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-kazam-screen-recorder-review/"><u>[Updated] 2024 Approved Kazam Screen Recorder Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-youtube-reviews-top-15-unboxing-vloggers/"><u>Cutting Edge YouTube Reviews Top 15 Unboxing Vloggers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-unique-model-code-of-your-apple-macbook-easily/"><u>Discovering the Unique Model Code of Your Apple MacBook Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>In 2024, Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/must-see-hd-video-snaps-for-mac-users-char-limit-156-for-2024/"><u>Must-See HD Video Snaps for Mac Users (Char Limit 156) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/queer-culture-unveiled-your-ultimate-guide-to-lgbtq-focused-series-on-netflix-july-2024-edition/"><u>Queer Culture Unveiled: Your Ultimate Guide to LGBTQ-Focused Series on Netflix (July 2024 Edition)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-process-for-efficient-use-of-macs-preview-app-for-2024/"><u>Step-by-Step Process for Efficient Use of Mac's Preview App for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-lava-agni-2-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Lava Agni 2 5G Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

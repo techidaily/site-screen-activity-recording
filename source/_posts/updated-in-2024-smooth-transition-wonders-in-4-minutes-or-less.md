@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Smooth Transition Wonders in 4 Minutes or Less"
-date: 2024-11-06T19:16:10.742Z
-updated: 2024-11-11T04:16:58.731Z
+date: 2024-11-13T23:28:41.866Z
+updated: 2024-11-20T22:30:25.212Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,7 @@ Here is how to add dissolve transition in Filmora.
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * After importing video footage into Filmora, drag and drop them in the timeline.
@@ -64,10 +61,7 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 ![Ripple & Dissolve Transtions in Filmora9 ](https://images.wondershare.com/filmora/article-images/ripple-dissolve-transtions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You can adjust the duration of the Dissolve transition to get a better result.
@@ -75,10 +69,7 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Apply Fade Motion Effects to Video
@@ -98,15 +89,16 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 
 ![Add  black color screen   to video in Filmora  ](https://images.wondershare.com/filmora/article-images/add-sample-color-screen-to-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -122,10 +114,7 @@ Here are Preset and Customize options available, in order to create a fade effec
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
@@ -157,20 +146,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] 2024 Approved Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-elite-free-screen-partnership-adventures-for-2024/"><u>[New] Elite Free Screen Partnership Adventures for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expertise-for-changing-meet-usernames-laptopmobile-for-2024/"><u>[New] Expertise for Changing Meet Usernames (Laptop/Mobile) for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-guide-to-choosing-among-the-best-9-video-conferencing-tools-android-iphone/"><u>[New] In 2024, Guide to Choosing Among The Best 9 Video Conferencing Tools (Android, iPhone)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] 2024 Approved Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-stepwise-approach-to-impressive-collage-creation/"><u>[Updated] Stepwise Approach to Impressive Collage Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-picks-video-grabbers-on-microsofts-os-for-2024/"><u>[Updated] Top Picks Video Grabbers on Microsoft's OS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-transforming-scripted-words-into-powerful-video-soundtracks-for-2024/"><u>[Updated] Transforming Scripted Words Into Powerful Video Soundtracks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-uniting-content-creators-microphones-that-speak-to-every-yt-style-and-genre/"><u>2024 Approved Uniting Content Creators Microphones That Speak to Every YT Style and Genre</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-itel-a05s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel A05s Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-screen-sharpness-solution/"><u>Immediate Screen Sharpness Solution</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-poco-m6-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Poco M6 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>In 2024, The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-essential-companion-for-advanced-win10-users-for-2024/"><u>The Essential Companion for Advanced Win10 Users for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dynamic-visual-logging-services/"><u>[New] Dynamic Visual Logging Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-approaches-to-enhancing-google-meet-visibility-for-2024/"><u>[New] Innovative Approaches to Enhancing Google Meet Visibility for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] In 2024, Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-5-affordable-no-frills-screen-recorders/"><u>[Updated] In 2024, Top 5 Affordable, No-Frills Screen Recorders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>[Updated] In 2024, Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>[Updated] Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-minecraft-sustainable-house-projects-6-10/"><u>[Updated] Minecraft Sustainable House Projects #6-10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-premium-quick-insight-for-pics-on-win-11-for-2024/"><u>[Updated] Premium Quick Insight for Pics on Win 11 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-sky-high-streamer-success-channel-growth-through-monetizing-every-device-for-2024/"><u>[Updated] Sky-High Streamer Success Channel Growth Through Monetizing Every Device for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-suggestions-elite-ios-tone-craftsmen/"><u>[Updated] Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-video-production-record-edit-and-export-guide/"><u>[Updated] Webcam Video Production Record, Edit & Export Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-free-end-credits-excellence-top-6-tutorials/"><u>2024 Approved Free End Credits Excellence Top 6 Tutorials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pioneering-methods-to-log-lol-gaming-sessions/"><u>2024 Approved Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199724895-failure-to-adhere-to-recommended-calibration-frequencies-can-result-in-product-quality-issues-and-non-compliance-with-industry-standards/"><u>Failure to Adhere to Recommended Calibration Frequencies Can Result in Product Quality Issues and Non-Compliance with Industry Standards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr-for-2024/"><u>Mastering MMOs in VR Oculus vs HTC Vive vs PS VR for 2024</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 5 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-modern-producers-guide-to-applying-gradual-volume-decrease-in-audio-production/"><u>Updated The Modern Producers Guide to Applying Gradual Volume Decrease in Audio Production</u></a></li>
 </ul></div>
 

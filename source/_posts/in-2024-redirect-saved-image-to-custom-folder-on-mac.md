@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Redirect Saved Image to Custom Folder on Mac"
-date: 2024-08-10T11:10:38.544Z
-updated: 2024-08-11T11:10:38.544Z
+date: 2024-11-19T22:34:00.452Z
+updated: 2024-11-21T00:39:02.811Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,11 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -49,21 +50,20 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -72,10 +72,11 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,6 +88,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -97,9 +102,6 @@ Make sure that your username is properly written, and then press Enter to run th
 
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -108,8 +110,6 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,5 +117,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-symphony-for-screens-music-in-instagram-visuals/"><u>[New] A Symphony for Screens Music in Instagram Visuals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-roadmap-for-seamless-screen-recording-using-adobe-captivity-for-2024/"><u>[New] The Roadmap for Seamless Screen Recording Using Adobe Captivity for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-iptv-recording-mastery/"><u>[Updated] 2024 Approved A Comprehensive Guide to IPTV Recording Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-full-assessment-macs-screenflow-studio-experience/"><u>[Updated] 2024 Approved Full Assessment Mac's ScreenFlow Studio Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>[Updated] 2024 Approved Learn to Bring Text Alive Free Animation for Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-10-royale-combat-titles/"><u>[Updated] Elite 10 Royale Combat Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-for-game-recording-on-windows-11-for-2024/"><u>[Updated] Essential Tips for Game-Recording on Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-film-and-image-repository-highlights/"><u>[Updated] In 2024, Free Film and Image Repository Highlights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-future-earning-potential-in-gaming-videos/"><u>[Updated] In 2024, Future Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-tags-on-youtube-tips-and-tricks/"><u>[Updated] Navigating Tags on YouTube - Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-instructions-to-acquire-custom-ringtone-apps-on-apple-iphones-and-android-phones/"><u>Easy Instructions to Acquire Custom Ringtone Apps on Apple iPhones and Android Phones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-schedule-meetings-on-zoom-in-2024/"><u>How to Schedule Meetings on Zoom, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/insiders-guide-to-recording-and-livestreaming-sports-events/"><u>Insider's Guide to Recording and Livestreaming Sports Events</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-2e33-vw-id4-user-guide-a-perfect-choice-for-newcomers-to-ev-technology/"><u>The 2E33 VW ID.4 User Guide: A Perfect Choice for Newcomers to EV Technology</u></a></li>
+</ul></div>
 
