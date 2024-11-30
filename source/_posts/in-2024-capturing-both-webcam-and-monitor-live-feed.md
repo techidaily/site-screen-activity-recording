@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Capturing Both Webcam & Monitor Live Feed"
-date: 2024-08-17T12:05:57.763Z
-updated: 2024-08-18T12:05:57.763Z
+date: 2024-11-22T18:52:29.028Z
+updated: 2024-11-29T19:42:15.417Z
 tags: 
   - screen-recording
   - ai video
@@ -29,9 +29,6 @@ We perform so many different tasks on our computers every day, but we rarely get
 
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -40,17 +37,19 @@ PC users have a variety of [screen recorders](https://tools.techidaily.com/wonde
 
 Once you’ve installed Fimora on your PC, you should launch the app and create a new project. After Filmora’s main window loads, you should head over to the Media tab, and click on the Record drop-down menu that is located next to the Import drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
 
@@ -65,8 +64,9 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
 
 All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
@@ -74,8 +74,9 @@ All you need to do in order to access the Game Bar on Windows 10 is to use the W
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
 
 [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US) extension for Google Chrome web browser offers a simple and easy solution to all PC users who would like to record screens and webcam videos at the same time. The extension can be downloaded for free, and the setup process won’t take much more than a few moments. Before you can start using Loom, you must first sign in using your Google account and then grant the extension access to your computer’s microphone and camera.
@@ -92,18 +93,17 @@ So, if you want to record the webcam and screen at the same time, and edit the r
 
 Including the webcam footage in your screen recordings can make them more entertaining to watch, since viewers can actually see the person who is talking to them. Although Windows 10’s Game Bar features the tools you are going to need to record a computer screen, capturing the webcam video stream simultaneously is a highly technical and time-consuming task. That is why it is much better to use Filmora or the Loom extension for Google Chrome if you want to record your screen and use a webcam at the same time. Which method of capturing webcam video streams and computer screens do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,5 +112,26 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pc-audio-logging-made-simple-install-x-recorder/"><u>[New] 2024 Approved Pc Audio Logging Made Simple Install X-Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-transfergenius-gurus-viewpoint/"><u>[New] 2024 Approved TransferGenius Gurus' Viewpoint</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-strategies-for-logging-roblox-games-on-a-macbook-for-2024/"><u>[New] Expert Strategies for Logging Roblox Games on a MacBook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-real-time-broadcast-at-your-fingertips-12-channels-for-2024/"><u>[New] Real-Time Broadcast at Your Fingertips - 12 Channels for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seekingnextgencamerasolutions/"><u>[Updated] 2024 Approved SeekingNextGenCameraSolutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-valheim-planting-manual/"><u>[Updated] 2024 Approved The Ultimate Valheim Planting Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-twitch-live-reset-guide/"><u>[Updated] 2024 Approved Twitch Live Reset Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-craft-engaging-videos-with-7-free-premium-soundscapes/"><u>[Updated] In 2024, Craft Engaging Videos with 7 Free, Premium Soundscapes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-precise-speech-to-text-the-google-standard/"><u>[Updated] Precise Speech to Text The Google Standard</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tutorial-turning-on-grid-view-in-google-meet-chats/"><u>[Updated] Tutorial Turning On Grid View in Google Meet Chats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs-for-2024/"><u>[Updated] Ultimate List of HD Webcams Compatible with Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-xsplit-guidebook-in-depth-splits-analysis/"><u>[Updated] XSplit Guidebook In-Depth Splits Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-sony-xperia-1-v-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Sony Xperia 1 V Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/husqvarnas-high-flyers-the-2023-drone-review-series-for-2024/"><u>Husqvarna's High Flyers The 2023 Drone Review Series for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-androids-top-gaming-app-kinemaster-unveiled/"><u>In 2024, Android's Top Gaming App KineMaster Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>In 2024, The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigate-must-try-world-building-games-for-2024/"><u>Navigate Must-Try World Building Games for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-usb-20-a-deep-dive-into-data-speeds-wire-varieties-and-connection-systems/"><u>Navigating the World of USB 2.0: A Deep Dive Into Data Speeds, Wire Varieties, and Connection Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stream-smarter-comparing-roku-and-fire-tv-stick-to-find-your-ideal-choice/"><u>Stream Smarter: Comparing Roku and Fire TV Stick to Find Your Ideal Choice</u></a></li>
+</ul></div>
 

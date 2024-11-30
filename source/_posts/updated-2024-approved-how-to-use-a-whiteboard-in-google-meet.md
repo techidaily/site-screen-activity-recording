@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Use a Whiteboard in Google Meet\""
-date: 2024-11-15T19:22:12.261Z
-updated: 2024-11-20T18:03:07.804Z
+date: 2024-11-24T03:28:38.408Z
+updated: 2024-11-30T02:19:41.407Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
@@ -61,6 +61,10 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -70,7 +74,11 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -91,10 +99,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -114,7 +118,7 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -143,10 +147,6 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -162,20 +162,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-background-replacement-on-instagrams-platform/"><u>[New] 2024 Approved Mastering Background Replacement on Instagram's Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-complete-guide-to-use-instagram-video-chat-for-2024/"><u>[New] A Complete Guide to Use Instagram Video Chat for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-discount-hunting-for-chinese-made-vr-devices/"><u>[Updated] 2024 Approved Discount Hunting for Chinese-Made VR Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[Updated] 2024 Approved Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-chats-storing-gh-live-sessions/"><u>[Updated] Capturing Chats Storing GH Live Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-masterpieces-at-play-choosing-the-top-10-thrilling-games-for-2024/"><u>[Updated] Masterpieces at Play Choosing the Top 10 Thrilling Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/affordable-audio-capture-tools-ranked-1-to-10-for-2024/"><u>Affordable Audio Capture Tools Ranked #1 to #10 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-ubisoft-connection-downloads-tips-for-faster-performance/"><u>Boosting Ubisoft Connection Downloads: Tips for Faster Performance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat/"><u>In 2024, Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-webcamwizardry-techniquesforperfectrecordings/"><u>In 2024, WebCamWizardry TechniquesForPerfectRecordings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-most-recent-updates-for-your-epson-wf-3720-printing-software/"><u>Install the Most Recent Updates for Your Epson WF 3720 Printing Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-compatibility-expert-tips-for-seamless-connections-on-windows-n-in-the-new-year/"><u>Mastering Bluetooth Compatibility: Expert Tips for Seamless Connections on Windows N in the New Year</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-pros-and-cons-of-the-anker-roav-dashcam-c1-a-full-featured-review/"><u>Navigating the Pros and Cons of the Anker Roav Dashcam C1 – A Full-Featured Review</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enabling-razer-device-discovery-on-win1011/"><u>Re-Enabling Razer Device Discovery on Win10/11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/inancial-scale-of-mr-beast/"><u>The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mac-basics-for-creating-attractive-first-youtube-videos/"><u>[New] 2024 Approved Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] 2024 Approved The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-the-perfect-anime-story-best-ideas-for-viral-videos-for-2024/"><u>[New] Crafting the Perfect Anime Story Best Ideas for Viral Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-most-valuable-maps-top-treasures-in-terraria/"><u>[New] In 2024, Most Valuable Maps Top Treasures in Terraria</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pro-video-tech-selecting-advanced-recording-software/"><u>[New] Pro Video Tech Selecting Advanced Recording Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-uncomplicated-gameplay-saving-in-warframe-for-2024/"><u>[New] Uncomplicated Gameplay Saving in Warframe for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] 2024 Approved Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-use-preview-app-on-mac-complete-guide-for-2024/"><u>[Updated] How to Use Preview App on Mac [Complete Guide] for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-small-company-writers-guide-to-protected-video-chats/"><u>[Updated] Small Company' Writers’ Guide to Protected Video Chats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/champion-firefox-capture-extensions-for-2024/"><u>Champion FireFox Capture Extensions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-the-best-chatgpt-in-interview-prep/"><u>Harness AI for the Best: ChatGPT in Interview Prep</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-multiple-video-call-and-chat-tools/"><u>In 2024, Best Multiple Video Call & Chat Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel P55 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-roblox-startup-woes-effective-fixes-and-tactics/"><u>Resolve Your Roblox Startup Woes - Effective Fixes & Tactics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-dbghelpdll-is-unavailable-or-undetected/"><u>Troubleshooting Steps for When Dbghelp.dll Is Unavailable or Undetected</u></a></li>
 </ul></div>
 
