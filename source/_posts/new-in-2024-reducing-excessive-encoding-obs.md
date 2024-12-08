@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Reducing Excessive Encoding (OBS)"
-date: 2024-09-03T00:19:42.809Z
-updated: 2024-09-04T00:19:42.809Z
+date: 2024-12-03T21:09:08.526Z
+updated: 2024-12-08T05:16:05.296Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ When you are live streaming through OBS Studio, encoding the video takes a lot o
 
 In layman’s terms, encoding overloading means your hardware is just not running as fast as required to process the video you are streaming or recording. Since you cannot change your hardware configuration overnight, here are the different ways you can fix OBS high encoding when streaming.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Way 1\. Downscale Your Output Resolution
 
 The higher the resolution of the video recording or streaming, the greater will be the CPU usage. This is because your processor has to process more number of pixels per frame. That is why you have to lower the output resolution of your video. Even when your base resolution is high, you have to cut down the output resolution. Base resolution is the resolution of the video at source which could be the game you are playing. The output resolution is the resolution of the video you are getting after recording or you are streaming in real-time. Here are the steps to follow.
@@ -38,6 +34,10 @@ Step 3: You have to reduce the resolution from the current resolution. If it is 
 Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming or recording again.
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. Lower Your Frame Rate
 
@@ -53,9 +53,6 @@ Step 4: Click on Apply and Ok button to save the new setting. Restart your compu
 
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Way 3\. Change Encoder Preset
 
 By default, OBS uses x264 as encoder and the encoder preset is set to “veryfast”. This is generally the best and most balanced setting. However, if you are getting OBS high encoding warning, you have to change the encoder preset to reduce the CPU usage. Generally, the higher the preset, the lower is CPU usage. Therefore, you have to set the preset from “veryfast” to “ultrafast” and here are the steps.
@@ -86,14 +83,12 @@ Step 4: Change the encoder from default x264 to any other hardware encoder avail
 
 Step 5: Click on Apply and Ok to save the settings. Restart your computer and perform your operation on OBS.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 5\. Change Some Advanced Settings
 
 If you are still facing OBS high encoding problem, you need to change some advanced settings in order to fix this encoder overloaded issue. You can change the keyframe interval so that your processor gets enough time for rendering. Similarly, you can change Rate Control from Constant to Variable so that the video does not demand high bandwidth.
@@ -113,8 +108,13 @@ Step 6: Click on Apply and Ok button to save the changes. Restart your computer 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 6\. Use OBS Alternative
 
 If none of the above-mentioned ways can solve the constant encoding overloaded warning you are receiving while using OBS Studio for recording or streaming, you have to opt for an alternative. Wondershare Filmora is the best alternative to OBS for recording screen and webcam. Filmora does not affect the CPU performance as significantly as OBS Studio does. That is why the encoding overloaded issue is unlikely to occur in Filmora.
@@ -135,9 +135,6 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
@@ -147,39 +144,9 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Conclusion
 
-OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
-
-Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -196,14 +163,45 @@ Step 2: Select the recording screen size and the audio sources. If you want to c
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+## Conclusion
+
+OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
+
+![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
+
+![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
+
+Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -220,6 +218,10 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
@@ -253,10 +255,22 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-dribbble-artwork-aspect-ratio-guide/"><u>[New] Dribbble Artwork Aspect Ratio Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-precision-capturing-the-art-of-ps4-gaming-recordings-with-obs/"><u>[New] In 2024, Precision Capturing The Art of PS4 Gaming Recordings with OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders-for-2024/"><u>[New] Livestream Excellence Unveiling the Best Practices for Facebook Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-ad-videos-made-easy-utilize-free-video-making-kit/"><u>[Updated] In 2024, FB Ad Videos Made Easy Utilize Free Video-Making Kit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fix-fixed-no-more-obs-camera-issues/"><u>2024 Approved Fix Fixed No More OBS Camera Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-introduction-to-professional-audio-recording-a-mac-and-audacity-approach/"><u>2024 Approved Introduction to Professional Audio Recording A Mac & Audacity Approach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-platform-power-playout-which-streams-better-obs-or-twitch-studio/"><u>2024 Approved Platform Power Playout Which Streams Better - OBS or Twitch Studio?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cracked-the-full-screen-hurdle-in-obs/"><u>Cracked The Full Screen Hurdle in OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/democracy-dive-deep-top-5-political-simulation-titles-for-2024/"><u>Democracy Dive Deep Top 5 Political Simulation Titles for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/exclusive-news-alert-for-professional-djs-on-karaoke-cloud/"><u>Exclusive News Alert for Professional DJs on Karaoke Cloud</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-macs-prime-screen-seize-collection-max-156/"><u>In 2024, Mac's Prime Screen Seize Collection (Max 156)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quickquip-quartermotion-grip/"><u>In 2024, QuickQuip QuarterMotion Grip</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-landscapes-identifying-facebook-connections/"><u>Navigating Social Landscapes: Identifying Facebook Connections</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210935013-9781782499084-the-inner-world-of-night-dreams/"><u>The Inner World of Night Dreams | Free Book</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
+</ul></div>
 

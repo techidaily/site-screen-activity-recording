@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Full Screen Fiasco Resolved in Obs"
-date: 2024-11-23T20:42:16.790Z
-updated: 2024-11-29T20:04:25.993Z
+date: 2024-12-04T21:15:39.524Z
+updated: 2024-12-08T00:31:12.148Z
 tags: 
   - screen-recording
   - ai video
@@ -22,7 +22,7 @@ OBS Studio is the most popular free video recording and streaming software. Howe
 First of all, OBS Studio files could have got corrupted somehow. Sometimes, OBS Studio is heavily using CPU resources in capturing full screen, and hence, due to very fast access, CPU has limited the access of usage. There are could be a compatibility issue with OBS Studio and your Windows version. Sometimes, any third-party screen recording software could intervene in OBS operation. In this article, we will illustrate all the possible ways to fix OBS does not recording full screen issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 1\. Modify CPU Setting for OBS
@@ -34,6 +34,10 @@ Step 1: Open OBS Studio and go to Controls tab.
 Step 2: Click on Settings button.
 
 ![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Output tab and change Output Mode from Simple to Advanced.
 
@@ -58,7 +62,7 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. Empower the Compatibility Mode
@@ -79,13 +83,13 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 7: Click on Apply and OK button.
 
@@ -103,6 +107,10 @@ Step 3: Right-click on Display Capture and click on Windowed Projector option.
 
 ![turn your gameplay to windows mode](https://images.wondershare.com/filmora/article-images/turn-your-gameplay-to-windows-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Click on Start Recording and move to your Windowed game screen. After recording for a few seconds, click on Stop Recording. Check if the recording has been successful.
 
 Step 5: Thereafter, you can move your game to full screen mode. On OBS, you can then select Fullscreen Projector and select your monitor. Start recording again and see if OBS can capture the full screen now.
@@ -117,17 +125,9 @@ Step 2: From the list of installed applications, find OBS Studio and click on Un
 
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
 
@@ -153,9 +153,29 @@ Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
+
+Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+## Conclusion
+
+OBS full screen not working is a common issue that many users have reported on various OBS forums. There are various reasons behind the issues and we have provided all the possible solutions to fix the issue. You should try out all of them step by step before giving up on OBS Studio. Wondershare Filmora is the best alternative to OBS Studio for full screen recording without any issue.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 2: Select the recording screen size as full screen.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
@@ -181,10 +201,6 @@ Step 3: Click on Record button when you are ready. You will get a few buffer sec
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 OBS full screen not working is a common issue that many users have reported on various OBS forums. There are various reasons behind the issues and we have provided all the possible solutions to fix the issue. You should try out all of them step by step before giving up on OBS Studio. Wondershare Filmora is the best alternative to OBS Studio for full screen recording without any issue.
@@ -197,40 +213,24 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
-## Conclusion
-
-OBS full screen not working is a common issue that many users have reported on various OBS forums. There are various reasons behind the issues and we have provided all the possible solutions to fix the issue. You should try out all of them step by step before giving up on OBS Studio. Wondershare Filmora is the best alternative to OBS Studio for full screen recording without any issue.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Select the recording screen size as full screen.
-
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
-
-Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -261,24 +261,22 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quality-matters-the-advantages-and-disadvantages-of-different-fps/"><u>[New] 2024 Approved Quality Matters The Advantages & Disadvantages of Different FPS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-design-youtube-introductory-videos-two-pathways/"><u>[New] In 2024, How to Design YouTube Introductory Videos Two Pathways</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-gif-recorder-mac/"><u>[New] In 2024, Top 10 Gif Recorder Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>[New] In 2024, Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-solving-sync-issues-between-cameras-and-obs-for-2024/"><u>[New] Solving Sync Issues Between Cameras and OBS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-achieve-success-in-twitch-top-5-livestream-strategies-for-2024/"><u>[Updated] Achieve Success in Twitch Top 5 Livestream Strategies for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines/"><u>[Updated] In 2024, Capturing Adventure Top 5 Methods for Screening Minecraft on Apple Machines</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-comprehensive-guide-to-effective-screen-recording/"><u>[Updated] The Comprehensive Guide to Effective Screen Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unraveling-the-art-of-screencasts-a-step-by-step-approach/"><u>[Updated] Unraveling the Art of Screencasts A Step-by-Step Approach</u></a></li>
-<li><a href="https://video-capture.techidaily.com/6ieq5zyo44gr5yuv55s744o76zplusz5aow44ov44kh44kk44or44ks44kv44oq44od44kv44gx44gm6kaw6ig05yplusv6io95yyw/"><u>自在に動画・音声ファイルをクリックして視聴可能化</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-of-the-best-top-32-free-backup-utilities-and-their-comparative-assessments/"><u>Best of the Best: Top 32 Free Backup Utilities & Their Comparative Assessments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/films-best-shot-techniques-top-5-essentials-for-2024/"><u>Film's Best Shot Techniques Top 5 Essentials for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-continuous-freeze-frustration-optimizing-your-computers-performance/"><u>Fixing Continuous Freeze Frustration: Optimizing Your Computer's Performance</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-stop-motion-magic-top-rated-apps-for-iphone-and-android/"><u>New Stop Motion Magic Top-Rated Apps for iPhone and Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/offscreen-woes-masterful-tactics-to-relocate-and-resume-lost-windows/"><u>Offscreen Woes: Masterful Tactics to Relocate and Resume Lost Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quickcapture-ultimate-scan-for-2024/"><u>QuickCapture Ultimate Scan for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-retailer-support-with-ai-discover-alibabas-strategy-to-assist-smaller-sellers-in-e-commerce-through-innovative-testing-techniques-analysis-b57/"><u>Revolutionizing Retailer Support with AI: Discover Alibaba's Strategy to Assist Smaller Sellers in E-Commerce Through Innovative Testing Techniques | Analysis by ZDNET</u></a></li>
-<li><a href="https://win-data.techidaily.com/wie-sie-das-problem-von-ausstehenden-nachrichten-in-microsoft-outlook-beheben-erfahrene-tipps-fur-den-posteingangssperrung/"><u>Wie Sie Das Problem Von Ausstehenden Nachrichten in Microsoft Outlook Beheben: Erfahrene Tipps Für Den Posteingangssperrung</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfect-your-recordings-the-ultimate-guide-to-adobe-presenter/"><u>[New] 2024 Approved Perfect Your Recordings The Ultimate Guide to Adobe Presenter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-encapsulate-powerpoint-visuals-in-media-for-2024/"><u>[New] Encapsulate PowerPoint Visuals in Media for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-boosting-remote-work-engagement-with-4-tactics/"><u>[New] In 2024, Boosting Remote Work Engagement with 4 Tactics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>[Updated] 2024 Approved Elevate Your Content In-Depth Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[Updated] Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ideal-apps-for-editing-and-mixing-dji-video-tapes-for-2024/"><u>[Updated] Ideal Apps for Editing and Mixing DJi Video Tapes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-understanding-instagrams-tunes-and-their-legal-boundaries/"><u>[Updated] In 2024, Understanding Instagram’s Tunes and Their Legal Boundaries</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-vimeo-video-logging/"><u>[Updated] In 2024, Unlocking the Potential of Vimeo Video Logging</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-x-fold-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo X Fold 2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-tunes-plex-integrates-chatgpt-for-personalized-music-curation/"><u>Enhance Your Tunes: Plex Integrates ChatGPT for Personalized Music Curation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-your-pc-from-crashing-while-playing-detroit-become-human/"><u>How to Prevent Your PC From Crashing While Playing Detroit: Become Human</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-gt-5-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme GT 5</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/resolved-overcome-stuttering-glitches-in-fallout-76/"><u>Resolved: Overcome Stuttering Glitches in Fallout 76</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-simple-way-to-control-comment-functionality-in-youtube-for-2024/"><u>The Simple Way to Control Comment Functionality in YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-business-strategy-game-guide-mobilepc-for-2024/"><u>The Ultimate Business Strategy Game Guide (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/vlc-video-recording-performance-study/"><u>VLC Video Recording Performance Study</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/windows-10-storage-guide-how-to-save-and-organize-mov/"><u>Windows 10 Storage Guide How to Save and Organize .mov</u></a></li>
 </ul></div>
 

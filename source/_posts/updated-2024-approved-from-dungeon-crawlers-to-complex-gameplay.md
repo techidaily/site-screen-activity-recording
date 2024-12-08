@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2024-11-26T16:22:12.771Z
-updated: 2024-11-30T03:17:34.388Z
+date: 2024-12-06T21:47:15.932Z
+updated: 2024-12-08T09:52:09.882Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -70,10 +66,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -113,6 +105,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -123,15 +119,15 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -139,15 +135,19 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,19 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-captivate-viewers-strategies-for-viral-video-success-for-2024/"><u>[New] Captivate Viewers Strategies for Viral Video Success for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-gear-warriors-test-who-wins-gopro-hero5-black-vs-virb-ultra-for-2024/"><u>[New] Gear Warriors Test Who Wins? GoPro Hero5 Black Vs. VIRB Ultra for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-hidden-footage-techniques-redacting-personal-information-effectively/"><u>2024 Approved Hidden Footage Techniques Redacting Personal Information Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-n3-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find N3 Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725284883236-ai-winxvideo/"><u>AI 기반 WinXvideo 제품 선택의 도전: 어떤 차이를 위해?</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/como-hacer-una-copia-de-respaldo-perfecta-de-la-unidad-c-con-windows-11-ejemplo-paso-por-paso/"><u>Cómo Hacer Una Copia De Respaldo Perfecta De La Unidad C Con Windows 11 - Ejemplo Paso Por Paso</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-video-grabbers-for-windows-10-users/"><u>Essential Video Grabbers for Windows 10 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-8-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 8 Plus From Your Apple ID</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pinnacle-play-best-of-royale-multiplayer-matches/"><u>Pinnacle Play Best of Royale Multiplayer Matches</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/seamless-transitions-from-real-to-reel/"><u>Seamless Transitions From Real to Reel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-the-persistent-0xc00n0000098-windows-malfunction/"><u>The Ultimate Fix for the Persistent 0XC00n0000098 Windows Malfunction</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unlocking-the-art-of-ps3-gaming-footage-collection/"><u>Unlocking the Art of PS3 Gaming Footage Collection</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-5-ios-emulators-that-bring-your-favorite-psp-worlds-to-life/"><u>[New] In 2024, Top 5 iOS Emulators That Bring Your Favorite PSP Worlds to Life</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-turning-tales-upside-down-iphone-video-guide/"><u>[New] In 2024, Turning Tales Upside Down IPhone Video Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-master-your-download-installation-and-usage-of-ez-grabber-for-2024/"><u>[New] Master Your Download Installation and Usage of EZ Grabber for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-twitch-sessions-step-by-step/"><u>[Updated] 2024 Approved Capturing Your Twitch Sessions Step by Step</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-imageinspector-plus-detailed-windowsmac-screenshots/"><u>[Updated] ImageInspector Plus Detailed Windows/Mac Screenshots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-and-relive-essential-win10-game-techniques/"><u>[Updated] In 2024, Capture and Relive Essential Win10 Game Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-expert-choices-for-terraria-for-2024/"><u>[Updated] Top 10 Expert Choices for Terraria for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-navigating-through-football-manager-2022-pc-crashes/"><u>Fixes and Solutions: Navigating Through Football Manager 2022 PC Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fujitsu-scansnap-ix160n-review-top-performance-for-professional-paper-scanning/"><u>Fujitsu ScanSnap iX160n Review: Top Performance for Professional Paper Scanning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-t2x-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo T2x 5G Lock Screen Password</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-windows-11-vms-expert-tips-and-tricks-for-optimal-setup-sourced-from-zdnet/"><u>Mastering the Art of Windows 11 VMs: Expert Tips and Tricks for Optimal Setup - Sourced From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/native-os-capture-utility-chrome-edition-for-2024/"><u>Native OS Capture Utility Chrome Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-start-inserting-images-into-your-instagram-feed-for-2024/"><u>Quick Start Inserting Images Into Your Instagram Feed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-patient-engagement-with-ad-insights/"><u>Revolutionize Patient Engagement with Ad Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/shielding-windows-key-tactics-for-uac-protection/"><u>Shielding Windows: Key Tactics for UAC Protection</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-path-to-flawless-film-recording-device-agnostic-guide/"><u>The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-c-thunderbolt-enhancements-installing-the-latest-thunderbolt-dock-on-lenovo-laptops/"><u>USB-C Thunderbolt Enhancements: Installing the Latest Thunderbolt Dock on Lenovo Laptops</u></a></li>
 </ul></div>
 

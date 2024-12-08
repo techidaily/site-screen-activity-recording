@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Reducing Excessive Encoding (OBS)"
-date: 2024-09-03T00:18:50.411Z
-updated: 2024-09-04T00:18:50.411Z
+date: 2024-12-05T19:34:47.631Z
+updated: 2024-12-08T08:24:58.380Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2\. Lower Your Frame Rate
 
 The frame rate of a video determines the number of frames captured per second. The higher the frame rate, the greater will be the pressure on GPU to render more number of frames per second. Unless you have a powerful configuration, you will come across OBS high encoding when streaming if the frame rate is high such as 60FPS. Here are the steps to lower the frame rate of your video on OBS.
@@ -47,17 +51,16 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 3\. Change Encoder Preset
 
 By default, OBS uses x264 as encoder and the encoder preset is set to “veryfast”. This is generally the best and most balanced setting. However, if you are getting OBS high encoding warning, you have to change the encoder preset to reduce the CPU usage. Generally, the higher the preset, the lower is CPU usage. Therefore, you have to set the preset from “veryfast” to “ultrafast” and here are the steps.
@@ -72,20 +75,8 @@ Step 4: Change the Encoder Preset from Veryfast to Ultrafast.
 
 Step 5: Click on Apply and Ok button. Restart your computer and perform your action on OBS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Way 4\. Try Hardware Encoding
 
 You can try out different hardware encoders available such as Quicksync, AMF, or NVENC. The availability of different hardware encoders depends on your computer hardware configuration. These hardware encoders are better than the default x264 encoder as they use less CPU resources. Since the issue is primarily with encoder, you should try changing the encoder and see if the problem is fixed.
@@ -103,8 +94,9 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 5\. Change Some Advanced Settings
 
 If you are still facing OBS high encoding problem, you need to change some advanced settings in order to fix this encoder overloaded issue. You can change the keyframe interval so that your processor gets enough time for rendering. Similarly, you can change Rate Control from Constant to Variable so that the video does not demand high bandwidth.
@@ -121,10 +113,11 @@ Step 5: Change Profile from None to Main.
 
 Step 6: Click on Apply and Ok button to save the changes. Restart your computer and check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 6\. Use OBS Alternative
 
@@ -142,9 +135,6 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -167,9 +157,6 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -180,38 +167,11 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-## Conclusion
-
-OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
-
-![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
-
-Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
 
@@ -229,11 +189,45 @@ Step 2: Select the recording screen size and the audio sources. If you want to c
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
+
+![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
+
+![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
+
+Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -261,10 +255,24 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/hoosing-creativitys-canvas-youtube-vs-tiktok/"><u>[New] Choosing Creativity's Canvas Youtube Vs. TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-premier-nintendo-switch-fighting-apps-list-max-156/"><u>[New] In 2024, Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hits-at-hyperspeed-the-fast-track-to-100-million-views-on-youtube-in-24-for-2024/"><u>[Updated] Hits at Hyperspeed The Fast Track to 100 Million Views on YouTube in '24 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-optimizing-posts-secrets-to-higher-page-rank/"><u>[Updated] In 2024, Optimizing Posts Secrets to Higher Page Rank</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-best-5-second-lapses-recorder-top-pick/"><u>2024 Approved Best 5-Second Lapses Recorder - Top Pick</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-reviews-best-multi-user-call-services/"><u>2024 Approved Expert Reviews Best Multi-User Call Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-digital-classrooms-alternatives-to-udemys-model/"><u>2024 Approved Premier Digital Classrooms Alternatives to Udemy's Model</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-start-live-webcam-recording-with-vlc-media/"><u>2024 Approved Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-guide-for-swift-ipad-screen-captures/"><u>2024 Approved The Essential Guide for Swift iPad Screen Captures</u></a></li>
+<li><a href="https://facebook.techidaily.com/discreet-data-harvesting-securely-downloading-personal-fb-vids/"><u>Discreet Data Harvesting: Securely Downloading Personal FB Vids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-fixing-ieframedll-errors-on-your-computer-or-device/"><u>Expert Tips: Fixing Ieframe.dll Errors on Your Computer or Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-12-screensavers-with-no-time-caps/"><u>In 2024, Best 12 Screensavers with No Time Caps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-upgrade-your-stream-quality-obs-for-youtube-and-twitch/"><u>In 2024, How to Upgrade Your Stream Quality OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-iphone-screen-sharing-made-simple/"><u>In 2024, IPhone Screen Sharing Made Simple</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-plant-and-play-stardew-esque-gaming-winners/"><u>In 2024, Plant and Play Stardew-Esque Gaming Winners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/uncomplicated-story-framework/"><u>Uncomplicated Story Framework</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-and-the-future-of-gaming-formats/"><u>Xbox S and the Future of Gaming Formats</u></a></li>
+</ul></div>
 

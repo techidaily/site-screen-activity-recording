@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Use a Whiteboard in Google Meet\""
-date: 2024-11-24T03:28:38.408Z
-updated: 2024-11-30T02:19:41.407Z
+date: 2024-12-01T07:30:55.805Z
+updated: 2024-12-08T03:49:03.457Z
 tags: 
   - screen-recording
   - ai video
@@ -38,12 +38,16 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
@@ -61,10 +65,6 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -74,11 +74,7 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -99,6 +95,10 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -116,10 +116,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -140,6 +136,10 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 **Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -162,20 +162,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mac-basics-for-creating-attractive-first-youtube-videos/"><u>[New] 2024 Approved Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-video-producers-route-to-royalty-free-soundtracks/"><u>[New] 2024 Approved The Video Producer’s Route to Royalty-Free Soundtracks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-crafting-the-perfect-anime-story-best-ideas-for-viral-videos-for-2024/"><u>[New] Crafting the Perfect Anime Story Best Ideas for Viral Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-most-valuable-maps-top-treasures-in-terraria/"><u>[New] In 2024, Most Valuable Maps Top Treasures in Terraria</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pro-video-tech-selecting-advanced-recording-software/"><u>[New] Pro Video Tech Selecting Advanced Recording Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncomplicated-gameplay-saving-in-warframe-for-2024/"><u>[New] Uncomplicated Gameplay Saving in Warframe for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] 2024 Approved Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-use-preview-app-on-mac-complete-guide-for-2024/"><u>[Updated] How to Use Preview App on Mac [Complete Guide] for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-small-company-writers-guide-to-protected-video-chats/"><u>[Updated] Small Company' Writers’ Guide to Protected Video Chats</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/champion-firefox-capture-extensions-for-2024/"><u>Champion FireFox Capture Extensions for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-the-best-chatgpt-in-interview-prep/"><u>Harness AI for the Best: ChatGPT in Interview Prep</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-multiple-video-call-and-chat-tools/"><u>In 2024, Best Multiple Video Call & Chat Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel P55 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-roblox-startup-woes-effective-fixes-and-tactics/"><u>Resolve Your Roblox Startup Woes - Effective Fixes & Tactics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-dbghelpdll-is-unavailable-or-undetected/"><u>Troubleshooting Steps for When Dbghelp.dll Is Unavailable or Undetected</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-expedite-your-videos-on-tiktok-secrets-revealed/"><u>[New] 2024 Approved Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-your-screen-on-chromebook-methods-4-you-for-2024/"><u>[New] Capture Your Screen on Chromebook Methods 4 You for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[New] In 2024, Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-affordable-hardware-achieve-peak-via-obs-tuning/"><u>[New] In 2024, Affordable Hardware - Achieve Peak via OBS Tuning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-disable-live-recording-in-quicktime-player/"><u>[New] In 2024, How to Disable Live Recording in QuickTime Player</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-next-gen-gameplay-logging-alternatives-to-fbx/"><u>[New] In 2024, Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-covert-capture-techniques-reducing-identifiable-parts-in-recordings/"><u>[Updated] In 2024, Covert Capture Techniques Reducing Identifiable Parts in Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-most-effective-7-apps-for-blocking-android-web-ads/"><u>[Updated] In 2024, The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-video-sharing-on-the-cloud-by-microsoft/"><u>[Updated] Simplifying Video Sharing on the Cloud by Microsoft</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gotrax-gxl-v2-e-scooter-unveiled-a-comprehensive-review-on-the-fastest-commuter-companion-for-urbanites/"><u>Gotrax GXL V2 E-Scooter Unveiled! A Comprehensive Review on the Fastest Commuter Companion for Urbanites</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-10-proplus-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 10 Pro+ 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>In 2024, Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/insiders-look-at-effective-in-game-video-documentation/"><u>Insider's Look at Effective In-Game Video Documentation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/proven-tactics-for-adjusting-track-pace-on-spotify-app/"><u>Proven Tactics for Adjusting Track Pace on Spotify App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securing-your-speech-on-the-ipad/"><u>Securing Your Speech on the iPad</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-5-ios-emulators-that-bring-your-favorite-psp-worlds-to-life/"><u>Top 5 iOS Emulators That Bring Your Favorite PSP Worlds to Life</u></a></li>
 </ul></div>
 

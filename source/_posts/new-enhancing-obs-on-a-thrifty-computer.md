@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2024-11-26T23:17:36.564Z
-updated: 2024-11-30T00:04:51.844Z
+date: 2024-12-04T01:11:33.264Z
+updated: 2024-12-07T19:23:51.603Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ Therefore, after vast research on the internet, our team came up with an optimal
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Go to Settings
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
@@ -32,7 +36,7 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
@@ -43,11 +47,11 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
-After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
 ### Step 3: Output Settings
 
@@ -84,7 +88,7 @@ By default, the profile option is disabled and you should keep these settings as
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Audio Settings
@@ -100,6 +104,10 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
@@ -125,10 +133,6 @@ Finally, the rest of the options should be kept as default since being a streame
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
@@ -136,7 +140,7 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
@@ -154,10 +158,6 @@ This option let you choose a server to upload your streaming. It is best to keep
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -219,16 +219,21 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[New] 2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[New] Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-echoes-of-exploration-in-role-playing-history/"><u>[New] Echoes of Exploration in Role-Playing History</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[New] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-your-audio-experience-with-apods/"><u>[New] Streamline Your Audio Experience with APods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[New] Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>[Updated] 2024 Approved Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-insiders-tale-to-tripling-instagram-traffic/"><u>[Updated] 2024 Approved The Insider’s Tale to Tripling Instagram Traffic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[Updated] In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-gecata-game-recorder-review-complete/"><u>2024 Approved Gecata Game Recorder Review [Complete]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guffaw-guild-robotic-raiders/"><u>Guffaw Guild Robotic Raiders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence/"><u>[New] 2024 Approved Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] 2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-best-10-tools-for-stunning-insta-grid-designs-for-2024/"><u>[Updated] Best 10 Tools for Stunning Insta Grid Designs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-techniques-for-capturing-high-quality-skype-calls/"><u>2024 Approved Advanced Techniques for Capturing High-Quality Skype Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>2024 Approved Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-nine-superior-tools-to-freeze-dynamic-windows-gifs-flawlessly/"><u>2024 Approved Nine Superior Tools to Freeze Dynamic Windows GIFs Flawlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pixelhalve-critique/"><u>2024 Approved PixelHalve Critique</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screenflow-for-mac-a-full-featured-deep-dive/"><u>2024 Approved ScreenFlow for Mac - A Full Featured Deep Dive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/adaptive-sharing-techniques-for-igtv-on-fb-for-2024/"><u>Adaptive Sharing Techniques for IGTV on FB for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings/"><u>In 2024, Cutting-Edge Strategies for FB Live Broadcasts and Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-frames-from-apples-display-max-length-156/"><u>In 2024, Essential Frames From Apple's Display (Max Length 156)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-step-by-step-process-for-screening-web-tv-episodes/"><u>In 2024, The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-world-of-streamed-games-for-2024/"><u>Navigating the World of Streamed Games for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-word-based-wonders-the-ultimate-text-game-list/"><u>Ten Word-Based Wonders: The Ultimate Text Game List</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 </ul></div>
 

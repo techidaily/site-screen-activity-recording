@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Seamless Incorporation of Virtual Boards in Web Conferencing  Mobile/Desktop Methods\""
-date: 2024-11-25T20:40:04.271Z
-updated: 2024-11-29T22:26:45.826Z
+date: 2024-11-30T21:15:04.017Z
+updated: 2024-12-08T03:27:52.777Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
@@ -61,6 +61,10 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -70,7 +74,11 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -91,6 +99,10 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -108,14 +120,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -136,10 +140,6 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 **Note:** The downloaded PDF file can be shared as an attachment in the email. Likewise, you may use any other platform such as Whatsapp Web to send the saved Jams to your students, colleagues, and others.
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -162,21 +162,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quick-steps-to-record-and-share-your-skyrim-quests/"><u>[New] Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-screen-recorder-pro-win11-edition/"><u>[New] Ultimate Screen Recorder Pro - Win11 Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionize-your-gaming-recordings-a-guide-to-fbx-tech/"><u>[Updated] Revolutionize Your Gaming Recordings A Guide to FBX Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-rotating-videos-made-simple-with-vlc-player-tricks/"><u>2024 Approved Rotating Videos Made Simple with VLC Player Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-tips-to-counteract-obs-fullscreen-woes/"><u>2024 Approved Tips to Counteract OBS Fullscreen Woes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-top-4k-ultra-hd-movies-in-2160p-resolution-free-access-to-bollywood-and-hollywood-hits/"><u>Download Top 4K Ultra HD Movies in 2160P Resolution: Free Access to Bollywood & Hollywood Hits</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-training-routine-with-garmin-vivoactive-3s-music-feature-for-athletes/"><u>Enhance Your Training Routine with Garmin Vivoactive 3'S Music Feature for Athletes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/fbx-game-filming-for-beginners-for-2024/"><u>FBX Game Filming for Beginners for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-comprehensive-guide-to-share-facebook-videos-with-whatsapp/"><u>In 2024, A Comprehensive Guide to Share Facebook Videos with WhatsApp</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-navigating-through-time-the-finest-history-youtube-sources-for-students/"><u>In 2024, Navigating Through Time The Finest History YouTube Sources for Students</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/lead-the-charge-with-our-12-best-tycoon-games-ever-played-for-2024/"><u>Lead the Charge with Our #12 Best Tycoon Games Ever Played for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/maximizing-visual-storytelling-with-b-roll-integration-for-2024/"><u>Maximizing Visual Storytelling with B Roll Integration for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/nahtlose-migration-von-zugangsdaten-zum-neuen-iphone-ein-umfassender-leitfaden-mit-tipps-und-tricks/"><u>Nahtlose Migration Von Zugangsdaten Zum Neuen iPhone - Ein Umfassender Leitfaden Mit Tipps Und Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-capture-clarity-with-irecorder-tech/"><u>Screen Capture Clarity with iRecorder Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a15-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A15 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/troubleshoot-windows-n-file-explorer-instability-with-these-7-remedies/"><u>Troubleshoot Windows N-File Explorer Instability with These 7 Remedies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-adopt-the-best-practices-of-live-streaming-with-google-meet-youtube/"><u>[New] 2024 Approved Adopt the Best Practices of Live Streaming with Google Meet Youtube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-battle-tested-selecting-the-supreme-7-fps/"><u>[New] 2024 Approved Battle Tested Selecting the Supreme 7 FPS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-modify-mac-snapshot-savings-spot/"><u>[New] 2024 Approved Modify Mac Snapshot Savings Spot</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-visual-blend-in-online-photography/"><u>[New] Audio-Visual Blend in Online Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unbeatable-online-video-recorders-ranked-10/"><u>[Updated] 2024 Approved Unbeatable Online Video Recorders Ranked #10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-experience-the-top-10-listed-tools/"><u>[Updated] FB Video Experience The Top 10 Listed Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-from-basic-recording-to-masterpiece-your-webcam-guide/"><u>[Updated] In 2024, From Basic Recording to Masterpiece Your WebCam Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-practical-approach-to-zoom-meetings/"><u>A Practical Approach to Zoom Meetings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/data-resurrection-mastery-restoring-lost-files-from-a-damaged-or-formatted-hard-drive-with-windows-and-ifind-solutions/"><u>Data Resurrection Mastery: Restoring Lost Files From a Damaged or Formatted Hard Drive with Windows and iFinD Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A2</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-views-into-earnings-monetize-with-more-than-500-subscribers/"><u>In 2024, Turn Views Into Earnings Monetize with More than 500 Subscribers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-hp-zbook-firefly-15-g8-assessment-ultraportable-powerhouse-unveiled/"><u>In-Depth HP ZBook Firefly 15 G8 Assessment: Ultraportable Powerhouse Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/overcoming-fixed-color-voids-in-recording-software-for-2024/"><u>Overcoming Fixed Color Voids in Recording Software for 2024</u></a></li>
 </ul></div>
 

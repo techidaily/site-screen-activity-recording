@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2024-11-29T02:52:01.464Z
-updated: 2024-11-30T02:22:05.730Z
+date: 2024-12-03T09:14:09.092Z
+updated: 2024-12-07T20:31:55.985Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -56,7 +56,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -64,6 +64,10 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -108,10 +112,14 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -122,10 +130,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -142,10 +146,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -164,17 +164,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-dissecting-obs-technology-for-top-level-recording/"><u>[New] Dissecting OBS Technology for Top-Level Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[Updated] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-splashing-through-the-best-fluid-games-roundup/"><u>2024 Approved Splashing Through the Best Fluid Games Roundup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-2023-ps3-emulators-for-enhanced-gaming/"><u>2024 Approved Top 2023 Ps3 Emulators for Enhanced Gaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expressive-communicator-investigation-edition-8/"><u>Expressive Communicator Investigation, Edition 8</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-breaking-down-the-new-2023-samsung-bd-j5900-model/"><u>In 2024, Breaking Down the New 2023 Samsung BD-J5900 Model</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-celebrating-the-10-best-moba-games-on-android/"><u>In 2024, Celebrating the #10 Best MOBA Games on Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-direct-camera-roll-upload-to-snapchat/"><u>In 2024, Essential Tips Direct Camera Roll Upload to Snapchat</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-zero-5g-2023-turbo-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Zero 5G 2023 Turbo to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy Z Flip 5 Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-computer-gear-with-toms-hardware-wisdom/"><u>Navigate Through Computer Gear with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-reaction-video-essentials-top-mobile-apps-you-need-to-know/"><u>New In 2024, Reaction Video Essentials Top Mobile Apps You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/0-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video-in-2024/"><u>[New] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-guard-your-images-with-top-photo-watermarks/"><u>[Updated] 2024 Approved Guard Your Images with Top Photo Watermarks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laughter-league-twitters-best-jokes/"><u>[Updated] Laughter League Twitter's Best Jokes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-premium-visual-aids-for-business-professionals/"><u>2024 Approved FREE Premium Visual Aids for Business Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>In 2024, 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-use-vlc-for-easy-webcam-footage-save/"><u>In 2024, Use VLC for Easy Webcam Footage Save</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>In 2024, Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/industry-standard-guide-implementing-stopwatches-in-video-streaming-software-for-2024/"><u>Industry Standard Guide Implementing Stopwatches in Video Streaming Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-victory-in-controlling-your-ps5-without-a-microphone/"><u>Silent Victory in Controlling Your PS5 Without a Microphone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators/"><u>The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-uncovering-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Uncovering the Latest in Computer Hardware</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

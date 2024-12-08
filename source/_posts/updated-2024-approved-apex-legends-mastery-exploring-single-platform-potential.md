@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Apex Legends Mastery  Exploring Single Platform Potential\""
-date: 2024-09-03T00:20:00.471Z
-updated: 2024-09-04T00:20:00.471Z
+date: 2024-12-01T09:15:48.403Z
+updated: 2024-12-08T01:41:23.957Z
 tags: 
   - screen-recording
   - ai video
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -42,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -93,9 +87,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -110,10 +101,6 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -147,14 +134,8 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -181,9 +162,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -212,9 +190,6 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -264,9 +239,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -285,14 +257,8 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -323,10 +289,27 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-download-free-mcb-logo-templates/"><u>[Updated] 2024 Approved Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elevate-your-virtual-presentations-with-zoom-sharing/"><u>2024 Approved Elevate Your Virtual Presentations with Zoom Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-redux-of-graphics-amd-radeon-update/"><u>2024 Approved Redux of Graphics AMD Radeon Update</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-10-free-video-communication-tools-iphone-and-android-devices/"><u>2024 Approved Top 10 Free Video Communication Tools - iPhone and Android Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/countdown-control-in-live-broadcasting-obs-approach/"><u>Countdown Control in Live Broadcasting OBS Approach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/direct-call-setup-using-whatsapp-browser-on-your-notebook/"><u>Direct Call Setup Using WhatsApp Browser on Your Notebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/flashlog-screen-grab-review-and-substitutes-for-2024/"><u>FlashLog Screen Grab Review and Substitutes for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-corrupted-fixservice-installations-on-windows-11/"><u>How to Correct Corrupted FixService Installations on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-battlefield-geniuses-discovering-the-quintessential-7-total-war-experiences/"><u>In 2024, Battlefield Geniuses Discovering the Quintessential 7 Total War Experiences</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro with/without SIM Card</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-marvelous-mac-display-selection-the-best-4k-offerings/"><u>In 2024, Marvelous Mac Display Selection - The Best 4K Offerings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>In 2024, Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras/"><u>Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/sicherung-von-dateien-auf-onedrive-erfahren-sie-uber-zwei-effektive-strategien-zur-nutzung-des-versionierungsverlaufs/"><u>Sicherung Von Dateien Auf OneDrive: Erfahren Sie Über Zwei Effektive Strategien Zur Nutzung Des Versionierungsverlaufs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-code-31-issues-in-windows-computers/"><u>Understanding and Solving Code 31 Issues in Windows Computers</u></a></li>
+</ul></div>
 
-
-
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

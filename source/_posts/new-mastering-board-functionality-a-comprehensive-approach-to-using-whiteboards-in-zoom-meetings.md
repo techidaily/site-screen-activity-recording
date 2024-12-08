@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-11-24T16:48:01.887Z
-updated: 2024-11-29T19:52:26.503Z
+date: 2024-12-02T00:44:48.835Z
+updated: 2024-12-07T19:57:29.763Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
@@ -74,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -135,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -169,18 +169,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-prime-mac-gif-cutter/"><u>[New] 2024 Approved Prime Mac GIF Cutter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pro-free-mac-screen-logger/"><u>[New] 2024 Approved Pro-Free Mac Screen Logger</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-inquiry-to-insight-best-practices-for-story-based-polls/"><u>[New] In 2024, From Inquiry to Insight Best Practices for Story-Based Polls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-the-magic-of-io-screen-capture-technology-for-2024/"><u>[Updated] Inside the Magic of IO Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensiveness-in-film-capture-vs-dimensionality-in-visuals/"><u>2024 Approved Comprehensiveness in Film Capture vs Dimensionality in Visuals</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/american-english-versus-british-english/"><u>American English Versus British English</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-x6-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Poco X6 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-y36i-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y36i</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pro-tip-8-key-sites-to-harvest-free-eco-friendly-filming-backdrops/"><u>In 2024, Pro Tip! 8 Key Sites to Harvest FREE Eco-Friendly Filming Backdrops</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-sound-enthusiasts-companion-high-quality-recording-tips/"><u>In 2024, The Sound Enthusiast's Companion High-Quality Recording Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-fb-lite-content-discover-the-best-video-downloader-apps/"><u>In 2024, Unlock FB Lite Content Discover the Best Video Downloader Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pc-sound-logging-simplified-install-x-recorder-app/"><u>Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-adding-social-media-magic-snapchat-to-your-mac-for-2024/"><u>[New] Adding Social Media Magic Snapchat to Your Mac for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-instagram-stories-by-including-youtube-tracks-for-2024/"><u>[New] Enhancing Instagram Stories by Including YouTube Tracks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-gameplay-win10-screen-record-tech-for-2024/"><u>[New] Streamline Your Gameplay Win10 Screen Record Tech for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-lenovos-secrets-to-effortless-screenshots/"><u>2024 Approved Lenovo's Secrets to Effortless Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-capture-top-video-screenshot-tools/"><u>2024 Approved Ultimate Capture Top Video Screenshot Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effective-habits-to-monitor-and-record-gotomeetings/"><u>Effective Habits to Monitor and Record GoToMeetings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-recommendations-best-windows-11-cam-recorder-tech-for-2024/"><u>Expert Recommendations Best Windows 11 Cam Recorder Tech for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-filming-without-the-hindrance-of-sounds/"><u>In 2024, Tips for Filming Without the Hindrance of Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-breakdown-of-the-levels-in-royal-match/"><u>Step-by-Step Breakdown of the Levels in 'Royal Match'.</u></a></li>
 </ul></div>
 
