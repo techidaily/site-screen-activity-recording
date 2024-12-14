@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Full Screen OBS Complication Overcome for 2024"
-date: 2024-12-06T10:58:15.134Z
-updated: 2024-12-08T06:58:35.539Z
+date: 2024-12-06T21:40:56.924Z
+updated: 2024-12-14T08:15:52.968Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ OBS Studio is the most popular free video recording and streaming software. Howe
 
 First of all, OBS Studio files could have got corrupted somehow. Sometimes, OBS Studio is heavily using CPU resources in capturing full screen, and hence, due to very fast access, CPU has limited the access of usage. There are could be a compatibility issue with OBS Studio and your Windows version. Sometimes, any third-party screen recording software could intervene in OBS operation. In this article, we will illustrate all the possible ways to fix OBS does not recording full screen issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1\. Modify CPU Setting for OBS
 
 By default, OBS CPU usage present is set to very fast. This means the encoder is running very fast which leads to less CPU time usage. The higher the present, the less is the CPU usage. Unless you have a high-end computer, this default setting can lead to rendering and encoding issues. OBS uses more CPU resources when you are recording full screen. CPU tends to limit its allocation for OBS when OBS starts using CPU resources at a very fast speed. This leads to OBS not full screen recording issue. You should change the setting by taking the following steps.
@@ -30,10 +34,6 @@ Step 1: Open OBS Studio and go to Controls tab.
 Step 2: Click on Settings button.
 
 ![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Go to Output tab and change Output Mode from Simple to Advanced.
 
@@ -76,20 +76,20 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
@@ -103,17 +103,9 @@ Step 3: Right-click on Display Capture and click on Windowed Projector option.
 
 ![turn your gameplay to windows mode](https://images.wondershare.com/filmora/article-images/turn-your-gameplay-to-windows-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Click on Start Recording and move to your Windowed game screen. After recording for a few seconds, click on Stop Recording. Check if the recording has been successful.
 
 Step 5: Thereafter, you can move your game to full screen mode. On OBS, you can then select Fullscreen Projector and select your monitor. Start recording again and see if OBS can capture the full screen now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 5\. Re-install OBS
 
@@ -132,6 +124,10 @@ Step 3: Once OBS Studio is successfully uninstalled, open your web browser and v
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
 
 Step 5: Launch the OBS Studio after installation and check if you can record in full screen mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 6\. Use OBS alternative
 
@@ -158,7 +154,7 @@ Step 3: Click on Record button when you are ready. You will get a few buffer sec
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,7 +178,7 @@ Step 3: Click on Record button when you are ready. You will get a few buffer sec
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -196,6 +192,10 @@ For macOS 10.12 or later
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
 
@@ -218,20 +218,20 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -261,22 +261,22 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>[New] Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secure-and-enhance-slack-communications-with-top-10-free-audio-apps/"><u>[New] In 2024, Secure & Enhance Slack Communications with Top 10 Free Audio Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-4-strategies-for-success-in-instagram-loop-creation/"><u>[New] In 2024, Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-6-contemporary-mojave-home-layouts/"><u>[New] Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-efficient-methods-for-renaming-users-in-google-meet/"><u>[Updated] 2024 Approved Efficient Methods for Renaming Users in Google Meet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-ios-resources-for-enjoying-psp-games/"><u>[Updated] Essential iOS Resources for Enjoying PSP Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pair-monitor-logging-process/"><u>[Updated] Pair Monitor Logging Process</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-spectacular-racing-sims-number-one-to-five/"><u>[Updated] Spectacular Racing Sims Number One to Five</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-blending-harmonies-in-a-social-media-slot/"><u>2024 Approved Blending Harmonies in a Social Media Slot</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-a58-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo A58 4G Unlock Without Password</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-resurrects-advanced-ai-technology-progress-and-pitfalls-explored/"><u>Apple Resurrects Advanced AI Technology: Progress and Pitfalls Explored</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-imo-messenger-evaluation-and-customer-feedback/"><u>Comprehensive Imo Messenger Evaluation and Customer Feedback</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-0xc19001e1-on-windows-11-understanding-and-fixing-your-devices-boot-issues/"><u>Error 0xC19001E1 on Windows 11 - Understanding and Fixing Your Device's Boot Issues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovative-ways-to-implement-b-roll-in-productions-for-2024/"><u>Innovative Ways to Implement B Roll in Productions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/soundcheck-evaluation-for-2024/"><u>SoundCheck Evaluation for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-9-expert-picked-smartphone-chat-apps-for-business-use-for-2024/"><u>Top 9 Expert-Picked Smartphone Chat Apps for Business Use for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-heroic-journeys-unleashed-the-premier-game-collection-for-2024/"><u>[New] Heroic Journeys Unleashed The Premier Game Collection for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-toolkit-disabling-background-noise-during-gmeets/"><u>[New] In 2024, The Ultimate Toolkit Disabling Background Noise During GMeets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-video-anonymity-tips-for-blurring-private-data/"><u>[New] Video Anonymity Tips for Blurring Private Data</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-webcam-features-on-apples-macbook/"><u>[Updated] Navigating Webcam Features on Apple's MacBook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-printer-mx340-drivers-compatible-with-windows-10-8-and-7/"><u>Download Canon Printer MX340 Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-steelseries-arctis-n-microphone-working-again/"><u>Effective Solutions to Get Your SteelSeries Arctis N Microphone Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-laptops-touchpad-when-it-fails-to-respond/"><u>Expert Tips for Restoring Your Laptop's Touchpad When It Fails to Respond</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-harnessing-power-a-complete-ez-grabber-manual/"><u>In 2024, Harnessing Power A Complete EZ Grabber Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/incorporating-obs-setting-up-a-countdown-scheduler/"><u>Incorporating OBS Setting Up A Countdown Scheduler</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-nintendo-switch-fighting-apps-list-max-156/"><u>Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats/"><u>Quick Tutorial Incorporate Snap Camera in Microsoft Teams Chats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-windows-resolution-problems/"><u>The Ultimate Guide to Rectifying Windows Resolution Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-media-with-these-top-asf-video-conversion-software-options/"><u>Transform Your Media with These Top ASF Video Conversion Software Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210665284-9781449408022-where-angels-tread/"><u>Where Angels Tread | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-issues-troubleshooting-for-flawless-zoom-cams/"><u>Zoom Issues: Troubleshooting for Flawless Zoom Cams</u></a></li>
 </ul></div>
 

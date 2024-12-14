@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips for FREE, Fast, Effective TV Show Recording for 2024"
-date: 2024-09-07T14:29:12.464Z
-updated: 2024-09-08T14:29:12.464Z
+date: 2024-12-13T07:34:36.496Z
+updated: 2024-12-14T12:25:21.738Z
 tags: 
   - screen-recording
   - ai video
@@ -15,145 +15,12 @@ keywords: "Free TV Recording Guide,Fast Shows Streaming,Effective Recording Tech
 thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro Tips for FREE, Fast, Effective TV Show Recording
 
 # How to Record TV shows on Windows PC with Free Video Recording Software?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The world as we know it has changed quite a bit since the early years of television because today we no longer have to be at the exact time in front of a TV set just so we can watch the latest episode of a TV series we're following. Recording a TV show has never been easier, and to make things even better you don't have to spend a single cent on the software that will enable you to record live TV with a PC.
-
-All versions of Windows, since Windows 7, feature a built-in video recording software, so let's take a look at the actual steps you need to take in order to start recording your favorite TV shows for free.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to record TV shows on Windows 7/8 for Free
-
-Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
-
-#### Step 1
-
-Locate the Windows Media Center on your computer's hard drive. Chances are that you don't have the Media Center's icon on your desktop, so the fastest way to launch this software is to click on the Start menu, then go to All Programs and select the Windows Media Center from the list.
-
-#### Step 2
-
-![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
-
-After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
-
-#### Step 3
-
-Click on the Guide feature, and browse through the TV program in order to select the TV show you'd like to record. You can use the arrow keys to navigate through the Guide and hit the Enter key to select a program and to access its info page.
-
-#### Step 4
-
-On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to record live TV on Windows 10 for free
-
-Although using the Windows Media Center on Windows 10 is possible, it is not recommended since it can produce needless complications. However, the Xbox Game DVR that enables its users to capture video games or record live TV is one of the best video recording software Windows 10 has to offer.
-
-#### Step 1
-
-Although you may not know it, the version of the Windows 10 you have installed on your PC features the Xbox Game DVR application. If you are not sure where exactly on your hard-disk this software is located, you can just go to the Start menu and type in Xbox in the search bar. Click on the Xbox Game DVR icon and proceed to set up your Xbox account if you already don't have one.
-
-#### Step 2
-
-After you've launched the program, find the Game DVR icon that is located in the ribbon on the left side of your screen. You must set up the Game DVR, before using it, but luckily you'll only have to go through this process once. After you've completed the setup, you should launch the software you're using to watch TV on your computer.
-
-#### Step 3
-
-Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Free TV Show Recording Software on Windows
-
-Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
-
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
-
-**Pros:** Provides fast and simple ways to record live TV.
-
-**Cons:** Its interface could be designed better.
-
-This open source application ranks highly among the best TV recording software currently available on the market. It is remarkably easy to use and it also enables its users to start recording sessions with keyboard shortcuts. MediaPortal is a perfect tool that will allow you to record TV shows effortlessly and even schedule live TV recording sessions. The software's guide is more like a personal assistant that notifies you if there is an upcoming recording session, enables you to define channel groups or to gain more information about a movie or a TV show from IMDB.
-
-In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
-
-#### 2. [NextPVR](http://www.nextpvr.com/)
-
-**Pros:** A wide spectrum of recording options.
-
-**Cons:** Using NextPVR for commercial purposes require a license.
-
-Even though the installation process of the NextPVR may be a little complicated, the benefits it provides outweigh the trouble users must go through in order to install it properly. This software can also be used as an add-on for the Kodi home theater software. You can use the Kody to play live TV on your PC, while NextPVR records your favorite sporting events, movies, and TV shows.
-
-However, NextPVR also works as a standalone program, and in order to start recording live TV you can just click on the Man-Rec button and adjust all the settings manually. The Recording Type feature will help you select the kind of recording that best meets your current demands, while the Channel option allows you to choose the channel you'd like to record.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -165,11 +32,9 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -200,125 +65,8 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
-
-#### Step 3
-
-Click on the Guide feature, and browse through the TV program in order to select the TV show you'd like to record. You can use the arrow keys to navigate through the Guide and hit the Enter key to select a program and to access its info page.
-
-#### Step 4
-
-On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to record live TV on Windows 10 for free
-
-Although using the Windows Media Center on Windows 10 is possible, it is not recommended since it can produce needless complications. However, the Xbox Game DVR that enables its users to capture video games or record live TV is one of the best video recording software Windows 10 has to offer.
-
-#### Step 1
-
-Although you may not know it, the version of the Windows 10 you have installed on your PC features the Xbox Game DVR application. If you are not sure where exactly on your hard-disk this software is located, you can just go to the Start menu and type in Xbox in the search bar. Click on the Xbox Game DVR icon and proceed to set up your Xbox account if you already don't have one.
-
-#### Step 2
-
-After you've launched the program, find the Game DVR icon that is located in the ribbon on the left side of your screen. You must set up the Game DVR, before using it, but luckily you'll only have to go through this process once. After you've completed the setup, you should launch the software you're using to watch TV on your computer.
-
-#### Step 3
-
-Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
-
-## Free TV Show Recording Software on Windows
-
-Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
-
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
-
-**Pros:** Provides fast and simple ways to record live TV.
-
-**Cons:** Its interface could be designed better.
-
-This open source application ranks highly among the best TV recording software currently available on the market. It is remarkably easy to use and it also enables its users to start recording sessions with keyboard shortcuts. MediaPortal is a perfect tool that will allow you to record TV shows effortlessly and even schedule live TV recording sessions. The software's guide is more like a personal assistant that notifies you if there is an upcoming recording session, enables you to define channel groups or to gain more information about a movie or a TV show from IMDB.
-
-In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
-
-#### 2. [NextPVR](http://www.nextpvr.com/)
-
-**Pros:** A wide spectrum of recording options.
-
-**Cons:** Using NextPVR for commercial purposes require a license.
-
-Even though the installation process of the NextPVR may be a little complicated, the benefits it provides outweigh the trouble users must go through in order to install it properly. This software can also be used as an add-on for the Kodi home theater software. You can use the Kody to play live TV on your PC, while NextPVR records your favorite sporting events, movies, and TV shows.
-
-However, NextPVR also works as a standalone program, and in order to start recording live TV you can just click on the Man-Rec button and adjust all the settings manually. The Recording Type feature will help you select the kind of recording that best meets your current demands, while the Channel option allows you to choose the channel you'd like to record.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The world as we know it has changed quite a bit since the early years of television because today we no longer have to be at the exact time in front of a TV set just so we can watch the latest episode of a TV series we're following. Recording a TV show has never been easier, and to make things even better you don't have to spend a single cent on the software that will enable you to record live TV with a PC.
-
-All versions of Windows, since Windows 7, feature a built-in video recording software, so let's take a look at the actual steps you need to take in order to start recording your favorite TV shows for free.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to record TV shows on Windows 7/8 for Free
-
-Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
-
-#### Step 1
-
-Locate the Windows Media Center on your computer's hard drive. Chances are that you don't have the Media Center's icon on your desktop, so the fastest way to launch this software is to click on the Start menu, then go to All Programs and select the Windows Media Center from the list.
-
-#### Step 2
-
-![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
@@ -388,18 +136,111 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## How to record TV shows on Windows 7/8 for Free
+
+Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
+
+#### Step 1
+
+Locate the Windows Media Center on your computer's hard drive. Chances are that you don't have the Media Center's icon on your desktop, so the fastest way to launch this software is to click on the Start menu, then go to All Programs and select the Windows Media Center from the list.
+
+#### Step 2
+
+![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
+
+#### Step 3
+
+Click on the Guide feature, and browse through the TV program in order to select the TV show you'd like to record. You can use the arrow keys to navigate through the Guide and hit the Enter key to select a program and to access its info page.
+
+#### Step 4
+
+On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
+
+## How to record live TV on Windows 10 for free
+
+Although using the Windows Media Center on Windows 10 is possible, it is not recommended since it can produce needless complications. However, the Xbox Game DVR that enables its users to capture video games or record live TV is one of the best video recording software Windows 10 has to offer.
+
+#### Step 1
+
+Although you may not know it, the version of the Windows 10 you have installed on your PC features the Xbox Game DVR application. If you are not sure where exactly on your hard-disk this software is located, you can just go to the Start menu and type in Xbox in the search bar. Click on the Xbox Game DVR icon and proceed to set up your Xbox account if you already don't have one.
+
+#### Step 2
+
+After you've launched the program, find the Game DVR icon that is located in the ribbon on the left side of your screen. You must set up the Game DVR, before using it, but luckily you'll only have to go through this process once. After you've completed the setup, you should launch the software you're using to watch TV on your computer.
+
+#### Step 3
+
+Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
+
+## Free TV Show Recording Software on Windows
+
+Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
+
+#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+
+**Pros:** Provides fast and simple ways to record live TV.
+
+**Cons:** Its interface could be designed better.
+
+This open source application ranks highly among the best TV recording software currently available on the market. It is remarkably easy to use and it also enables its users to start recording sessions with keyboard shortcuts. MediaPortal is a perfect tool that will allow you to record TV shows effortlessly and even schedule live TV recording sessions. The software's guide is more like a personal assistant that notifies you if there is an upcoming recording session, enables you to define channel groups or to gain more information about a movie or a TV show from IMDB.
+
+In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
+
+#### 2. [NextPVR](http://www.nextpvr.com/)
+
+**Pros:** A wide spectrum of recording options.
+
+**Cons:** Using NextPVR for commercial purposes require a license.
+
+Even though the installation process of the NextPVR may be a little complicated, the benefits it provides outweigh the trouble users must go through in order to install it properly. This software can also be used as an add-on for the Kodi home theater software. You can use the Kody to play live TV on your PC, while NextPVR records your favorite sporting events, movies, and TV shows.
+
+However, NextPVR also works as a standalone program, and in order to start recording live TV you can just click on the Man-Rec button and adjust all the settings manually. The Recording Type feature will help you select the kind of recording that best meets your current demands, while the Channel option allows you to choose the channel you'd like to record.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The world as we know it has changed quite a bit since the early years of television because today we no longer have to be at the exact time in front of a TV set just so we can watch the latest episode of a TV series we're following. Recording a TV show has never been easier, and to make things even better you don't have to spend a single cent on the software that will enable you to record live TV with a PC.
+
+All versions of Windows, since Windows 7, feature a built-in video recording software, so let's take a look at the actual steps you need to take in order to start recording your favorite TV shows for free.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -418,23 +259,9 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to record TV shows on Windows 7/8 for Free
 
 Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
@@ -447,6 +274,10 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
 #### Step 3
@@ -457,12 +288,6 @@ Click on the Guide feature, and browse through the TV program in order to select
 
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to record live TV on Windows 10 for free
 
 Although using the Windows Media Center on Windows 10 is possible, it is not recommended since it can produce needless complications. However, the Xbox Game DVR that enables its users to capture video games or record live TV is one of the best video recording software Windows 10 has to offer.
@@ -480,11 +305,118 @@ After you've launched the program, find the Game DVR icon that is located in the
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Free TV Show Recording Software on Windows
+
+Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
+
+#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+
+**Pros:** Provides fast and simple ways to record live TV.
+
+**Cons:** Its interface could be designed better.
+
+This open source application ranks highly among the best TV recording software currently available on the market. It is remarkably easy to use and it also enables its users to start recording sessions with keyboard shortcuts. MediaPortal is a perfect tool that will allow you to record TV shows effortlessly and even schedule live TV recording sessions. The software's guide is more like a personal assistant that notifies you if there is an upcoming recording session, enables you to define channel groups or to gain more information about a movie or a TV show from IMDB.
+
+In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
+
+#### 2. [NextPVR](http://www.nextpvr.com/)
+
+**Pros:** A wide spectrum of recording options.
+
+**Cons:** Using NextPVR for commercial purposes require a license.
+
+Even though the installation process of the NextPVR may be a little complicated, the benefits it provides outweigh the trouble users must go through in order to install it properly. This software can also be used as an add-on for the Kodi home theater software. You can use the Kody to play live TV on your PC, while NextPVR records your favorite sporting events, movies, and TV shows.
+
+However, NextPVR also works as a standalone program, and in order to start recording live TV you can just click on the Man-Rec button and adjust all the settings manually. The Recording Type feature will help you select the kind of recording that best meets your current demands, while the Channel option allows you to choose the channel you'd like to record.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The world as we know it has changed quite a bit since the early years of television because today we no longer have to be at the exact time in front of a TV set just so we can watch the latest episode of a TV series we're following. Recording a TV show has never been easier, and to make things even better you don't have to spend a single cent on the software that will enable you to record live TV with a PC.
+
+All versions of Windows, since Windows 7, feature a built-in video recording software, so let's take a look at the actual steps you need to take in order to start recording your favorite TV shows for free.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to record TV shows on Windows 7/8 for Free
+
+Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
+
+#### Step 1
+
+Locate the Windows Media Center on your computer's hard drive. Chances are that you don't have the Media Center's icon on your desktop, so the fastest way to launch this software is to click on the Start menu, then go to All Programs and select the Windows Media Center from the list.
+
+#### Step 2
+
+![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
+
+#### Step 3
+
+Click on the Guide feature, and browse through the TV program in order to select the TV show you'd like to record. You can use the arrow keys to navigate through the Guide and hit the Enter key to select a program and to access its info page.
+
+#### Step 4
+
+On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
+
+## How to record live TV on Windows 10 for free
+
+Although using the Windows Media Center on Windows 10 is possible, it is not recommended since it can produce needless complications. However, the Xbox Game DVR that enables its users to capture video games or record live TV is one of the best video recording software Windows 10 has to offer.
+
+#### Step 1
+
+Although you may not know it, the version of the Windows 10 you have installed on your PC features the Xbox Game DVR application. If you are not sure where exactly on your hard-disk this software is located, you can just go to the Start menu and type in Xbox in the search bar. Click on the Xbox Game DVR icon and proceed to set up your Xbox account if you already don't have one.
+
+#### Step 2
+
+After you've launched the program, find the Game DVR icon that is located in the ribbon on the left side of your screen. You must set up the Game DVR, before using it, but luckily you'll only have to go through this process once. After you've completed the setup, you should launch the software you're using to watch TV on your computer.
+
+#### Step 3
+
+Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
+
 ## Free TV Show Recording Software on Windows
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
@@ -539,10 +471,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zoom-room-usage-for-first-time-users/"><u>[New] In 2024, Zoom Room Usage for First-Time Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>[Updated] 2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-gaming-snapshot-with-fraps-analysis/"><u>[Updated] In 2024, Live Gaming Snapshot with Fraps Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[Updated] In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[Updated] In 2024, Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-hashes-boosting-youtube-revenue-6k-milestone/"><u>[Updated] In 2024, Top Hashes Boosting YouTube Revenue $6K Milestone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-tricks-for-producing-high-quality-powerpoint-recordings/"><u>[Updated] Top Tricks for Producing High-Quality PowerPoint Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-dormant-dialogues-among-youtube-watchers/"><u>2024 Approved Discovering Dormant Dialogues Among YouTube Watchers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>2024 Approved Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>2024 Approved Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/a-comparative-analysis-of-macs-best-snipping-tools-for-2024/"><u>A Comparative Analysis of Mac's Best Snipping Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-announces-the-launch-of-its-latest-contender-the-ryzen-ai-9-hx-375-sitting-just-above-its-ancestor-strix-point-ryzen-cpus/"><u>AMD Announces the Launch of Its Latest Contender - The Ryzen AI 9 HX 375, Sitting Just Above Its Ancestor: Strix Point Ryzen CPU's</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apple-music-for-dynamic-video-enhancement-for-2024/"><u>Apple Music for Dynamic Video Enhancement for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-strategies-to-remove-unwanted-hyper-v-snapshots-a-comprehensive-guide/"><u>Effective Strategies to Remove Unwanted Hyper-V Snapshots: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-k11-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo K11 5G Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>In 2024, Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-costs-of-a-complete-social-media-sweep/"><u>The Hidden Costs of a Complete Social Media Sweep</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webcamsecure-silk-screen-sticker-for-2024/"><u>WebCamSecure Silk Screen Sticker for 2024</u></a></li>
+</ul></div>
 

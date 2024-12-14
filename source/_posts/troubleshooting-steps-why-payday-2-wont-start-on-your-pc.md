@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Payday 2 Won't Start on Your PC"
-date: 2024-12-07T05:06:54.859Z
-updated: 2024-12-07T20:38:22.193Z
+date: 2024-12-10T19:16:36.400Z
+updated: 2024-12-14T02:17:48.760Z
 tags:
   - win11
   - win10
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,7 +81,7 @@ There are mainly two ways to update your graphics driver:
 If you still encounter black screen issues, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -92,12 +92,12 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
@@ -115,13 +115,13 @@ If this fix doesn’t help, proceed to the next one.
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
@@ -129,7 +129,7 @@ Launch Far Cry 6 again to see if your problem disappears.
 If this fix doesn’t do the trick, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Switch to windowed mode
@@ -149,10 +149,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
@@ -163,7 +159,7 @@ If this fix doesn’t do the trick, take a look at the next one.
 6. **Restart** your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
@@ -171,6 +167,10 @@ If this fix doesn’t do the trick, take a look at the next one.
  Once you find out the problematic program that causes the black screen issue, you might need to uninstall it to prevent the problem from recurring.
 
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Far Cry 6
 
@@ -215,20 +215,24 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-videos-innovative-youtube-editing-techniques-revealed/"><u>[New] 2024 Approved Elevate Videos Innovative YouTube Editing Techniques Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-list-top-10-zero-dollar-videochats-with-desktops/"><u>[New] 2024 Approved Elite List Top 10 Zero-Dollar Videochats with Desktops</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>[New] 2024 Approved Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-webcam-safety-essentials-the-best-covers-ranked/"><u>[New] 2024 Approved Webcam Safety Essentials The Best Covers Ranked</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-all-embracing-audit-evaluating-the-gecata-game-monitor/"><u>[New] All-Embracing Audit Evaluating the Gecata Game Monitor</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps/"><u>[New] In 2024, Unveiling the Best for Screens A Deep Dive Into OBS Studio & Fraps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-immersive-escapades-documented-the-experts-guide-to-capturing-vr-games/"><u>[Updated] 2024 Approved Immersive Escapades Documented The Expert's Guide to Capturing VR Games</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-tablet-list-for-photographers-going-beyond-filmora/"><u>[Updated] The Ultimate Tablet List for Photographers Going Beyond Filmora</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/a-streamlined-approach-to-using-azures-transcription-technology/"><u>A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-hardware-in-depth-evaluation-of-new-electronic-devices/"><u>Expert Insights From Tom's Hardware: In-Depth Evaluation of New Electronic Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-in-cyberpunk-2077-expert-pc-tips-fixed/"><u>Fixing Crashes in Cyberpunk 2077: Expert PC Tips [FIXED]</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969402605-instant-setup-get-the-best-keyboard-drivers-for-windows-7-now/"><u>Instant Setup: Get the Best Keyboard Drivers for Windows 7 Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-safe-and-easy-mastering-the-download-process-for-your-geforce-gtx-750-graphics-card-drivers/"><u>Quick, Safe & Easy: Mastering the Download Process for Your GeForce GTX 750 Graphics Card Drivers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-pinnacle-of-propagation-valheim-seeds-unveiled/"><u>The Pinnacle of Propagation Valheim Seeds Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-saving-your-digital-dialogue-a-quick-guide-to-fb-chat-recordings/"><u>[New] 2024 Approved Saving Your Digital Dialogue A Quick Guide to FB Chat Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-list-the-finest-fps-titles-in-gaming/"><u>[New] 2024 Approved Ultimate List The Finest FPS Titles in Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-coexisting-screen-data-gathering-for-2024/"><u>[Updated] Coexisting Screen Data Gathering for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-discovering-potential-youtubes-role-in-modern-education-strategies/"><u>[Updated] Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-gaming-gear-keyboards-for-less-than-100-for-2024/"><u>[Updated] Essential Gaming Gear Keyboards for Less Than $100 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-gameplay-with-obs/"><u>[Updated] How to Record Gameplay with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-evolutionary-path-of-roguelike-games/"><u>[Updated] In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inexpensive-mirrorless-and-dslr-options-for-2024/"><u>[Updated] Inexpensive Mirrorless & DSLR Options for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-portfolio-cutting-edge-cardboard-vr-game-listings-for-2024/"><u>[Updated] Premium Portfolio Cutting-Edge Cardboard VR Game Listings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>2024 Approved Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-video-capture-in-adobe-presenter/"><u>2024 Approved Mastering Video Capture in Adobe Presenter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prime-video-communication-platforms-for-modern-tech/"><u>2024 Approved Prime Video Communication Platforms for Modern Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y27-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y27 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/definitive-top-ten-nintendo-switch-combat-apps-max-156-for-2024/"><u>Definitive Top Ten Nintendo Switch Combat Apps (Max 156) for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/enhance-your-editing-with-emeditor-exploring-the-clipboard-monitor-capability/"><u>Enhance Your Editing with EmEditor - Exploring the Clipboard Monitor Capability</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-scroll-functionality-for-a-non-responsive-touchpad-in-windows-11-computers/"><u>How to Restore Scroll Functionality for a Non-Responsive Touchpad in Windows 11 Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synthesizing-smart-tech-for-crypto-conversation-top-8-tools-guide/"><u>Synthesizing Smart Tech for Crypto Conversation – Top 8 Tools Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-z3plus-dash-camera-the-perfect-blend-of-value-and-simplicity-unveiled/"><u>Top Rated Z3+ Dash Camera: The Perfect Blend of Value and Simplicity Unveiled!</u></a></li>
 </ul></div>
 

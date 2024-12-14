@@ -1,7 +1,7 @@
 ---
 title: "[New] Game Recording Made Easy with Xbox One Capture Techniques"
-date: 2024-12-05T04:51:38.565Z
-updated: 2024-12-08T04:33:23.927Z
+date: 2024-12-09T07:07:43.703Z
+updated: 2024-12-14T09:20:01.239Z
 tags: 
   - screen-recording
   - ai video
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capturing Screenshots on Xbox One Using the Controller
@@ -62,6 +62,10 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
 Press the Xbox button on the controller, and locate the System menu. Select the Settings option from the System menu and then click on the Preferences submenu. Navigate to the Broadcast&Capture option and when the new menu appears on the screen, click on the Game clip resolution and select one of the available 4K settings.
@@ -69,16 +73,12 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -87,7 +87,7 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -101,7 +101,7 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -133,21 +133,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10plus-leading-web-based-screen-capture-tools-for-2024/"><u>[New] 10+ Leading Web-Based Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-inside-look-tunefabs-best-screen-recorder/"><u>[New] 2024 Approved Inside Look Tunefab's Best Screen Recorder</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-google-meetings-mastered-best-practices-4-for-2024/"><u>[New] Google Meetings Mastered Best Practices #4 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhance-clear-speech-on-skype-calls/"><u>[New] In 2024, Enhance Clear Speech on Skype Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[Updated] 2024 Approved Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>[Updated] 2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enter-the-next-gen-realm-pick-your-favorite-from-rift-vive-and-playstation-vr-for-2024/"><u>[Updated] Enter the Next-Gen Realm Pick Your Favorite From Rift, Vive, and PlayStation VR for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-turning-youtube-shorts-into-a-stream-of-income/"><u>[Updated] In 2024, Turning YouTube Shorts Into a Stream of Income</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-inexpensive-pcs-optimized-obs-configuration/"><u>[Updated] Inexpensive PCs Optimized OBS Configuration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-insights-with-toms-hardware-the-ultimate-review-hub/"><u>Advanced Tech Insights with Tom's Hardware - The Ultimate Review Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/concealment-command-challenge-the-invisible-start-menu-shutdown/"><u>Concealment Command Challenge: The Invisible Start Menu Shutdown</u></a></li>
-<li><a href="https://extra-information.techidaily.com/detailed-review-experience-with-samsungs-sphere-cam/"><u>Detailed Review Experience with Samsung's Sphere Cam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dive-into-performance-in-depth-review-of-apples-latest-multimedia-marvel-the-ipad-air-201/"><u>Dive Into Performance: In-Depth Review of Apple's Latest Multimedia Marvel, the iPad Air (201</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-building-a-professional-online-brand-as-a-game-vlogger/"><u>In 2024, Building a Professional Online Brand as a Game Vlogger</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-in-quiet-a-guide-to-fixing-iphones-missing-sounds/"><u>Lost in Quiet: A Guide to Fixing iPhone's Missing Sounds</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2550779-9781250070074-os-little-guide-to-starting-over/"><u>O's Little Guide to Starting Over | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exploring-10-innovative-affordable-video-call-apps-iosandroid-for-2024/"><u>[New] Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimizing-your-home-studio-for-online-broadcasts/"><u>[New] In 2024, Optimizing Your Home Studio for Online Broadcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-ios-screenshoting-hack/"><u>[New] In 2024, The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>[New] Maximize Engagement Discover the Right YouTube Thumbnail Size</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[New] No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simplified-guide-to-recording-pc-screens-for-hp-users-for-2024/"><u>[New] Simplified Guide to Recording PC Screens for HP Users for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[Updated] 2024 Approved Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-route-to-collecting-pictorial-frame-downloads/"><u>[Updated] 2024 Approved The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-firefoxs-pip-explained-a-users-handbook/"><u>[Updated] In 2024, Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-directly-embedding-google-meet-in-youtubes-video-library/"><u>2024 Approved Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-strategies-for-ppt-on-google-meet-laptopiosandroid/"><u>In 2024, Essential Strategies for PPT on Google Meet Laptop/iOS/Android</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mac-display-recorder-tips-and-tricks-for-2024/"><u>Mac Display Recorder Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-best-obs-configuration-for-recordings-insights-and-strategies-for-move-users/"><u>Mastering the Best OBS Configuration for Recordings: Insights and Strategies for Move Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-hyperx-cloud-alpha-mic-fails-to-work/"><u>Step-by-Step Solutions When Your HyperX Cloud Alpha Mic Fails to Work</u></a></li>
 </ul></div>
 

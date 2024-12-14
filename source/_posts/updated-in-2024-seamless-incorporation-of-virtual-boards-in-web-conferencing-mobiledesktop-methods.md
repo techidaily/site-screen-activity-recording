@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Seamless Incorporation of Virtual Boards in Web Conferencing  Mobile/Desktop Methods\""
-date: 2024-11-30T21:15:04.017Z
-updated: 2024-12-08T03:27:52.777Z
+date: 2024-12-11T10:52:07.990Z
+updated: 2024-12-13T17:05:32.067Z
 tags: 
   - screen-recording
   - ai video
@@ -38,12 +38,16 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
@@ -61,10 +65,6 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -74,11 +74,7 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -99,10 +95,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -120,6 +112,10 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -147,6 +143,10 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -162,18 +162,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-adopt-the-best-practices-of-live-streaming-with-google-meet-youtube/"><u>[New] 2024 Approved Adopt the Best Practices of Live Streaming with Google Meet Youtube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-battle-tested-selecting-the-supreme-7-fps/"><u>[New] 2024 Approved Battle Tested Selecting the Supreme 7 FPS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-modify-mac-snapshot-savings-spot/"><u>[New] 2024 Approved Modify Mac Snapshot Savings Spot</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-visual-blend-in-online-photography/"><u>[New] Audio-Visual Blend in Online Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unbeatable-online-video-recorders-ranked-10/"><u>[Updated] 2024 Approved Unbeatable Online Video Recorders Ranked #10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-experience-the-top-10-listed-tools/"><u>[Updated] FB Video Experience The Top 10 Listed Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-from-basic-recording-to-masterpiece-your-webcam-guide/"><u>[Updated] In 2024, From Basic Recording to Masterpiece Your WebCam Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-practical-approach-to-zoom-meetings/"><u>A Practical Approach to Zoom Meetings</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/data-resurrection-mastery-restoring-lost-files-from-a-damaged-or-formatted-hard-drive-with-windows-and-ifind-solutions/"><u>Data Resurrection Mastery: Restoring Lost Files From a Damaged or Formatted Hard Drive with Windows and iFinD Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A2</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-turn-views-into-earnings-monetize-with-more-than-500-subscribers/"><u>In 2024, Turn Views Into Earnings Monetize with More than 500 Subscribers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-hp-zbook-firefly-15-g8-assessment-ultraportable-powerhouse-unveiled/"><u>In-Depth HP ZBook Firefly 15 G8 Assessment: Ultraportable Powerhouse Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/overcoming-fixed-color-voids-in-recording-software-for-2024/"><u>Overcoming Fixed Color Voids in Recording Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>[New] 2024 Approved Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dive-deep-into-the-world-of-timelapses-with-your-ipad-for-2024/"><u>[New] Dive Deep Into the World of Timelapses with Your iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>[New] Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[Updated] 2024 Approved Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-and-share-the-discord-live-stream-method/"><u>[Updated] Capture and Share The Discord Live Stream Method</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-premium-9-digital-mic-capture-tools/"><u>[Updated] Exploring Premium 9 Digital Mic Capture Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-prime-video-communication-tools-1-8/"><u>[Updated] In 2024, Windows' Prime Video Communication Tools, #1-8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-iphones-artistry-for-time-extended-cinematography/"><u>[Updated] IPhone's Artistry for Time-Extended Cinematography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-momentum-at-rest-best-idle-pc-games-for-2024/"><u>[Updated] Momentum at Rest Best Idle PC Games for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-smooth-audio-functionality-update-your-hyperx-headset-drivers/"><u>Ensuring Smooth Audio Functionality: Update Your HyperX Headset Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-online-converteer-m4a-naar-aac-files-professioneel-met-movavi/"><u>Gratis Online Converteer M4A Naar AAC-Files - Professioneel Met Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/integrating-apis-expanding-functionality-beyond-basic-html/"><u>Integrating APIs Expanding Functionality Beyond Basic HTML</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shaping-snapshots-transitioning-from-auto-to-smart-hdr-shooting/"><u>Shaping Snapshots Transitioning From Auto to Smart HDR Shooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-persistent-common-dll-has-stopped-working-in-windows-systems/"><u>Solving the Persistent 'Common Dll Has Stopped Working' In Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-for-apple-lovers-a-comprehensive-review-of-the-blue-freestyle2-on-macos/"><u>Top Pick for Apple Lovers: A Comprehensive Review of the Blue Freestyle2 on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-pro-integrates-tiktok-features-enhances-user-scroll-experience-zdnet/"><u>Vision Pro Integrates TikTok Features, Enhances User Scroll Experience - ZDNet</u></a></li>
 </ul></div>
 
