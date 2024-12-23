@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2024-12-11T04:13:49.919Z
-updated: 2024-12-14T06:32:40.859Z
+date: 2024-12-19T16:58:21.808Z
+updated: 2024-12-23T13:38:00.480Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
@@ -58,7 +62,7 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -85,10 +89,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -106,10 +106,6 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -135,18 +131,22 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,19 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500-for-2024/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-quick-guide-to-mp3-from-instagram-videos-for-2024/"><u>[New] Quick Guide to MP3 From Instagram Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>[New] Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-curated-collection-of-the-best-9-cross-device-video-calls-androidiphone/"><u>[Updated] Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>[Updated] In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-ventures-10-near-misses-to-gta-v-for-2024/"><u>[Updated] Virtual Ventures 10 Near-Misses to GTA V for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-best-manycam-alternatives-top-live-streaming-and-virtual-webcam-solutions/"><u>1. Best ManyCam Alternatives: Top Live Streaming and Virtual Webcam Solutions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-expand-your-igtv-reach-the-top-5-methods-to-attract-more-viewers/"><u>2024 Approved Expand Your IGTV Reach The Top 5 Methods to Attract More Viewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-effortless-google-podcast-upload/"><u>2024 Approved Expert Tips for Effortless Google Podcast Upload</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-4k-revolution-takes-flight-q500-review/"><u>2024 Approved The 4K Revolution Takes Flight - Q500 Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-smart-7-hd-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Smart 7 HD Phone When You Forget the Password</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/comparing-the-most-popular-linux-snapshots-tools-for-2024/"><u>Comparing the Most Popular Linux Snapshots Tools for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>In 2024, Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-maximizing-quality-in-ppt-recordings/"><u>In 2024, Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-voice-over-basics-from-script-to-screen/"><u>[New] 2024 Approved Voice-Over Basics From Script to Screen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-can-a-64gb-drive-manage-large-video-files-in-2024/"><u>[New] Can a 64GB Drive Manage Large Video Files, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-compelling-videos-youtubes-best-thumbnail-practices-for-2024/"><u>[New] Crafting Compelling Videos YouTube's Best Thumbnail Practices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-vlog-heroes-the-best-video-capturers-unveiled/"><u>[New] In 2024, VLog Heroes The Best Video Capturers Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-mc-housing-plans-for-vibrant-villages/"><u>[Updated] 2024 Approved Best MC Housing Plans for Vibrant Villages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-blending-calendar-coordination-with-mobile-and-computing-zoom-times/"><u>[Updated] 2024 Approved Blending Calendar Coordination with Mobile & Computing Zoom Times</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>[Updated] 2024 Approved Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[Updated] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-your-ifunny-meme-journey/"><u>[Updated] Mastering Your iFunny Meme Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seminar-screen-recording/"><u>2024 Approved Seminar Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-audio-capturers-2023-edition/"><u>In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>In 2024, YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-update-on-standard-login-details-for-netgear-products/"><u>July 2024 Update on Standard Login Details for NETGEAR Products</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-drfone-by-drfone-ios/"><u>Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resource-conflict-detectives/"><u>Resource Conflict Detectives</u></a></li>
 </ul></div>
 

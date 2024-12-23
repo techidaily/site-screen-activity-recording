@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Archive Your Nintendo Switch Gameplay"
-date: 2024-12-06T16:46:05.673Z
-updated: 2024-12-14T09:00:35.652Z
+date: 2024-12-20T18:01:10.707Z
+updated: 2024-12-23T11:41:29.319Z
 tags: 
   - screen-recording
   - ai video
@@ -54,7 +54,7 @@ The controllers come up with the built-in capture button. However, this button o
 ![switch-game-console](https://images.wondershare.com/filmora/article-images/switch-console-pic.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Hold down this capture button marked with the square
@@ -64,10 +64,6 @@ The controllers come up with the built-in capture button. However, this button o
 **Step 5:** Your last 30 seconds of gameplay will be saved in the ‘Albums.’ It will record the 30 seconds gameplay right before you press the button down, so there is no need to worry about hitting it in advance. It is a quite simple step and allows only posting the clips to social media or saving them in your phone album. It also provides video editing before posting it on social media. You will be able to see the Nintendo Switch video capture in the Albums.
 
  ![switch-interface](https://images.wondershare.com/filmora/article-images/switch-interface.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Record your whole gameplay with game built-in function
 
@@ -90,15 +86,19 @@ Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to
 
 To convert the replays in the video, a straightforward option is given in the menu ‘Convert to Video.’ Go to the replay that you would like to save. Look at the right down corner and click on the ‘Convert to Video’ option.![video-quality-interface](https://images.wondershare.com/filmora/article-images/gameplay-quality1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tips: Within the video conversion settings, you can include information about the display, music, sound effects, and video quality of the replay. Check all these settings and select them the way you want your gameplay to be. Video quality is the most important thing to consider.
 
 **Step 4:** Your gameplay will be converted to the video. In the videos section of the game menu, you will find all the videos that you have saved. Now power off your Switch and remove the SD card from your Switch. Connect the SD card with PC, it will appear in the folders shown below.
 
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Record your whole gameplay with Capture Card
 
@@ -108,7 +108,7 @@ Choose your capture card, connect it with Nintendo switch and your PC, you can c
 * **Step 2:** Select screen area that you want to save.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Step 3:** Hit microphone to choose from audio sources.
@@ -124,7 +124,7 @@ Part II: Edit Your Switch Game Video
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Trim gameplay video within Nintendo Switch
@@ -151,7 +151,7 @@ The gamers are always looking for ways to record the Nintendo Switch gameplay wh
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -169,18 +169,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-audio-dimming-the-live-approach/"><u>[New] Audio Dimming The Live Approach</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-full-featured-mac-video-and-audio-recorder-for-2024/"><u>[New] Full-Featured Mac Video & Audio Recorder for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-scaling-photography-with-no-detail-degradation/"><u>[New] In 2024, Scaling Photography with No Detail Degradation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-more-quick-yt-thumbnails-full-length-viewing/"><u>[New] No More Quick YT Thumbnails Full-Length Viewing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-mobile-experience-with-best-gb-emulators/"><u>[New] Premium Mobile Experience with Best GB Emulators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-5-innovative-mac-capturing-tools-not-bandicam/"><u>[New] Top 5 Innovative Mac Capturing Tools, Not Bandicam</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-captureit-all-revisiting-recordmax-users/"><u>[Updated] In 2024, CaptureIt All! Revisiting 'RecordMax' Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-djis-sky-high-adventure-a-compreranal-of-the-pro-model/"><u>2024 Approved DJI’s Sky-High Adventure A Compreranal of the Pro Model</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-photo-upload-to-your-social-feeds-tips-and-tricks/"><u>2024 Approved Quick Photo Upload to Your Social Feeds – Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-racing-experience-overcoming-low-fps-challenges-in-forza-horizon-5-for-pc/"><u>Enhance Your Racing Experience: Overcoming Low FPS Challenges in Forza Horizon 5 for PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2647645-9780750956444-haunted-stirling/"><u>Haunted Stirling | Free Book</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-visual-vault-in-depth-recorder-comparisons/"><u>The Visual Vault In-Depth Recorder Comparisons</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quickly-locating-your-curated-music-compilation-on-youtube/"><u>[New] 2024 Approved Quickly Locating Your Curated Music Compilation on Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-holistic-overview-decoding-google-podcasts-app-features-for-2024/"><u>[New] Holistic Overview Decoding Google Podcasts App Features for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-virtual-worlds-worth-playing/"><u>[New] In 2024, Essential Virtual Worlds Worth Playing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mac-acoustic-arena-deep-dive-for-2024/"><u>[New] Mac Acoustic Arena Deep Dive for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unhindered-routine-changing-video-direction-with-vlc-for-2024/"><u>[New] Unhindered Routine Changing Video Direction with VLC for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-recommended-screen-capturing-apps-for-mac/"><u>[Updated] Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-beginner-friendly-steps-to-record-your-mac-display/"><u>2024 Approved Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screen-time-secrets-in-depth-recorder-guide/"><u>2024 Approved Screen Time Secrets In-Depth Recorder Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-securely-documenting-your-google-voice-talks/"><u>2024 Approved Securely Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-clarity-windows-11-taskbar-tutorial/"><u>Achieving Clarity: Windows 11 Taskbar Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-techniques-for-effective-srt-file-creation/"><u>Essential Techniques for Effective SRT File Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fixing-obs-screen-blackout-problems/"><u>Fixing OBS Screen Blackout Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-rtx-2060-super-graphics-card-drivers-compatible-with-windows-10-and-11-download-now/"><u>Latest NVIDIA RTX 2060 Super Graphics Card Drivers Compatible with Windows 10 and 11 - Download Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-pop-7-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-non-detection-of-scanners-on-your-computer-system-with-yl-software-solutions/"><u>Resolving Non-Detection of Scanners on Your Computer System with YL Software Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-utilizing-aiseesoft-for-video-captures-for-2024/"><u>Step-by-Step Utilizing Aiseesoft for Video Captures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-textual-treasures-ae-font-exploration-for-2024/"><u>Transform Textual Treasures AE Font Exploration for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled-for-2024/"><u>Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled for 2024</u></a></li>
 </ul></div>
 

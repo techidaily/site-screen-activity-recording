@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Board Functionality  A Comprehensive Approach to Using Whiteboards in Zoom Meetings\""
-date: 2024-12-09T04:41:05.814Z
-updated: 2024-12-13T20:01:27.524Z
+date: 2024-12-17T23:14:44.242Z
+updated: 2024-12-22T18:23:38.521Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
 
 #### Step 3: Use Annotation Tools
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4: Zoom Annotation Settings
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -105,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -135,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -169,19 +169,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>[New] 2024 Approved Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>[New] In 2024, Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-insights-on-perfecting-your-gaming-screenshots/"><u>[New] In 2024, Expert Insights on Perfecting Your Gaming Screenshots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[Updated] 2024 Approved Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-sweet-scene-capture-masterclass-in-freeze-dried-filmmaking/"><u>2024 Approved Sweet Scene Capture Masterclass in Freeze-Dried Filmmaking</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-20c-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 20C System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/compreenas-unlocking-your-facebook-blocked-friends-names/"><u>Compreenas: Unlocking Your Facebook Blocked Friends’ Names</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-advice-on-screen-recorders-for-zoom-meetings-for-2024/"><u>Expert Advice on Screen Recorders for Zoom Meetings for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-can-i-customize-mouse-and-touchpad-preferences-in-windows-control-panel-yl-computing-guide/"><u>How Can I Customize Mouse & Touchpad Preferences in Windows Control Panel - YL Computing Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-merging-melodies-and-memories-online/"><u>In 2024, Merging Melodies and Memories Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/professional-tips-for-high-quality-sports-streaming-for-2024/"><u>Professional Tips for High-Quality Sports Streaming for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-when-windows-10-fails-to-detect-your-headphones-during-playback/"><u>Solution Guide: When Windows 10 Fails to Detect Your Headphones During Playback</u></a></li>
-<li><a href="https://facebook.techidaily.com/three-fears-from-metas-social-empire/"><u>Three Fears From Meta’s Social Empire</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-tricks-for-ios-screenshots-just-got-updated/"><u>[New] In 2024, Advanced Tricks for iOS Screenshots - Just Got Updated</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-archive-adrenaline-fueled-moments-in-galaxy-games/"><u>[Updated] 2024 Approved Archive Adrenaline-Fueled Moments in Galaxy Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-action-sims-perfecting-your-videos/"><u>[Updated] In 2024, Live-Action Sims Perfecting Your Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-clear-communication-via-skype/"><u>[Updated] In 2024, Mastering Clear Communication via Skype</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleash-the-potential-of-your-webcam-for-slideshows-for-2024/"><u>[Updated] Unleash the Potential of Your Webcam for Slideshows for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-slice-and-capture-best-cam-reevaluation/"><u>2024 Approved Slice and Capture Best Cam Reevaluation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-the-best-canon-time-lapse-video/"><u>Create the Best Canon Time-Lapse Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-navigation-on-kindle-top-strategies-and-tips-revealed/"><u>Effortless PDF Navigation on Kindle: Top Strategies and Tips Revealed!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enchanted-frame-rate-reduction-tricks/"><u>Enchanted Frame Rate Reduction Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/google-maps-adopts-wazes-premier-safety-capabilities-for-enhanced-user-security/"><u>Google Maps Adopts Waze's Premier Safety Capabilities for Enhanced User Security</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-archive-of-high-quality-online-workshops/"><u>In 2024, The Complete Archive of High-Quality Online Workshops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/remote-less-roku-mastery-alternative-techniques-to-take-control-of-your-streaming-box/"><u>Remote-Less Roku Mastery: Alternative Techniques to Take Control of Your Streaming Box</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210779149-9781958921166-the-holomovement/"><u>The Holomovement | Free Book</u></a></li>
 </ul></div>
 

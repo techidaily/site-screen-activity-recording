@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2024-12-10T20:52:22.527Z
-updated: 2024-12-14T04:01:58.273Z
+date: 2024-12-18T01:26:25.639Z
+updated: 2024-12-23T04:38:31.555Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,11 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -65,15 +57,15 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -92,6 +84,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -114,7 +110,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -128,7 +124,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -136,6 +132,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -164,19 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-and-easy-best-mac-screen-recorder-software-of-2023/"><u>[New] In 2024, Free and Easy Best Mac Screen Recorder Software of 2023</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zippyzoom-echoframe-capture/"><u>[New] In 2024, ZippyZoom EchoFrame Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-of-successful-twitch-stream-capturing-for-2024/"><u>[New] Secrets of Successful Twitch Stream Capturing for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>[Updated] 2024 Approved Metaverse Vs. Multimetaverse Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-adding-frames-to-instagram-videos-3-procedures/"><u>[Updated] Adding Frames to Instagram Videos - 3 Procedures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-guide-to-storing-itunes-video-files/"><u>[Updated] Comprehensive Guide to Storing iTunes Video Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ipad-screen-recording-made-simple-a-handy-overview-for-2024/"><u>[Updated] IPad Screen Recording Made Simple A Handy Overview for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>2024 Approved Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-0x8024a105-windows-update-error/"><u>How to Fix 0X8024a105 Windows Update Error</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210439540-9781578597932-the-fortune-telling-book/"><u>The Fortune-Telling Book | Free Book</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs-for-2024/"><u>Unleash Your Potential Detailed Guide for PS4 Recordings with OBS for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-transform-low-res-videos-into-stunning-hd-with-these-software/"><u>Updated Transform Low-Res Videos Into Stunning HD with These Software</u></a></li>
-<li><a href="https://win-guides.techidaily.com/votre-guide-a-la-securite-renforcee-les-logiciels-de-clonage-pour-transferer-des-donnees-disc-dur-vers-un-ssd-wd/"><u>Votre Guide À La Sécurité Renforcée : Les Logiciels De Clonage Pour Transférer Des Données Disc Dur Vers Un SSD WD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-echoes-of-exploration-in-role-playing-history/"><u>[New] Echoes of Exploration in Role-Playing History</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[New] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ideal-mac-tools-to-record-your-workscreen/"><u>[New] In 2024, Ideal Mac Tools to Record Your Workscreen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplified-techniques-for-creating-and-modifying-multiple-snaps-in-snapchat/"><u>[New] In 2024, Simplified Techniques for Creating and Modifying Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[New] Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[Updated] In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[Updated] In 2024, Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-energetic-public-speaker-review-8th-edition/"><u>2024 Approved Energetic Public Speaker Review 8Th Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-gecata-game-recorder-review-complete/"><u>2024 Approved Gecata Game Recorder Review [Complete]</u></a></li>
+<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embark-on-language-journey-with-googles-top-picks-mondly/"><u>Embark on Language Journey with Google's Top Picks - Mondly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>In 2024, History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-unresponsive-error-in-google-chrome-with-immediate-steps/"><u>Overcome the 'Unresponsive' Error in Google Chrome with Immediate Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-blurry-photos-effective-remedies-for-iphone-camera-autofocus-problems/"><u>Overcoming Blurry Photos: Effective Remedies for iPhone Camera Autofocus Problems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/redbox-announces-complete-closure-end-of-an-era/"><u>Redbox Announces Complete Closure: End of an Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-windows-intruder-bsod-crisis/"><u>Techniques to Overcome Windows' Intruder BSOD Crisis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/xiaomi-11-lite-preserve-your-memories-in-stunning-quality-for-2024/"><u>Xiaomi 11 Lite Preserve Your Memories in Stunning Quality for 2024</u></a></li>
 </ul></div>
 

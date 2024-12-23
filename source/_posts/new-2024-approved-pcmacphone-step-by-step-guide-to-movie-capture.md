@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  PC/Mac/Phone  Step-by-Step Guide to Movie Capture\""
-date: 2024-12-13T02:23:28.342Z
-updated: 2024-12-14T02:28:50.163Z
+date: 2024-12-22T14:00:58.463Z
+updated: 2024-12-22T23:51:04.892Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ The Settings icon may be seen in the window's bottom right corner; click it to a
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Recording mouse clicks is possible if you choose the Mouse checkbox in the Record Timer box. You can also define the maximum recording time by entering the default screen selected recording length.
 
 After a three-second countdown, click the Rec button to begin a new screencasting session. To stop recording, use the F9 key on the keyboard. The file will be instantly launched in Filmora's video editor, allowing you to make any necessary edits before publishing it online.
@@ -63,6 +67,10 @@ From the Launchpad, open QuickTime Player. Check the Launchpad's Other folder if
 
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-screen-recording-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 An option to allow screen recording may appear on your computer's screen. Enter system preferences by clicking Open System Preferences. Select QuickTime Player and check the box. QuickTime Player may need to be restarted. (If you don't, go on to the next step.) When QuickTime has restarted, go to File, then New Screen Recording.
 
 Three buttons on the left allow you to take a screenshot, while two appear in the center to record the screen. Optional features include the ability to add or delete mouse clicks, the ability to utilize the built-in mic, and the ability to choose the video's destination. The Record button is positioned to the right of the Record Entire Screen and Record Selected Portion buttons.
@@ -70,6 +78,10 @@ Three buttons on the left allow you to take a screenshot, while two appear in th
 When you're done, go to the menu bar and choose Stop Recording from the drop-down menu, as seen below. If you have a Touch Bar on your Mac, you may also press the relevant icon.
 
 Click File in the menu bar, then Save from the drop-down menu to save your recording. To save the recording, choose a suitable save place (if you've not done so) and a name for it, then click Save to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Record Movie on the Phone
 
@@ -143,7 +155,7 @@ From the Launchpad, open QuickTime Player. Check the Launchpad's Other folder if
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-screen-recording-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An option to allow screen recording may appear on your computer's screen. Enter system preferences by clicking Open System Preferences. Select QuickTime Player and check the box. QuickTime Player may need to be restarted. (If you don't, go on to the next step.) When QuickTime has restarted, go to File, then New Screen Recording.
@@ -163,6 +175,10 @@ Nowadays, capturing your phone's screen is relatively simple. Screen recorders a
 AZ Screen Recorder is the most effective screen recording program I've discovered so far on Android, although there are many more others. It's ad-free, doesn't need root, has no restriction on recording time, and doesn't apply watermarks. It's not a terrible bargain at all. After you've downloaded it, go through the following steps:
 
 ![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Start the AZ Screen Recorder app by selecting it from your app drawer.
 * You'll notice a four-button overlay emerge. The gear icon allows you to change the video recording parameters, including resolution, bit rate, and frame rate. Press Back to go to the home screen when you're finished.
@@ -214,16 +230,12 @@ The Settings icon may be seen in the window's bottom right corner; click it to a
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Recording mouse clicks is possible if you choose the Mouse checkbox in the Record Timer box. You can also define the maximum recording time by entering the default screen selected recording length.
 
 After a three-second countdown, click the Rec button to begin a new screencasting session. To stop recording, use the F9 key on the keyboard. The file will be instantly launched in Filmora's video editor, allowing you to make any necessary edits before publishing it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Record Film on Mac with QuickTime
 
@@ -232,36 +244,32 @@ If you're using an earlier version of MacOS than Mojave, you may always use Quic
 From the Launchpad, open QuickTime Player. Check the Launchpad's Other folder if you don't see it. When the app is open, go to the Menu Bar and choose File. On the drop-down menu, select New Screen Recording.
 
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-screen-recording-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+An option to allow screen recording may appear on your computer's screen. Enter system preferences by clicking Open System Preferences. Select QuickTime Player and check the box. QuickTime Player may need to be restarted. (If you don't, go on to the next step.) When QuickTime has restarted, go to File, then New Screen Recording.
+
+Three buttons on the left allow you to take a screenshot, while two appear in the center to record the screen. Optional features include the ability to add or delete mouse clicks, the ability to utilize the built-in mic, and the ability to choose the video's destination. The Record button is positioned to the right of the Record Entire Screen and Record Selected Portion buttons.
+
+When you're done, go to the menu bar and choose Stop Recording from the drop-down menu, as seen below. If you have a Touch Bar on your Mac, you may also press the relevant icon.
+
+Click File in the menu bar, then Save from the drop-down menu to save your recording. To save the recording, choose a suitable save place (if you've not done so) and a name for it, then click Save to confirm.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-An option to allow screen recording may appear on your computer's screen. Enter system preferences by clicking Open System Preferences. Select QuickTime Player and check the box. QuickTime Player may need to be restarted. (If you don't, go on to the next step.) When QuickTime has restarted, go to File, then New Screen Recording.
-
-Three buttons on the left allow you to take a screenshot, while two appear in the center to record the screen. Optional features include the ability to add or delete mouse clicks, the ability to utilize the built-in mic, and the ability to choose the video's destination. The Record button is positioned to the right of the Record Entire Screen and Record Selected Portion buttons.
-
-When you're done, go to the menu bar and choose Stop Recording from the drop-down menu, as seen below. If you have a Touch Bar on your Mac, you may also press the relevant icon.
-
-Click File in the menu bar, then Save from the drop-down menu to save your recording. To save the recording, choose a suitable save place (if you've not done so) and a name for it, then click Save to confirm.
-
 ## Part 3\. How to Record Movie on the Phone
 
 Nowadays, capturing your phone's screen is relatively simple. Screen recorders are incorporated into several Android handsets. There are also hundreds of third-party screen recorder programs available for download, both free and premium. If you're still looking for the finest **android movie recorder**, you may get the AZ screen recorder app right now. With its built-in technique, though, recording your iPhone's screen is simple.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android
 
 AZ Screen Recorder is the most effective screen recording program I've discovered so far on Android, although there are many more others. It's ad-free, doesn't need root, has no restriction on recording time, and doesn't apply watermarks. It's not a terrible bargain at all. After you've downloaded it, go through the following steps:
 
 ![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Start the AZ Screen Recorder app by selecting it from your app drawer.
 * You'll notice a four-button overlay emerge. The gear icon allows you to change the video recording parameters, including resolution, bit rate, and frame rate. Press Back to go to the home screen when you're finished.
@@ -275,10 +283,6 @@ Fortunately, if you understand how to activate it, taking a screenshot or record
 
 ![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then touch "Control Center" in the Settings app. Select "Customize Controls" from the drop-down menu. Look for the phrase "Screen Recording." Tap the green + symbol next to it if it's not already in the "Include" section. It should now appear in the "Include" column.
 * If you have an iPhone X or later, slide down from the top-right corner to activate the Control Center; swipe up if you have an iPhone 8 or older. The home button on an iPhone may be accessed by swiping up from the bottom of the display.
 * Press and hold the "Record" button. This feature is activated by pressing the Record button for three seconds, after which the button becomes red and begins recording. The time will be red in the top left corner, indicating that you're still recording.
@@ -291,10 +295,6 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 Part 2. [Record Film on Mac with QuickTime](#part2)
 
 Part 3. [How to Record Movie on the Phone](#part3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Best Way to Record Movie on PC
 
@@ -340,16 +340,12 @@ When you're done, go to the menu bar and choose Stop Recording from the drop-dow
 
 Click File in the menu bar, then Save from the drop-down menu to save your recording. To save the recording, choose a suitable save place (if you've not done so) and a name for it, then click Save to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. How to Record Movie on the Phone
 
 Nowadays, capturing your phone's screen is relatively simple. Screen recorders are incorporated into several Android handsets. There are also hundreds of third-party screen recorder programs available for download, both free and premium. If you're still looking for the finest **android movie recorder**, you may get the AZ screen recorder app right now. With its built-in technique, though, recording your iPhone's screen is simple.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android
@@ -369,6 +365,10 @@ AZ Screen Recorder is the most effective screen recording program I've discovere
 Fortunately, if you understand how to activate it, taking a screenshot or recording a video on your iPhone's screen is exactly as simple as before. Using your iPhone, here's how to record your screen and locate the movie once it has been saved.
 
 ![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Then touch "Control Center" in the Settings app. Select "Customize Controls" from the drop-down menu. Look for the phrase "Screen Recording." Tap the green + symbol next to it if it's not already in the "Include" section. It should now appear in the "Include" column.
 * If you have an iPhone X or later, slide down from the top-right corner to activate the Control Center; swipe up if you have an iPhone 8 or older. The home button on an iPhone may be accessed by swiping up from the bottom of the display.
@@ -403,18 +403,18 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pros-and-cons-ios-screen-recorder-apps/"><u>[Updated] 2024 Approved Pros and Cons IOS Screen Recorder Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-streaming-windows-and-mac-guide/"><u>2024 Approved OBS Streaming [Windows and Mac Guide]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-your-nba-experience-with-these-15-tips-for-2024/"><u>Elevate Your NBA Experience with These 15 Tips for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/explore-your-virtual-worlds-choosing-between-portable-and-plugged-in-headsets-for-2024/"><u>Explore Your Virtual Worlds Choosing Between Portable and Plugged-In Headsets for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/file-transfer-tutorial-saving-documents-on-an-exterior-hdd-with-windows-10-steps/"><u>File Transfer Tutorial: Saving Documents on an Exterior HDD with Windows 10 Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-camon-30-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Camon 30 Pro 5G Face Lock?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-master-avi-gif-transformation-an-all-inclusive-guide-by-filmora/"><u>In 2024, Master AVI-GIF Transformation An All-Inclusive Guide by Filmora</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>In 2024, Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-8-screen-capture-programs-for-linux-experts/"><u>In 2024, Top 8 Screen Capture Programs for Linux Experts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-camtasia-ken-burns-technique-unveiled/"><u>Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-groovegrid-an-online-repository-of-dj-classics/"><u>New 2024 Approved GrooveGrid An Online Repository of DJ Classics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quick-mac-screenshot-methods-a-comprehensive-list-for-2024/"><u>Quick Mac Screenshot Methods A Comprehensive List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-stabilization-nine-fixes-for-wwe-2k23-on-windows-11/"><u>Swift Stabilization: Nine Fixes for WWE 2K23 on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-windows-11-gamers-script-to-save-playbacks/"><u>[New] 2024 Approved Windows 11 Gamers' Script to Save Playbacks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-first-edition-top-notch-user-centric-game-edit-apps-for-2024/"><u>[New] First Edition Top-Notch, User-Centric Game Edit Apps for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-inside-look-the-tech-behind-m1-max-clip/"><u>[New] In 2024, Inside Look The Tech Behind M1 Max Clip</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-propel-your-youtube-presence-upwards-by-thousands/"><u>[Updated] In 2024, Propel Your YouTube Presence Upwards by Thousands</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-ginger-island-in-stardew-for-2024/"><u>[Updated] The Complete Ginger Island in Stardew for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-mac-screen-capture-tips-and-shortcuts-guide/"><u>2024 Approved Quick Mac Screen Capture Tips and Shortcuts Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>2024 Approved The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
+<li><a href="https://win-help.techidaily.com/sandisk-ssd-ssd/"><u>無需花錢 SanDisk SSD 資料轉移工具 - 一點點都不麻煩的 SSD 數搶操作</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-camera-techniques-in-ios-11/"><u>In 2024, Harnessing the Power Camera Techniques in iOS 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-in-brief-lapses-top-5/"><u>In 2024, Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>In 2024, Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-meets-elegance-in-apples-latest-imac-m1-model-an-expert-breakdown-of-the-improved-design-and-enhanced-capabilities/"><u>Power Meets Elegance in Apple's Latest iMac M1 Model - An Expert Breakdown of the Improved Design and Enhanced Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fight Like a Warrior  5 Intense Martial Arts RPGs\""
-date: 2024-09-07T14:34:00.801Z
-updated: 2024-09-08T14:34:00.801Z
+date: 2024-12-21T22:53:35.000Z
+updated: 2024-12-23T00:07:13.340Z
 tags: 
   - screen-recording
   - ai video
@@ -15,24 +15,12 @@ keywords: "Warrior MArtial Quests,Intensity RPG Fights,MArtial Games Heroic,RPG 
 thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fight Like a Warrior: 5 Intense Martial Arts RPGs
 
 # Top 5 Kung Fu Games Just Like Sifu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -117,12 +105,6 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -139,12 +121,6 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 #### **This article contains:**
@@ -217,26 +193,8 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -265,10 +223,21 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-discover-the-top-tools-to-record-and-share-classroom-content/"><u>[New] Discover the Top Tools to Record and Share Classroom Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-windows-8-movie-maker-like-a-pro/"><u>[New] Navigating Windows 8 Movie Maker Like a Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-your-go-to-resource-mastering-the-use-of-mobizen-recorders-for-2024/"><u>[New] Your Go-To Resource Mastering the Use of Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aggregate-video-pieces-into-lists-for-2024/"><u>[Updated] Aggregate Video Pieces Into Lists for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-securing-speech-accuracy-techniques-for-perfect-translation/"><u>[Updated] In 2024, Securing Speech Accuracy Techniques for Perfect Translation</u></a></li>
+<li><a href="https://win-premium.techidaily.com/answer-to-calculate-the-average-atomic-mass-of-magnesium-with-given-isotopic-masses-and-their-percent-abundances-we-use-the-following-formula/"><u>Answer: To Calculate the Average Atomic Mass of Magnesium with Given Isotopic Masses and Their Percent Abundances, We Use the Following Formula:</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/divine-warriors-convergence-ragnarok-epoch-for-2024/"><u>Divine Warriors Convergence Ragnarok Epoch for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-efficiently-cut-out-distractions-in-your-iphone-photography/"><u>In 2024, Efficiently Cut Out Distractions in Your iPhone Photography</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fcpx-power-user-unlock-40-time-saving-keyboard-shortcuts-for-2024/"><u>New FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts for 2024</u></a></li>
+</ul></div>
 
-
-
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
