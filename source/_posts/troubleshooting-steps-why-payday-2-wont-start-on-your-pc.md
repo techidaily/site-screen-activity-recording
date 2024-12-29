@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Payday 2 Won't Start on Your PC"
-date: 2024-12-22T11:48:23.345Z
-updated: 2024-12-23T03:45:20.817Z
+date: 2024-12-21T20:57:22.358Z
+updated: 2024-12-28T17:48:46.411Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 
 If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To fix the potential problem and ensure your game works properly, you’ll need to make sure your graphics driver is up to date.
@@ -72,21 +76,17 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
 
 If you still encounter black screen issues, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -96,6 +96,10 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 
@@ -104,7 +108,7 @@ Relaunch Far Cry 6 to check if the black screen issue has gone away.
 If this fix doesn’t help, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
@@ -115,10 +119,6 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
@@ -128,15 +128,15 @@ Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Switch to windowed mode
 
  If the black screen issue was caused due to a small glitch, you can try to fix it by switching to windowed mode. This workaround has been proven useful by many gamers and you can give it a shot. Simply press**ALT+Enter** to switch to windowed mode while in full screen.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -146,12 +146,12 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
@@ -161,6 +161,10 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -177,10 +181,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 1. Open Ubisoft Connect and select**Games** . Then hover over Far Cry 6 and an**arrow** will appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
@@ -215,20 +215,22 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming-for-2024/"><u>[New] Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-beyondbaselinecameras-whats-upnext-for-2024/"><u>[New] BeyondBaselineCameras What's UpNext for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-content-writability-with-these-best-fonts/"><u>[Updated] 2024 Approved Elevate Your Content' Writability with These Best Fonts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-must-play-biking-games-anthology/"><u>[Updated] Must-Play Biking Games Anthology</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-screen-capture-apps-for-idevices-for-2024/"><u>[Updated] Top Screen Capture Apps for iDevices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029711682-aviutl/"><u>【AviUtl】手順を簡易化した、音声録音の高速解析: 最新トレーニング動画</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picture-perfect-your-essential-guide-to-uploading-on-youtube/"><u>2024 Approved Picture Perfect Your Essential Guide to Uploading on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-professional-monitor-recording-by-zdsoft/"><u>2024 Approved Unveiling Professional Monitor Recording by ZDSoft</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-vintage-racing-sims-our-favorite-five/"><u>2024 Approved Vintage Racing Sims Our Favorite Five</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-easycap-drivers-now-for-optimal-performance-and-support/"><u>Download the Latest EasyCAP Drivers Now for Optimal Performance & Support</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-effective-approaches-to-downloading-hectic-tiktok-archives/"><u>In 2024, Effective Approaches to Downloading Hectic TikTok Archives</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-from-the-greats-strategies-for-confident-online-sharing/"><u>Learn From the Greats Strategies for Confident Online Sharing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/overcoming-social-media-livestream-errors-for-2024/"><u>Overcoming Social Media Livestream Errors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-system-controls-learn-how-to-use-4-techniques-for-disk-editor-on-win11/"><u>Seamless System Controls: Learn How to Use 4 Techniques for Disk Editor on Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-efficiency-how-to-implement-codegpt-into-visual-studio-code/"><u>Unlocking Efficiency: How to Implement CodeGPT Into Visual Studio Code</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-budget-gaming-hardware-the-ultimate-keyboard-list-for-2024/"><u>[New] Essential Budget Gaming Hardware The Ultimate Keyboard List for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-in-depth-look-at-using-key-combos-for-efficient-screen-recording-in-os-x/"><u>[New] In 2024, In-Depth Look at Using Key Combos for Efficient Screen Recording in OS X</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>[New] In 2024, Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11/"><u>[New] In 2024, The Ultimate Guide to Screenshot & Record Mastery on Mi 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-scrutinizing-splitcam-a-leader-in-video-tech-for-2024/"><u>[New] Scrutinizing SplitCam - A Leader in Video Tech for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-ios-compatible-ps2-software-for-2024/"><u>[New] Ultimate iOS Compatible PS2 Software for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-7-digital-photography-devices-for-high-quality-video-streams/"><u>[Updated] Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-seamless-entry-into-google-meet-with-device-use/"><u>[Updated] In 2024, Seamless Entry Into Google Meet with Device Use</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-total-byte-requirement-for-a-days-movie-watching/"><u>[Updated] In 2024, Total Byte Requirement for a Day's Movie Watching</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-finest-no-cost-recording-software-today-for-2024/"><u>[Updated] Unveiling the Finest No-Cost Recording Software Today for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-art-of-degrees-elevating-your-youtube-videos/"><u>2024 Approved The Art of Degrees Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-rules-and-unspoken-guides-to-online-friending/"><u>Hidden Rules and Unspoken Guides to Online Friending</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F15 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-obs-broadcasting-directly-on-instagram/"><u>In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/industry-pioneers-of-immersive-visualization-for-2024/"><u>Industry Pioneers of Immersive Visualization for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-130-music-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia 130 Music to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-premier-photography-frame-selection-24-for-2024/"><u>The Premier Photography Frame Selection '24 for 2024</u></a></li>
 </ul></div>
 

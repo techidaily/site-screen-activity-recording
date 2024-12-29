@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2024-12-18T01:26:25.639Z
-updated: 2024-12-23T04:38:31.555Z
+date: 2024-12-21T19:34:54.980Z
+updated: 2024-12-29T00:16:53.106Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,10 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
@@ -64,7 +68,7 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -86,7 +90,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -110,7 +114,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -123,10 +127,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
@@ -134,7 +134,7 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Hades
@@ -164,22 +164,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-echoes-of-exploration-in-role-playing-history/"><u>[New] Echoes of Exploration in Role-Playing History</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[New] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ideal-mac-tools-to-record-your-workscreen/"><u>[New] In 2024, Ideal Mac Tools to Record Your Workscreen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplified-techniques-for-creating-and-modifying-multiple-snaps-in-snapchat/"><u>[New] In 2024, Simplified Techniques for Creating and Modifying Multiple Snaps in Snapchat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[New] Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[Updated] In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[Updated] In 2024, Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-energetic-public-speaker-review-8th-edition/"><u>2024 Approved Energetic Public Speaker Review 8Th Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-gecata-game-recorder-review-complete/"><u>2024 Approved Gecata Game Recorder Review [Complete]</u></a></li>
-<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embark-on-language-journey-with-googles-top-picks-mondly/"><u>Embark on Language Journey with Google's Top Picks - Mondly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>In 2024, History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-unresponsive-error-in-google-chrome-with-immediate-steps/"><u>Overcome the 'Unresponsive' Error in Google Chrome with Immediate Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-blurry-photos-effective-remedies-for-iphone-camera-autofocus-problems/"><u>Overcoming Blurry Photos: Effective Remedies for iPhone Camera Autofocus Problems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/redbox-announces-complete-closure-end-of-an-era/"><u>Redbox Announces Complete Closure: End of an Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-windows-intruder-bsod-crisis/"><u>Techniques to Overcome Windows' Intruder BSOD Crisis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/xiaomi-11-lite-preserve-your-memories-in-stunning-quality-for-2024/"><u>Xiaomi 11 Lite Preserve Your Memories in Stunning Quality for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods/"><u>[New] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-filters-a-2023-guide-to-enhanced-photography/"><u>[New] In 2024, Instagram Filters A 2023 Guide to Enhanced Photography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-professional-approach-to-screen-capturing-in-adobe-captive-environment/"><u>[New] In 2024, Professional Approach to Screen Capturing in Adobe Captive Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ailoring-your-video-content-through-youtube-studio-editing-techniques/"><u>[New] Tailoring Your Video Content Through YouTube Studio Editing Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-tutorial-iphoneipad-time-lapse-recording/"><u>[New] The Ultimate Tutorial IPhone/iPad Time Lapse Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exploring-8-premium-open-source-videoconferencing-platforms/"><u>2024 Approved Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-media-effects-a-comprehensive-guide-to-device-filters/"><u>2024 Approved Mastering Media Effects A Comprehensive Guide to Device Filters</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-number-1-in-the-8th-digital-image-blend-platform/"><u>In 2024, Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-selection-top-hdr-camera-picks/"><u>Ultimate Selection Top HDR Camera Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2024-12-19T16:58:21.808Z
-updated: 2024-12-23T13:38:00.480Z
+date: 2024-12-24T21:25:27.996Z
+updated: 2024-12-28T16:44:46.383Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -55,15 +55,15 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -125,6 +125,10 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -132,21 +136,17 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,22 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-voice-over-basics-from-script-to-screen/"><u>[New] 2024 Approved Voice-Over Basics From Script to Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-can-a-64gb-drive-manage-large-video-files-in-2024/"><u>[New] Can a 64GB Drive Manage Large Video Files, In 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-compelling-videos-youtubes-best-thumbnail-practices-for-2024/"><u>[New] Crafting Compelling Videos YouTube's Best Thumbnail Practices for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-vlog-heroes-the-best-video-capturers-unveiled/"><u>[New] In 2024, VLog Heroes The Best Video Capturers Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-mc-housing-plans-for-vibrant-villages/"><u>[Updated] 2024 Approved Best MC Housing Plans for Vibrant Villages</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-blending-calendar-coordination-with-mobile-and-computing-zoom-times/"><u>[Updated] 2024 Approved Blending Calendar Coordination with Mobile & Computing Zoom Times</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>[Updated] 2024 Approved Tech Titans Triumph Best Online Tools to Record Your Screen</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[Updated] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-your-ifunny-meme-journey/"><u>[Updated] Mastering Your iFunny Meme Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seminar-screen-recording/"><u>2024 Approved Seminar Screen Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-audio-capturers-2023-edition/"><u>In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>In 2024, YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-update-on-standard-login-details-for-netgear-products/"><u>July 2024 Update on Standard Login Details for NETGEAR Products</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-drfone-by-drfone-ios/"><u>Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resource-conflict-detectives/"><u>Resource Conflict Detectives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-comprehensive-tips-for-constructing-podcast-rss-feeds/"><u>[New] In 2024, Comprehensive Tips for Constructing Podcast RSS Feeds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-the-art-and-size-game-your-guide-to-top-tier-yt-banners/"><u>[New] Mastering the Art & Size Game Your Guide to Top-Tier YT Banners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[Updated] 2024 Approved Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-obs-setup-for-skype-screenshots/"><u>[Updated] Advanced OBS Setup for Skype Screenshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-editing-with-blend-mode-innovations/"><u>[Updated] Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-tunes-with-mac-studios/"><u>2024 Approved Mastering Tunes with Mac Studios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>In 2024, Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram-for-2024/"><u>Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplify-your-work-the-best-5-mac-snipper-applications-for-2024/"><u>Simplify Your Work The Best 5 Mac Snipper Applications for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/solve-invisible-frames-in-video-capture-software-for-2024/"><u>Solve Invisible Frames in Video Capture Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-bing-chatbot-into-android-keyboard-app/"><u>Step-by-Step Guide: Integrating Bing Chatbot Into Android Keyboard App</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-does-virtual-reality-demand-such-a-hefty-price-4-answers/"><u>Why Does Virtual Reality Demand Such a Hefty Price? 4 Answers</u></a></li>
 </ul></div>
 

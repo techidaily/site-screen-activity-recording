@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2024-12-21T17:58:24.843Z
-updated: 2024-12-23T03:07:10.911Z
+date: 2024-12-22T16:00:17.842Z
+updated: 2024-12-28T16:22:09.366Z
 tags: 
   - screen-recording
   - ai video
@@ -21,13 +21,13 @@ In the past two decades, the digital and IT industry is growing at a jet pace. P
 
 Therefore, after vast research on the internet, our team came up with an optimal solution to show you a way to stream your videos lag-free, jitter-free, and without any blurriness in a costless way possible. We recommend you the best studio software known as OBS for your streaming using the best OBS settings for your low-end PC or a Laptop. These OBS settings will let you record videos for low-end PC or laptops to stream now without any issues. Keeping things in a little hurry let's straight dive into the real stuff of this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Video Settings
 
 Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Go to Settings
 
@@ -36,7 +36,7 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
@@ -47,6 +47,10 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
 ### Step 3: Output Settings
@@ -54,10 +58,6 @@ After that, it comes to the filter option. There are multiple filter options in 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
 
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
 
@@ -87,19 +87,23 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
 
@@ -129,15 +133,15 @@ Finally, the rest of the options should be kept as default since being a streame
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
 
@@ -154,10 +158,6 @@ This option let you choose a server to upload your streaming. It is best to keep
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -219,20 +219,24 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-enrich-meeting-experience-a-compilation-of-the-top-10-free-apps/"><u>[New] 2024 Approved Enrich Meeting Experience A Compilation of the Top 10 Free Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-elite-no-price-fb-photovideo-magic-maker-for-2024/"><u>[New] Elite No-Price FB Photo/Video Magic Maker for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-expertly-record-and-save-your-favorite-hulu-shows-for-2024/"><u>[New] How To Expertly Record and Save Your Favorite Hulu Shows for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-stay-within-the-law-pre-upload-video-copyright-checks-on-tiktok/"><u>[New] In 2024, Stay Within the Law Pre-Upload Video Copyright Checks on TikTok</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-identifying-your-ideal-video-sharing-app-tiktok-or-youtubes-shorts/"><u>[Updated] Identifying Your Ideal Video Sharing App TikTok or YouTubes' Shorts?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unmatched-guide-the-ultimate-11-streaming-recorders/"><u>[Updated] In 2024, Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-showdown-top-10-arcade-combat-classics/"><u>[Updated] Switch Showdown Top 10 Arcade Combat Classics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-display-driver-start-fails-in-windows/"><u>Essential Fixes for “Display Driver Start” Fails in Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/gamers-pathway-to-impeccable-recordings/"><u>Gamers' Pathway to Impeccable Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-the-ultimate-portable-movie-converter-winx-dvd-ripper-pro-now-available-for-ios-and-android/"><u>Get the Ultimate Portable Movie Converter: WinX DVD Ripper Pro - Now Available for iOS & Android!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/next-level-vfx-gear-for-the-eco-savvy-for-2024/"><u>Next-Level VFX Gear for the Eco-Savvy for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/upcoming-games-with-industry-experts-for-2024/"><u>Upcoming Games with Industry Experts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webcamskills-beginnersrecordingtutorial/"><u>WebcamSkills Beginner'sRecordingTutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-analyzed-the-finest-screen-capture-software-for-macos/"><u>[New] 2024 Approved Analyzed The Finest Screen Capture Software for macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-6-low-cost-superior-4k-tv-projectors/"><u>[New] Leading 6 Low-Cost, Superior 4K TV Projectors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-methods-for-straightforward-ios-screenshots/"><u>[Updated] 2024 Approved Innovative Methods for Straightforward IOS Screenshots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-your-movie-recording-pc-mac-and-mobile-devices/"><u>[Updated] 2024 Approved Master Your Movie Recording PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-upgrade-smartphone-techniques-for-professional-videos-for-2024/"><u>[Updated] Channel Upgrade Smartphone Techniques for Professional Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory/"><u>[Updated] In 2024, Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[Updated] The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-ultimate-simulators-for-androids-gb-games/"><u>2024 Approved 10 Ultimate Simulators for Android's GB Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-sensational-no-cost-visual-collaboration-games/"><u>2024 Approved Sensational No-Cost Visual Collaboration Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/download-installation-and-operation-simplified-guide-to-ez-grabber-for-2024/"><u>Download, Installation, and Operation Simplified Guide to EZ Grabber for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-review-of-logitechs-ultimate-4k-professional-cam-for-2024/"><u>Full Review of Logitech's Ultimate 4K Professional Cam for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/immediate-relief-best-online-games-now/"><u>Immediate Relief: Best Online Games Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-compreranium-unpacking-apeaksoft-screen-tech-2023-edition/"><u>In 2024, Compreranium Unpacking Apeaksoft Screen Tech, 2023 Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-could-not-call-runtime-problem-in-malwarebytes-windows/"><u>Mending the Could Not Call Runtime Problem in Malwarebytes Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/reassessing-manycam-search-for-a-top-contender-for-2024/"><u>Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-choosing-the-ultimate-free-online-srt-translators-for-2024/"><u>Secrets to Choosing the Ultimate Free Online SRT Translators for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-your-mic-why-it-doesnt-record-your-voice-anymore/"><u>Solutions for Your Mic: Why It Doesn't Record Your Voice Anymore</u></a></li>
 </ul></div>
 
