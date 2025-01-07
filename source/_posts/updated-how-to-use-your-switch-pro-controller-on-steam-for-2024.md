@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Your Switch Pro Controller on Steam for 2024"
-date: 2024-12-11T09:12:32.439Z
-updated: 2024-12-14T02:07:13.766Z
+date: 2025-01-04T19:34:14.525Z
+updated: 2025-01-07T19:38:16.085Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -54,10 +58,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -67,7 +67,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -78,6 +78,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
@@ -86,7 +90,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
@@ -106,14 +110,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -146,24 +146,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-a-stepwise-approach-to-twitter-archive-utilization/"><u>[New] In 2024, A Stepwise Approach to Twitter Archive Utilization</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-mastering-hero5-black-pro-photography-and-cinematography-techniques/"><u>[New] Mastering Hero5 Black Pro Photography & Cinematography Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-insiders-guide-to-maximizing-ez-grabber-for-2024/"><u>[New] The Insider’s Guide to Maximizing EZ Grabber for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] 2024 Approved Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-beyondonecam-testing-are-there-better-options-in-2024/"><u>[Updated] BeyondOneCam Testing Are There Better Options, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-evolved-methods-for-effective-game-file-logging/"><u>[Updated] In 2024, Evolved Methods for Effective Game File Logging</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-gaming-sessions-without-microsofts-intervention/"><u>[Updated] In 2024, Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-screen-and-video-recording/"><u>[Updated] In 2024, The Ultimate Guide to Screen and Video Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069790233-updated-in-2024-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[Updated] In 2024, Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-video-tips-trim-to-size-with-precision-cutting/"><u>[Updated] IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-architectural-marvels-for-your-blocky-oasis/"><u>2024 Approved Architectural Marvels for Your Blocky Oasis</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-9-mic-technology-a-comprehensive-analysis/"><u>2024 Approved Leading 9 Mic Technology A Comprehensive Analysis</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-most-successful-profit-making-youtuber/"><u>2024 Approved Most Successful Profit-Making YouTuber</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/economical-solutions-for-mendin-movie-files-revive-your-movs-at-no-charge/"><u>Economical Solutions for Mendin' Movie Files - Revive Your MOVs at No Charge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-advanced-conversation-integrate-nvidias-rtx-chatbot-into-your-pc-experience/"><u>Harnessing Advanced Conversation: Integrate NVIDIA's RTX Chatbot Into Your PC Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30-vipfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30 VIPFRP Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>In 2024, Mastering StoryRemix for Windows 11 Enhancing Videos with Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-inactive-heat-reduction-policy-for-windows/"><u>Reviving Inactive Heat Reduction Policy for Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761577-9781683642336-the-way-of-effortless-mindfulness/"><u>The Way of Effortless Mindfulness | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-app-reviews-by-az-capture/"><u>[New] 2024 Approved Ultimate Guide to App Reviews by AZ Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-melodyrecorder-free-an-experts-evaluation-for-2024/"><u>[New] MelodyRecorder Free An Expert's Evaluation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-use-a-whiteboard-in-google-meet/"><u>[Updated] 2024 Approved How to Use a Whiteboard in Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-battle-for-asgard-the-ragnarok-chronicles-for-2024/"><u>[Updated] Battle for Asgard The Ragnarök Chronicles for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-action-cam-showdown-2022-hero5-black-vs-ultra-30-streaming/"><u>[Updated] In 2024, Action Cam Showdown 2022 Hero5 Black Vs. Ultra 30 Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-election-enthusiasts-essentials-quintessential-voting-games/"><u>[Updated] In 2024, Election Enthusiasts' Essentials Quintessential Voting Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-navigating-audio-capture-in-minecraft-a-mac-experts-handbook/"><u>[Updated] In 2024, Navigating Audio Capture in Minecraft A Mac Expert's Handbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-photo-motion-blur-with-adobe-photoshop-tips/"><u>[Updated] In 2024, Perfect Photo Motion Blur with Adobe Photoshop Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-safe-sign-in-getting-back-into-facebook/"><u>2024 Approved Safe Sign-In Getting Back Into Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-webs-deception-caution-against-buying-non-real-subscribers/"><u>In 2024, The Web's Deception Caution Against Buying Non-Real Subscribers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-live-streaming-with-manycam-the-definitive-software-and-virtual-cam-solution/"><u>Mastering Live Streaming with ManyCam: The Definitive Software and Virtual Cam Solution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>New In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-zoom-on-snapchat-for-better-snaps/"><u>Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-introduces-enhanced-odyssey-and-view-the-new-era-of-ai-powered-smart-displays/"><u>Samsung Introduces Enhanced Odyssey & View: The New Era of AI-Powered Smart Displays</u></a></li>
 </ul></div>
 

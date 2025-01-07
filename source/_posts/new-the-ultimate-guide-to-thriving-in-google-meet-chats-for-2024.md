@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Thriving in Google Meet Chats for 2024"
-date: 2024-12-13T08:13:03.630Z
-updated: 2024-12-13T18:18:00.459Z
+date: 2025-01-06T19:10:29.822Z
+updated: 2025-01-07T20:25:55.789Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,6 @@ Upon clicking the speech bubble, a chat window will open on the right-hand side 
 
 ![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the blank text box and type the message that you would like to share.
 
 ![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
@@ -83,20 +79,20 @@ When you press the further options button on Google Meet, more options will show
 ![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
 ![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
 ![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -112,6 +108,10 @@ Following that, send them a hangouts link and enable video.
 
 Once that is done individuals can now chat and video conference at the same time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Create a Private Chat on Google Meet?
 
 Many individuals wonder if they can privately chat on Google Meet, however that option is not possible in the Google Meet chat feature till now. Any and all messages or links that individuals share during a conference on Google Meet are shared with all the participants who are in the meeting during that time.
@@ -119,12 +119,16 @@ Many individuals wonder if they can privately chat on Google Meet, however that 
 For instance, if a participant leaves a meeting and you send a message when they have left, then that participant joins again, the participant will not be able to receive or view your message. However, all those present in the session while the message was sent can read it. There is no option to create a private chat on Google Meet as of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Change Google Meet Chat Font Size?
 
 Google Meet comes fully equipped with numerous features and functions, however, changing the chat font size is not one of them. Participants cannot make any changes to the font of messages sent in the chatbox. They cannot increase the size, spacing, font style, or color of the messages that are being sent. While these options are available in other Google Application features such as Gmail and more. They are still yet to come into play on Google Meet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Add Emojis to Google Meet Chat?
 
@@ -136,10 +140,6 @@ Once you have joined the Google Meet session, make your way over to the bottom r
 
 ![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
@@ -147,16 +147,12 @@ From there go over to the messaging text box and right-click on your computer de
 ![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
 ![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -175,7 +171,11 @@ A popup will appear on the right-hand side of your screen with options and setti
 ![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 8: How to Retrieve Google Meet Chat History?
@@ -203,16 +203,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-gif-recorder-for-mac/"><u>[New] 2024 Approved Best Gif Recorder for Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dive-into-the-world-of-cosmetics-launching-a-beauty-channel-for-2024/"><u>[New] Dive Into the World of Cosmetics Launching a Beauty Channel for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-harmonizing-your-calendar-with-zoom-appointments-on-all-screens-for-2024/"><u>[New] Harmonizing Your Calendar With Zoom Appointments on All Screens for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-record-your-powerpoint-presentation/"><u>[Updated] 2024 Approved Step-by-Step Record Your PowerPoint Presentation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-free-screen-recorder-for-androids-seamless-use/"><u>[Updated] Free Screen Recorder for Android's Seamless Use</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-obs-video-on-instagram/"><u>[Updated] In 2024, Live OBS Video on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-your-data-how-safe-are-you-really/"><u>ChatGPT and Your Data: How Safe Are You Really?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/efektivitas-untuk-memperbaiki-kesalahan-pencarian-dokumen-di-windows-1011-dengan-perangkat-pertuturan-microsoft/"><u>Efektivitas Untuk Memperbaiki Kesalahan Pencarian Dokumen Di Windows 10/11 Dengan Perangkat Pertuturan Microsoft</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-reorganizing-your-spreadsheet-moving-cells-up-or-down-in-ms-excel/"><u>Expert Guide: Reorganizing Your Spreadsheet - Moving Cells Up or Down in MS Excel</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>In 2024, Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-x-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone X or iPad?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>[New] 2024 Approved [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-samsungs-gaming-memories-record-and-reveal/"><u>[New] In 2024, Samsung's Gaming Memories Record and Reveal</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-survival-in-mc-top-house-ideas-and-plans/"><u>[New] In 2024, Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] In 2024, The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-the-full-potential-of-obs-on-mac/"><u>[New] Unlocking the Full Potential of OBS on Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-propagate-your-content-with-vimeo-links/"><u>[Updated] 2024 Approved Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-racing-games-the-ultimate-5-list-for-2024/"><u>[Updated] Essential Racing Games The Ultimate 5-List for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-full-screen-obs-complication-overcome-for-2024/"><u>[Updated] Full Screen OBS Complication Overcome for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-studio-vs-fraps-performance-showdown/"><u>[Updated] OBS Studio vs Fraps Performance Showdown</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crisp-capture-leaders-the-ultimate-list-of-premium-4k-phone-cameras/"><u>2024 Approved Crisp Capture Leaders The Ultimate List of Premium 4K Phone Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>2024 Approved Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-c53-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme C53 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-intellij-unison-run-smoothly-on-win11/"><u>How to Make IntelliJ Unison Run Smoothly on Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>In 2024, Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-woes-banish-that-irritating-zzzz-with-easy-tricks/"><u>Speaker Woes? Banish that Irritating Zzzz with Easy Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-excel-charts-to-picture-format-for-easy-sharing-and-editing/"><u>Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing</u></a></li>
 </ul></div>
 

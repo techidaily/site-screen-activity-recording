@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)\""
-date: 2024-12-28T02:27:51.149Z
-updated: 2024-12-28T16:55:59.167Z
+date: 2025-01-04T17:15:14.918Z
+updated: 2025-01-07T17:26:03.857Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -46,16 +50,16 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -67,6 +71,10 @@ With the built-in [screen record](https://tools.techidaily.com/wondershare/filmo
 Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
 
@@ -88,17 +96,9 @@ If you want to record the screen video, just knock the screen with two knuckles 
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,7 +107,7 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,21 +125,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] 2024 Approved TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-walking-dead-top-picks-for-horror-gamers/"><u>[New] 2024 Approved Walking Dead Top Picks for Horror Gamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-managing-moments-in-live-streams-an-obs-timer-guide/"><u>[New] In 2024, Managing Moments in Live Streams An OBS Timer Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-real-story-exploring-recordcast-features/"><u>[New] The Real Story Exploring RecordCast Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-guide-to-premium-free-phone-video-chat-apps-iosandroid/"><u>[Updated] Essential Guide to Premium-Free Phone Video Chat Apps - iOS/Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-efficiently-coordinating-group-activities-via-zoom/"><u>[Updated] In 2024, Efficiently Coordinating Group Activities via Zoom</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-stream-live-webcam-using-vlc-playback/"><u>[Updated] Stream Live Webcam Using VLC Playback</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camera-woes-over-obs-now-functioning/"><u>Camera Woes Over OBS Now Functioning</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Galaxy F54 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-top-savings-with-these-amazing-verizon-upgrade-deals-for-month/"><u>Secure Top Savings with These Amazing Verizon Upgrade Deals for [Month]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-non-existent-basic-printer-driver-in-windows-10-operating-system/"><u>Troubleshooting Non-Existent Basic Printer Driver in Windows 10 Operating System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-stability-top-photo-tripods-for-iphones-and-androids-for-2024/"><u>Ultimate Stability Top Photo Tripods for iPhones & Androids for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-avi-rotators-free-and-easy-video-editing-solutions-for-2024/"><u>Updated Best AVI Rotators Free and Easy Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-advanced-features-of-vlc/"><u>[New] 2024 Approved Unveiling Advanced Features of VLC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-developing-persuasive-podcast-thumbnails/"><u>[New] Developing Persuasive Podcast Thumbnails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-tips-for-nvidia-screen-capturing-for-2024/"><u>[New] Quick Tips for NVIDIA Screen Capturing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-lecture-recordings-on-imac/"><u>[New] Streamlining Lecture Recordings on iMac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tech-triumphs-10-high-definition-screen-recorder-tools/"><u>[New] Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-transform-your-instagram-experience-with-obs-livestreaming-techniques/"><u>[New] Transform Your Instagram Experience with OBS Livestreaming Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-first-timers-guide-to-zoom-segregation-rooms/"><u>[Updated] 2024 Approved First-Timer's Guide to Zoom Segregation Rooms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-in-app-image-alterations-resizing-photos-made-simple-ios/"><u>[Updated] 2024 Approved In-App Image Alterations Resizing Photos Made Simple (iOS)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-vote-ventures-5-top-political-game-showdowns/"><u>[Updated] Vote-Ventures 5 Top Political Game Showdowns</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/daily-use-of-digital-coins-exploring-how-cryptocurrencies-fit-into-routine-payments-innovations-by-yl-computing/"><u>Daily Use of Digital Coins: Exploring How Cryptocurrencies Fit Into Routine Payments - Innovations by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>In 2024, Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-wlanextexe-to-keep-cpu-cool/"><u>Managing Wlanext.EXE to Keep CPU Cool</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mixing-video-sequences-with-blend-mode-expertise/"><u>Mixing Video Sequences with Blend Mode Expertise</u></a></li>
+<li><a href="https://solve-info.techidaily.com/resolving-detection-issues-for-new-ram-on-windows-expert-advice-by-yl-software/"><u>Resolving Detection Issues for New RAM on Windows: Expert Advice by YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-creating-share-worthy-memes-on-9gag-for-2024/"><u>The Ultimate Guide to Creating Share-Worthy Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola G54 5G? | Dr.fone</u></a></li>
 </ul></div>
 

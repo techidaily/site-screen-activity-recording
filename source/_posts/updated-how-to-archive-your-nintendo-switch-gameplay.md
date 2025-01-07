@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Archive Your Nintendo Switch Gameplay"
-date: 2024-12-27T16:19:09.034Z
-updated: 2024-12-29T04:12:50.294Z
+date: 2025-01-01T17:46:15.275Z
+updated: 2025-01-07T21:38:42.796Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,6 @@ Part I: Capture Your Switch Video
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Capture the 30s video with Nintendo Switch Record button
 
 The controllers come up with the built-in capture button. However, this button only allows the screenshot of the video which is not ideal in any case. But it records the video for 30 seconds as well. If this time is enough to capture your gameplay then do the steps:
@@ -56,10 +52,6 @@ The controllers come up with the built-in capture button. However, this button o
 **Step 2:** Press the capture button on the left side of controller.
 
 ![switch-game-console](https://images.wondershare.com/filmora/article-images/switch-console-pic.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Hold down this capture button marked with the square
 
@@ -82,7 +74,15 @@ Let’s take Smach Bros as an example. To do the recording, follow the steps:
 
 **Step 1:** As soon as you have finished the game, the screen of the final score appears. A button appears at the top right down corner of the screen ‘Do you want to save the game’. ![smash-bro-ending](https://images.wondershare.com/filmora/article-images/smash-bros-interface.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the ‘Y’ button and then click on ‘Save.’![smash-bros-saving](https://images.wondershare.com/filmora/article-images/smash-bros-saving.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tips: Make sure that you don’t press buttons other than ‘Y’ if you want to save the gameplay. The game replay will be lost if you do so.
 
@@ -97,7 +97,11 @@ Tips: Within the video conversion settings, you can include information about th
  **![saving-folder](https://images.wondershare.com/filmora/article-images/gameplay-folder1.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Record your whole gameplay with Capture Card
@@ -108,7 +112,7 @@ Choose your capture card, connect it with Nintendo switch and your PC, you can c
 * **Step 2:** Select screen area that you want to save.![demo-interface](https://images.wondershare.com/filmora/article-images/demo-smash1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Step 3:** Hit microphone to choose from audio sources.
@@ -134,19 +138,15 @@ Nintendo Switch allows you to trim video easily in album:
 
 ![zelda-trim](https://images.wondershare.com/filmora/article-images/zelda-trim.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Edit gameplay with Filmora X
 
 Filmora X is a multipurpose video editing tool that can be used to edit your videos in the best possible way. One way is to edit the gaming montage is by editing it to the beat and the other is the speed control. Beat detection by beat marker is done by software automatically and adjusted with the video. Speed control is the key element here and adjusts it with the video. Adjust the speed by adjusting the duration. You can also add effects such as clinches to the video while adjusting the speed.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Conclusion**
 
@@ -169,24 +169,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comprehensive-screencast-insights-for-creators/"><u>[New] 2024 Approved Comprehensive Screencast Insights for Creators</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-win11-elite-screen-recording-software/"><u>[New] 2024 Approved Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-storytelling-with-jump-cuts-technique/"><u>[New] In 2024, Enhancing Storytelling with Jump Cuts Technique</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-podcast-release-schedules/"><u>[New] Mastering Podcast Release Schedules</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-crops-and-cultivation-compilation/"><u>[New] The Ultimate Crops & Cultivation Compilation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-11-techniques-for-perfecting-hue-balance/"><u>[New] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[Updated] 2024 Approved In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-your-switch-pro-controller-on-steam/"><u>[Updated] How to Use Your Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-narratives-unleashed-10-adventure-games-reviewed/"><u>[Updated] In 2024, Narratives Unleashed #10 Adventure Games Reviewed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>From Basics to Best Achieving Superior Sound via Zoom for Podcasting</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30 5G</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-boosting-engagement-perfect-time-stamping-techniques-for-videos/"><u>In 2024, Boosting Engagement Perfect Time-Stamping Techniques for Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-depth-review-of-the-brother-hl-l3295cdw-laser-printer-delivering-expedited-high-resolution-colored-impressions/"><u>In-Depth Review of the Brother HL-L3295CDW Laser Printer – Delivering Expedited, High-Resolution Colored Impressions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/minipic-snapshot-scrutiny-plus-diverse-apps/"><u>MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/recovering-lost-data-a-comprehensive-guide-to-accessing-your-old-laptop-after-forgetting-the-passcode-expert-tips/"><u>Recovering Lost Data: A Comprehensive Guide to Accessing Your Old Laptop After Forgetting the Passcode - Expert Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora-for-2024/"><u>The Pro's Pathway to Professional Video Conferencing with Slack & Filmora for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-55-inch-televisions-expert-picks-from-zdnet/"><u>Top 5 Premium 55-Inch Televisions : Expert Picks From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-your-recording-champion-pick-obs-or-bandicam-for-2024/"><u>[New] Choosing Your Recording Champion Pick OBS or Bandicam for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntegrate-free-audio-in-your-videos-effortlessly-for-2024/"><u>[New] Integrate FREE Audio in Your Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-virtual-road-racers-guide/"><u>[Updated] Essential Virtual Road Racers Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-achieving-distraction-free-video-conferencing-with-skype/"><u>[Updated] In 2024, Achieving Distraction-Free Video Conferencing with Skype</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-speedy-insights-modifying-videos-in-instagram-stories/"><u>[Updated] In 2024, Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-best-non-sportful-activities-at-first-row/"><u>[Updated] Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hassle-free-methods-to-get-past-a-paused-0-windows-update-problem/"><u>Hassle-Free Methods to Get Past a Paused 0% Windows Update Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/huggingchat-simplified-no-license-required-community-powered-counterpart/"><u>HuggingChat Simplified: No License Required, Community-Powered Counterpart</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/taking-screenshot-on-windows-1087-for-2024/"><u>Taking Screenshot on Windows 10/8/7 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
 
