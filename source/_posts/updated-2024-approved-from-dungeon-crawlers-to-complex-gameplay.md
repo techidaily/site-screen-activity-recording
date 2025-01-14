@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2025-01-03T19:24:24.777Z
-updated: 2025-01-07T17:45:33.160Z
+date: 2025-01-08T01:34:55.676Z
+updated: 2025-01-13T20:56:11.558Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -61,10 +61,6 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
@@ -72,7 +68,7 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -93,6 +89,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,10 +110,6 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -139,12 +135,16 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -164,18 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>[New] 2024 Approved The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>[New] 2024 Approved Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expand-your-library-prime-10-ps5-extra-drives-for-2024/"><u>[New] Expand Your Library Prime 10 PS5 Extra-Drives for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-game-on-with-more-space-topping-10-hddssds/"><u>[New] In 2024, Game On with More Space Topping 10 HDD/SSDs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-making-an-informed-decision-on-itops-utility/"><u>[Updated] 2024 Approved Making an Informed Decision on ITop's Utility?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>[Updated] In 2024, The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-thorough-examination-of-gecata-recorder-for-2024/"><u>[Updated] Thorough Examination of Gecata Recorder for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sound-choices-essential-downloads-guide/"><u>2024 Approved Best Sound Choices Essential Downloads Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-remove-tracking-cookies-on-windows-11-and-android-phone/"><u>How to Remove Tracking Cookies on Windows 11 and Android Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-the-beast-resolving-fallout-4-pc-problems/"><u>Taming the Beast: Resolving Fallout 4 PC Problems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-hottest-explainer-video-creation-software-reviews-and-comparisons-for-2024/"><u>Updated S Hottest Explainer Video Creation Software Reviews and Comparisons for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] 2024 Approved The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[New] From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>[New] In 2024, Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlock-creative-potential-strategic-use-of-strikethrough-for-2024/"><u>[New] Unlock Creative Potential Strategic Use of Strikethrough for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>[Updated] 2024 Approved Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-pathway-to-perfect-zoom-communication-unlocking-effective-online-interactions/"><u>[Updated] 2024 Approved The Pathway to Perfect ZOOM Communication Unlocking Effective Online Interactions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-innovative-android-camera-apps-for-2024/"><u>[Updated] Innovative Android Camera Apps for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210336919-9781789046618-a-guide-of-spirits/"><u>A Guide of Spirits | Free Book</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comment-synchroniser-efficacement-des-fichiers-et-des-dossiers-locaux-avec-le-cloud/"><u>Comment Synchroniser Efficacement Des Fichiers Et Des Dossiers Locaux Avec Le Cloud</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-6s-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 6s?</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-microsoft-excel-a-comprehensive-guide-with-12-tricks-for-correcting-faulty-formulas/"><u>Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-lenovo-z50-70-firmware-patches-here/"><u>Quick Lenovo Z50-70 Firmware Patches Here</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solve-iphone-backup-glitches-seamlessly-using-advanced-extraction-software/"><u>Solve iPhone Backup Glitches Seamlessly Using Advanced Extraction Software</u></a></li>
 </ul></div>
 
