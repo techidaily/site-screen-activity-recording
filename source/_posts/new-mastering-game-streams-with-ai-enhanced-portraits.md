@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Game Streams with AI-Enhanced Portraits\""
-date: 2025-01-06T16:44:04.063Z
-updated: 2025-01-14T02:13:04.255Z
+date: 2025-01-18T08:18:23.376Z
+updated: 2025-01-19T22:07:02.354Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ If you are going to do it traditionally, you will need so many materials like a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Make a Game Streaming Video \[Step by Step\]
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -55,7 +51,7 @@ For Win 7 or later (64-bit)
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -70,6 +66,10 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
 
 ![game-streaming-with-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step2.png)
@@ -77,6 +77,10 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
 
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
 
@@ -90,13 +94,13 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 07:** Adjust the footage by making it smaller and moving to the lower-left corner of the screen. We are good to go.
 
 ![game-streaming-with-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
 
@@ -105,10 +109,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
@@ -121,7 +121,7 @@ After following and applying all the steps, your game streaming video is ready t
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -141,14 +141,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[New] 2024 Approved The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-memes-with-a-humor-shaper/"><u>[New] In 2024, Best Memes with a Humor Shaper</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-eliminating-exposure-techniques-to-hide-sensitive-content/"><u>[New] In 2024, Eliminating Exposure Techniques to Hide Sensitive Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-insiders-take-top-9-digital-mic-recorder-selections-for-2024/"><u>[New] Insider's Take Top 9 Digital Mic Recorder Selections for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vision-quest-identifying-top-tier-slow-motion-cameras/"><u>[Updated] 2024 Approved Vision Quest Identifying Top-Tier Slow Motion Cameras</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-script-zip-up-creating-srt-from-video-archives-fastly-for-2024/"><u>[Updated] Script Zip-Up Creating SRT From Video Archives Fastly for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-tips-for-recording-fb-messenger-calls/"><u>Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-commanders-conclave-celebrating-the-best-of-7-total-wars/"><u>[New] Commanders' Conclave Celebrating the Best of 7 Total Wars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-media-files-for-direct-transfer-to-iphone/"><u>[New] Integrating Media Files for Direct Transfer to iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-breaking-down-recordcasts-marketing-claims-for-2024/"><u>[Updated] Breaking Down RecordCast’s Marketing Claims for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-customize-your-screenscape-google-meets-dynamic-background-switch/"><u>[Updated] In 2024, Customize Your Screenscape Google Meet's Dynamic Background Switch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors/"><u>2024 Approved Pedagogic Pros The Finest Lecture Recording Devices for Instructors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>2024 Approved PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-premiere-power-enhancing-your-youtube-presence-for-2024/"><u>Adobe Premiere Power Enhancing Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ai-frame-interpolation-miglioramento-dei-fotogrammi-al-secondo-fps-e-transizioni-senza-soluzione-di-continuita/"><u>AI Frame Interpolation: Miglioramento Dei Fotogrammi Al Secondo (FPS) E Transizioni Senza Soluzione Di Continuità</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/chuckle-chronicles-best-free-top-rated-comic-designs-for-2024/"><u>Chuckle Chronicles Best Free, Top-Rated Comic Designs for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-methods-for-upgrading-your-amd-drivers-on-various-windows-systems-10-11-and-7/"><u>Easy Methods for Upgrading Your AMD Drivers on Various Windows Systems (10, 11 & #7)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-make-a-dvd-from-your-videos-a-tutorial-for-windows-and-mac-users/"><u>In 2024, Make a DVD From Your Videos A Tutorial for Windows and Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-free-video-effects-sites-for-2024/"><u>Top 5 Free Video Effects Sites for 2024</u></a></li>
 </ul></div>
 

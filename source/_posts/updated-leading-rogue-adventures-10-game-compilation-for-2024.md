@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Rogue Adventures  #10 Game Compilation for 2024\""
-date: 2025-01-11T23:46:37.926Z
-updated: 2025-01-14T01:45:48.471Z
+date: 2025-01-19T05:46:54.004Z
+updated: 2025-01-19T17:22:36.187Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Mar 27, 2024• Proven solutions
 
 Although roguelikes aren't very gameplay intense or the prettiest games, this genre has never faded away since it was invented, and we have seen a lot of titles that became fan favorites in no time. It is true that these games are not very graphically intense and can't compete for the AAA titles, but it won't be fair to compare them with those heavy and graphics-intensive games. Played repeatedly, these games continue to keep players interested even after they are released for years. But who cares that much if you're just looking for some good rogue game to play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a roguelike game? What is a roguelite game?
 
@@ -60,6 +64,10 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
@@ -71,7 +79,7 @@ In Darkest Dungeon, your misery is manifest all around you. The oppressive visua
 ![darkest-dungeon](https://images.wondershare.com/filmora/article-images/darkest-dungeon.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It's one thing to defeat each dungeon's horrifying inhabitants in turn-based combat, but your party members should also be more than meat shields. Your expeditions will inevitably take a toll on your body and mind, and this is the main reason that makes Darkest Dungeon so challenging.
@@ -79,7 +87,7 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
@@ -91,10 +99,6 @@ Your tactical instincts will be put to the test when it comes to teamwork and re
 Only a couple of minutes to complete each run, this roguelike takes us on an adventure on the inside. As you dive deeper into an endless well filled with dangerous creatures, you are only protected by a pair of deadly gumboots that kill enemies, slowing down your fall for a moment.
 
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
@@ -108,10 +112,14 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
@@ -136,13 +144,13 @@ This is the second title developed and published by Subset Games. Their first ti
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
 
@@ -154,11 +162,11 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -169,10 +177,6 @@ The game, released in 2017, has gained massive audience recognition thanks to it
 This rhythm-based roguelike game hits a sweet spot combining two niche genres. This game was released in 2015, featuring catchy soundtracks and groovy boss fights — a distinct title for gamers looking for a new challenge. While you're running out of time before your next move, Crypt of the Necrodancer will have you tapping your foot and dripping with sweat as you keep ongoing.
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
 
@@ -218,10 +222,6 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -239,21 +239,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-webcam-mastery-unique-ideas-explored/"><u>[New] 2024 Approved Webcam Mastery Unique Ideas Explored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expert-selection-of-10-premium-spotify-soundscape-tools-for-2024/"><u>[New] Expert Selection of 10 Premium Spotify Soundscape Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-5-alternatives-to-bandicam-for-pro-mac-users/"><u>[New] In 2024, Top 5 Alternatives to Bandicam for Pro Mac Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-rated-mp4-video-save-and-review/"><u>[New] Top-Rated MP4 Video Save & Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-complete-review-of-razer-video-streaming-device/"><u>[Updated] 2024 Approved Complete Review of Razer Video Streaming Device</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-highlights-comprehensive-photography-tips/"><u>[Updated] 2024 Approved Mastering Instagram Highlights Comprehensive Photography Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-through-io-screenshot-functionality/"><u>[Updated] 2024 Approved Navigating Through IO Screenshot Functionality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-speedy-tactics-for-disorganized-youtube-song-listings/"><u>[Updated] 2024 Approved Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-record-hearthstone-decks-in-minutes/"><u>[Updated] How to Record Hearthstone Decks in Minutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-tools-roundup-leading-online-video-capture-tech/"><u>[Updated] In 2024, Free Tools Roundup Leading Online Video Capture Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fcp-download-hack-get-it-for-free-in-2024/"><u>FCP Download Hack Get It for Free, In 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-zte-axon-40-lite-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Axon 40 Lite without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pursuit-of-riches-terrarias-quintessential-map-rankings-for-2024/"><u>Pursuit of Riches Terraria’s Quintessential Map Rankings for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/rescueazillawindows-10/"><u>RescueAZillaをWindows 10で活用する - 効率的なデータ保護と回復のコツ</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/text-on-screen-essentials-perfecting-caption-placement-in-youtube-videos-for-2024/"><u>Text on Screen Essentials Perfecting Caption Placement in YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-smooth-video-extraction-via-funimate-for-2024/"><u>The Ultimate Guide to Smooth Video Extraction via Funimate for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturepros-a-studio-showdown/"><u>[New] 2024 Approved CapturePros A Studio Showdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-social-media-reach-fb-ad-mastery-techniques-for-2024/"><u>[New] Elevate Your Social Media Reach FB Ad Mastery Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-lowering-the-quality-of-obs-streaming-for-2024/"><u>[New] Lowering the Quality of OBS Streaming for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfect-speech-interpretation-googles-innovative-solution-for-2024/"><u>[New] Perfect Speech Interpretation Google's Innovative Solution for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-rankings-top-11-streaming-audio-gear/"><u>[New] Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-building-engagement-with-professional-fb-video-techniques/"><u>[Updated] Building Engagement with Professional FB Video Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-best-ps3-emulator-for-pc/"><u>[Updated] Top 5 Best Ps3 Emulator For PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges-for-2024/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-setup-illuminated-picking-prime-3d-light-panels/"><u>Gaming Setup Illuminated: Picking Prime 3D Light Panels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>In 2024, Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-solutions-exceeding-standard-fbx-recorders/"><u>In 2024, Innovative Solutions Exceeding Standard FBX Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ipiccy-photo-editor-features-tutorial-and-review/"><u>IPiccy Photo Editor Features, Tutorial and Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-avis-to-gifs-with-help-from-filmora-for-2024/"><u>Navigating the World of AVIs to GIFs with Help From Filmora for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2682531-9781515410454-the-mastery-of-destiny/"><u>The Mastery of Destiny | Free Book</u></a></li>
 </ul></div>
 

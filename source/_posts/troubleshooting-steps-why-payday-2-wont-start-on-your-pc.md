@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Payday 2 Won't Start on Your PC"
-date: 2025-01-11T20:26:34.496Z
-updated: 2025-01-13T17:10:41.657Z
+date: 2025-01-18T19:34:28.176Z
+updated: 2025-01-20T07:27:39.711Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -78,6 +78,10 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
@@ -94,6 +98,10 @@ If you still encounter black screen issues, check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
@@ -113,7 +121,7 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
@@ -140,19 +148,15 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -161,7 +165,7 @@ If this fix doesn’t do the trick, take a look at the next one.
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Far Cry 6
@@ -174,15 +178,11 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Epic Games Launcher
@@ -215,24 +215,16 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-vintage-video-upgrade/"><u>[New] 2024 Approved Vintage Video Upgrade</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-broadcast-elegance-gamers-guide-to-using-obs-for-2024/"><u>[New] Broadcast Elegance Gamers' Guide to Using OBS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-superior-mac-hd-recorders-with-in-built-sound-capture/"><u>[Updated] 2024 Approved Superior Mac HD Recorders with In-Built Sound Capture</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dialogue-dynamics-secrets-to-great-screenwriting-for-2024/"><u>[Updated] Dialogue Dynamics Secrets to Great Screenwriting for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-direct-compare-obs-and-twitch-studio-benefits-for-2024/"><u>[Updated] Direct Compare OBS and Twitch Studio Benefits for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-the-essence-of-your-facebook-live-spontaneity/"><u>[Updated] In 2024, Capturing the Essence of Your Facebook Live Spontaneity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-smartphone-tools-for-perfecting-your-pronunciation/"><u>[Updated] Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unraveling-the-mystery-of-frame-rates-in-videos/"><u>[Updated] Unraveling the Mystery of Frame Rates in Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-low-cost-pc-monitoring-solutions-reviewed-and-compared/"><u>2024 Approved Low-Cost PC Monitoring Solutions Reviewed & Compared</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-premier-non-udemy-platforms-for-personalized-e-learning/"><u>2024 Approved Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleashing-creativity-mastering-camera-snaps-on-zoom/"><u>2024 Approved Unleashing Creativity Mastering Camera Snaps on Zoom</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/3-dvd/"><u>簡単変換 できるオーディオコンバータのベスト3: メモリーカード・DVD・音楽動画からの容易な音声ファイル変換!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-gaming-on-one-disabling-cross-play-and-selecting-top-platforms/"><u>In 2024, Gaming on One Disabling Cross-Play and Selecting Top Platforms</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-f04-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy F04 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-smart-8-plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Smart 8 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-brother-hl-l2370dw-software-install-pack-for-improved-print-quality/"><u>Latest Brother HL-L2370DW Software Install Pack for Improved Print Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-permission-denied-saving-issue-on-pc/"><u>Resolving 'Permission Denied' Saving Issue on PC</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor 90</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[New] 2024 Approved Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-guide-to-effective-video-marketing-tools-8/"><u>[New] 2024 Approved Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-look-how-mycam-shapes-your-visual-storytelling-for-2024/"><u>[Updated] Inside Look How MyCam Shapes Your Visual Storytelling for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-refining-your-tiktok-end-screen-elements/"><u>[Updated] Refining Your TikTok End Screen Elements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[Updated] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-top-agri-themed-titles-friendship-and-fun-in-the-countryside-for-2024/"><u>[Updated] The Top Agri-Themed Titles Friendship & Fun in the Countryside for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>2024 Approved Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210802738-9781957506494-coming-home/"><u>COMING HOME | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-context-of-one-million-tokens-in-gemini-15-revolutionizes-ai-training/"><u>How the Context of One Million Tokens in Gemini 1.5 Revolutionizes AI Training</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
 </ul></div>
 

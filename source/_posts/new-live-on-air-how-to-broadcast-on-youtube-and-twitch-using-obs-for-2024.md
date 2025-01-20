@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live on Air  How to Broadcast on YouTube & Twitch Using OBS for 2024\""
-date: 2025-01-08T05:38:03.798Z
-updated: 2025-01-13T17:27:05.420Z
+date: 2025-01-17T16:21:50.653Z
+updated: 2025-01-19T22:44:37.034Z
 tags: 
   - screen-recording
   - ai video
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ## Live on Air: How to Broadcast on YouTube & Twitch Using OBS
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Introduction
 
 If you want to enhance your audience reach, consider multi-streaming to Twitch and your other preferred sites. Mainstreaming enables you to broadcast on Twitch and YouTube or stream on Twitch and Facebook, or all three! At the same time, with everyone spending more time indoors amid the global crisis, it appears we’re all seeking a diversion and many gamers are asking themselves how to broadcast on YouTube or Twitch. One of the easiest methods to broadcast on Twitch and YouTube Gaming at the same time is via OBS. Streamers may broadcast to more than 30 streaming platforms concurrently using an easy-to-understand user interface. The service is created in a manner that won’t place any demand on your PC hardware or the bandwidth you have available.
@@ -30,6 +26,10 @@ Well, it all boils down to choosing. But if you want to know the streaming netwo
 ## Part 2: Stream to Twitch with OBS
 
 If you want to obtain the very greatest quality broadcast, you're searching for some fantastic software. In the case of Windows, one of the most common solutions is Open Broadcaster Software (OBS) (OBS). Many people are first drawn to OBS since it's free to use owing to being open source. Luckily, it's also a feature-rich piece of software that can handle practically anything you throw at it. If you're new to OBS or to streaming in general, it might be a bit frightening at first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1\. Getting a Stream Key from Twitch
 
@@ -46,11 +46,7 @@ OBS Studio is available for all main operating systems such as Windows, Mac OS, 
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
@@ -62,7 +58,11 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4\. Adding Scene and Sources
@@ -72,7 +72,7 @@ A scene may be simply added in OBS by clicking on the addition symbol indicated 
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5\. Adding a Twitch Chat
@@ -93,10 +93,6 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![streamkey](https://images.wondershare.com/filmora/article-images/streamkey.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 3:** Once authenticated, it’s time to travel to YouTube Studio. Choose the Camera icon on the upper right-hand side of the main YouTube page and then select Go Live.
 
 ![go live](https://images.wondershare.com/filmora/article-images/go-live.jpg)
@@ -111,6 +107,10 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![link obs to youtube](https://images.wondershare.com/filmora/article-images/link-obs-to-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:** Go to the Stream tab using the left-hand menu and pick YouTube -RTMPS from the Service drop-down box.
 
 ****Step 3:** Click Audio on the left-hand menu. Each audio device on that page represents one possible audio source in your broadcast. If you want viewers to hear in-game or desktop audio, assign one of the Desktop Audio options to your system’s audio output. If you want your viewers to hear you, pick your microphone from the drop-down next to Mic/Auxiliary Audio.
@@ -119,15 +119,15 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Start Streaming**
 
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Conclusion
 
@@ -157,20 +157,24 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking-for-2024/"><u>[New] Best YouTube-to-WebM Tools A Compreenasive Review & Ranking for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-directing-the-stream-a-close-look-at-obs-vs-twitch-studio-for-2024/"><u>[New] Directing the Stream A Close Look at OBS vs Twitch Studio for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>[New] In 2024, Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-transform-footage-into-stunning-ig-images/"><u>[New] Transform Footage Into Stunning IG Images</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-synergy-in-copywriting-the-trio-technique-to-boost-your-fb-campaigns-performance/"><u>[Updated] 2024 Approved Synergy in Copywriting The Trio Technique to Boost Your FB Campaign's Performance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-endless-screen-time-recorder/"><u>[Updated] In 2024, Endless Screen Time Recorder</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-ios-perfecting-podcast-playback/"><u>[Updated] In 2024, Mastering iOS Perfecting Podcast Playback</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-yt-cover-art-the-key-to-more-views/"><u>[Updated] YT Cover Art The Key to More Views</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-anyone-on-facebook-a-beginners-blueprint-with-six-key-methods/"><u>Finding Anyone on Facebook: A Beginner's Blueprint with Six Key Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>In 2024, Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-themes-redesign-your-youtube-presence/"><u>In 2024, Unique Themes Redesign Your YouTube Presence</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/most-effective-mac-screen-recording-software-other-than-bandicam-for-2024/"><u>Most Effective Mac Screen Recording Software, Other than Bandicam for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-audio-archivers-for-teachings/"><u>Premier Audio Archivers for Teachings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-12-best-idle-games-you-can-find-on-pc-for-2024/"><u>Top 12 Best Idle Games You Can Find on PC for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-extended-examination-of-uncomplicated-hdr-photography/"><u>[New] 2024 Approved Extended Examination of Uncomplicated HDR Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-first-steps-in-using-zooms-group-rooms/"><u>[New] 2024 Approved First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-imageinstinct-a-compreehensive-guide-for-instagram-size-control/"><u>[New] In 2024, ImageInstinct A Compreehensive Guide for Instagram Size Control</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/"><u>[New] In 2024, Plant & Play Best Friends Games in the Agricultural World</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[New] In 2024, Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[New] In 2024, Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-your-youtube-income-through-understanding-cpm/"><u>[New] Maximizing Your YouTube Income Through Understanding CPM</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screenflow-for-mac-a-full-featured-deep-dive/"><u>[New] ScreenFlow for Mac - A Full Featured Deep Dive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-ways-to-record-league-of-legends-lol-games/"><u>[Updated] 2024 Approved 5 Ways to Record League of Legends (LOL) Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-advanced-techniques-for-azure-speech-to-text-use-for-2024/"><u>[Updated] Advanced Techniques for Azure Speech to Text Use for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-your-twitch-sessions-step-by-step/"><u>[Updated] In 2024, Capturing Your Twitch Sessions Step by Step</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-taking-control-advanced-techniques-for-gaming-capture-on-windows-11/"><u>[Updated] Taking Control Advanced Techniques for Gaming Capture on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-videovault-annual-review-of-top-screen-recorders-for-2024/"><u>[Updated] VideoVault Annual Review of Top Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859857813-2024-approved-top-sandbox-adventures-not-to-skip/"><u>2024 Approved Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-started-with-windows-hello-fingerprint-login/"><u>Getting Started with Windows Hello Fingerprint Login</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209865597-9781773232669-the-power-of-awareness/"><u>The Power of Awareness | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-two-fold-approach-to-capturing-google-hangoutsmeet-for-2024/"><u>The Two-Fold Approach to Capturing Google Hangouts/Meet for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/your-go-to-list-of-best-free-game-apps-on-android-for-2024/"><u>Your Go-To List of Best Free Game Apps on Android for 2024</u></a></li>
 </ul></div>
 
