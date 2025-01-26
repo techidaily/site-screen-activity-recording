@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2025-01-14T01:39:09.261Z
-updated: 2025-01-19T20:07:16.516Z
+date: 2025-01-24T06:29:23.843Z
+updated: 2025-01-26T03:13:26.716Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -61,15 +61,15 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -90,7 +90,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -130,7 +130,7 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Hades
@@ -143,11 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -164,21 +164,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/apturing-life-in-motion-top-9-smartphone-props-for-dynamic-cinematography/"><u>[New] Capturing Life in Motion Top 9 Smartphone Props for Dynamic Cinematography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-techniques-for-capturing-ps4-games-in-obs/"><u>[New] Cutting-Edge Techniques for Capturing PS4 Games in OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-solved-dead-obs-camera/"><u>[New] In 2024, Solved Dead OBS Camera</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>[New] Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-winning-scenarios-prime-video-recording-software-for-windows/"><u>[Updated] 2024 Approved Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unwind-with-our-top-10-serene-games-for-2024/"><u>[Updated] Unwind With Our Top 10 Serene Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-guide-3-ways-to-keep-track-of-live-discord-events/"><u>2024 Approved Expert Guide 3 Ways to Keep Track of Live Discord Events</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-powerdirector-features-and-tips/"><u>2024 Approved Expert Review of PowerDirector - Features & Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expertly-crafted-cloud-microphones/"><u>2024 Approved Expertly-Crafted Cloud Microphones</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/bandicam-review-2023-everything-you-need-to-know/"><u>Bandicam Review 2023 – Everything You Need To Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-emotional-smarts-a-guide-on-leveraging-chatgpt/"><u>Boosting Emotional Smarts: A Guide on Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-safety-issues-and-6-key-cybersecurity-risks-to-be-aware-of/"><u>Exploring ChatGPT Safety Issues and 6 Key Cybersecurity Risks to Be Aware Of</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone XS</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/second-chances-at-multilingualism/"><u>Second Chances at Multilingualism</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-using-zoom-for-youtube-live-streams/"><u>[New] Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-cost-all-benefits-with-fcp-downloads/"><u>[New] No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-sandbox-games-for-aspiring-explorers/"><u>[New] Top Sandbox Games for Aspiring Explorers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-engagement-with-weblink-content-in-instagram/"><u>[Updated] Crafting Engagement with Weblink Content in Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-bandicam-replacements-for-mac-users/"><u>[Updated] In 2024, Ideal Bandicam Replacements for Mac Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sims-4-recording-techniques-for-gamers-for-2024/"><u>[Updated] Sims 4 Recording Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>2024 Approved Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-for-changing-deleting-and-setting-up-windows-registry-keys/"><u>Essential Tips for Changing, Deleting and Setting Up Windows Registry Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-for-correcting-xerox-update-error-error-id-0x800f020b-in-your-windows-system/"><u>Guide for Correcting Xerox Update Error (Error ID 0X800F020B) in Your Windows System</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-vivacious-talker-examined-revision-no-8/"><u>In 2024, Vivacious Talker Examined Revision No. 8</u></a></li>
 </ul></div>
 

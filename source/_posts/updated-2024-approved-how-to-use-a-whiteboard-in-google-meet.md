@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Use a Whiteboard in Google Meet\""
-date: 2025-01-15T19:32:36.566Z
-updated: 2025-01-19T22:15:32.824Z
+date: 2025-01-19T09:18:31.342Z
+updated: 2025-01-26T06:33:46.050Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Create Whiteboard**
@@ -70,7 +70,11 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -92,7 +96,7 @@ Go to your home page and launch the Microsoft Whiteboard.
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
@@ -112,10 +116,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -138,7 +138,7 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -162,22 +162,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-narratives-of-the-bravest-our-favorites-in-adventure-games/"><u>[New] 2024 Approved Narratives of the Bravest Our Favorites in Adventure Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-list-10-relaxing-game-hits/"><u>[New] 2024 Approved Ultimate List 10 Relaxing Game Hits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-demystifying-recmeisters-advanced-screen-capture-technology-for-2024/"><u>[New] Demystifying Recmeister's Advanced Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-peeling-back-sharex-critical-analysis-and-alternatives-for-2024/"><u>[New] Peeling Back ShareX Critical Analysis & Alternatives for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/my-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-complet-pour-corriger-le-probleme-dactualisation-reagentxml-sur-mbr2gpt/"><u>Guide Complet Pour Corriger Le Problème D'Actualisation ReAgent.xml Sur MBR2GPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-galaxy-z-fold-5-by-fonelab-android-recover-music/"><u>How to recover old music from your Galaxy Z Fold 5</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-real-time-audio-recording-techniques-for-web-broadcasts/"><u>In 2024, Real-Time Audio Recording Techniques for Web Broadcasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tuneful-texts-musical-infusion-on-whatsapp/"><u>In 2024, Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/live-recording-mastery-with-innovative-webcams-explored/"><u>Live Recording Mastery with Innovative WebCams Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-older-directx-games-with-new-age-dxvk-capabilities/"><u>Overhauling Older DirectX Games with New-Age DXVK Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premium-app-list-androids-best-video-and-image-capture-for-2024/"><u>Premium App List Android's Best Video & Image Capture for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-and-solve-your-pcs-counter-strike-2-game-crashing-woes-latest-tricks/"><u>Prevent and Solve Your PC's Counter-Strike 2 Game Crashing Woes - Latest Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-classic-questline-versus-the-dynamic-strategy-for-2024/"><u>The Classic Questline versus the Dynamic Strategy for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-a-cost-effective-lenovo-device-tailored-for-hybrid-work-environments-at-a-steep-discount/"><u>Top Pick: A Cost-Effective Lenovo Device Tailored for Hybrid Work Environments at a Steep Discount</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-tips-for-exceptional-vr-gaming-video-quality/"><u>Ultimate Tips for Exceptional VR Gaming Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-interpretability-shap-e-explained/"><u>Understanding AI Interpretability: SHAP E Explained</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-free-video-fiddling-unleash-potential-with-vimeo-editing/"><u>[New] 2024 Approved Free Video Fiddling Unleash Potential with Vimeo Editing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069003175-updated-2024-approved-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[Updated] 2024 Approved Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps-for-2024/"><u>[Updated] Charting Your Course in YouTubing Dodge These Top 8 Common Missteps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-revolutionize-online-transmission-essential-browsers-screen-capture-vendors/"><u>[Updated] In 2024, Revolutionize Online Transmission Essential Browsers' Screen Capture Vendors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-capture-audiovisual-screen-shot/"><u>[Updated] Quick Capture Audiovisual Screen Shot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-audible-mac-visual-record-functionality/"><u>2024 Approved Audible Mac Visual Record Functionality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-chordcapture-studio-free-download-and-evaluate/"><u>2024 Approved ChordCapture Studio Free, Download & Evaluate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-master-levels-enhancing-steam-gameplay-videos/"><u>2024 Approved Master Levels Enhancing Steam Gameplay Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premium-hd-recorder-capabilities/"><u>2024 Approved Premium HD Recorder Capabilities</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-reliable-is-windows-defender-against-viruses-a-deep-dive-with-malwarefox-perspectives/"><u>How Reliable Is Windows Defender Against Viruses: A Deep Dive with MalwareFox Perspectives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-access-all-subtitles-top-10-free-tools-for-youtube-videos/"><u>In 2024, Access All Subtitles Top 10 Free Tools for YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-11-leading-streamers-audio-recorders/"><u>In 2024, Discover 11 Leading Streamers' Audio Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-smartest-devices-to-modify-your-speech-on-the-go/"><u>In 2024, Smartest Devices to Modify Your Speech on the Go</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-top-five-gba-emulators-compatible-with-windows-pcs/"><u>In 2024, Unveiling the Top Five GBA Emulators Compatible with Windows PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/narrowing-down-dji-action-gopro-max-and-insta360-series-for-2024/"><u>Narrowing Down DJi Action, GoPro Max, and Insta360 Series for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-laptop-battery-fast-fixes-to-stop-non-charging/"><u>Revive Your Laptop Battery: Fast Fixes to Stop Non-Charging</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44oj44kt44oj44kt44op44kk44ow44gu5pku5b2x44go5lplusd5a2y5oml6acg44ks44kk44oj/"><u>ドキドキライブの撮影と保存手順ガイド</u></a></li>
 </ul></div>
 

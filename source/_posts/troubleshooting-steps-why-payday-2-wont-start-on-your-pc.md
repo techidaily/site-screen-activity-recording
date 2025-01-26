@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Payday 2 Won't Start on Your PC"
-date: 2025-01-18T19:34:28.176Z
-updated: 2025-01-20T07:27:39.711Z
+date: 2025-01-21T00:06:34.378Z
+updated: 2025-01-26T07:26:05.581Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 
  As the latest iteration of Ubisoft’s long-running Far Cry series, Far Cry 6 is available now. However, not all players are able to enjoy this title, as some of them**keep getting black screen upon launch** . If you happen to be one of them, don’t worry. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 5. **[Switch to windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,11 +76,11 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -100,12 +100,16 @@ If you still encounter black screen issues, check out the next fix.
 3. Once you’ve installed all pending updates,**restart your PC** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
 If this fix doesn’t help, proceed to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
 
@@ -121,7 +125,7 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
@@ -133,6 +137,10 @@ If this fix doesn’t do the trick, take a look at the next one.
  If the black screen issue was caused due to a small glitch, you can try to fix it by switching to windowed mode. This workaround has been proven useful by many gamers and you can give it a shot. Simply press**ALT+Enter** to switch to windowed mode while in full screen.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -151,10 +159,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
 
@@ -163,10 +167,6 @@ If this fix doesn’t do the trick, take a look at the next one.
  Once you find out the problematic program that causes the black screen issue, you might need to uninstall it to prevent the problem from recurring.
 
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Far Cry 6
 
@@ -182,7 +182,7 @@ If this fix doesn’t do the trick, take a look at the next one.
 3. Once the process is complete, try reinstalling the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Epic Games Launcher
@@ -215,16 +215,20 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[New] 2024 Approved Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-guide-to-effective-video-marketing-tools-8/"><u>[New] 2024 Approved Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-inside-look-how-mycam-shapes-your-visual-storytelling-for-2024/"><u>[Updated] Inside Look How MyCam Shapes Your Visual Storytelling for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-refining-your-tiktok-end-screen-elements/"><u>[Updated] Refining Your TikTok End Screen Elements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[Updated] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-top-agri-themed-titles-friendship-and-fun-in-the-countryside-for-2024/"><u>[Updated] The Top Agri-Themed Titles Friendship & Fun in the Countryside for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>2024 Approved Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210802738-9781957506494-coming-home/"><u>COMING HOME | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-the-context-of-one-million-tokens-in-gemini-15-revolutionizes-ai-training/"><u>How the Context of One Million Tokens in Gemini 1.5 Revolutionizes AI Training</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rev-up-your-video-earning-game-with-vimeo-strategies/"><u>[New] 2024 Approved Rev Up Your Video Earning Game with Vimeo Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unveiling-the-best-budget-friendly-live-streamer-tools/"><u>[New] 2024 Approved Unveiling the Best Budget-Friendly Live Streamer Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-critique-free2x-app-for-webcam-capture/"><u>[New] Critique Free2X App for Webcam Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-your-media-library-with-mov-on-windows-10-for-2024/"><u>[New] Maximizing Your Media Library with .mov on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-8-best-screen-capture-tools-for-linux/"><u>[Updated] 2024 Approved 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-overwatch-streamlining-the-recording-process/"><u>[Updated] In Overwatch Streamlining the Recording Process</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[Updated] Perfecting Your Dialogue A Google Meet Strategy for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-stream-your-webcam-in-real-time-using-vlc-software-for-2024/"><u>[Updated] Stream Your Webcam in Real Time Using VLC Software for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chatgpt-plus-to-the-rescue-my-journey-from-needing-a-mechanic-to-making-an-informed-choice-without-reading-online-reviews-zdnet-insights/"><u>ChatGPT Plus to the Rescue: My Journey From Needing a Mechanic to Making an Informed Choice Without Reading Online Reviews | ZDNet Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-dynamism-of-the-ipad-mini-5-a-tiny-giants-journey-with-apple/"><u>Exploring the Dynamism of the iPad Mini 5: A Tiny Giant's Journey with Apple.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-note-12r-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi Note 12R Devices</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hps-omen-obelisk-desktop-reviewed-maximizing-gamer-potential-without-breaking-the-bank/"><u>HP's Omen Obelisk Desktop Reviewed: Maximizing Gamer Potential Without Breaking the Bank</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-guide-to-macs-finest-sniping-tools-uncovered/"><u>In 2024, A Guide to Mac's Finest Sniping Tools Uncovered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Windows 10 Update Error - 0X80240034</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-shopping-guide-to-gamifying-your-childs-day-with-consoles-and-add-ons/"><u>Ultimate Shopping Guide to Gamifying Your Child's Day with Consoles & Add-Ons</u></a></li>
 </ul></div>
 

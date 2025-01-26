@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Rogue Adventures  #10 Game Compilation for 2024\""
-date: 2025-01-19T05:46:54.004Z
-updated: 2025-01-19T17:22:36.187Z
+date: 2025-01-20T19:27:10.212Z
+updated: 2025-01-26T08:10:41.717Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 Although roguelikes aren't very gameplay intense or the prettiest games, this genre has never faded away since it was invented, and we have seen a lot of titles that became fan favorites in no time. It is true that these games are not very graphically intense and can't compete for the AAA titles, but it won't be fair to compare them with those heavy and graphics-intensive games. Played repeatedly, these games continue to keep players interested even after they are released for years. But who cares that much if you're just looking for some good rogue game to play.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a roguelike game? What is a roguelite game?
@@ -65,7 +65,7 @@ We will discuss every game one by one in detail to give you an idea about their 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
@@ -78,17 +78,9 @@ In Darkest Dungeon, your misery is manifest all around you. The oppressive visua
 
 ![darkest-dungeon](https://images.wondershare.com/filmora/article-images/darkest-dungeon.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It's one thing to defeat each dungeon's horrifying inhabitants in turn-based combat, but your party members should also be more than meat shields. Your expeditions will inevitably take a toll on your body and mind, and this is the main reason that makes Darkest Dungeon so challenging.
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
 
@@ -102,6 +94,10 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
 
 **_Platforms:_** _Android, Web browser_
@@ -112,15 +108,7 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
 
@@ -145,7 +133,7 @@ This is the second title developed and published by Subset Games. Their first ti
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
@@ -163,10 +151,6 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -200,6 +184,10 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
@@ -212,6 +200,10 @@ Otherworld Legends is a mystery roguelite where you explore a mysterious and dan
 
 ![the-other-world-legends](https://images.wondershare.com/filmora/article-images/the-other-world-legends.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you journey through various dungeon rooms in this game, you defeat all enemies you encounter. This is similar to the binding of Isaac series of games and Elemental Dungeon. Some relics are also found or bought from time to time. These items give you powerful advantages in combat, which can be the difference between victory and defeat.
 
 The main character of this game is Quan Huying, but there are several other characters you can choose from. You need to buy additional characters, though. They differ in cost, and some are $1.99 while others can be upwards of $2.99\. It's not expensive for me, but that doesn't mean it's necessarily ideal.
@@ -222,7 +214,15 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -239,21 +239,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturepros-a-studio-showdown/"><u>[New] 2024 Approved CapturePros A Studio Showdown</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-social-media-reach-fb-ad-mastery-techniques-for-2024/"><u>[New] Elevate Your Social Media Reach FB Ad Mastery Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-lowering-the-quality-of-obs-streaming-for-2024/"><u>[New] Lowering the Quality of OBS Streaming for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-perfect-speech-interpretation-googles-innovative-solution-for-2024/"><u>[New] Perfect Speech Interpretation Google's Innovative Solution for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-rankings-top-11-streaming-audio-gear/"><u>[New] Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-building-engagement-with-professional-fb-video-techniques/"><u>[Updated] Building Engagement with Professional FB Video Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-best-ps3-emulator-for-pc/"><u>[Updated] Top 5 Best Ps3 Emulator For PC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges-for-2024/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-setup-illuminated-picking-prime-3d-light-panels/"><u>Gaming Setup Illuminated: Picking Prime 3D Light Panels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>In 2024, Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-solutions-exceeding-standard-fbx-recorders/"><u>In 2024, Innovative Solutions Exceeding Standard FBX Recorders</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ipiccy-photo-editor-features-tutorial-and-review/"><u>IPiccy Photo Editor Features, Tutorial and Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-avis-to-gifs-with-help-from-filmora-for-2024/"><u>Navigating the World of AVIs to GIFs with Help From Filmora for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2682531-9781515410454-the-mastery-of-destiny/"><u>The Mastery of Destiny | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069371829-new-in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[New] In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leading-edge-facebook-film-archives/"><u>[New] Leading Edge Facebook Film Archives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-deep-dives-into-tech-meetings-with-zoom-enhancements/"><u>[Updated] Deep Dives Into Tech Meetings with ZOOM Enhancements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-implementing-dynamic-filters-transform-your-videos-digitally/"><u>[Updated] In 2024, Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[Updated] Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-best-agricultural-games-for-group-fun/"><u>2024 Approved 10 Best Agricultural Games for Group Fun</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-lol-live-stream-setups-3-strategies/"><u>2024 Approved Essential LOL Live Stream Setups - 3 Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unmask-background-ambiance-free-or-paid-solutions-explored/"><u>2024 Approved Unmask Background Ambiance - Free or Paid Solutions Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-virtual-venturers-guide-discovering-top-adventure-titles/"><u>2024 Approved Virtual Venturers' Guide Discovering Top Adventure Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-practices-for-capturing-streamed-television-for-2024/"><u>Best Practices for Capturing Streamed Television for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-free-vs-paid-discover-the-best-zoom-transcription-tools/"><u>In 2024, Free vs Paid Discover the Best Zoom Transcription Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximizing-campaigns-in-2008-innovative-uses-of-massmail-for-business-growth/"><u>Maximizing Campaigns in 2008: Innovative Uses of MassMail for Business Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-purity-via-photopea-methods-for-2024/"><u>Streamlining Image Purity via Photopea Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-artful-algorithm-ai-in-video-game-storytelling-and-dialogue-creation/"><u>The Artful Algorithm: AI in Video Game Storytelling and Dialogue Creation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-windows-7-audiophile-life-nvidias-way/"><u>Upgrade Your Windows 7 Audiophile Life - Nvidia's Way</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Modify Mac Screen Shot Storage Path for 2024"
-date: 2025-01-06T17:29:30.818Z
-updated: 2025-01-07T18:34:28.592Z
+date: 2025-01-19T09:23:50.919Z
+updated: 2025-01-26T04:11:21.270Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,10 +61,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -75,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -104,6 +100,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -119,21 +119,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-irecorder-demystified-a-deep-dive-into-features/"><u>[New] 2024 Approved IRecorder Demystified A Deep Dive Into Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimal-video-saver-best-chromebook-recorder/"><u>[New] Optimal Video Saver Best Chromebook Recorder</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-verdict-on-splitcam-premium-recording-experience-in-2024/"><u>[New] The Verdict on SplitCam - Premium Recording Experience, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-your-youtube-live-gameplay-even-when-numbers-are-low/"><u>[Updated] In 2024, Elevate Your Youtube Live Gameplay – Even when Numbers Are Low</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>[Updated] In 2024, Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>[Updated] In 2024, The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-key-strategies-to-stream-and-record-youtube-events/"><u>2024 Approved Key Strategies to Stream and Record YouTube Events</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/adaptive-web-engagement-through-advanced-cookiebot-capabilities/"><u>Adaptive Web Engagement Through Advanced Cookiebot Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-knowledge-recording-google-voice-calls/"><u>Essential Knowledge Recording Google Voice Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-listenguide-review/"><u>In 2024, ListenGuide Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-no-cost-game-recorders-the-essential-selection-list/"><u>In 2024, No-Cost Game Recorders The Essential Selection List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/selecting-speedsters-criteria-for-gaming-powerhouses/"><u>Selecting Speedsters: Criteria for Gaming Powerhouses</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-guide-to-win-1011-wall-decorations/"><u>The Artisan's Guide to Win 10/11 Wall Decorations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-impact-of-low-memory-on-system-stability-expert-analysis-by-yl-software/"><u>The Impact of Low Memory on System Stability: Expert Analysis by YL Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/vlc-video-record-a-critique-for-2024/"><u>VLC Video Record A Critique for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-software-explains-how-to-establish-a-protected-cryptocurrency-wallet-for-beginners/"><u>YL Software Explains How To Establish a Protected Cryptocurrency Wallet for Beginners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-rotate-a-video-on-vlc-media-player/"><u>[New] 2024 Approved How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-essential-listing-best-free-vector-art-pages-online/"><u>[New] Essential Listing Best Free Vector Art Pages Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-in-archiving-web-based-music-tracks/"><u>[New] In 2024, Techniques in Archiving Web-Based Music Tracks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam-for-2024/"><u>[New] Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-online-workshop-replay-for-2024/"><u>[New] Online Workshop Replay for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-streaming-best-devices-to-record-live-sessions/"><u>[New] Professional Streaming Best Devices to Record Live Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-stellar-visuals-enhancing-google-meet-collaboration/"><u>[Updated] Stellar Visuals Enhancing Google Meet Collaboration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-blueprint-to-record-hulu-playback/"><u>[Updated] The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-essential-10-mobile-apps-boosting-photo-flair-on-iphonesandroids/"><u>2024 Approved Essential 10 Mobile Apps Boosting Photo Flair on iPhones/Androids</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/celestial-sanitizer-pro-seamlessly-purge-files-and-directories-in-windows-environments/"><u>Celestial Sanitizer Pro: Seamlessly Purge Files and Directories in Windows Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-x5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco X5? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-proplus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-techniques-for-recording-your-youtube-events-for-2024/"><u>Optimal Techniques for Recording Your YouTube Events for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211254001-9781962570497-the-path-is-the-way-to-self-mastery/"><u>The Path Is The Way To Self-Mastery | Free Book</u></a></li>
 </ul></div>
 
