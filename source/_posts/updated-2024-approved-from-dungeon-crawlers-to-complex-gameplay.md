@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2025-01-21T22:37:07.915Z
-updated: 2025-01-26T04:45:11.169Z
+date: 2025-02-05T01:54:49.460Z
+updated: 2025-02-07T19:45:10.078Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -46,11 +50,7 @@ In order to best understand these two game genres, we must first analyze the ori
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
@@ -60,7 +60,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -93,10 +93,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -127,6 +123,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
@@ -139,15 +139,15 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,16 +164,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-decoding-cloud-service-price-structures/"><u>[New] Decoding Cloud Service Price Structures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-leading-idevice-videography-tools/"><u>[New] Leading iDevice Videography Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-effortless-capture-of-webcast-radios-your-practical-guide/"><u>[Updated] 2024 Approved Effortless Capture of Webcast Radios Your Practical Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-tips-for-minecraft-gaming-streams/"><u>2024 Approved Advanced Tips for Minecraft Gaming Streams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cutting-edge-videotelephony-solutions-list/"><u>2024 Approved Cutting-Edge Videotelephony Solutions List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-public-domain-picture-banks/"><u>2024 Approved Ultimate List of Public Domain Picture Banks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-techniques-for-immediate-backdrop-displacement-in-affinity-photo-editing/"><u>Expert Techniques for Immediate Backdrop Displacement in Affinity Photo Editing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-gameplay-on-windows-10/"><u>How to Record Gameplay on Windows 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-recording-made-simple-a-comprehensive-guide-to-archiving-roblox-games-on-your-macbook/"><u>In 2024, Recording Made Simple A Comprehensive Guide to Archiving Roblox Games on Your MacBook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-electronic-insights-deep-dive-into-gadgets-and-hardware/"><u>Tom’s Electronic Insights: Deep Dive Into Gadgets and Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-androids-finest-moba-battles-compilation-10-edition/"><u>[New] In 2024, Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagrams-visual-narratives-a-guide-for-prodigies/"><u>[New] In 2024, Mastering Instagram's Visual Narratives A Guide for Prodigies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>[New] Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-for-effective-use-of-cc-licenses/"><u>[Updated] 2024 Approved Guidelines for Effective Use of CC Licenses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-honorable-warriors-reimagined-best-matching-gaming-titles-for-2024/"><u>[Updated] Honorable Warriors, Reimagined Best Matching Gaming Titles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essential-blueprint-for-scheduling-success-with-slack-plus-filmora-for-2024/"><u>[Updated] The Essential Blueprint for Scheduling Success with Slack + Filmora for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation-for-2024/"><u>[Updated] Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-frontline-firefight-top-7-fps-battles-ranked/"><u>2024 Approved Frontline Firefight - Top 7 FPS Battles Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715838822477-2024-approved-top-6-minecraft-house-ideas-for-beginners/"><u>2024 Approved Top 6 Minecraft House Ideas [for Beginners]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-uncovering-youtubes-finest-vr-movie-gems/"><u>2024 Approved Uncovering YouTube's Finest VR Movie Gems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps/"><u>2024 Approved Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g24-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G24 Without PUK Codes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-limitations-for-personalizing-your-computer-navigating-it-rules-on-windows/"><u>Overcoming Limitations for Personalizing Your Computer: Navigating IT Rules on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamline-workflow-learn-io-screen-recording/"><u>Streamline Workflow Learn IO Screen Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-essentials-to-record-save-and-refine-videography-on-adobe-connect/"><u>The Essentials to Record, Save, & Refine Videography on Adobe Connect</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-huawei-nova-y91-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Huawei Nova Y91 Location | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-silent-pcs-solve-your-computers-lack-of-audio-with-yl-computing-techniques/"><u>Troubleshooting Silent PCs: Solve Your Computer's Lack of Audio with YL Computing Techniques</u></a></li>
 </ul></div>
 

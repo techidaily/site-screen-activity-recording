@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of Virtual Board Usage in Web Conferences  Android, Apple & PC for 2024\""
-date: 2025-01-22T16:02:20.075Z
-updated: 2025-01-26T06:39:57.492Z
+date: 2025-01-31T22:44:46.346Z
+updated: 2025-02-08T03:33:03.941Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,13 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
@@ -61,6 +61,10 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -68,10 +72,6 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
@@ -91,6 +91,10 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -108,10 +112,6 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -134,7 +134,7 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -144,7 +144,7 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -162,24 +162,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>[Updated] 2024 Approved A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-automatically-resize-videos-for-instagram-on-mac/"><u>[Updated] In 2024, How to Automatically Resize Videos for Instagram on Mac?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-the-m1-market-the-top-pick-for-apple-enthusiasts/"><u>[Updated] Mastering the M1 Market The Top Pick for Apple Enthusiasts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quest-conquerors-best-of-the-role-playing-worlds/"><u>2024 Approved Quest Conquerors Best of the Role-Playing Worlds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/childhood-chuckles-hilarious-kid-friendly-games/"><u>Childhood Chuckles Hilarious Kid-Friendly Games</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters-for-2024/"><u>Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-protocols-for-filming-films-across-multiplatform-systems-for-2024/"><u>Detailed Protocols for Filming Films Across Multiplatform Systems for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expeditious-approaches-to-slide-storage/"><u>Expeditious Approaches to Slide Storage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/experts-guide-to-best-terria-mods-for-2024/"><u>Expert's Guide to Best Terria Mods for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-pinnacle-of-innovation-at-ces-2023-day-2s-major-launches-as-covered-on-zdnet/"><u>Exploring the Pinnacle of Innovation at CES 2023 - Day 2'S Major Launches as Covered on ZDNET</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972007584-get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlined-techniques-blur-background-on-chrome-os-and-ios/"><u>In 2024, Streamlined Techniques Blur Background on Chrome OS & iOS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tailoring-blends-for-stunning-composite-videos/"><u>In 2024, Tailoring Blends for Stunning Composite Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10-roguelike-or-roguelite-games/"><u>In 2024, Top 10 Roguelike or Roguelite Games</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-zdnet-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro | ZDNET Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-solutions-for-troubleshooting-non-charging-airpods/"><u>Top 9 Solutions for Troubleshooting Non-Charging AirPods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-novice-to-influencer-a-step-by-step-fb-live-blueprint-for-2024/"><u>[New] From Novice to Influencer A Step-by-Step FB Live Blueprint for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-achieving-a-million-on-the-map-a-strategic-view-to-sub-guide/"><u>[New] In 2024, Achieving a Million on the Map A Strategic View-to-Sub Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-your-creative-process-essential-affects-plugin-guide-for-2024/"><u>[New] Master Your Creative Process Essential Affects Plugin Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-overview-of-du-recorders-technical-specifications/"><u>[New] Ultimate Overview of Du Recorder’s Technical Specifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-viewing-vistas-backdrop-recommendations/"><u>[New] Ultimate Viewing Vistas Backdrop Recommendations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-tips-for-zoom-screen-sharing/"><u>[Updated] In 2024, Essential Tips for Zoom Screen Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-state-of-the-art-gametime-documentation-tools/"><u>[Updated] State-of-the-Art Gametime Documentation Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-steps-to-correct-windows-operating-system-office-errors/"><u>Immediate Steps to Correct Windows Operating System Office Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-record-skype-video-and-audio-calls-on-windows-and-mac-10-ways/"><u>In 2024, How to Record Skype Video & Audio Calls on Windows & Mac [10 Ways]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-game-capturing-titans/"><u>In-Game Capturing Titans</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/laptop-and-mobile-embarking-on-the-google-meet-experience-for-2024/"><u>Laptop & Mobile Embarking on the Google Meet Experience for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-video-editing-mastery-of-strikethrough-annotations/"><u>Professional Video Editing Mastery of Strikethrough Annotations</u></a></li>
+<li><a href="https://techidaily.com/today-i-configure-mt4-and-mt5-accounts-by-mt4copier-guide/"><u>Today I Configure MT4 and MT5 Accounts</u></a></li>
 </ul></div>
 

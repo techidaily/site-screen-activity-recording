@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2025-01-24T06:29:23.843Z
-updated: 2025-01-26T03:13:26.716Z
+date: 2025-02-07T04:00:07.095Z
+updated: 2025-02-08T04:23:08.643Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
@@ -61,15 +61,15 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -88,10 +88,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 **You might also like:** [Top 10 Roguelike or Roguelite Games](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Roguelike Games
 
@@ -123,15 +119,15 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -139,15 +135,19 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,16 +164,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-using-zoom-for-youtube-live-streams/"><u>[New] Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-no-cost-all-benefits-with-fcp-downloads/"><u>[New] No Cost, All Benefits with FCP Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-sandbox-games-for-aspiring-explorers/"><u>[New] Top Sandbox Games for Aspiring Explorers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crafting-engagement-with-weblink-content-in-instagram/"><u>[Updated] Crafting Engagement with Weblink Content in Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-bandicam-replacements-for-mac-users/"><u>[Updated] In 2024, Ideal Bandicam Replacements for Mac Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-sims-4-recording-techniques-for-gamers-for-2024/"><u>[Updated] Sims 4 Recording Techniques for Gamers for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>2024 Approved Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-tips-for-changing-deleting-and-setting-up-windows-registry-keys/"><u>Essential Tips for Changing, Deleting and Setting Up Windows Registry Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-for-correcting-xerox-update-error-error-id-0x800f020b-in-your-windows-system/"><u>Guide for Correcting Xerox Update Error (Error ID 0X800F020B) in Your Windows System</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-vivacious-talker-examined-revision-no-8/"><u>In 2024, Vivacious Talker Examined Revision No. 8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-choosing-a-screen-recorder-tool/"><u>[New] 2024 Approved Ultimate Guide to Choosing a Screen Recorder Tool</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-securesave-professionals-assessment-for-2024/"><u>[New] SecureSave Professionals' Assessment for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-brief-steps-efficiently-archiving-gotomeeting-discussions/"><u>[Updated] 2024 Approved Brief Steps Efficiently Archiving GoToMeeting Discussions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-youtube-visibility-harness-the-potential-of-tags/"><u>[Updated] 2024 Approved Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audacity-insider-perfecting-your-audio-crossfades/"><u>[Updated] Audacity Insider Perfecting Your Audio Crossfades</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube/"><u>[Updated] Unveiling Professional Techniques How to Refine Your Published Videos on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/easily-obtain-unique-epilogue-audio-files-online-for-2024/"><u>Easily Obtain Unique Epilogue Audio Files Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
+<li><a href="https://win-premium.techidaily.com/fukushima-crisis-deepens-as-japan-begins-sea-release-of-processed-wastewater-low-radioactivity-confirmed-amidst-international-outcry-and-consumer-boycotts-y37/"><u>Fukushima Crisis Deepens as Japan Begins Sea Release of Processed Wastewater; Low Radioactivity Confirmed Amidst International Outcry and Consumer Boycotts - YL Computing Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>New In 2024, Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/taming-the-audio-in-your-canva-videos-step-by-step/"><u>Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/taming-zooms-visuals-a-step-by-step-blur-journey-for-2024/"><u>Taming Zoom's Visuals A Step-by-Step Blur Journey for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-alternative-review-to-sharex/"><u>The Ultimate Alternative Review to ShareX</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-questions-before-a-big-tv-buy/"><u>The Ultimate Questions Before a Big TV Buy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-speaker-problems-in-windows-11-and-7/"><u>Troubleshooting Audio Issues - Solving Speaker Problems in Windows 11 and 7</u></a></li>
 </ul></div>
 

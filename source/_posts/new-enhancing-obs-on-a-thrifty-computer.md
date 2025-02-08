@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2025-01-19T18:09:14.878Z
-updated: 2025-01-25T17:02:48.191Z
+date: 2025-02-02T19:08:01.309Z
+updated: 2025-02-07T19:48:03.703Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
@@ -44,10 +44,6 @@ Output tab, which is the resolution of the video that the people will watch. For
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Output Settings
 
@@ -83,9 +79,17 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Output Audio
 
@@ -94,7 +98,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
@@ -121,17 +125,9 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Stream Tab
 
@@ -149,6 +145,10 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
@@ -156,7 +156,7 @@ There is a lot of other [screen recording software](https://tools.techidaily.com
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -219,22 +219,14 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>[New] 2024 Approved Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[New] In 2024, Innovative Tech Trends Leading Online Screen Capture Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-voice-tracker-for-ipad-users-for-2024/"><u>[New] The Ultimate Voice Tracker for iPad Users for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-guides-for-gathering-live-video-conversations-for-2024/"><u>[Updated] Guides for Gathering Live Video Conversations for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-users-path-to-professional-audio-with-audacity/"><u>[Updated] Mac Users' Path to Professional Audio with Audacity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[Updated] Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>2024 Approved From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>2024 Approved The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-v2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic V2</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-asus-trackpad-software-for-windows-10-users-simple-steps-inside/"><u>Download ASUS TrackPad Software for Windows 10 Users - Simple Steps Inside!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-z60-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Z60 Ultra Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-optimizing-your-youtube-video-presentation/"><u>In 2024, Optimizing Your YouTube Video Presentation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722895859982-inside-the-world-of-small-wheels-milestones-media-buzz-hearsay-and-all-you-need-to-know/"><u>Inside the World of Small Wheels: Milestones, Media Buzz, Hearsay & All You Need to Know!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-nord-3-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Nord 3 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies-for-2024/"><u>[New] Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[New] In 2024, Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-obs-configurations-on-frugal-devices/"><u>[New] Top OBS Configurations on Frugal Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops/"><u>[Updated] In 2024, Bringing People Together in Real Time Using WhatsApp Desktop for Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-ways-to-fix-your-steam-game-if-you-encounter-a-corrupt-disc-error/"><u>Effortless Ways to Fix Your Steam Game if You Encounter a Corrupt Disc Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>In 2024, Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-open-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus Open</u></a></li>
 </ul></div>
 
