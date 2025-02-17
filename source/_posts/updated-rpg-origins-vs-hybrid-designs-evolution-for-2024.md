@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] RPG Origins Vs. Hybrid Designs  Evolution for 2024\""
-date: 2025-02-07T04:00:07.095Z
-updated: 2025-02-08T04:23:08.643Z
+date: 2025-02-16T16:40:51.110Z
+updated: 2025-02-17T18:56:23.709Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,15 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -66,10 +66,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -89,6 +85,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -107,6 +107,10 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Roguelite Games
@@ -118,10 +122,6 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -135,18 +135,18 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,21 +164,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-to-choosing-a-screen-recorder-tool/"><u>[New] 2024 Approved Ultimate Guide to Choosing a Screen Recorder Tool</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-securesave-professionals-assessment-for-2024/"><u>[New] SecureSave Professionals' Assessment for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-brief-steps-efficiently-archiving-gotomeeting-discussions/"><u>[Updated] 2024 Approved Brief Steps Efficiently Archiving GoToMeeting Discussions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-youtube-visibility-harness-the-potential-of-tags/"><u>[Updated] 2024 Approved Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audacity-insider-perfecting-your-audio-crossfades/"><u>[Updated] Audacity Insider Perfecting Your Audio Crossfades</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube/"><u>[Updated] Unveiling Professional Techniques How to Refine Your Published Videos on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/easily-obtain-unique-epilogue-audio-files-online-for-2024/"><u>Easily Obtain Unique Epilogue Audio Files Online for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
-<li><a href="https://win-premium.techidaily.com/fukushima-crisis-deepens-as-japan-begins-sea-release-of-processed-wastewater-low-radioactivity-confirmed-amidst-international-outcry-and-consumer-boycotts-y37/"><u>Fukushima Crisis Deepens as Japan Begins Sea Release of Processed Wastewater; Low Radioactivity Confirmed Amidst International Outcry and Consumer Boycotts - YL Computing Insights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>New In 2024, Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/taming-the-audio-in-your-canva-videos-step-by-step/"><u>Taming the Audio in Your Canva Videos Step by Step</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/taming-zooms-visuals-a-step-by-step-blur-journey-for-2024/"><u>Taming Zoom's Visuals A Step-by-Step Blur Journey for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-alternative-review-to-sharex/"><u>The Ultimate Alternative Review to ShareX</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-questions-before-a-big-tv-buy/"><u>The Ultimate Questions Before a Big TV Buy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-speaker-problems-in-windows-11-and-7/"><u>Troubleshooting Audio Issues - Solving Speaker Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-techniques-for-capturing-ps3-gaming-moments/"><u>[New] 2024 Approved Top Techniques for Capturing PS3 Gaming Moments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] In 2024, 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-bending-reality-a-short-history-of-virtual-space/"><u>[New] In 2024, Bending Reality A Short History of Virtual Space</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-studio-sound-techniques-mac-basics-for-2024/"><u>[New] Studio Sound Techniques Mac Basics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-filters-in-a-nutshell-get-them-right-this-year/"><u>[Updated] 2024 Approved Instagram Filters in a Nutshell Get Them Right This Year</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pioneering-video-design-on-a-shoestring-exclusive-tutorials-for-free-from-top-4-youtube-vfx-channels/"><u>[Updated] 2024 Approved Pioneering Video Design on a Shoestring Exclusive Tutorials for Free From Top 4 YouTube VFX Channels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-recording-tips-for-your-next-google-meet-video-call/"><u>[Updated] 2024 Approved Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-7-best-video-player-for-mac/"><u>[Updated] In 2024, 7 Best Video Player for Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-thriving-in-zoom-chats-key-techniques-for-engaging-online-conversations/"><u>[Updated] In 2024, Thriving in Zoom Chats Key Techniques for Engaging Online Conversations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-presentation-recording-with-a-webcam-on-handy-guide-for-2024/"><u>Efficient Presentation Recording with a Webcam on Handy Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/illuminate-your-garden-with-intensity-discover-the-latest-govee-permanent-lights-now-superior-and-ready-for-this-weeks-setup/"><u>Illuminate Your Garden with Intensity: Discover the Latest Govee Permanent Lights, Now Superior and Ready for This Week's Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-methods-for-converting-dat-files-into-high-quality-mp4-videos/"><u>Top 5 Methods for Converting DAT Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-fichiers-amv-en-mp4-gratuitement-sur-internet-le-service-de-conversion-rapide-de-movavi/"><u>Transformez Vos Fichiers AMV en MP4 Gratuitement Sur Internet - Le Service De Conversion Rapide De Movavi</u></a></li>
 </ul></div>
 

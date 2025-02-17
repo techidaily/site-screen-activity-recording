@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alter Default Location for Mac Captured Images for 2024"
-date: 2025-02-05T20:27:01.655Z
-updated: 2025-02-07T20:24:55.381Z
+date: 2025-02-12T18:53:03.836Z
+updated: 2025-02-17T20:34:35.915Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,10 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -59,7 +59,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -71,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -85,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,22 +119,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[New] 2024 Approved Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-pro-prime-video-cameras-for-pcs/"><u>[New] Windows 11 Pro Prime Video Cameras for PCs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-steps-for-ios-and-android-capture-google-meet/"><u>[Updated] 2024 Approved Easy Steps for iOS and Android Capture Google Meet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>[Updated] Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-enhance-audibility-with-adjusted-obs-settings-for-2024/"><u>[Updated] How to Enhance Audibility with Adjusted OBS Settings for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/craft-compelling-social-media-updates-quickly-with-chatgpts-help/"><u>Craft Compelling Social Media Updates Quickly with ChatGPT's Help</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/harmonizing-movement-with-music-instagrams-reel-synergy-guide-for-2024/"><u>Harmonizing Movement with Music Instagram's Reel Synergy Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-breakdown-of-sharex-scrutiny-and-substitutes/"><u>In 2024, Breakdown of ShareX Scrutiny & Substitutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-maximize-your-online-interactions-with-these-5-devices/"><u>In 2024, Maximize Your Online Interactions with These 5 Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-minisculerecordings-snapshot-scrutiny/"><u>In 2024, MinisculeRecordings Snapshot Scrutiny</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-yi-in-focus-the-future-of-4k-filmmaking/"><u>In 2024, Yi in Focus The Future of 4K Filmmaking</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-202cus-top-choice-home-weather-instruments-a-buyers-guide/"><u>Navigating Through 202Cu's Top Choice Home Weather Instruments: A Buyer's Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-era-of-online-identity-free-from-politicalreligious-bias/"><u>New Era of Online Identity: Free From Political/Religious Bias</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-quicktime-video-editing-tools/"><u>New The Best Free QuickTime Video Editing Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-greyed-out-remove-pin-feature-on-windows-11-pcs/"><u>Reviving Greyed-Out 'Remove PIN' Feature on Windows 11 PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tactical-approach-to-effortless-ipad-screen-records/"><u>[New] 2024 Approved Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>[Updated] 2024 Approved Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1716777291859-updated-how-to-reverse-videos-on-android/"><u>[Updated] How to Reverse Videos on Android?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>[Updated] In 2024, The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-which-livestreaming-tool-wins-obs-or-bandicam/"><u>[Updated] In 2024, Which Livestreaming Tool Wins OBS or Bandicam?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-enthusiasts-celebrate-as-googles-landmark-antitrust-deal-brings-victory/"><u>Android Enthusiasts Celebrate as Google's Landmark Antitrust Deal Brings Victory</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-rca-video-doorbell-camera-an-authoritative-security-device-assessment/"><u>Breaking Down the RCA Video Doorbell Camera: An Authoritative Security Device Assessment</u></a></li>
+<li><a href="https://win-news.techidaily.com/comment-migrer-windows-11-vers-une-unite-ssd-reduite-en-simplifiant-le-processus/"><u>Comment Migrer Windows 11 Vers Une Unité SSD Réduite en Simplifiant Le Processus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-moto-g-stylus-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto G Stylus (2023) Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/identifying-and-troubleshooting-the-notorious-blue-screen-issue-expert-insights-from-yl-computing/"><u>Identifying and Troubleshooting the Notorious 'Blue Screen' Issue: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-obs-supreme-vs-streamlabs-empire/"><u>In 2024, OBS Supreme vs Streamlabs Empire</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-reality-best-vr-gadgets-today-for-2024/"><u>Revolutionizing Reality Best VR Gadgets Today for 2024</u></a></li>
 </ul></div>
 

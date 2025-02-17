@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2025-02-02T19:08:01.309Z
-updated: 2025-02-07T19:48:03.703Z
+date: 2025-02-14T19:34:20.699Z
+updated: 2025-02-17T16:57:59.277Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,11 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Settings That You Should Keep
@@ -42,6 +46,10 @@ Starting with base resolution, it is the video resolution that we are going to s
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
@@ -79,16 +87,12 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Output Audio
@@ -98,7 +102,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
@@ -135,6 +139,10 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -145,19 +153,11 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -219,14 +219,16 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies-for-2024/"><u>[New] Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[New] In 2024, Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-obs-configurations-on-frugal-devices/"><u>[New] Top OBS Configurations on Frugal Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops/"><u>[Updated] In 2024, Bringing People Together in Real Time Using WhatsApp Desktop for Laptops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-ways-to-fix-your-steam-game-if-you-encounter-a-corrupt-disc-error/"><u>Effortless Ways to Fix Your Steam Game if You Encounter a Corrupt Disc Error</u></a></li>
-<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S23 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>In 2024, Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-open-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus Open</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[New] 'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>[New] In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>[Updated] 2024 Approved Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] In 2024, Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mozilla-screen-recording-hacks-for-2024/"><u>[Updated] Mozilla Screen Recording Hacks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>2024 Approved A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>2024 Approved Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-battlefield-restoring-modern-warfares-voice-chat-functionality/"><u>Fixing the Silent Battlefield: Restoring Modern Warfare's Voice Chat Functionality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ideal-approaches-to-stream-and-record-major-sports-games/"><u>In 2024, Ideal Approaches to Stream and Record Major Sports Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/movie-magic-on-mobile-ioss-best-free-and-paid-film-apps-for-2024/"><u>Movie Magic on Mobile IOS's Best Free and Paid Film Apps for 2024</u></a></li>
 </ul></div>
 
