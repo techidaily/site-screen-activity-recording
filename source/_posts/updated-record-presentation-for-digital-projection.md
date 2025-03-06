@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Record Presentation for Digital Projection"
-date: 2025-02-14T16:52:11.952Z
-updated: 2025-02-17T19:08:41.805Z
+date: 2025-02-26T20:37:49.643Z
+updated: 2025-03-06T02:37:10.061Z
 tags: 
   - screen-recording
   - ai video
@@ -75,10 +75,6 @@ After you create a presentation, save it as you normally would. You should then 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the Save and Send menu appears on the screen you should find the Create a Video option and click on it.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010-create-video.jpg)
@@ -86,10 +82,6 @@ When the Save and Send menu appears on the screen you should find the Create a V
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
@@ -117,21 +109,9 @@ After fine-tuning the video settings, you can proceed to click on the Use Record
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
@@ -143,17 +123,9 @@ Click on the File menu and select the Save as Movie option. After the new window
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Movie Options dialogue box will pop up, and you should click on the Movie Options icon to set slide durations, add transitions between slides, create a video loop or choose the size of the video and its quality.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
@@ -180,14 +152,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-conquering-capture-a-detailed-walkthrough-for-ps4-recordings/"><u>[New] Conquering Capture A Detailed Walkthrough for PS4 Recordings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-screen-recorders-in-chrome-os-free-version/"><u>[New] Top Screen Recorders in Chrome OS, Free Version</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>[Updated] Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-past-alerts-a-step-by-step-guide-to-viewing-previous-notifications-on-your-iphone/"><u>Discovering Past Alerts: A Step-by-Step Guide to Viewing Previous Notifications on Your iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-filmmaking-made-easy-pc-mac-and-smartphone-techniques/"><u>In 2024, Filmmaking Made Easy PC, Mac & Smartphone Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rhythm-reviews-sound-innovations/"><u>In 2024, Rhythm Reviews Sound Innovations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-speed-recording-tool-with-guided-soundtracks-for-2024/"><u>[New] High-Speed Recording Tool with Guided Soundtracks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-first-footage-assessment-breakdown/"><u>[New] In 2024, First Footage Assessment Breakdown</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prevent-unwanted-video-captures-in-qt-player/"><u>[New] In 2024, Prevent Unwanted Video Captures in QT Player</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-archive-video-team-hangouts-effectively/"><u>[Updated] How to Archive Video Team Hangouts Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-settled-silent-shorter-showcase-ended/"><u>[Updated] Settled Silent Shorter Showcase Ended</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-securing-smooth-timelines-to-avoid-frame-drops-in-obs/"><u>2024 Approved Securing Smooth Timelines to Avoid Frame Drops in OBS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-film-making-top-video-cameras/"><u>In 2024, Mastering Film Making Top Video Cameras</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-memorable-book-trailers-explored/"><u>In 2024, Memorable Book Trailers Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-recording-sims-4-games-a-complete-beginners-guide/"><u>In 2024, Recording Sims 4 Games A Complete Beginner's Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-what-financial-gain-stems-from-one-million-youtube-eyeballs/"><u>In 2024, What Financial Gain Stems From One Million YouTube Eyeballs?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-tutorials-on-documenting-ps3-gaming-sessions-for-2024/"><u>In-Depth Tutorials on Documenting PS3 Gaming Sessions for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-complete-guide-to-audio-manipulation-in-avidemux-for-2024/"><u>New The Complete Guide to Audio Manipulation in Avidemux for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-magix-editing-suite/"><u>Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/speedy-tips-elevating-your-systems-velocity-in-7-ways/"><u>Speedy Tips: Elevating Your System’s Velocity in 7 Ways</u></a></li>
+<li><a href="https://fox-within.techidaily.com/three-most-effective-methods-for-administrator-email-backups-in-microsoft-outlook/"><u>Three Most Effective Methods for Administrator Email Backups in Microsoft Outlook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g-stylus-5g-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G Stylus 5G (2023) Android SIM Unlock APK</u></a></li>
 </ul></div>
 

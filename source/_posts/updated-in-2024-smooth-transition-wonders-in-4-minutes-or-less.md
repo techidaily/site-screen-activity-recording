@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Smooth Transition Wonders in 4 Minutes or Less"
-date: 2025-02-11T19:23:49.708Z
-updated: 2025-02-17T16:28:41.124Z
+date: 2025-03-04T21:00:48.914Z
+updated: 2025-03-06T07:16:08.215Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ If you’re using the latest version of Filmora, there’re several ways you can
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Add Dissolve Transitions to Video to Fade in and Fade out Video Footage
 
 The first way to fade in and fade out the footage in Filmora is by applying dissolve transition. The dissolve, also called lap dissolve sometimes, is a gradual transition from one image to another. It is often used when the first image starts to disappear and the next image starts to display gradually.
@@ -64,10 +60,6 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Apply Fade Motion Effects to Video
 
 Besides the regular dissolve and fade transitions, you can also apply motion fade effect to make your footage more vivid. Here is how to apply the motion fade effect to video in Filmora.
@@ -85,21 +77,9 @@ In case that you don’t want to hide any frames in your video, you can add a bl
 
 ![Add  black color screen   to video in Filmora  ](https://images.wondershare.com/filmora/article-images/add-sample-color-screen-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We’ve made a video tutorial about how to fade in and fade out video easily in Filmora. The video is made with the previous Filmora version, but the steps are similar.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
 
@@ -112,10 +92,6 @@ Double click on the video footage in the timeline, and then go to the Animation 
 Here are Preset and Customize options available, in order to create a fade effect, click the Customize option and you will see the screen like below:
 
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
 
@@ -146,21 +122,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-avoiding-pitfalls-securing-your-skype-recordings-in-obs/"><u>[New] 2024 Approved Avoiding Pitfalls Securing Your Skype Recordings in OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-comprehensible-guide-for-mastering-instagram-live-engagements/"><u>[New] In 2024, A Comprehensible Guide for Mastering Instagram Live Engagements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[New] In 2024, From Video to Music Selecting the Cheapest Online Converters</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-screens-with-isprings-pro/"><u>[Updated] Capturing Screens with iSpring's Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-creativity-expert-analyses-of-video-tech/"><u>[Updated] In 2024, Capturing Creativity Expert Analyses of Video Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-enhanced-mac-technology-video-plus-sound-record/"><u>[Updated] In 2024, Enhanced Mac Technology Video + Sound Record</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-microsoft-unveils-future-a-3d-reality-with-hololens/"><u>[Updated] In 2024, Microsoft Unveils Future A 3D Reality With HoloLens</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-upgrade-your-sky-faring-with-these-11-essentials/"><u>[Updated] Upgrade Your Sky-Faring with These 11 Essentials</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pinnacle-picks-best-online-hd-video-recorder-tools/"><u>2024 Approved Pinnacle Picks Best Online HD Video Recorder Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maintaining-your-rigor-a-comprehensive-mechanical-keyboard-cleaning-guide/"><u>Maintaining Your Rigor - A Comprehensive Mechanical Keyboard Cleaning Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solutions-for-lost-icloud-and-local-contacts-on-your-iphone-restore-whats-gone/"><u>Solutions for Lost iCloud and Local Contacts on Your iPhone: Restore What's Gone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/teacher-friendly-video-capture-options-reviewed-for-2024/"><u>Teacher-Friendly Video Capture Options Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-instagram-antithesis-video-reversal-explained-for-2024/"><u>The Instagram Antithesis Video Reversal Explained for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-mastering-fifa-19-a-pinnacle-in-sport-simulation-games/"><u>The Ultimate Guide to Mastering FIFA 19: A Pinnacle in Sport Simulation Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unleashing-creativity-with-aiseesofts-screencast-innovations-for-2024/"><u>Unleashing Creativity with Aiseesoft's Screencast Innovations for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-breezy-blogging-quick-video-concept-ideas/"><u>[New] 2024 Approved Breezy Blogging Quick Video Concept Ideas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premium-budget-friendly-screen-grabber-toolkit/"><u>[New] 2024 Approved Premium Budget-Friendly Screen Grabber Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-depth-investigation-are-you-best-off-with-inshot-app/"><u>[Updated] 2024 Approved In-Depth Investigation Are You Best Off with InShot App?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-steps-to-record-movies-on-your-tech-devices-for-2024/"><u>[Updated] Quick Steps to Record Movies on Your Tech Devices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[Updated] Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apparition-camera-control-workshop/"><u>2024 Approved Apparition Camera Control Workshop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-alter-a-secondary-users-password-on-your-windows-machine/"><u>How To Alter A Secondary User’s Password On Your Windows Machine</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-legal-aspects-of-recording-whatsapp-talks/"><u>In 2024, Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-plotting-your-way-through-successful-instagram-video-marketing/"><u>In 2024, Plotting Your Way Through Successful Instagram Video Marketing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-fundamentals-of-screen-capture-with-a-dell-device/"><u>In 2024, The Fundamentals of Screen Capture with a Dell Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-background-guide-for-online-video-calls/"><u>In 2024, The Ultimate Background Guide for Online Video Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unleashing-creativity-how-to-master-io-screen-capture/"><u>In 2024, Unleashing Creativity How to Master IO Screen Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximize-attendee-visibility-with-google-meet-grids-for-2024/"><u>Maximize Attendee Visibility with Google Meet Grids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taming-the-disarray-of-linux-and-open-source-manuals-a-comprehensive-guide/"><u>Taming the Disarray of Linux & Open Source Manuals - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vcruntime140dll-couldnt-be-loaded-error-easily/"><u>Troubleshoot and Fix the 'VCRUNTIME140.dll Couldn't Be Loaded' Error Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-exception-breaking-point-achieved-in-windows/"><u>Troubleshooting Error: Exception Breaking Point Achieved in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Dungeon Crawlers to Complex Gameplay\""
-date: 2025-02-11T19:53:18.924Z
-updated: 2025-02-17T20:40:31.497Z
+date: 2025-03-05T03:34:45.066Z
+updated: 2025-03-05T19:33:26.771Z
 tags: 
   - screen-recording
   - ai video
@@ -39,19 +39,11 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -59,19 +51,11 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -133,10 +117,6 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
@@ -164,19 +144,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-discover-premier-portable-audio/"><u>[New] 2024 Approved Discover Premier Portable Audio</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-from-basics-to-alternatives-understanding-vidmas-capture-software-for-2024/"><u>[New] From Basics to Alternatives Understanding Vidma's Capture Software for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>[New] Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tailoring-video-content-for-igtv-with-horizontal-footage/"><u>[Updated] 2024 Approved Tailoring Video Content for IGTV with Horizontal Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-audiences-choice-bandicam-or-camtasia-for-screen-capture-for-2024/"><u>[Updated] Audience's Choice? Bandicam or Camtasia for Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-greenhouse-gatherings-the-best-farm-titles-for-group-joy-for-2024/"><u>[Updated] Greenhouse Gatherings The Best Farm Titles for Group Joy for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ideal-choices-top-10-mac-video-recorders/"><u>[Updated] In 2024, Ideal Choices Top 10 Mac Video Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-interaction-in-online-google-meet-spaces/"><u>[Updated] The Art of Interaction in Online Google Meet Spaces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-an-affordable-open-source-solution-like-chatgpt/"><u>Exploring HuggingChat: An Affordable, Open Source Solution Like ChatGPT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficiently-capturing-professional-movies-on-your-windows-pc/"><u>In 2024, Efficiently Capturing Professional Movies on Your Windows PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>In 2024, Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-recurrent-rust-application-crashes/"><u>Troubleshooting Tips - Resolving Recurrent Rust Application Crashes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-potential-instagram-tiktok-sync-guidebook/"><u>Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-smooth-visual-journeys-master-fades-in-a-flash/"><u>[New] 2024 Approved Smooth Visual Journeys Master Fades in a Flash</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-adding-and-recording-voices-in-ppt/"><u>[New] 2024 Approved The Art of Adding and Recording Voices in PPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effortless-film-logging-how-to-use-devices-like-pros/"><u>[New] In 2024, Effortless Film Logging How to Use Devices Like Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ipad-video-tutorials-for-easy-time-lapses/"><u>[Updated] In 2024, IPad Video Tutorials for Easy Time-Lapses</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island-for-2024/"><u>[Updated] Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-hl-l2300d-driver-update-how-to-get-and-install-new-firmware/"><u>Brother HL-L2300D Driver Update: How to Get & Install New Firmware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-knowledge-recording-google-voice-calls-for-2024/"><u>Essential Knowledge Recording Google Voice Calls for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-access-revamped-chatbot-experience-chatgpt-plus-20-mo-us/"><u>Exclusive Access: Revamped ChatBot Experience – ChatGPT Plus ($20 Mo, US)</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-value-not-found-error-message-in-windows-setups/"><u>Solving 'Value Not Found' Error Message in Windows Setups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-a-comprehensive-guide/"><u>Tom's Tech Review: A Comprehensive Guide</u></a></li>
 </ul></div>
 

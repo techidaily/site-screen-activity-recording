@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Your Switch Pro Controller on Steam for 2024"
-date: 2025-02-15T19:33:24.576Z
-updated: 2025-02-17T18:57:36.534Z
+date: 2025-03-04T17:40:51.188Z
+updated: 2025-03-06T09:16:36.776Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,6 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -65,10 +61,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -83,19 +75,11 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -110,10 +94,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -146,24 +126,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[New] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ingenious-webcam-use-cases-at-home/"><u>[New] Ingenious Webcam Use Cases at Home</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-google-meets-with-efficient-snap-photography-tips-for-2024/"><u>[New] Streamlining Google Meets with Efficient Snap Photography Tips for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nlocking-the-secrets-of-creative-youtube-channel-names-for-vloggers-and-filmmakers-maximum-length-156-characters-for-2024/"><u>[New] Unlocking the Secrets of Creative YouTube Channel Names for Vloggers & Filmmakers (Maximum Length 156 Characters) for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-iphoneipad-video-and-image-archive/"><u>[Updated] 2024 Approved The Ultimate iPhone/iPad Video & Image Archive</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-value-screen-recorder-apps-under-50/"><u>[Updated] Best Value Screen Recorder Apps Under $50</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-obs-methods-for-ultimate-android-broadcasting-for-2024/"><u>[Updated] Cutting-Edge OBS Methods for Ultimate Android Broadcasting for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed/"><u>2024 Approved Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dust-off-the-glare-avoiding-gopro-misting/"><u>Dust Off the Glare Avoiding GoPro Misting</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-the-latest-canon-ip110-drivers-compatible-with-win-11-win-10-win-8-and-win-cuhcated-for-all-your-printer-needs/"><u>How to Download and Install the Latest Canon iP110 Drivers - Compatible with Win 11, Win 10, Win 8 & Win Cuhcated for All Your Printer Needs!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-rated-video-animation-software-for-smartphones-and-tablets/"><u>In 2024, Best Top-Rated Video Animation Software for Smartphones and Tablets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mycam-review-a-step-toward-future-proofing-your-videos/"><u>In 2024, MyCam Review A Step Toward Future-Proofing Your Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secure-and-enhance-slack-communications-with-top-10-free-audio-apps/"><u>In 2024, Secure & Enhance Slack Communications with Top 10 Free Audio Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-sony-xperia-5-v-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Sony Xperia 5 V Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-triumph-over-triviality-amass-a-million-ish-followers-on-ig/"><u>In 2024, Triumph Over Triviality Amass a Million-Ish Followers on IG</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlocking-the-full-potential-of-zooms-visual-features/"><u>In 2024, Unlocking the Full Potential of Zoom's Visual Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tech-tools-for-distance-podcasting-for-2024/"><u>Tech Tools for Distance Podcasting for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-future-of-game-logging-exciting-alternatives-to-fbx-centric-apps/"><u>The Future of Game Logging Exciting Alternatives to FBX-Centric Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camtasia-9-unlock-the-art-of-ken-burns-easing/"><u>[New] 2024 Approved Camtasia 9 Unlock the Art of Ken Burns Easing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-immerse-in-a-world-of-efficient-notes-with-mematic/"><u>[New] Immerse in a World of Efficient Notes with Mematic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-snapshotpro-v2021-ultimate-edition/"><u>[New] SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-beyondthebaseline-mycams-successor/"><u>[Updated] BeyondTheBaseline MyCam's Successor?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-googles-augmented-reality-stickers-an-in-depth-look-and-alternatives/"><u>[Updated] Google's Augmented Reality Stickers An In-Depth Look and Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-dodge-world-of-warcraft-crash-tackle-fatal-132/"><u>How to Dodge World of Warcraft Crash: Tackle Fatal #132</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-50-best-free-photography-tools-for-the-web/"><u>In 2024, 50 Best Free Photography Tools for the Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>In 2024, A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 15 without Password?</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
 </ul></div>
 

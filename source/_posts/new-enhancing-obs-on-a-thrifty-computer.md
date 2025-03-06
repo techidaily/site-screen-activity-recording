@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer"
-date: 2025-02-14T19:34:20.699Z
-updated: 2025-02-17T16:57:59.277Z
+date: 2025-03-04T12:57:36.457Z
+updated: 2025-03-05T19:09:34.567Z
 tags: 
   - screen-recording
   - ai video
@@ -31,14 +31,6 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -46,10 +38,6 @@ Starting with base resolution, it is the video resolution that we are going to s
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
@@ -91,19 +79,11 @@ So that’s it for the video settings. These are all the settings that you need 
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Audio Tab Settings
 
@@ -138,10 +118,6 @@ Here are the streaming settings that you just need to follow for your streaming 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Streaming Settings
 
@@ -219,16 +195,18 @@ There may be a lot of other software which serve the same purpose but the best o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[New] 'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>[New] In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>[Updated] 2024 Approved Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] In 2024, Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mozilla-screen-recording-hacks-for-2024/"><u>[Updated] Mozilla Screen Recording Hacks for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>2024 Approved A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>2024 Approved Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-battlefield-restoring-modern-warfares-voice-chat-functionality/"><u>Fixing the Silent Battlefield: Restoring Modern Warfare's Voice Chat Functionality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ideal-approaches-to-stream-and-record-major-sports-games/"><u>In 2024, Ideal Approaches to Stream and Record Major Sports Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/movie-magic-on-mobile-ioss-best-free-and-paid-film-apps-for-2024/"><u>Movie Magic on Mobile IOS's Best Free and Paid Film Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-guide-to-flawless-zoom-screen-sharing-for-2024/"><u>[New] Step-by-Step Guide to Flawless Zoom Screen Sharing for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair/"><u>[Updated] 2024 Approved Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-rated-webcam-recording-on-windows-10/"><u>[Updated] Pro-Rated Webcam Recording on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-partition-performance-topping-recorder-showdown/"><u>2024 Approved Partition Performance Topping Recorder Showdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-bugfix-top-solutions-for-game-stability/"><u>Alan Wake 2 Bugfix: Top Solutions for Game Stability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-video-quality-game-complete-guide-to-enhancer-22/"><u>Elevate Your Video Quality Game Complete Guide to Enhancer 2.2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-ott-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .ott file free</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-introduces-laptops-and-chromebooks-tailored-for-the-modern-hybrid-workforce-discover-their-innovative-all-in-one-desktops/"><u>HP Introduces Laptops and Chromebooks Tailored for the Modern Hybrid Workforce - Discover Their Innovative All-in-One Desktops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-image-packs-selecting-the-best-for-macbook-screens/"><u>Ideal Image Packs Selecting the Best for MacBook Screens</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-camrecorder-essential-techniques-for-gaming-pros/"><u>In 2024, CamRecorder Essential Techniques for Gaming Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-theyoucamguidetoeffectivewebcapture/"><u>In 2024, TheYouCamGuideToEffectiveWebCapture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/slowing-down-reality-crafting-slow-motion-videos-from-still-images-online/"><u>Slowing Down Reality Crafting Slow Motion Videos From Still Images Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Pro Device</u></a></li>
 </ul></div>
 
